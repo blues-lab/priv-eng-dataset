@@ -23,3 +23,10 @@ Each transcript is stored as a .txt file, which can be easily open by any text e
 
 ### Accessibility (All badges)
 You can access the dataset by using the following persistent GitHub link: [https://github.com/blues-lab/priv-eng-dataset/tree/63b7215c386c1ad7c11b3e057c369083a49b8004/interviews](https://github.com/blues-lab/priv-eng-dataset/tree/63b7215c386c1ad7c11b3e057c369083a49b8004/interviews).
+
+To clone the repository and navigate into the project folder, run the following commands:
+
+```console
+$ git clone https://github.com/blues-lab/priv-eng-dataset.git
+$ cd priv-eng-dataset
+``` 
