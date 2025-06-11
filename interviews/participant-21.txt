@@ -1,0 +1,849 @@
+Daniel: Okay. So now that the recording has been enabled, if you wouldn't mind, could you just repeat that you consent to being recorded. I consent to being recorded. Excellent! So I want to tell you that your identity and anything that you share with us will be kept confidential, and will only be heard and read by the researchers in the study. Also please note that this interview is designed to be a conversation, so there's no right or wrong answers. And again, you can skip any question or pause the interview or the recording at any time. Do you have any questions before we get started.
+
+Daniel: Okay, great so I'm gonna begin by asking you just a few general questions about your work. So could you tell me briefly about what you do in your job?
+
+Participant 21: Yeah. I am a I guess I'm a privacy engineer. My work typically gets split between privacy reviews and privacy engineering engagements. The review work tends to be sort of close to the day. The software ships or launches
+
+Participant 21: typically in the one to 3 weeks before launch date, the privacy engineering engagements. I typically get brought in more towards the beginning of a software design project at in an advisory role. And those can be anywhere from sort of one month to 3 years is the longest one I was involved with.
+
+Participant 21: And I review their design docs. Sometimes I review their code. Sometimes they attend engineering stand ups usually have some sort of weekly cadence or Bi weekly with those teams.
+
+Participant 21: And I basically advise on any privacy related features they need to build into the things that they plan to do. Or sometimes the projects themselves are, are privacy related. Such as like a project to enhance privacy of a a tool that we use internally
+
+Daniel: cool. Okay, well, that's a really great answer. So let's back up for just a second, because you mentioned privacy a couple of times. There, could you define the term privacy for me, as you normally use it in your work context.
+
+Participant 21:  the
+
+Participant 21: ability to choose
+
+Participant 21: what data about yourself gets shared and and how?
+
+Daniel: Okay?
+
+Daniel: Good. So you also described yourself as a privacy engineer. I presume that's your your job. Title, how would you describe the roles in the industry? More, generally speaking, related to privacy engineering.
+
+Participant 21: I've seen a few different flavors of privacy engineers the
+
+Participant 21: ones that I considered to sort of be the most prototypical
+
+Participant 21: version of a privacy engineer tend to sit in more of an advisory or consultative space, where they work with several teams at a time, owning some sort of
+
+Participant 21: like vertical or horizontal work scope. So.
+
+Participant 21: for example, like several companies, have things called privacy working groups that tend to cover a product area or several product areas. And you do privacy engagements across those teams. That's sort of one flavor. And then the second flavor, which I basically consider to be a
+
+Participant 21: privacy software engineer that is sometimes called a privacy engineer is somebody who has a lot of privacy knowledge domain expertise. That is directly inside of a single software engineering team who builds
+
+Participant 21: either privacy, related features or works on a privacy related product.
+
+Daniel: Okay? So so you mentioned a couple of different flavors, your sort of prototypical type, the sort of privacy software engineer. So how would you define a privacy engineer?
+
+Participant 21: That's an interesting
+
+do you mean?
+
+Participant 21: How would I define
+
+Daniel: my own work as privacy engineering, or how would I wish privacy engineering would be defined? I think either of those are perfectly valid answers, whichever one you feel is most informative.
+
+Participant 21:  I think I'll sort of go with.
+
+Participant 21: How I wish it would be defined is sort of
+
+Participant 21: an engineer at the company who's at a company or organization whose primary goal is to protect the user
+
+Participant 21: from the company or from you know themselves or other users with respect to their personal data, and
+
+Participant 21: that they're Their contributions to engineering are not necessarily  set in one
+
+Participant 21: narrow sphere of influence.
+
+Participant 21: Okay. I guess that that was gonna feel kind of clunky. But like
+
+Participant 21: privacy, engineers typically shouldn't be profit motivated in a way, I look at it, whereas, like normal software engineers, a lot of the time are building things that more directly correlate to profits or like
+
+Participant 21: performance enhancements, privacy engineers, I think. Similarly, to security engineers are doing sort of things that keep the lights on both for user trust and for compliance.
+
+Daniel: Okay, great sounds like a good definition to me. So I'm gonna move on to to the next category where we're gonna talk a little bit more about your personal career journey. So I just wanted to know, how did you become interested in privacy engineering as a career, or even just as a function of your career.
+
+Participant 21: Yeah,
+
+Participant 21: personally, this was a little was a little weird.
+
+Participant 21: I was a computer science person in undergrad and really was not enamored with the idea of being a software engineer and was really enamored with the idea of doing something a little bit more with my soft skills.
+
+Participant 21: And
+
+Participant 21: looked around for graduate programs that felt
+
+Participant 21: somewhere in the intersection of software engineering and liberal arts, I guess. I was looking for cyber security programs at first, and then I accidentally found the [ACADEMIC PROGRAM].
+
+Participant 21: Applied. And then, yeah, just sort of led straight into a job.
+
+Daniel: Okay? Great. So
+
+Daniel: in terms of your sort of overall career journey. And how you arrived at your current position. It's probably safe to say that you started from the academic program. And that really is what led you into the current role.
+
+Participant 21: Yeah, and yeah, pretty much. And I think it. I don't wanna
+
+Participant 21: say that I was only motivated by just the existence of the program, like, after sort of looking at the curriculum and participating, I realized how much of my own personal interests overlapped with [ACADEMIC PROGRAM]. And and so, yeah, but it was directly from the the academic side into career. Yeah, fair enough it. It sounds to me like you're saying, though, that even independent of this program, you found over time that your values align with this regardless.
+
+Daniel: Okay? So with that being said,
+
+Daniel: what motivates you to continue pursuing privacy engineering as part of your profession.
+
+Participant 21:  the.
+
+Participant 21: There's a very specific
+
+Participant 21: feeling that I get when I manage to
+
+Participant 21: not only convince a product team to build a feature that improves user privacy. But I also convince them that it is the better solution from a a software engineering perspective. And that doesn't happen every time. There are definitely times when the privacy solution is not the best engineering solution. But
+
+Participant 21: those those little instances where you can sort of
+
+Participant 21: take a a software engineering team, that is, maybe combative towards the idea of collecting less data or having a shorter retention period and then convince them that they can build the system in a way that actually helps their other business goals like, I mean the most. The simplest one is, you know, people being like.
+
+Participant 21: Oh, holy crap. I saved $100,000 on storage costs. I don't have to store so much data anymore like. And then the next time they come back for privacy, review, or something. They already thought of all of the stuff that you would have told them. Anyway, that's sort of like the like Magic Dragon, or whatever that I chase, it's super rewarding
+
+just working with the developers like that.
+
+Daniel: That's a really interesting answer. So it sounds like the personal value that you get out of it is really just, you know, influencing design and changing minds in a positive way.
+
+Participant 21: Yeah, cause it's II think,
+
+Participant 21: it's a lot easier to focus
+
+Participant 21: on one launch at a time on the benefit that you provide users. But the the culture change to sort of try to build privacy into the the beginning of the software design process at like a a local grassroots grassroots level. At least, that's what's the most rewarding to me for right now
+
+Daniel: is, is that a personal goal of yours? Or do you have any other sort of personal goals for the work?
+
+Participant 21:  I mean. yeah, that's I think that's the primary privacy related personal goal. I mean, the
+
+Participant 21: other personal goal that I have is the, you know.
+
+Participant 21: the the more different product teams. I can sort of
+
+Participant 21: say I completed working with them the more I get to work on new stuff.
+
+Daniel: So you know the my, my scope gets broader with every project I complete, basically, which means I get to do cool new stuff. So cool. Yeah, so expanding, your scope is definitely a personal goal. It sounds like you must enjoy it. Is there anything else about the work that you particularly enjoy?
+
+Participant 21:  I enjoy the context, switching.
+
+Participant 21: I think
+
+Participant 21: really effective privacy engineers
+
+Participant 21: in at least the ones that I've worked with get really good at learning enough about a new system to sort of be dangerous in talking about it very quickly. And if you kind of have a more like Adhd focused, mind, and you get to work on
+
+Participant 21: 9 different projects in 30 min increments back to back. It's very
+
+Participant 21: It's very exhilarating in that that regard.
+
+Daniel: I hear you and just to be clear for the recording's sake, about what you mean by dangerous. I think your implication is that you can know enough to be able to influence things and sort of shake things up a bit, and that's kind of your tongue in cheek. Way of of saying dangerous. Is that right? Yes, yes, yes, good. Yeah. Good. Call for the recording sake.
+
+Participant 21: Knowing enough to be dangerous is something that we like to say to to mean that you can walk into a room with people who think they know more than the system about you, and surprise them a little bit with how much you know.
+
+Daniel: That sounds really cool.
+
+Daniel: So let me ask you a question about the future, then. So a year from now do you see yourself kind of in the same position in the same role, or maybe more specifically, do you see yourself doing what it is that you currently do?
+
+Participant 21:  If I had the choice. I would say, yes. I don't know if I personally feel that the industry is going to stay
+
+Participant 21: the same long enough for that to be the case.
+
+Participant 21:  like this might take us down a bit more of a rabbit hole, so pull me back otherwise. But I've been noticing, at least in my own job.
+
+Participant 21: Although several different places in my own job, that the conversation is moving away from like capital. P. Privacy to like lower case P. Privacy and capital. R. Risk.
+
+Participant 21: Things are are moving away from like
+
+Participant 21: at least from what I've seen, considering security, privacy, and compliance, like different distinct pillars, and I'm being asked to cross over a lot more.
+
+Participant 21: All in the interest of like risk, reduction or risk acceptance or risk remediation.
+
+Participant 21: yeah. So I see my current role, probably being more of a mix across security and compliance engineering in addition to privacy engineering, one or 2 years in the future. But I would still hope that I get to do approximately the same work.
+
+Daniel: Okay, and just
+
+Participant 21: real quick. Before I move on to the next topic, you mentioned this compliance engineering idea. So you you see that it's really, you know, distinct and and separate from from privacy with the capital. P engineering. Is that right?
+
+Yeah. I'm trying to think about how I can phrase this
+
+Participant 21: the best.
+
+Participant 21:  So
+
+Participant 21: I'll just preface that this is a highly personal opinion. Of course, remember, this is deidentified.
+
+Participant 21: the
+
+Participant 21: when. When Gdpr. And related regulations first started.
+
+Participant 21: or you know, when people started finally actually taking them seriously, I felt like
+
+Participant 21: I was. People were talking a whole lot about, you know, shifting privacy left, and it was a very academically focused conversation in terms of like, if we just do our best and make sure that privacy is. We thought about privacy as early as possible. Everything will be okay.
+
+Participant 21:  The companies that have tried that are still getting sued. Quite a lot. And that's I mean.
+
+Participant 21: typically their own doing. They're collecting too much data or whatever. But I think it's causing people to pay a lot more attention to the letter of the law and trying to come up with a legal defense. For example, prior to rolling out the product.
+
+Participant 21: And so anytime you shift your focus away from an academic pursuit, and more towards a legal pursuit compliance. Engineering starts to creep in. And so there are cases, for example, where
+
+Participant 21: you have to consider if
+
+Participant 21: you are collecting data about your employees who technically have
+
+Participant 21: rights under Gdpr, but have
+
+Participant 21: definitely, more narrowly defined rights. Under the Gdpr, you have to make actual business decisions about which protections to enable on employee data versus user data
+
+Participant 21: and and all of that come ends up being more like legal and compliance focused as opposed to an academic data minimization privacy focus.
+
+Daniel: Okay? Well said, so let's shift gears a little bit. I just wanted to talk a little bit more about your day to day responsibilities. So could you give me an idea of what like a typical day at work. Looks like for you.
+
+Participant 21: Yeah, so I might have
+
+actually hold on. I'm give me 1 s
+
+Daniel: I have a slide
+
+Participant 21: you've prepared for this interview, I see. So this is good. No, no, I just. I have one that I can look at that. I can reuse. Let's see.
+
+Participant 21: did I?
+
+Participant 21: Okay.
+
+Daniel: give me 20 more seconds to see if I can find this. That's that's okay.
+
+Participant 21: Yeah. Okay, so
+
+Participant 21: this is I can't share the picture specifically, because I didn't de-identify it well enough. But I'm looking at an image of my calendar that I screenshot for a presentation that I gave internally.
+
+Participant 21: and from 8 to 9 A. M.
+
+Participant 21: I had 2 meetings 30 min each to talk about 2 different privacy reviews. A meeting that I have to typically talk about a single privacy review means that I have gone back and forth with the product team a couple of times already to get basic information about
+
+Participant 21: their launch and it. I found that it would be quicker to answer all of the remaining questions that I have live versus going back and forth over email or ping. So those typically can do 30 min each. And a lot of the time I can actually close out their whole launch review. In that 30 min time.
+
+Participant 21: and then after that I had an hour long working session from 9 to 10 am. To rewrite our internal version of a data protection impact assessment with a product team
+
+Participant 21: for privacy engineering engagements. That's one of the benefits that I can provide product teams over a privacy launch review is, I basic as in exchange for them. Working with me early, I basically helped them write their whole data protection impact assessment, so that by the time they get to launch review, it's effectively a rubber stamp because the privacy reviewer wrote their thing.
+
+Then I review emails and technical design documents for 2 h
+
+Participant 21: and then in the afternoon, I have a weekly or bi-weekly
+
+Participant 21: check-ins with product teams that I have engineering engagements with. So
+
+Participant 21: one of these I'm looking at is a yeah. They're pretty much all sort of like.
+
+Participant 21: you know, weekly or bi-weekly check ins on progress. And then I have an hour or 2 at the end of the day for whatever else I'm working on.
+
+Daniel: Okay? Sounds good. So in terms of the responsibilities that you kind of have to take care of, you know through your day to day. What what do you think the responsibilities are that your employer expects you to take on at work?
+
+Participant 21:  that's a good question.
+
+Participant 21: I am expected to keep the lights on
+
+Participant 21: and make sure that the
+
+Participant 21: teams in my review scope do not have launch delays at my expense.  And then with the remainder
+
+Participant 21: time I'm expected to contribute some
+
+form of
+
+Participant 21: work to improve the overall privacy posture of our larger organization, I guess.
+
+Daniel: sorry. That sounds really vague. No, no, that that's completely reasonable. But actually, what I wanted to observe is that it seems like the sort of you know expectations are maybe a little bit vague and nebulous. But you're actually your actual day to day. Responsibilities are quite concrete. You've got quite a regimented schedule where you've clearly set aside time to do specific tasks. So why do you think that there's such a you know a difference between the expectation and the reality of the work?
+
+Yeah.
+
+Participant 21:  I can give a
+
+Participant 21: bureaucratic answer, and then a
+
+Participant 21: sort of ground level answer from a bureaucratic answer. Unless the the
+
+Participant 21: the engage individual engagements that I have are super large, like gigantic in scope. You can't really distill them into an OKR or some sort of like performance indicator. And so sorry objective and key results.
+
+Participant 21: sort of like
+
+Participant 21: a vice President level, like statement about the work that your team is going to be doing, the the
+
+Participant 21: those statements for my team end up, being like shift privacy left through targeted privacy engineering engagements. And like, it's that's complete crap from like
+
+Participant 21: actual meaning standpoint. But we end up, justifying it by grabbing interesting things that individual people on my team have done, and then just surfacing those up in whatever review happens at the end of the year. So it's super vague in that regard, because the only thing that's important is that we can justify at the end of the quarter at the end of the year that we did some cool stuff.
+
+Participant 21: From a more ground level perspective about why, there's a mismatch. Is that things when when you aren't the primary responsibility for the work getting done. It's actually the engineering teams that actually have to do the work of writing the code. There's huge variability in the level of work that you have week to week. And so flex time is like super important, and the the vagueness actually works in your benefit, because there are some weeks where I might only have.
+
+Participant 21: like 10 h of work that I actually have to do that week, and the rest of it I fill with other stuff that I want to do. But then, if
+
+Participant 21: all of the teams that we're working on something come back the week before the end of the quarter, when they all have launches. At the same time, I might have 80 h of work that I have to do all in one week and the expectations need to be vague enough to accommodate both of those extremes.
+
+Daniel: Okay, very good.
+
+Daniel: So in this next question, what I'm trying to do is differentiate a little bit between what you do for work. And then the things that you do outside of work. Okay. But are there any additional responsibilities that you feel you're sort of expected to take on in your role? I mean again. So there's examples like E, you know, responsibilities to society or to others in the organization, or even to yourself.
+
+Participant 21: These are crazy Meta questions, or I don't know so the the biggest one and I have strong opinions about this.
+
+Participant 21: is that during the launch review process the privacy reviewer is often the first human being outside of the direct product team. Do you have looked at the product at all?
+
+Participant 21: And so
+
+Participant 21: there have been times when I have caught things that are not in any way privacy related, but as a
+
+Participant 21: been a like a benevolent human being, I have had to have
+
+Participant 21: escalated, you know, like
+
+Participant 21:  I noticed that somebody is using. This is hypothetical example, like someone is. Instead of using a random number generator, they are pulling from free G uid generator.com, or something like that to to get their their product. Ids, that's not really a privacy issue. But anybody outside of the team with half brain should be able to figure out. That's not best practice stuff like that. And II think
+
+Participant 21: it's our responsibility just as nice people to do that type of screening at the same time within within whatever bounds.
+
+Participant 21: and then what else is there?
+
+Participant 21:  there's also a lot of when you work, the organization that I work in is fairly mature, and it's privacy,
+
+Participant 21: organization. And so there are lots of different other privacy teams.
+
+Participant 21: And I do
+
+Participant 21: a fair bit of work screening questions for other privacy teams when other people accidentally find their way into my queue versus their queue.
+
+Participant 21:  So there's sort of an attitude of just helping out other privacy people whenever you can, instead of just punting them over, because any positive interaction with privacy helps build the privacy respecting culture at the company interesting. So if I had to recap what you said, it seems like there's kind of 2 common themes
+
+Daniel: right? One is that you feel, you know, kind of obligated as a almost gatekeeper of best practices, even if it's outside of your discipline of privacy. Just as the first person who looks at this code. You know, or this product, or whatever you know, to kind of ensure that best practices are being followed, even though that's like clearly not an explication of your work, and then the other one, similarly, is just kind of.
+
+Daniel: you know, advocate, and uphold the the good name of of privacy when interacting with others. So as to yeah, you're nodding. That sounds right. Okay.
+
+Daniel: alright cool.
+
+Daniel: So let's talk a little bit about your skill set. Then so
+
+Daniel: what skills do you figure were demanded of you when you started in your role?
+
+Participant 21:  needed to
+
+Participant 21: be a self sufficient learner.
+
+because.
+
+Participant 21:  there were so many things that I had to learn about very quickly, and
+
+Participant 21: the
+
+Participant 21: not that I couldn't ask questions, but the the more pre work that I could do before asking questions was resulted in better outcomes. I think it's fairly standard compared to any job that you enter.
+
+Daniel: Are those the kinds of soft skills that you're kind of alluding to earlier, that kind of interested you beyond the sort of base baseline you know, technical skills associated with computer science type work.
+
+Daniel: Okay, cool any any other skills that you figure? We're demanding of you that kind of stand out.
+
+Participant 21:  I mean, man, if you can't write a good email. It's really hard to get. It's really hard to get respected fast.
+
+Participant 21: I definitely think, writing, writing and communication is super important to establish the foothold that you need early on in your career to be respected enough to get the technical opportunities later on.
+
+Daniel: Okay, interesting point. So in contrast, what do you think are the skills that you currently use in your job?
+
+Participant 21: Still use a lot of the same
+
+Participant 21: the same communication and technical writing skills. But now  I have.
+
+Participant 21: So
+
+Participant 21: it's more of the as I have become more senior.
+
+Participant 21: I am. I have a better
+
+Participant 21: understanding of
+
+Participant 21: the level of risk presented by
+
+Participant 21: any individual
+
+Participant 21: scenario or configuration or product setup and so
+
+Participant 21: the skill becomes more about
+
+Participant 21:  evaluation against
+
+Participant 21: case law effectively or precedent precedent like you doing precedent based evaluations of the
+
+Participant 21: privacy risk presented by a service.
+
+Daniel: Okay, so so let me try to play that back to you and see if that sounds right. So you mentioned case law, I think what you really meant by that was, you know, like established precedent, as as you said, but not in like a legal sense. More like, you know, understanding the technical implications of what's going on. And so is it fair to say, then, that the skill that you currently use now, in addition to those soft skills that you mentioned is just having deeper sort of domain expertise and expertise in the
+
+Daniel: decision-making and and policy space at your organization, and that in its own right kind of is a skill.
+
+Participant 21: Yes, thank you. I, yeah. So when you understand the full stack of the thing that you're looking at before you've actually begun digging into it, you can get to the the core questions much faster and when you can do that
+
+Participant 21: faster than you could have at the beginning of your career, the you spend much more time negotiating with higher level folks in the organization about the direction of the product as opposed to learning about the product.
+
+Daniel: Interesting, so it seems to me like there is really a lot of similarity between the skills that you're expected to demonstrate. Sort of, you know, during the interview process, and kind of as you became, you know, as you started out in this role. And and what you're doing now, W. Would you generally tend to agree with that.
+
+Participant 21: Yeah, I think so.
+
+Participant 21: Okay. it is also, I think, important
+
+Participant 21: to note that at least in my
+
+Participant 21: observation. So this software engineer or the the privacy engineering job level job ladder at major tech companies at least progresses similarly to the software engineering job ladder. And so if somebody has been at a company
+
+Participant 21: long enough to have
+
+Participant 21: jumped up a couple promotions. Their work is going to change in the same way that somebody who starts out as a software engineer and eventually becomes a tech lead and no longer, writes Code. By the time they're a tech lead
+
+Participant 21: and so you could compare doing like lower level privacy, engineering analysis or investigation to an entry level software engineer writing code and then a more senior privacy engineer influencing product direction to a tech lead software engineer who no longer has to write as much code.
+
+Daniel: Okay, that's very interesting. And and just so that I'm clear
+
+Daniel: from your perspective, you think that this is something which is pretty common across the industry.
+
+Participant 21: Is that right? So I think I could say, like.
+
+Participant 21: I, I'm fairly sure that at least [BIG TECH COMPANIES] have privacy engineering ladders that roughly correlate to software engineering ladders as far as advancement goes, where you sort of go from like suite to senior suite, to staff suite to senior staff type thing.
+
+Participant 21:  I think it's smaller companies. It would not apply in the same way.
+
+Daniel: Okay, good to know. All right, fair enough. So I think it's probably a safe bet to say that you know big tech companies like those that you mentioned, which I will not enumerate again, because they'll be redacted. Are are are likely going to have this common letter. But it's probably varies based on the size. Yeah.
+
+Participant 21: one to 3 privacy engineers in your whole company. They're going to sort of be doing everything.
+
+Participant 21: There won't be division of labor into the more senior versus junior stuff.
+
+Daniel: Okay? Well, th, that's actually a really good segue into the next topic. Which is reporting and deliverables for your work. So who do you report to? And is there anyone that reports up to you?
+
+Participant 21:  By, who do I report to? Do you mean like? What do you mean by that?
+
+Daniel: That's a fair question. So what I mean when I say this is in terms of the overall, like management and organizational structure of the you know the org that you belong to. Who would you consider to be your boss?
+
+Participant 21: Got it? So I report to a software engineering manager who has
+
+Participant 21: only privacy engineers under her.
+
+Participant 21: It's about
+
+Participant 21: 8 other privacy engineers besides me under her.
+
+Participant 21:  and I do not have anyone reporting to me.
+
+Daniel: Okay? So
+
+Daniel: in terms of like the typical reporting structures that you might see in in your profession overall. Do you reckon that
+
+Daniel: the one that you experience is fairly common and typical. Or do you think that it's unusual in some way?
+
+Participant 21: Is unusual? I believe
+
+I am on a very
+
+Participant 21: large privacy engineering team. Comparatively
+
+Daniel: so. So what do you think the typical reporting structure would be?
+
+Participant 21:  It would either be a
+
+Participant 21: manager with
+
+Participant 21: maybe 3 privacy engineering reports would sort of be the typical team size of of a privacy team in my, in my experience. Or you see
+
+Participant 21: A manager with, you know.
+
+Participant 21: a privacy engineer to a program manager, maybe technical program manager, maybe a software engineer. There are some teams that are split much more with. They have privacy engineers who do more privacy reviews or these engagements. And then you have program managers who help
+
+Participant 21: drive the logistics forward and do metrics and reporting. And then you might have a software engineer to build tooling to help you or donate engineering time to the teams that you're working with as a privacy engineer.
+
+Daniel: Okay? Great so I think you've covered pretty much all the different flavors of teams and their competition reporting. But what about the methods that you use to actually report to others like, you know, meetings, emails, project management platforms. Well, what kind of methods do you typically, use?
+
+Participant 21:  you can use
+
+Participant 21: a the number of privacy reviews or launch reviews you've completed.
+
+Participant 21: as well as the amount of time that it took you to complete them. On average.
+
+Daniel: Let let me back up for just 1 s. So
+
+Daniel: Do you consider that like a method that you use to report to others? Or is this more of a thing that you might include in a report to others.
+
+Daniel: So, in other words, really, what my question is about in this particular case is, you know, like. is there a particular pattern that you use for sending? You know, as you mentioned in your schedule, like a daily office hours thing, or, you know, is there like a project management tool that everybody uses? And so you're kind of just, you know you're along for the ride.
+
+Daniel: What? What kind of tools and techniques and methods do you use for for the reports? that you actually put together?
+
+Participant 21: Got it?
+
+Participant 21: so we have dashboards that leadership can see which talk about the the review quality or sorry review quantity and the timing thing, and then on
+
+Participant 21: privacy engineering projects the reporting ends up being like slide deck readouts and the artifacts that go into the slide. Deck readouts typically are either
+
+Participant 21:  you know, descriptions of products that we helped launch
+
+Participant 21: or links to technical designs that we reviewed and approved.
+
+Participant 21: or code that we reviewed and approved.
+
+and sometimes you could include something like.
+
+Participant 21: you know the number of hours that you spent working with one team or meeting with them, or something like that
+
+Daniel: interesting. So we've we've talked about your sort of more unique kind of team composition and and reporting situation. We've talked a little bit about the kind of methods and the ways that these reports get round. So would you say, given all this information that the actual organizational structure that you sit within is more flat or more hierarchical.
+
+Participant 21: hierarchical, I think. Yeah.
+
+Participant 21:  okay.
+
+Daniel: okay, fair enough. So in terms of the actual deliverables that are required from you. Okay? So again, you did mention that there's a number of different reports, a number of different things that go into them.
+
+Daniel: would you say that in general, the kind of main deliverables are things like writing code research reports. You give me an idea about those.
+
+Participant 21: Yeah. it would be. So
+
+sometimes I will.
+
+Participant 21: Okay, so let me back up.
+
+Participant 21: If I am identifying a new project that I am working on. I typically start by writing up a one to 3 page summary of the problem in my proposed solution, such as like a privacy risk that I identified and what I would do about it.
+
+Participant 21:  And so that would be an artifact that I present to my leadership and then get approved. And then, once that happens, I would
+
+Participant 21: engaged
+
+Participant 21: the product team who the risk concerns and either help them write up a more technical design.
+
+Participant 21: technically oriented design or, approve it once they do it. And so both of those things would sort of be artifacts that I would use to show work that I had done.
+
+Participant 21:  there's also a okay. I might have lost the threat. What else might
+
+Daniel: looking for? Yeah. So we were just talking about kind of like the main deliverables for the stuff that you do right? So you've you've talked about the different kinds of reports, I think, that you might deliver. Are there any others?
+
+Participant 21: I mean, the the privacy launch approval is the main deliverable that the product teams care about so like, for example, my director wants to know that the thing that I was working on with launched on schedule and had whatever impact the the overall project had I get to take credit for some part of that impact? Because, you know, without
+
+Participant 21: my review or my guidance, or whatever it might not have made it to launch.
+
+Daniel: I see that makes sense. So
+
+Daniel: the reason why, in particular, this launch deliverable is important is because this is kind of how kind of how others sort of.
+
+Participant 21: you know. Get a glimpse as to the value of the work that you provide. Is that right? Yes, because there there might be, typically, if they need my help, they're doing something that's inherently a little bit risky, but probably also has inherent business value. And so
+
+Participant 21: the partnership between our 2 teams allows them to get the business value, while also allowing us to claim that it's safe for them to do so, and therefore it looks good when paired together. You know, side by side.
+
+Daniel: Cool. So would you say, then, that this type of deliverable is typical, or maybe atypical for someone in your profession. Generally speaking.
+
+Participant 21: I think it comes down, or there's a similar split to small company versus large company.
+
+Participant 21: Okay? I am at a larger company, and so focusing on individual
+
+Participant 21: product launches and projects, I think, makes a bit more sense for me.
+
+Participant 21: whereas
+
+Participant 21: some friends that I have at smaller companies focus on much larger initiatives that might not
+
+Participant 21: need to have super
+
+Participant 21: specific deliverables associated with them, because, for example, maybe they are publishing a privacy policy or something. Or you know, they are creating a data inventory. So you don't really need to create a report for that. That's the thing just exists right?
+
+Participant 21: cool.
+
+Daniel: No, that totally makes sense. That's great. So basically to recap, it seems like, you know, you're under the impression that your deliverables are typical. But for large companies and at smaller companies, that would be really, you know, atypical, because the overall objectives and the way that you would demonstrate the impact would really be in a completely different level of scope. Is that right?
+
+Daniel: Yeah, pretty, that's what I, yeah, okay, okay, great. So how do you figure that your deliverables are then evaluated? By this manager that you report up to
+
+Daniel: like how they tell whether you've done a good job or not.
+
+Participant 21:  you know. I wish it was. I wish there was more of a science behind it.
+
+Participant 21:  A lot of the time the way that my manager can tell whether or not I did. A good job is to ask the team that I helped out directly if they thought I did a good job.
+
+Participant 21:  because
+
+Participant 21: at the end of the day
+
+Participant 21: a lot of the work that I do is sort of in service of other teams, and so if they're satisfied, it doesn't necessarily matter what I did. As long as the privacy outcome is good and the team satisfied. There are certain things that
+
+a
+
+Participant 21: such as like. I added. insider risk audit logging, or I pushed them to add insider risk audit logging to this tool. that
+
+Participant 21: if that is the outcome. That is a success in there's it's not. It's pretty black and white. And so the my manager looks at.
+
+Participant 21: I guess the scope of the impact that I had the number of different projects that I worked on, and how well they were received.
+
+Participant 21: In order to determine how well I do my job.
+
+Daniel: Okay, well, that's a really good segue to the next topic.
+
+Daniel: which is, are there any sort of tools, techniques, or standards but that create challenges for you.
+
+Daniel: So, for example, you mentioned a moment ago. That you know, understanding how exactly your manager evaluates all these deliverables. You really wish that there was, you know, maybe some more standardization, or, as you said, you know, wish it was maybe a bit more scientific, right? But are there any existing such frameworks, tools, techniques, standards, whatever. That actually pose problems for you?
+
+Participant 21: I guess I I'm not. Am I allowed to say, the obligation of a publicly traded company to provide value to its shareholders. Profit, profit motive is probably the number one barrier to to privacy. Cause. I you know
+
+Participant 21: it's very challenging to equate.
+
+you know the existence of
+
+Participant 21: something, or you know, the non-existence of privacy incident to profit dollars right?
+
+on a more realistic
+
+Participant 21: since
+
+Participant 21: things that present a problem
+
+Participant 21: to me or challenge yeah, or challenge.
+
+Participant 21: So
+
+occasionally
+
+Participant 21: there are
+
+Participant 21: policies or standards or technical controls
+
+Participant 21: put into place. related to privacy.
+
+Participant 21: which are
+
+Participant 21: well intentioned, but have broad scope.
+
+Participant 21: and therefore make it difficult to take nuance into account when applying them to
+
+Participant 21: very specific use cases.
+
+Participant 21:  I'm going to try to give a high level example of something like this.
+
+Participant 21: So imagine your
+
+Participant 21: company has a rule where all code running in production
+
+Participant 21: has to have been reviewed by a human being that works at the company.
+
+Participant 21:  this preserves privacy in a way, because if I were to write a piece of code that says, take every piece of user data and send it to my email address or a bucket that I control and that could be unilaterally pushed to production. That's a privacy incident.
+
+Participant 21:  that works really well for most things. When you have control over the code that's being written
+
+Participant 21: as soon as you're company, decides to start using a third party tool
+
+Participant 21: that protection breaks because you don't
+
+Participant 21: have access to the code that whatever third party service you're using. It's built on most of the time at least. And so
+
+Participant 21: sometimes I spend a lot of effort trying to create process workarounds to existing policy that was well intentioned, but due to the
+
+Participant 21: sort of
+
+Participant 21: malleable nature of privacy issues, or I guess their broad
+
+Participant 21: array of challenges, or whatever those policies actually get in the way of doing other more important work.
+
+Daniel: Very interesting. So
+
+Daniel: it seems to me like there's kind of 2 flavors here, right? One is sort of the overarching problem of having to justify the existence of like a privacy team in your profession and privacy. General balance balanced against the profit motive of companies, and then the other, which is you know the organization's own attempt to kind of create policies that generalize well, but that may fail to capture really important nuances of the, you know.
+
+Daniel: actual reality on the ground of how these policies are going to be enforced. Is that right?
+
+Participant 21: Yeah. And not just the company's own policy. But you know, regulations legislation does the same thing right with, you know, by
+
+trying to.
+
+Participant 21: It's just in in a impossibly hard problem to write a single piece of text that covers every possible edge case right? And so sometimes complying with the letter of the law on certain privacy regulations. Can have adverse is the wrong word, but a a challenging effect on what you actually would would do to protect privacy in a way.
+
+Daniel: So that seems fair. Do do you think these challenges are typical of someone in the profession generally?
+
+Participant 21: Yeah.
+
+Participant 21: yeah, I think so.
+
+Daniel: Fair enough. Does that stem really from the sort of broad applicability of privacy regulations? Or
+
+Daniel: are you kind of coming at that from a different perspective?
+
+Participant 21:  I think it's it stems. Yeah from th. The privacy regulations are broad and vague enough that it would be ridiculous to suggest that somebody working in privacy doesn't
+
+Participant 21: get hindered by someone's interpretation of what that law means or regulation means at some point during their work.
+
+Daniel: Okay, that's very interesting. So do you think, then that there's any challenges related to your specific organizational or reporting structure.
+
+Participant 21: We don't have enough time. Yes,
+
+Participant 21: yeah. There's
+
+Participant 21: as an as an organization's privacy. A
+
+Participant 21: effort gets more mature.
+
+Participant 21: There are added layers of bureaucracy. and similarly
+
+Participant 21: there, and because everybody needs to justify their own existence as an employee. Sometimes people get very protective with their scope.
+
+Participant 21: And so there are times when.
+
+Participant 21: for example, I recognize that a problem exists. I want to fix it, but I cannot fix it, because that problem space is owned by somebody else who does not have the time to listen to me, explain the problem.
+
+Participant 21: but would have the time to yell at me if I tried to fix it without talking to them first. And so I definitely run into a lot of bureaucratic frustrations in my day to day.
+
+Daniel: Understood? Okay, very well, said now, I suspect I know the answer to this question. But do you think that these challenges are typical for someone in your profession generally? Or is this more of like a big company versus small company kind of thing?
+
+Participant 21: I would wager that there is a small list of companies where these problems are much larger than the others.
+
+Daniel: Interesting, could you maybe elaborate just a little bit on what you mean by that?
+
+Participant 21:  I think if you go online and you Google.
+
+Participant 21: every, I don't know top 10 tech company by market cat with the word culture after it. You're gonna find forum posts, or something detailing sort of the
+
+Participant 21: different flavor of bureaucracy that that company has, and some of them are more laissez faire, and some of them are not, and I think
+
+Daniel: there are benefits that can come from having a more regimented structure. But the bureaucratic hurdles are larger, interesting. So
+
+Daniel: how do you typically try to overcome these challenges that you mentioned, especially surrounding bureaucracy and and so on.
+
+Participant 21: Do you have to play politics.
+
+Daniel: What does that mean?
+
+Participant 21: It means
+
+Participant 21: calling in a favor from somebody else that you know you helped out some other time to get something unblocked in a completely unrelated area. It means making friends with
+
+Participant 21: managers of managers and getting them to give you an exception to do something that normally wouldn't be in your scope. It. It means finding creative solutions to claim ownership of a problem for specific specific edge cases that are
+
+Participant 21: that allow you, yeah, to to basically get.
+
+Participant 21: Get around some of these bureaucratic hurdles.
+
+Daniel: Okay, that
+
+Daniel: sorry go ahead.
+
+Participant 21: No, I was. I can. I can give a better example if needed, but I don't know how we interest how useful it would be.
+
+Daniel: Well, I'm interested to hear it.
+
+Participant 21:  So
+
+Participant 21: if let's say there's a team that owns
+
+Participant 21: all use of a specific tool.
+
+Participant 21: You might be able to convince somebody to allow you to take ownership of all use of the specific tool in your immediate work group only, and then you report out to them quarterly or something, with the results of what you did as a, you know. So then, that way, you can fix the problem locally. Get a really good idea of what the fixes. And then, later on. You can try and convince
+
+Participant 21: the bigger team to adopt your fix everywhere.
+
+Daniel: Okay, that's that's a very interesting example.
+
+Daniel: but are there any strategies that you've tried, maybe, along these lines that you just found to be totally ineffective or just even less effective.
+
+Participant 21:  I can't think of anything right now.
+
+Daniel: That's fine. That's totally fine. So let's move on, then. let's talk a little bit more about the impact of your work. Sort of in broad strokes. So how would you define success in the work that you do?
+
+Participant 21:  Continual incremental
+
+Participant 21: privacy, improvements?
+
+Participant 21: Okay, I want to
+
+Participant 21: feel, not every day. I guess that would be infeasible. But every week or every month feel like I did
+
+Participant 21: something that gave that that helped users feel a little bit more safe online.
+
+Daniel: Okay? And then what do you think the overarching goal is
+
+Participant 21: of me, of me personally,
+
+Daniel: or the work that you do? Personally.
+
+Participant 21: I don't.
+
+Participant 21: You're sending me down an existential spiral.
+
+III mean, it's
+
+Participant 21: just to the the the meaning is or the goal is just to
+
+Participant 21: create products that you know, people can use without
+
+Participant 21: fear of negative consequences resulting from how their data is used. I guess
+
+Daniel: that sounds like a perfectly reasonable goal.
+
+Daniel: So then, in terms of how other people sort of evaluate the impact of your work towards that goal. How? How do you think that they actually do that evaluation?
+
+Participant 21: A lot of the time I get evaluated, based on how little I obstructed something, or whether or not I made them
+
+Participant 21: feel like a
+
+Participant 21: it. This I mean you. You get evaluated, effectively based on how few times you get sued
+
+Participant 21: for something.
+
+Participant 21: And so.
+
+Participant 21: in the absence of you getting sued for anything specific a lot of the evaluation comes from
+
+Participant 21: just how friendly you were.
+
+Participant 21: I think. And that's
+
+Participant 21: yeah.
+
+Daniel: Okay, that's really interesting. So it sounds like in general. The way that others evaluate your impact is
+
+Daniel: by, you know, sort of, qualitatively speaking, seeing how unobtrusive you are, and then the the sort of hard metric is, you know, whether you get sued and how often you get sued, and so on. But do you think that there's any other metrics associated with your sort of evaluation criteria at all.
+
+Participant 21: Yeah, this is so for me personally, it's a little bit different, because I don't work on developing.
+
+Participant 21: you know, to use the example of like insider risk audit logging, you could do an a nice, easy metric of this is how many investigations were created as a result of the thing that I added. But I don't. I don't personally work on that type of thing. So
+
+Participant 21:  Now, a lot of a lot of the the things that I use to collect
+
+Participant 21: evaluate like that that get used to determine the value of my work is personal written anecdotes from the teams that I work with.
+
+Daniel: Okay, that's really insightful. Thank you. So
+
+Daniel: it's getting to the point now where we're kind of wrapping up
+
+Daniel: and so as we start to close, I just wanted to first check in and see if there's anything else that you haven't had a chance to mention, or that you wanted to, you know, share with us on the record, or if there's something you think we should know, or if there's any questions that you have for us.
+
+Participant 21: I guess
+
+Participant 21: I'll get my.
+
+Participant 21: This is my number one soap box hot. Take type thing I that I try to just tell everybody that I mean is that like, I really do think that privacy engineering is almost a customer service job a lot of the time, and like your success in having positive outcome
+
+Participant 21: for your users really depends on
+
+Participant 21: how good you are at
+
+Participant 21: showing software engineers. Why, privacy is a good thing for them to do.
+
+Participant 21: and I see a lot of people who take the stance of
+
+Participant 21: and and us versus them
+
+Participant 21:  standpoint, and spend all day complaining about these product teams. Wanna do this. I can't believe it. Blah! Blah! Blah blah blah and I don't think that's the correct mindset to get results.
+
+Participant 21: Yeah, that's all. And then questions.
+
+Participant 21: I don't know.
+
+Participant 21: what is this? What's the research being used for?
+
+Daniel: Yeah, that's a great question. So
+
+Daniel: as you might have observed, based on the kinds of things that you know really got you thinking, as far as the questions that I asked you, and kind of the topics that we're exploring. What we're really trying to understand is like, what is privacy engineering, really all about right? Like, there's a number of different potential viewpoints and perspectives. And there isn't really like a solid definition that we can get just kind of point to
+
+Daniel: you know, which can authoritatively state all of the different, you know, facets of the job and the skills that it entails and expectations. And all of this other stuff like that we covered during the interview. So
+
+Daniel: really, the the ultimate goal of this research is to kind of shed a little bit of light on that. And the way that we're doing. This is by interviewing folks like you, you know, like, do privacy, engineering by some definition, and and kind of explore that and compare and contrast these things and try to see if we can't come up with some sort of pattern that explains this, all.
+
+Daniel: Does that kind of answer your question, yeah, yeah.
+
+Participant 21: cool. Cool. Whenever the
+
+Participant 21: paper, if it gets published, or whatever I'd love to to read it.
+
+Daniel: Yeah, we'd we'd be happy to so at this point. Let's stop the recording.

@@ -1,0 +1,267 @@
+Nikita: Great. And now that the recorder is done, could you repeat that you consent to being recorded, please? 
+
+Participant 27: Yes. I consent that this audio is being recorded. 
+
+Nikita: Great. So your identity and anything you share with us will be kept confidential and will only be heard and read by the researchers in our study. And please note that this interview is designed to be a conversation, so there are no right or wrong answers. And of course, you can skip any question pass the interview at any time. Do you have any questions before we begin? 
+
+Participant 27: Oh, no. I don't. 
+
+Nikita: Okay. Cool. So we'll have six different topics that we're going to go over. But I'd like to start by just asking you a few general questions about the work that you do. So can you tell me briefly about what you do in your work? 
+
+Participant 27: Oh, yeah. So I am so I'm currently a privacy engineer at a centralized privacy group. And my work is specifically around the data governance within the company. Basically, what I was what I'm doing is make sure that the data we stored and the data that we use internally are following the best privacy practices and meeting those compliance requirements privacy compliance requirements. Yeah. In addition to that, I'm also part of the groups reviewing product launches, if you want to have a new feature for users, I'm part of the group to review the design and provide suggestions. Yeah. 
+
+Nikita: That's very interesting. Could you also define the term privacy as you normally use it in your work context? 
+
+Participant 27: Yeah. For me, privacy is mainly around How how do we control the flow of personal information? Like, that's basically the definition in my work. Yeah. 
+
+Nikita: Is that sort of the definition you apply personally or is that sort of more aligned with the company that you work with? Okay. Mm hmm. 
+
+Participant 27: That's more like my personal definition. I think from a company perspective, like privacy is like has some overlaps with compliance definitely. 
+
+Nikita: Yeah. Mm hmm. How would you describe the roles in the industry related to privacy engineering. 
+
+Participant 27: Like my role. 
+
+Nikita: For instance, yes, but also, for instance, if you happen to know anyone else who might be working on tangential things or things you would consider privacy engineering, maybe you happen to know what are the job titles that those individuals and professionals might have. 
+
+Participant 27: Oh, I see the question. I think, some people may have a title called privacy analyst and they're I heard some titles as privacy software engineer and privacy compliance engineer. Seems like they are different titles are focusing on different specific kind of works that they're going to perform. My previous role was actually a privacy analyst role, which is more focused on analyzing the company's controls around data protection and generating reports on what we are doing and where we are right now. So but my current role as an engineer is more focusing on looking at the design and trying to propose and try to implement solutions to solve those privacy issues. Yeah. 
+
+Nikita: And I want to sort of ask you in the same vein, how would you define a privacy engineer? 
+
+Participant 27: Yeah, that's difficult, I would say, because I feel like this name is created in a very gi way. I think the able to talk to software engineer and to be able to think in a technical way. That's how I see the difference from engineer and analyst. The engineer is more try to figure out a solution and try to propose from a privacy point of view, how implement specific kind of things and how we use personal information. Yeah. 
+
+Nikita: But go ahead. Go ahead. 
+
+Participant 27: In addition to that, I don't think the role necessarily needs to do any real implementation write codes, but it's more important to have the technical mindset to understand engineering perspective. 
+
+Nikita: Got you. So just to confirm privacy engineer in your perception has to do something with the technical engineering aspect, but not necessarily directly implementing the features, is that correct? 
+
+Participant 27: Yes. Yes. 
+
+Nikita: Great. Well, thank you so much for those responses. I'd like to move now to talking about your career journey. And I'd like to ask you, how did you become interested in privacy engineering as your career? 
+
+Participant 27: Yeah. So my bachelor's degree, so that could be a long story. My bachelor's degree was specifically around information security. Then I get my master, but it's in privacy privacy engineering. And I figure like privacy is more of an area which is not binary. There's a lot of gray areas that needs personal interpretation and implementations and it's fine. Like, After graduation. So when I graduated, it's about the year that GDPR took effect. So I got a job as an analyst, comp that dealing with biometric information. As I talked about, it's me around GDPR compliance reporting, and then I figure I want to work on aspects related to product implementation or try to drive privacy outcomes like more user facing areas. That's why I started another role as a privacy engineer. Does that answer your question? 
+
+Nikita: It does. Yeah. And you've already touched upon my next question is what motivates you to continue pursuing privacy engineering as part of your profession? I know you mentioned that it's fun. Is there any else that you find sort of, you know, that you enjoy about it or that it brings you value? 
+
+Participant 27: Yeah. So first, I think I really enjoy this area because it's like it's a mult discipline area with loss, policies, technical implementations. So for me, it's really it is challenging but also fun to work with different people and try to address these issues. Secondly, so I was interested in works and probably can drive some social goods. And especially in current age, a lot of people are Well, everybody is online, so some piece of data must be on alive. So I feel like by working on privacy, I can do things that can be benefit to a lot of other people. The reason might be a little bit personal, where I was from, There were very little discussions around privacy as a fundamental humor right. So when I have my privacy engineering master here, I find it very impressive and I figure this is something I want to work on. So yeah, these are all three reasons for me. 
+
+Nikita: Mm hm. And do you have any personal goals for this work? 
+
+Participant 27: I want to be able to work at company and experience. I also noticed that because a lot of small companies are finding a little bit difficult to actually get resources to deal with this kind of privacy regulations and privacy requirements. My goal was one day when I'm knowledgeable enough, I want to be able to provide services for those smaller companies. I think it will be more benefit. And also, I want to help awareness of privacy protection in my home country possibly one day. Yeah. 
+
+Nikita: Mm hmm. No. Those are some great goals. And let me ask you this question about the future. So a year from now, do you see yourself in the same position? And I guess, more specifically doing what it is that you currently do in your position as opposed to any specific role title?
+
+Participant 27: I I think I will still be in this role, but maybe I will change areas change areas to more advanced topics like I privacy or HealthC because these two are the emerging areas right now and use relative have either very sensitive use cases or are using very sensitive information. So yeah, but I would say the job title should be the same. Yeah. 
+
+Nikita: Mm hm. That makes sense. Now let's talk a bit more about your day to day responsibilities. Can you give me an idea of what a typical day at work looks like for you? 
+
+Participant 27: Yeah. So my day is composed of a lot of meetings because this role inevitably has a lot of collaboration with other roles like engineering teams and legal teams. So meeting is a big part. Also because I do those kind of privacy reviews for products. So that also took a lot of time. The rest, I would say is composed of learning is case by case. Every time I do I need to pick up a learn something new, which is also why so far. So that is also a big portion And for my role, specifically, a significant amount of time is also spent on writing reports. Basically, that will be used for record for compliance purposes. Yeah. 
+
+Nikita: So ka, have you mentioned that, yeah, you spend quite a bit of time in meetings. You work on privacy reviews, writing reports, special as part of your record keeping function. And then finally, you also we're talking how you also have to learn at the job and in those four aspects. Is there anything else or those are the main ones? 
+
+Participant 27: I think those are the main ones, yeah. Yeah. 
+
+Nikita: And given those responsibilities or like the things you do day to day, what responsibilities you would say your employer expects you to take on at work? 
+
+Participant 27: Okay. Sorry. Can you repeat the question? 
+
+Nikita: Yeah. So basically, what we're trying to find out is whether there's any discrepancy between what you do in your role and any potential expectation that there is from your employer, if if any difference, you know, if any divergence. So I'm curious if if you feel like that there are any differences in what you do day to day and what the expectation of your management is, for example. 
+
+Participant 27: I see what I mean. Yeah. 
+
+Nikita: And maybe there's no difference, which is also fine, but we're curious to see how can it very play out to practice. 
+
+Participant 27: Yeah. I'm just thinking of that. Yeah. I don't think there's a large discrepancy, but I will definitely say, like I want to see the company, especially like a very high up management. We have a very different visualization of what a privacy engineer is. They care the most about getting something delivered. So that is sometimes not really captured in our data work specifically speaking. Yeah. I hope that answers your question. 
+
+Nikita: Yes. So just to recap what you're saying is that maybe the upper management, they have a more higher level picture, right? And so they might not be particularly well, not in dug but maybe aware sometimes of the specific individual pieces that you need to put together. Is that correct understanding or did you mean something else? Understanding. 
+
+Nikita: Okay. Great. Well, let me ask you. So for this next question, we're trying to differentiate between what you do for work and the things that you do outside of your work. And are there any additional responsibilities that you feel you're expected to take on in your role, such as to society or others in organization or maybe even to yourself? 
+
+Participant 27: I would say for my role, I'm also trying to work on trust and safety related stuff because thing with privacy is it's not just how we implement it internally. It will be good if we to put it as a business differentiators trying to find a way to marketing and demonstrating this kind of this kind of work. So that is something that I'm trying to get on, basically to provide more visibility for our internal privacy work. 
+
+Nikita: Okay. Yeah. What about things like speaking engagements or maybe mentoring others? Is there something that you engage in or not really? 
+
+Participant 27: No, I didn't. One reason is like previously for the past few years, my work is relatively how to say. What I was working on was relatively confidential. And that's one reason that I haven't really started to do any kind of public speaking. 
+
+Nikita: Yeah. So you might even say that maybe you were kind of almost like not expected to be participating in such like public facing activities given the confidentiality? 
+
+Participant 27: Yes. Yes. 
+
+Nikita: Uh huh. That sounds good. Let me ask you about your skills that kind of speaking of the same topic of responsibility. And what skills were demanded of you when you started your current role? 
+
+Participant 27: I think why is the understanding of what is privacy? What are the core privacy principles? The other thing is basic understanding of some of the regulation like GDPR and CCPA, for example. Is that a very interesting question because what I've learned at school contains a lot of things, like the concepts, the regulation, and also how to engineering privacy concepts into a software development life cycle. But at where I work at, I really see a lot of people that are privacy engineers with a very diverse background, some of the people are journalists. Some people have a legal litigation background. So it's very diverse. Yeah. 
+
+Nikita: And do you feel that those are similar skills that you currently use in your job? You mentioned that you can have learned one thing when you were in college, taking the degree? Do you feel that there is a sort of discrepancy between what's being taught and what was initially expected and then currently what you're using as your skills? 
+
+Participant 27: I would say what I learned as are definitely good practices in a really ideal world to be honest because where I work right now, I think a lot of things we develop our own processes because of our own priorities. And because of these priorities, we sometimes care about one issue instead of another issue, and we Yeah. It's just very it's different, to be honest. Yeah. 
+
+Nikita: Yeah. Do you think and it's okay if not, but do you think you can expand a bit more when you say it's different, like what's sort of, like, the ways in which it is different? 
+
+Participant 27: I can give you a example, at school, we used to do user testing for a new feature about whether it's privacy how to see. Privacy, no, user friendly in terms of the privacy setting or not. But that is not often the case in all the projects that I have worked on based on the priorities and like the timelines. So Yeah. Does that answer your question? Yeah. 
+
+Nikita: So maybe like I guess in this example, the usability of user analyst maybe was not the priority, even though when you were studying this, that would be maybe like an aspect that you would focus more, is that correct? 
+
+Participant 27: Yes. Yes. 
+
+Nikita: And what about the interviewing process? Would you say that there's a difference or not between the skills you were expected to demonstrate during the interviewing process and those required of view in your current role? 
+
+Participant 27: Like, we're talking about the job interview right? 
+
+Nikita: Yeah. Like, what are the skills you were expected to demonstrate then maybe in line or not in line with what skills you were actually using for the role? 
+
+Participant 27: Yeah. I would say it's pretty much in line because I can talk about our interview. So for my role it doesn't require any coding. It's like privacy concept, technology. And it's also heavily focused on the thought process. Like if you were giving a scenario, what would you do, how would you work through this kind of situations. So this is a very commonly used skills, especially currently, I did a lot of reviews. So I encounter a lot of different situations and I need to figure out how should I ask questions and find what are the gaps and how to mitigate them. Yeah. 
+
+Nikita: Mm hmm. So you would say things like, you know, privacy reviews, or writing the reports, some of the things you mentioned for your day to day activities, you would say that that's something that the interview was good at sort of identifying or maybe not really? 
+
+Participant 27: I think it is good. Well, except the fact that I cannot test my writing capability. But yeah, you cover the most. 
+
+Nikita: Got you. Got you. Well, that's very helpful. Let me move on to our next topic, and we want to talk about here reporting and deliverables that you have in your work. And so could you tell me without any names, just the title, but who do you report to? 
+
+Participant 27: So let me say things I work in a centralized privacy group, I report to the VP of that centralized? Oh, does that does this answer make any sense to you? 
+
+Nikita: I think it does. Yeah. I just want to understand me where kind of in your role, the privacy is located, right? Like where the sort of like the reporting structures and so on. And so yeah, you said you report to VP of your group or team, right, is that correct? 
+
+Participant 27: Yes. Yes. 
+
+Nikita: And does anyone report to you? 
+
+Participant 27: No. There's not. Yeah. 
+
+Nikita: Can you tell me what like, in your view, what are the typical reporting structures that you see in your profession? 
+
+Participant 27: Oh in my profession. Yeah. So Like majority of them I've see is like a privacy engineer report to a privacy engineer manager and that manager reports up to director, the VP in that kind of situations. Yeah. Yeah. And yeah. 
+
+Nikita: And would you say that is like a typical reporting structure and as far as you know, h. 
+
+Nikita: And could you tell me a bit more about, you know, the teams and the composition of reporting if there's anything else that you have mentioned? 
+
+Participant 27: Yeah. So maybe some alyss like sometimes there's There would be teams with a mix of privacy engineer and software engineers. So that would be more slightly different structure. But as far as I know, that's pretty much. Yeah. 
+
+Nikita: Got it. And what sort of methods do you use to report to others? I know you mentioned that you have a lot of meetings. I guess there's any other thing like emails or project management platforms or something else you could talk about? 
+
+Participant 27: Yeah. So definitely a lot of e mail communications also Like, we collect piece heavily with program manager managers and project managers to drive like outcomes. Yeah. Yeah. 
+
+Nikita: And do you use any toolings as well? 
+
+Participant 27: Uh huh. So in terms of tooling, there's definitely like review tooling or how do I see workflow kind of tooling. That kind of tooling we use internally to track the progress of how things are develop level developed. Yeah. Does that answer your question? 
+
+Nikita: Yeah. And would you say that from your perspective, the structure, the organization structure is more flat or is it more hierarchical? 
+
+Participant 27: It's very hierarchical. 
+
+Nikita: If you could tell me more, that would be great. 
+
+Participant 27: Mm. So I think a different company could be very different. So my first company, it was very flat. I was just under the information security team as a privacy analyst. But in my current role, it's very hierarchical. And also, while I am working on a horizontal privacy team, there are definitely other vertical privacy team that supposedly working on different products. So yeah. 
+
+Nikita: Got it. So, the team you work with is more horizontal. Hierarchical, sorry. 
+
+Participant 27: Yeah. Huh. Yeah. 
+
+Nikita: And could you tell me a bit about the deliverables that are required from you in your role. So, for instance, I know you mentioned reports, but could you also just talk about any other deliverables that you have to complete? 
+
+Participant 27: Yeah. So basically, for me, and for my specific role with the data governance, my deliverable would be like a number of the reviews that's one thing I did throughout the year. I also worked on policy related stuff, like what kind of data like internal data policies we need to push to publish. So those are also my deliverables? Honestly, this is a difficult question because I recently figured it is actually very difficult for this role to really really justify something as our deliverable. I can give you example of why I was saying this. I review like emi and it launched. But I didn't create the to create this product. I just did a review. So yeah, I hope it makes sense to you. 
+
+Nikita: It makes sense. I mean, I guess in this context, the deliverable is the review, for sure, it is something that's very critical as well. And could you tell me why the deliverables that you do. The reviews, for example, are important in your role? 
+
+Participant 27: Yeah. So personal perspective, it's important because it shows that it's one way that I'm helping the products to achieve good outcomes. On a career development wise, it's good metric to be captured. Yes. Yeah. 
+
+Nikita: And do you think this is a typical deliverable for someone in your profession or not really? 
+
+Participant 27: I think it would be a typical like typical deliverable. 
+
+Nikita: Great. And then how would you say so like, yeah, you create the report or privacy review, and how would your manager evaluate this deliverable? 
+
+Participant 27: Yeah. So my measure basically care about quality of my work. How do I put it? Maybe I can answer it in a different way how the role is evaluated. So basically he evaluated what is the scope of the review? Is it a very small feature or it's a very big project? That doesn't make sense to you. 
+
+Nikita: So actually, could you expand a bit more. So what would you mean if the project is big or small? What's the difference in that case? 
+
+Participant 27: Oh, yeah. Definitely. Like if it's completing, I can give you an example. It's like, are we launching a new [PRODUCT] or we're just adding a different language or [PRODUCT]? So basically, my manager will evaluate my work based on the scope, and how much advice that I can surface to the engineering team that I work with? Yeah. 
+
+Nikita: Got it. Do you think there are any metrics that your manager might use or is it more qualitative they see what they see and they know what to look for. 
+
+Participant 27: This is a core question. So I think ideally it there should be metrics, but honestly, I think it is so hard. I can tell you share something like in our internal promotion processes. Sometimes we need to try to put numbers to show the impact of our work. So sometimes it's kind of difficult because as a privacy role, it's hard to see the impact until something bad happens. Okay. Yes. So from my manager's perspective, the evaluation mostly is like qualitative. Yeah. 
+
+Nikita: Got you. That makes sense. Do you feel there are any other deliverables that we haven't really spoken about in your role? 
+
+Participant 27: I don't think so. I think we covered all of them. 
+
+Nikita: Great. Let's move on to the next topic then. So I'd like to ask you a bit about the challenges you might face in your role. So my first question to you would be, are there any tools, techniques or standards that create challenges for you. Okay. 
+
+Nikita: So We're talking about tools or standards, right. So things like sometimes what I could hear is maybe there's the privacy framework and it can be hard to apply to the specific concept of organization or something along those lines. It could be also with some technique or tools that you use. Yeah. 
+
+Participant 27: I would say DMA is very difficult. Yeah. Because of this asks so specific targeting at some of the tech giants and it's a lot of work that needs to be done within a very deadline, so that is difficult. Yeah. 
+
+Nikita: Is there anything else that creates challenges for you in your role related to sort of doing and standards and techniques? 
+
+Participant 27: I would say the challenge outside of this kind of emerging legal requirement is often the technology itself, like the AI because I was not really an expert of it, but because of this, AI wave and new AI act, I have to pick it up very quickly and be able to understand the potential risks. So I would say the challenge is like the constant like continuously learning and try to keep update with this kind of fast moving technologies. Yeah. 
+
+Nikita: And I would imagine that this is a typical challenge for your profession, is that correct? 
+
+Participant 27: Yes. Definitely. Definitely. 
+
+Nikita: Got you. Yeah. No. That's important. And are there any challenges related to your organizational or reporting structures? 
+
+Participant 27: I would say I would say visibility. So we'll talk about the organization structure like in a organization that is not flat. So sometimes it's kind of hard to get a group of privacy engineers work to be visible to the leaderships and then to make them understand why this kind of work is important. So that is difficult. Um I would also say... no, I think that's pretty much the visibility. Yeah. 
+
+Nikita: And is that a typical challenge for people in your profession or not really? 
+
+Participant 27: I would say it is but how bad it is depending on a lot of different factors for me, I think it is because privacy is not something that people really think as top one. So that is naturally difficult for us to get visibility and recommendation. Secondly, it's because I'm kind in a very privacy large organization, sometimes it's kind of hard to have conversations. Yeah. Yeah. 
+
+Nikita: Sounds like, yeah. So the two challenges that I've heard from your description is one, sort of how do you navigate the emergent regulations and laws, right? How do you understand what are those requirements. And then the second is, how do you gain visibility, how do you I guess, get resources for privacy? Is that correct? Or are there any other challenges that maybe we haven't spoken about that you face? 
+
+Participant 27: That's correct. I can actually add something because So I think one thing about regulation is that sometimes it's not that specific to be actionable. So it kind of depend on us to be specific about the scope and how we can handle different things. That navigation process is a... Yeah. 
+
+Nikita: Mm hm. Can you tell me about the strategies you used to overcome the challenges? 
+
+Participant 27: Yeah, for me, so I talked to legal a lot because I really need their guidance on what is the baseline that we have to be done. And The other strategy is especially with DMA, T and last year is try to be very flexible and try to make sure that I can prioritize things and try to negotiate effectively and efficiently with all these engineers. For them to understand why we need to do it and what is the minimum thing that we need to achieve and try to help them to have the solutions ready. Yeah. 
+
+Nikita: Would you say those efforts are effective? 
+
+Participant 27: I would say, yes, that is effective, but it's not easy. Because let's still talking about DMA as an example. It's like something suddenly happened, the engineering team have to add them to their roadmap. I would say next time, I would be more like what I learned from this is to be more proactive for the regulatory roadmap that will be coming to our way so we can be more prepared about it, but yeah. 
+
+Nikita: Mm hm. And what about this challenge of gaining visibility for privacy? Are there any challenges that you employ to overcome it? 
+
+Participant 27: Yeah. I would say the strategy with this is to try to get as much as much. As much help as possible. Like, for example, like for the DMA one. We have to make sure it's done, so we have to escalate if something cannot be done. So that's the way that we actually try to make ourselves very visible and vocal about specific things and to try to get as much resource as possible. Yeah. 
+
+Nikita: Mm hm. And do you find that that's effective? 
+
+Participant 27: It's tragic? Active. But sometimes people are pied off. 
+
+Nikita: Got it. That makes sense. Well, let's move on to our last topic that we have in our interview. So we'd like to talk to you about the impact of your work very broadly speaking. And so I'd like to ask you, how would you define success in the work that you do? 
+
+Participant 27: Oh, yeah. I would say one one thing I would say is like every product or every lunch that I reviewed is like has minimum privacy risk would be a success for me. Yeah, in my perspective. 
+
+Nikita: Do you think that is the overarching goal of your work or is there anything else that you're trying to achieve? 
+
+Participant 27: I would say in addition to that, I want to be able to have more privacy awareness across the board, like within the engineers that I work with and other people that I work with Yeah. 
+
+Nikita: Mm hmm. How do you think others evaluate the impact of your work? 
+
+Participant 27: Like the impact of our work? 
+
+Nikita: Yeah. Like, given your deliverables, how would others of you know, look at it and say, Oh, that's a great work or not? Do you have any ideas about how that might play out? 
+
+Participant 27: Yeah. Honestly, this is a difficult question. 
+
+Nikita: Maybe you could think about, let's say, a colleague of yours and how would you sort of, like, evaluate what if they've done sort of like a good job? 
+
+Participant 27: Yeah. Like, I had to see what kind of support or suggestions that they have come up with and what they have done and try to see what are the issues that they have addressed to understand? Work. 
+
+Nikita: So it sounds like yeah, I guess, again, just speaking about metrics. Sounds like that there are not really any concrete metrics, mostly sort of qualitative, is that accurate? 
+
+Participant 27: Yes. That's accurate. 
+
+Nikita: Do you think there is any other way that this sort of like evaluation happens or not really? 
+
+Participant 27: Yeah. So I'd say, sometimes it can be very How to say? It can be quantified, for example, if someone is working on like a law requirement, making law requirements. Sometimes we can justify like, Okay, by doing xy, we prevent this much of fine like penalty. But I sometimes feel like that's not often the case. Yeah. Sometimes that's the case, but that always catch. 
+
+Nikita: Mm hmm. Great. Well, this is actually at the end of the interview. We went through real fast, which is great. So as we close, I'd like to ask you if there's anything else that you haven't had a chance to mention, or you would like to share with us or you feel we should know. 
+
+Participant 27: No. I think we cover majority of the things. I honestly feel like this privacy engineering roles. The title sometimes doesn't really matter because as we talk about, I did analyst work and also engineer work. Sometimes I have to be a manager if there's no manager in the room. And sometimes I provide this kind of technical suggestions as if I am a consultant. So I will say this have very interesting and challenging role and I enjoy a lot and thank you for your time. Thank you for both of you. 
+
+Nikita: Of course, Do you have any questions for us? Okay 
+
+Participant 27: No. I don't think so. 
+
+Nikita: Yeah. Great. Well, let me turn off the recording. 

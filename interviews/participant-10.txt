@@ -1,0 +1,801 @@
+Participant 10: I do consent to being recorded.
+
+Liam: alright, your identity, and anything you share with us will be kept confidential, and will only be heard and read by the researchers in our study. Please know that this interview is designed to be a conversation, so of course, there are no right or wrong answers, and again, you can skip any question or pause, interview at any time. And so do you have any questions before you do?
+
+Participant 10: No, I'm ready to get started
+
+Liam: alright perfect.
+
+Liam: So just high level overview the the interviews broken down into 6 topics, the first one being more introductory. And the first question I'd like to ask is, can you tell me briefly about what you do in your job.
+
+Participant 10: Yeah. So I am a privacy engineer and I work at [COMPANY]. I work in what's known as a Federated team. So I don't work horizontally across many teams, I work within just the ads team.
+
+Participant 10: And so my team is responsible for reviewing all the
+
+Participant 10: technical privacy changes or technical privacy issues with all the launches within ads. So anytime, there's a like a product launch in ads which can even be something as minor as like an infrastructure. Update.
+
+Participant 10: there's a formal launch process. And so and those are required to go through like a set reviewers. And so my team is one of the reviewers, and that's sort of our main function. And then we also help set like, [Company] wide guidance and like policy.
+
+Participant 10: And then we also build tooling, too. So we build tooling for internally for our team. And sometimes we also help
+
+Participant 10: with other like like tooling sort of across like privacy stuff within the [COMPANY]. But it's a giant giant company. So like, yeah, I work just within like the ads.
+
+Liam: got it. Could you also define the term privacy as you normally use it in your work context?
+
+Participant 10: Oh, it's such a hard, good, good, and difficult question.
+
+Participant 10: I guess I would define it as
+
+Participant 10: ensuring that any data collection that happens of either like end users or business customers.
+
+Participant 10: is collected, used, stored
+
+Participant 10: in ways that there is consent and control over that, and not like disclosing
+
+Participant 10:  and data about a user that they did not intend to share or get used in ways that they did not intend to get used
+
+Liam: alright.
+
+Liam: And how would you describe the roles in industry related to privacy engineering?
+
+Participant 10: Sorry can you repeat the question one more time?
+
+Liam: Yeah, of course. How would you describe the roles in industry related to privacy engineering?
+
+Participant 10: It's like, that's a hard question. That's also a good question. I think it's a very kind of new role, and it means different things at different places. It even means different things within [COMPANY].
+
+Participant 10: so.
+
+Participant 10: generally speaking, I think you'll see a lot, especially when I was interviewing. You'll see a lot of like privacy engineering kind of be synonymous, like software engineering for privacy. And so you're like building and implementing
+
+Participant 10: tooling. That maybe is about tracking consent or data management, or like you're, you're on teams. But you're building stuff that's like privacy tools. And that's like one genre at [COMPANY]. It's a little bit different. There, there are some teams that are like privacy engineering that do like core building. But
+
+Participant 10: for a lot of it, it's almost like internal consulting
+
+Participant 10: to help solve like very specific technical privacy problems. But like, we're not like pushing the cl's or the changes. But we're like looking at the design docs and the architecture and the like design of the system, and then having to like apply like gray area, like.
+
+Participant 10: there's a regulatory risk here. And we have to like that's like defined from legal. And there's like, how does that like translate back into like the actual product? And like what's happening and like how the data moves throughout this like really complicated product. And like, we are like the ones that
+
+Participant 10: like.
+
+Participant 10: translate those things and then make a decision on risk of like, what's okay? And what's not? Okay.
+
+Liam: Okay.
+
+Liam: and then how would you define a privacy engineer?
+
+Participant 10: I think it's definitely a technical role. I think it's someone who
+
+Participant 10: help solve technical challenges related to privacy which can be
+
+Participant 10: wide ranging. But like it's an engineer for a reason. And it's not usually not just like a policy role. It's like you have to be able to like.
+
+Participant 10: look at some technical challenges and like, translate those into like decisions that need to be made or like be built or help build the thing.
+
+Participant 10: And so it's like
+
+Participant 10: someone who helps build, develop, or architect privacy solutions.
+
+Participant 10: And so I'm kind of thinking out loud. Sorry. My answers don't make sense, but I probably should have had a better thing before I joined this call, but I just joined it straight from work. And now I'm like thinking about these Meta questions that are very interesting and very hard to answer. So
+
+Liam: No the candidness is important. The answers are great. Now, next, I'd like to talk more about your career journey.
+
+Liam: And the first question I have is, how did you become interested in privacy engineering as a career.
+
+Participant 10: Well, that's another great question actually, at [INSTITUTION]. So I was interested in privacy.
+
+Participant 10: So I was interested in software engineering. This goes back to when I was like in grad school. I didn't know what. When I was in grad school when I first started I had no idea that privacy engineering was even a career like I really didn't know about it. And then I was interested in like software engineering
+
+Participant 10: and like software in general, and then I took a class called introduction of privacy engineering with [Professor], great class, and that like
+
+Participant 10: totally opened up. Like III did. I thought it was going to be like I had no idea what it was going to be, and turns out. Oh, no! There was like a formal research discipline about like
+
+Participant 10: technique and formal anonymization, and like mathematics behind. How you can like define data loss and like is like a very interesting field and discipline. And that's what opened me up to like
+
+Participant 10: the sort of like research side of like privacy, engineering, and like privacy, enhancing technologies, and like differential privacy and canonymity, and like
+
+Participant 10: very rigorous like academic foundations. For like, here's this paper, here's how you can like formally define it. Here's like all these things about like
+
+Participant 10: kind of like at core. Here's the formal foundations for privacy engineering as an academic subject.
+
+Participant 10: And then from there, that's sort of what I was like interested in in grad schools like was like, kind of like a main focus. So I took another class on like differential privacy, and like the math behind that.
+
+Participant 10: And then I kind of got into building like for my final project, like, kind of like software that was like for consumer privacy that, like democratizes like CCPA rights.
+
+Participant 10: And then, like, I found out about these roles that existed. And then, luckily, like there was like jobs that were hiring. And then I interviewed without really even knowing what exactly the role was gonna be and like really what it was about. And then a lot of it, like what privacy engineering is at [COMPANY] is like, much different than like what I was working on in grad school, or like what I thought the field is, or like how I built view the field academically.
+
+Participant 10: so then, learning at [COMPANY] as a privacy engineer, now in like industry, has been like a much
+
+Participant 10: different set of challenges because it's not about like, Hey, develop this algorithm that's like more efficient
+
+Participant 10: for like doing K anonymity of a data set or like something that's like
+
+Participant 10: much more like academic. It's more like, Hey, here's an industry. We're trying to run an ad business that's like agent of [COMPANY]'s revenue was like adds, how do you run an ads business that's being like diametrically attacked by like regulators and like protecting user data. And how do you like deal with like the business struggles of like trying to collect more versus like, protect, like
+
+Participant 10: like it's it's a much. It's a much different like Job than like you would even imagine. I think we're like, even across [COMPANY], like, like, it's like a very like
+
+Participant 10: almost like political struggle where you're like, all right. What's the best thing that we can do? That's like the best for privacy, but also accomplishes business outcomes. And so it's been a very like, and you have to learn like I knew nothing about like at how ads on the Internet worked like I thought I knew. But I knew like nothing. So a lot of it was just like learning these things
+
+Participant 10: being able to context switch. And just like, here's this crazy system that's been around for like 8 years that, and like these people, come to you like other teams, come to us, and they say, Hey, like, what should we do? And we have to become a subject matter, expert on some like super deep technical system
+
+Participant 10: in like minutes, and so like learning how to do that was been like a whole new kind of skill. And then now, I think it's a much. It's like I have a much different view of like privacy engineering from like as a academic field versus, as like a doing it as a profession which is much more about like, how do you accomplish business outcomes while still maintaining the best thing like the best outcomes possible, for, like your users, your customers, users, and, like the company.
+
+Liam: got it and zoom me out. Could you share more about the the career journey like it? Was it undergrad? Straight to grad school, and then, privacy, engineer, what was the
+
+Participant 10: no, I worked like, like unrelated jobs like I was into like software engineering, like on the side kind of like unrelated went to grad school like, didn't work really in like tech at all like where was working in [SECTOR]. Went to grad school like really like refocused on like this as a field. And luckily it's such a nascent kind of like
+
+Participant 10: academic field as well as industry, that where it's like it's pretty you can
+
+Participant 10: like. And at [INSTITUTION] it's great cause. You have like literally experts who, like no one else in the world, will like be able to explain this stuff to you and like, you can learn these things. And you can become like sort of like a
+
+Participant 10: have a really robust understanding in the field, and like, set yourself apart. So I was able to do that luckily through the classes that I took, and then like
+
+Participant 10: set up like inner. And then also, I think so, I built this thing called [PROJECT].
+
+Participant 10: That was basically automatic CCPA data. Delete requests like, it was like a local like 0 pi persistence tool that you could just download. It was like an open source thing. And that was my final project. So I think that help to of like, Hey, here's someone who, like is technical, can like build in the space is like interested in it. And then that's kind of like what like, I think got me like interviews, maybe. And then from there, once you're in the interview. It's very much like
+
+Participant 10: like
+
+Participant 10: like. It's a different. It's a different thing, like there was like 10 rounds of interviews, and you kinda don't really know what the role is, and their creator doesn't really tell you. So you're kind of like answering the best you can. And then the [COMPANY], the [COMPANY], like like loop, wasn't
+
+Participant 10: like a bunch of leet code. It was like a much more kind of like, oh, like these, like other like case study type things. But then, if you look like other interviews, maybe, or if it's like more software engineering role, it will be like more like standard algorithm questions, and then but sort of just depends. And then it also, I think
+
+Participant 10: there's a a function of timing where it was like they were doing a lot of hiring when I graduated in 2021 versus like, now isn't really the case, so I don't know.
+
+Participant 10: I forgot the question. I kind of rambled there. Sorry?
+
+Liam: No, that was great. What motivates you to continue pursuing privacy? Engineering?
+
+Participant 10: It's super. So now that I'm like in my career, and and like less.
+
+Participant 10: So when I was in grad school, it was much more like, Oh, hey! I want to like develop this reputation for like building these like open source tools. I want to kind of like build stuff and do stuff. And now that I'm not in grad school, I'm working, it's sort of like what keeps me in this job, or like what? How do I see? View my like career development, which is a much different like view?
+
+Participant 10: It's almost like
+
+Participant 10: my role at my company is like, separate from like, how I viewed privacy engineering as like a field, I guess, because it's like, I'm a privilege at [COMPANY]. It's like a very specific thing. And it's like, I'm on a very specific like career trajectory. I think
+
+Participant 10: it's been a really tough, because obviously, like, there's the tech industry. If there's layoffs like things are stressful, the job market's not great, but like
+
+Participant 10: luckily in in ads because our team is so like
+
+Participant 10: we did this thing, this, this process called Federation. So we like are working. We're not like a horizontal team where we work like across a bunch of teams in [COMPANY], we're within ads, and we're funded by ads. And so we work really deeply with these teams. And luckily, I like, I'm so grateful that I was able to join this team because we've sort of been like
+
+Participant 10: shielded from a lot of the like reorgan, like really stressful things that have happened. And also we get a work on like some very crazy state of the art stuff like. And so, and how our team sort of works as each person is assigned to like a different set of teams
+
+Participant 10: that like a products that do different things. And so I'm like, it's stressful because we have to become subject matter experts, and these like in like a bunch of these like ads, teams which is like critical for like business and [The Company]. But I get to learn a lot about
+
+Participant 10: like, how do you build like ads measurements? And how do you build like various, like hard, like business problems which are like critical to [The Company] in a way that's like privacy preserving. And a lot of the teams I work with are doing like truly state of the art stuff, which is really, really cool. So like
+
+Participant 10: teams that I get to work with are doing like differential privacy, like at scale in production which, like, I've never like, I've yet to ever hear someone actually doing that successfully. It's like, when you see differential privacy. You go to like Pepper. It's like, Oh, we did it on this like static census data set. And like, you don't really have like customers like, it's like, okay,  it's like, very much like a. These problems are like these.
+
+Participant 10: almost like toy, not toy, but like academic constructs where it's like, yes, you have the static census data set. And you gonna make a difference like, right? Well, how do you build an ads business where the
+
+Participant 10: like customers are spending money, and we have to do some differential privacy problem. And it's like very hard and very cool. And you make compromises. And it's very much like a.
+
+Participant 10: The challenges are like, super like interesting. And it's like, okay, we're doing all these new, like, kind of like frontier level type, like work where
+
+Participant 10: I'm working with the team to like develop it at like the core architecture level like with the leads, like in the beginning. And so it's very much like you have a lot of influence compared to say, like being a software engineer at the same level where you're just like responsible for one little piece like we're responsible for the decisions that get made like
+
+Participant 10: for an entire like business, where, like the privacy decisions that can made for an entire suite of products which have like billions of users. So just the scale is like, Oh, I'm like, feel very fortunate to be like in that position, and that, I think, is what keeps me like excited about the field and like excited about like my role.
+
+Liam: Gotcha, do you have any personal goals for the work for your work?
+
+Participant 10:  Yeah. So we all we have these things called expectations. I'm sure if you talk to other at [COMPANY], they'll like talk to you about it. I can't get into what mine are specifically because those are like confidential. But yeah, like, I think I definitely have specific goals of like growing. It's more of like a lot of the goals, and I'll just how you get promoted, or whatever like, how you move up at like big companies. It's about like showing influence.
+
+Participant 10: So it it is a little bit like learning new skills and like learning technical skills. And like, okay, like, some of that is like, you know, especially with like gen AI, and like all these, like LLMs, and like LLM orchestration stuff like, how do you learn how to adapt to that? And like the new privacy challenges that are like existing with those is like definitely part of my like personal skills. But then, moreover, a lot of it is just like.
+
+Participant 10: how do you show influence? And how do you are? Are you able to like influence like more of the company, and more of these projects to where you can like partner with teams to like, accomplish their goals and their business goals, while also maintaining, like the highest level of privacy possible. For, like
+
+Participant 10: the customers and the end users. If those are different, those can be which can be different. So
+
+Participant 10: yeah, it's a little bit like learning. And then plus also, just like showing influence and and making decisions, or like helping build guidance or tooling that gets used by a lot of people or gets break, really, really important, or like, you know, just showing that like you're contributing up beyond just you, you're contributing beyond just your team. You're contributing to like the entire, like trajectory of the business.
+
+Liam: Gotcha. Now a question about the future. A year from now. Do you see yourself in the same position, more specifically doing what it is that you currently do in your position.
+
+Participant 10: Yeah, I mean, I hope I would have some growth, I mean with layoffs who who honestly, for sure, like, you know. But like, yeah, II would think so. I mean.
+
+Participant 10: I don't really think
+
+Participant 10: like the job market, especially because I guess I have a very particular set of circumstances, cause I'm remote, and I kinda got grandfathered into remote. And so now most of the new roles like aren't really remote, like they're hybrid. So
+
+Participant 10: I kind of like my position that I'm in just the fact that I'm remote. I like my team. I like my manager. I like my tech lead, and so like, yes, II do think I'll be in the same team.
+
+Participant 10:  and may hopefully I will have grown and maybe gotten promoted or gotten new projects or done different things. But I don't know who knows we'll see, and anything is certainly possible. But I definitely hope that
+
+Participant 10: in some ways I will have grown either in my current role with my scope, or if it's a new role, it's a new challenging opportunity. Maybe the new company. But I don't know.
+
+Participant 10: Can't say, obviously for sure.
+
+Participant 10: Yeah, that's understandable. Now, transitioning to talking more about the your day to day responsibilities. First question I have is, could you tell me or give me an idea of what a typical day at work looks like for you? Yes, I can actually, okay. So
+
+Participant 10: so okay, that's
+
+Participant 10: 70%. So on my team, [Redacted]. And so we cover all the privacy launches. We cover all the privacy reviews for all the launches within ads, which [is very large].
+
+Participant 10: I think, like
+
+Participant 10: [Redacted]. And then there's like dozens of teams right like, there's dozens of teams, dozens of launches, any small change in any of those things. Triggers would soon as a launch. And so 70% of our time. So I think there's [single digit] on our team.
+
+Participant 10: and each of us is assigned to like a different set of teams
+
+Participant 10: in a different parts of the as business. So I handle all the like measurement teams. So that's like
+
+Participant 10: all the big like, and it like, it's it's hard to explain, unless you like. Kind of like. Know the ads space a little bit. But like there's big like enterprise like ads measurement products. There's stuff where you can bring in your onepe data and join in with [COMPANY] data. And then, like, do conversions on it. And there's a bunch of like there's like [Internal Product/Team] that I cover. And so I cover a suite of teams. And so like, 70% of my job is just like core support for those teams.
+
+Participant 10: And so what that actually means is that like
+
+Participant 10: when they want to make changes to their products, or they want to roll out new stuff, or we have third party cookies that are deprecating, which that is a huge shift of like what's happening for like running an ads business right
+
+Participant 10: like they come to us and they say, Hey, like, we wanna do this thing like, how do we do this in a way like, is this okay? For basically where the last line of defense, for like
+
+Participant 10: privacy, approval for these things. And so sometimes it's innocuous. But sometimes it's like very complicated and very gray area, or very like high risk.
+
+Participant 10: And so
+
+Participant 10: ideally we engage with them like early, like before things are built, and so that they come to us, and they can do like
+
+Participant 10: consultations with us. They can do like office hours with us. or they can just like meet with us.
+
+Participant 10: But like most of the job, is like doing that that sort of thing. And so, hey, like
+
+Participant 10: with third party cookies, deprecations. Ha! That's happening. There's all these new identifiers that are being stood up to like how you run an ads business to like track clicks and conversions because advertisers need to know how much money they're spending and how effective their spend was. And like all this stuff, right? Like they wanna bring in their one p conversion data like, How do we do that in a way that doesn't cause like a privacy incident for [COMPANY].
+
+Participant 10: and like that can be very, very difficult. And so like. that's like the core part of the job is just like looking at these like super super complicated
+
+Participant 10:  like stacks. You could call it like like
+
+Participant 10:  the life cycle of like when you go on your browser, and you're not signed in, and you go to search, and you click on an ad like, how does that get like that journey of like that sort of thing is like
+
+Participant 10: thousands and thousands of different like systems that are happening. And so as data like changes through those like understanding, where access controls lie understanding like what types of collections are happening, what type of collections are permitted, what type of collection might be permitted in the future, but, like not allowed now or vice versa.
+
+Participant 10: and then
+
+Participant 10: engagement with a team is like the vast majority of thing, and then we also have, like long term projects. So then we'll meet with teams and office hours will respond to teams offline. We're like very popular people because we are. We hold a a key thing to like. Allow them to launch
+
+Participant 10: like they can't. They literally cannot like launch their product unless we approve it. So we're like a key approver. So they kind of are like. In a way, it is kind of nice, because
+
+Participant 10: but it's like they have to listen to us, which is really good. And I think
+
+Participant 10: that's kind of a a facet of the fact that like [REGULATORY ACTION] of like, maybe [COMPANY] by law, they have to have privacy engineering as a thing.
+
+Participant 10: so
+
+Participant 10: engagement with teams in response and like looking at stuff in office hours is, like most of it. our own meetings and our own projects, and like building our own internal tooling is like another like 15 to like 20.
+
+Participant 10: And then we also have, like advocates and volunteers, who like help us with reviews that do that are like other software engineers and other teams like volunteer. And so then we like mentor and train and do that kind of stuff. And that's another like 5%. And then
+
+Participant 10:  like, escalations are like its own thing. And that can be like
+
+Participant 10: a
+
+Participant 10: to 120%. It just depends, though, those are like much more like sporadic. But that's like, say, we have a product team wants to do it, a thing that we view. It's higher risk. We say, Hey, this is not permitted. We're gonna block, like there's and we and us and the product team. Ideally, we find
+
+Participant 10: a mitigation that works. That's a compromise to where they can do what they want to do while doing it, while ensuring that, like either data, policies or whatever. If that doesn't work and we say no, and we're blocking.
+
+Participant 10: they can escalate. And so then we have to manage this process to where it like goes up to like a leadership decision to where like, Hey, we say, here's what the risks are. The team says. Here's what the business. Here's what we want to do. And here's what the business outcomes are. And then, like the Vp of ads has to be like, hey, here's what we're gonna do and like, make a decision except the risk, or don't, or whatever. And so that can be another part of it.
+
+Liam: Gotcha. And just a follow up on this sort of 70% like consultative work. Is that work typically them coming to you just with questions, or like a literal architectural design, that. Then you're reviewing or literal code.
+
+Participant 10: Yeah, unlike. So we have. Our team is actually set up very like, we have a very like
+
+Participant 10: formal process. So they have a. They have a set engagement process. And there's like launch processes that are formal within [COMPANY]. So say, it's kind of like Jira tickets, right like, there's like this ticketing thing. But like
+
+Participant 10: they have a process where they need to get like an approval, it's like an actual approver on their like thing before they can like launch.
+
+Participant 10: And so most of the time it works where we have like a system where they can like
+
+Participant 10: either file like a console with us which generates this one type of like artifact that we will work on, or they'll file like a launch review which has, like a different type of artifact which is like more formal.
+
+Participant 10: But either way, regardless of it. they have, like
+
+Participant 10: a system that like tracks. So it's like almost like tickets that come in. There's silos that are assigned, so we have to respond to them by a certain time, or whatever
+
+Participant 10: or like, we should respond to them. It's like within 2 weeks, but but they have to provide like the design docs, and sometimes it usually it'll be like at at a stage where it's like early design, where it's like, I don't know if they've ever seen like an engineering design, Doc, but it's like
+
+Participant 10: here's what we're trying to do. Here's some data architecture, diagrams of here's what's flowing where here's all the different systems. Here are the configurations. Maybe there's some pseudocode or like an algorithm sketch in it.
+
+Participant 10: But it's like, it's like pretty detailed outline of, like what they're trying to do.
+
+Participant 10: They also, then when they're doing an actual launch review. They'll have like a privacy design, Doc, which is a a piece of tooling that's built in with it across all of [The Company] where it's like
+
+Participant 10: it's like the privacy, Doc, of their of their project. And so most of the time it's it's looking at like design docs. Or if they come to office hours. They have to make slides that have these things on it
+
+Participant 10: and sort of looking at like, okay. like.
+
+Participant 10: here's this thing that we're trying to do. Here's our current system that does this thing. And I'm trying to. I'm trying to think of give you a specific example like
+
+Participant 10: like [Internal Product], for example, like [Internal Product]. Right? You like.
+
+Participant 10: you can, you have a shoe store? You can run [Internal Product] on your shoe store. In theory, you're tracking events and conversions and like add to carts. And all these different reporting metrics
+
+Participant 10: on for your data. And so [COMPANY] is acting as a processor. And so like just to support that one product, there's like dozens of different like data pipelines, and like things that are happening. And all these different things. And so usually the change will be like specific to one part of that. We want to support a new type of data collection
+
+Participant 10: to in order to like, unlock this use case. So then, we have to be like, okay.
+
+Participant 10: here's the piece of infrastructure that that is like interacting with. And like. Here's the sort of like risk acceptance. And, like W. What are the immediate changes, or what are the immediate like? Privacy risks, or mitigations that are that exist within that, and then any downstream teams that like read from those tables. We also have to think of like
+
+Participant 10: the downstream effects, and like, follow one effects or like, if this is a fundamental position of like, we are now changing, like [COMPANY]'s, like changing its position on
+
+Participant 10: a type of data collection like that could have like a bigger impact. So
+
+Participant 10: it's like, it's very. That's the hardest part of our job
+
+Participant 10: is just like having to be subject like cause. If you're a software engineer, right? You'll work like, say, you're on a team for 2 years you'll work your entire like 2 years or 5 years or 10 years. If you're a tech lead just in like one small piece, like just in attribution, or just in serving, or just in
+
+Participant 10: yeah, like, whatever like, pick pick a thing right? And you'll be an expert in that. But we have to be experts like, I like support, you know, 40 teams or more. And so it's like we have to understand, at least have a cursory level of like, how everything works, and then, or if not, be able to like, learn it very, very quickly, and be able to make like
+
+Participant 10: decisions that are like cause. There's no one we can pass the decision making to. It's like we are the decision makers. That's the other hard thing is like.
+
+Participant 10: you're pretty junior like, especially when I first started.
+
+Participant 10: Like, you're pretty junior, but like people are coming to you for decisions like. And you can't like, pass the buck like you gotta be like, hey? Like, what is the best decision making here. And you gotta like, really understand? And that's probably the biggest learning curve, and like the hardest part about the job is just being like
+
+Participant 10: you are the person that actually has to answer the question, especially on office hours, where it's like a very senior person who's been at [COMPANY] like 15 years. They're a tech lead. They're asking you what to do, and that's like can be very daunting. And that's the part where it's like, I think, for our team ramp up takes about a year
+
+Participant 10: like it takes a year before you can like, actually, like, really be like, you're like settled in. And luckily, now, on our team. Everyone's pretty like.
+
+Participant 10: like, we don't really have any junior people on our team. So everyone's very mature. But then it's also very fragile, because there's a lot of like
+
+Participant 10: we, we have playbooks, we have guidance. We have stuff and like training materials. And like all these things. But like, it is sort of like. If someone leaves, there's a lot of like tribal knowledge, that sort of leaves with that. And so there's a lot of like. you know, attrition risk where you're like. Oh, fuck like I really hope people like
+
+Participant 10: don't get laid off, or whatever cause then you'd I'd have to learn some other entirely new thing.
+
+Participant 10: and all the decisions that got made, and with regard to it.
+
+Liam: Gotcha. Now, the the next question I have is, what responsibilities does your employer expect you to take on or work?
+
+Participant 10: What? What's the question?
+
+Liam: What responsibilities does your employer expect you to take on at work?
+
+Participant 10: Yeah. So we have, like a very formal like expectations like tooling thing. So at these, like giant big companies.
+
+Participant 10: there's like a lot of like set in tooling and like bureaucracy, that sort of like
+
+Participant 10: forces, a certain amount of like conformity. So, like every team, has these things called [REDACTED], or every person has these things called [REDACTED] that you set. It's literally a tool called [REDACTED].
+
+Participant 10: And you have to like. set them. And it's basically like what you're gonna do for the year.
+
+Participant 10: And then, like your manager, reviews it with you, and then, like during performance review time, you and your manager like go through and be like, did you do these things like, did you do this? And if there's any changes to that, like, you have to like, justify the updates.
+
+Participant 10: And so and then, based upon how complete you did those. That's what gets sort of used in the like
+
+Participant 10:  performance rating and like calibration and like for promotions like Yada Yada, Yada. So like, we have like very set expectations that like we just did, I mean, usually set them up at the beginning of the year, and you can update them throughout the year. But yeah, so like.
+
+Participant 10: there's a core amount of like support for my core product teams, which is like a big part of my like roles, which is like literally codified formally like, Hey, I you'd have to support these things.
+
+Participant 10: and then you have other things like other project work like, Oh, hey!
+
+Participant 10: Like, we see this big open risk in this area, we need some like guidance to help teams use like trusted execution environments, or something like that, or like some new technology that's coming out like on device. Something like
+
+Participant 10: it'd be good if we had like formal guidance on that like, do a project on that. And so that might be another like set thing that you scope. But like usually
+
+Participant 10: you would like.
+
+Participant 10: put that down so the [REDACTED] are always like very, very clear, and then like, if escalations come up, or like additional work that comes up, you would like talk to your manager about them be like, Hey, I couldn't get to this thing because I have this other thing. But
+
+Participant 10: yeah, I can't get into like what mine are specifically. But yeah, it's like a mix of like core support for these things like product, guidance, or like specific projects, and like building internal tooling, building, new versions of internal tooling.
+
+Participant 10: Or and then there might be some that's like community contributions. So like training leading some trainings for advocates,
+
+Participant 10: doing some like volunteer stuff that's like part of the [COMPANY] community that's like part of it, too. So and there's like, usually like about 5 or 6 big things that you have to do. And then within those, there's like a bunch of sub things.
+
+Liam: Okay? So given the the fact that these expectations are so meticulously prescribed. Would you agree with the statement that
+
+Liam: your sort of employer expectations, and then the actual day to day? Responsibilities of your work are quite in line.
+
+Participant 10: They're as in line as they can be. I think I think it's like, if you're at a very small company
+
+Participant 10: like, for example, my fiance works at a very small company. It's much more like
+
+Participant 10: flat cause it's like the owner of the company, or like, it's like, it's like a very like more nimble thing. And so maybe, like, you don't have these like well defined things. These are just, I think, an artifact of the fact that [COMPANY]'s like Giant, right? So it's like they have to have these sort of like standardized things. And like they're not perfect. And maybe
+
+Participant 10: not. Everyone kind of like uses the tools the way that they're intended to be used. But in theory, right? Like the expectations in the tooling should match like the stuff that you're actually doing. And your manager should all be like aligned. But it's kind of on you to like. It depends on your manager, but like from my from me and my manager.
+
+Participant 10: It's very much like you have to like
+
+Participant 10: like. She's not gonna do it for you like you have to do it all and like, scope your work and like, make sure it's in the home thing, because, like it's not her job like her job, is to advocate for you when it's like time for performance reviews or whatever, but like she's not gonna like. Make your thing for you like some managers might do that like we have to be like, Hey, here's what I'm working on. Here's why it's important and like here's why you should care and like, if I need you for something like I'll let you know. But other than that it's very much like. So it's it's it for me. It is very much in line, but it's kind of like up to
+
+Participant 10: each person to determine, like how and aligned they really are.
+
+Liam: Gotcha, okay? And are there any additional responsibilities you feel you're expected to take on in your role, such as to society others in the organization, or even yourself. You've mentioned training.
+
+Participant 10: Oh, to society, that's interesting. I guess. Like
+
+Participant 10: our team is very much. It's kind of crazy. Because [COMPANY] does a very poor job of like
+
+Participant 10: like [Other Big Tech Company] is great at like Pr for their privacy story right? Like [Other Big Tech Company], like, like, you literally have advertisements and billboards. And [other company emphasizing privacy in their products]
+
+Participant 10: and their platforms, and like
+
+Participant 10: they have, you know, I don't know. Like [Other Big Tech Company] has its own like privacy, centric attribution, and like add add id thing like they have a bunch of like
+
+Participant 10: like like the Sk add net network. They do stuff. But like [COMPANY] does stuff that stay to the art and crazy. And like [COMPANY], has a lot of like very sophisticated like privacy controls and like.
+
+Participant 10: And it
+
+Participant 10: like, our team works very, very hard. And we're very proud of our work. But like, I kinda feel like. yeah, like, we are like, sort of
+
+Participant 10: the
+
+last line of defense between, like.
+
+Participant 10: you know, [COMPANY], just literally being the caricature of like what the Internet like things [COMPANY] is of like data collection versus, like what's actually happening. And so like, even, I was pretty like you when I joined. I was very cause. I'm not like a daily. I built like consumer privacy stuff like I was very much like a
+
+Participant 10: pro privacy advocate person like like Big Support, the Ccpa. And I was kind of expecting
+
+Participant 10: really to be like, all right, I'm gonna see some like sausage is getting made. It's gonna be pretty like bleak and like
+
+Participant 10: I'm gonna see some stuff that's like unsavory. But like I'm completely I can't speak for all of [COMPANY]. I can just speak for ads
+
+Participant 10: like, it is very like [COMPANY]'s privacy. Engineering program is very, very sophisticated and very mature, and like we have controls like, if you opt out of ads, personalization like that actually works and that gets propagated and like, I know, like now, I know for sure that that stuff works. So it's kinda like.
+
+Participant 10: I am very. It's, I guess the question is like, Do we feel any extra stuff to society? It's like, yeah, I kind of feel like we are part of the reason why that stuff gets like upheld
+
+Participant 10: and like a lot of decisions that get made of like.
+
+Participant 10: okay, like, [COMPANY]'s, like, third party cookie deprecation. We have privacy. Sandbox like, that's a much better like
+
+Participant 10: outcome for for users than like trade desk uuid, which is like literally just Pi iii, that advertisers and third parties are passing around and calling it like a
+
+Participant 10: it's like, just learn these pi is a join key between like trade desk and like whatever advertiser, which is like a much worse outcome. And so like being on the inside. Now I like there's a much different perspective where it's like, d is very bad at Pr, and everyone likes to hate on like privacy sandbox. Everyone likes to hate on like the collection stuff. But like, I know for sure that, like, I'm much more comfortable with like
+
+Participant 10: data control and the retention and the everything about like [COMPANY]'s user privacy with respect to ads than I was then way before I started. So
+
+Participant 10: yeah, I don't know Ramble. I don't know if that helps answer your question or not. But that's just
+
+Liam: that was great. Yeah. Then the next question I have is about your skill set, and I'm gonna combine these in this sort of 3 parts into one question, just because we we have only 14Â min left of the scheduled call
+
+Liam: But
+
+Liam: we're most curious in the skills that were demanded of you when you started your current role. And then the skills you're using right now. And if they're different, if there isn't a difference in the skills that were expected. And now the skills you're using?
+
+Participant 10: Yeah, I think a question. I don't know exactly what skills were demanded, because, like.
+
+Participant 10: I don't know what got filtered like, how my resume got filtered through to like, get to like whatever the interview, stage, or whatever like. I think
+
+Participant 10: I think what I can tell you is on my team. All of us are. except for one person. Now all of us have technical backgrounds, and that either we're software engineers who lad or transferred.
+
+Participant 10: or who have, like some type of like engineering based masters degree or like who have, like strong technical backgrounds. There's one person on my team who was a lawyer
+
+Participant 10: who then became a privacy program manager, and then latter transfer to become a privacy engineer, but that, I think.
+
+Participant 10: is more rare these days, where like?
+
+Participant 10: So I think
+
+Participant 10: II can't answer like what exactly was known other than like you had to like map past the interviews and like, do the stuff. But the skills that you need. Now, I think
+
+Participant 10: definitely like the biggest thing has just been like
+
+Participant 10: core like software engineer and like system design skills or like, did was not something I was expecting. And maybe I maybe that was dumb. But like, you really gotta know. Like, okay.
+
+Participant 10: here's this like system that has like
+
+Participant 10: a hundred
+
+Participant 10: K queries per second, like, flow like, like, there's crazy scale that's happening. And it's like, okay, for every single ad that gets served, we have to check it across this like unified identity platform like, you kinda have to understand like how to redesign docs and how to read like Internet systems at scale, that, like
+
+Participant 10: I had no clue about like I knew a little tiny bit about from like building on my own, but like didn't really know about. And I feel like the interviews didn't really like cover that. But like is a critical piece of being like
+
+Participant 10: you have to like teams are gonna come to you. And they're doing this stuff. And you gotta understand what's happening. Cause if you don't, you're not gonna be able to make a privacy decision on it, or any type of like useful decision cause you're not gonna even know what's happening. So like
+
+Participant 10: being able to like quickly. Read a design, Doc, or, quickly, like, be like, Okay, here's this product. Here's what it's doing.
+
+Participant 10: Here's like the tech stack. Here's what's going on with the tech snack and like, here's like, fundamentally like how data flows, how access control works like IM roles like we don't really have IM roles at [COMPANY], there's like other things that are like Mgb groups like basic level of like access controls. And like
+
+Participant 10: technical governance like
+
+Participant 10: Vpc groups have come up like random stuff where I'm like, oh, I just happened to like. Know what those are? Because I've like configured a Gcp. Tenon project once. But like, if I didn't know that like I wouldn't be able to help this team, or like random, like pub sub like random cloud things where like, what is this? What is this thing doing? It's like, oh, it's a publisher subscriber thing like you have to kind of know, like random.
+
+Participant 10: like architecture type stuff that I feel like isn't really covered in the interviews. But you should really actually know. And if you don't know, you're gonna have like, really big problems, at least our on our team, you'd have big problems.
+
+Liam: Gotcha. Okay? Now, the next topic we'd like to move to is your reporting and deliverables in your work. So the first question I have is, who do you report to?
+
+Participant 10: So I guess I have a manager. That is the main person I report to, and then we also have a tech lead.
+
+Participant 10: So it's kind of like.
+
+Participant 10: I guess. Technically, I report to my manager. But like for general questions I'll usually ask like our tech, lead or manager. But, like manager, our manager is usually like.
+
+Participant 10: Only if, like, you need something like you. You kind of want to like. Tell her what's going on at a high level, but you don't want to like involve her with, like the benush of your problems. You only really wanna like involve her with something, if you like, aren't getting like heard or like, you need something to be escalated beyond you, because, like someone's not listening to you or something like that, gotcha.
+
+Liam: okay? And then does anyone report to you?
+
+Participant 10: No. So at at least at [COMPANY]. There's like
+
+Participant 10: what's known as individual contributors. I think that most big big companies, that kind of have this model, too. There's like individual contributors. And then there's like managers, and those are much different roles.
+
+Participant 10: And so. like managers or people. Managers like
+
+Participant 10: have, like a different set of like criteria by which they're evaluated against, because they have people that report to them. And so they have a bunch of different types of responsibilities versus like individual contributors, are just responsible for, like the core work that they do. And so, like most like software engineers and most privacy engineers, and most like
+
+Participant 10: a lot of the people, are like
+
+Participant 10: individual contributors, and won't have anyone reporting to them, because that's like a different thing than like being a people manager that you would, which is sort of like. It's entirely different role and different, like criteria. By what you get evaluated
+
+Liam: Gotcha. And I'll follow up with the question, what are the typical reporting structures that you see in this privacy engineering profession
+
+Participant 10: boarding structures. I guess. There, yeah, there's like managers. It's just managers like Ics to managers.
+
+Participant 10: Sometimes it'll be like like
+
+Participant 10: like. There'll be like multiple. There'll be like security engineers and privacy engineers reporting to like a central manager or like my manager, for example, leads like a software engineering team. And our team.
+
+Participant 10: And so like, there's like 2 types of like stuff that like, Oh, like, there's another manager that's below her, and then he reports to her. So it's kind of like.
+
+Participant 10: Generally it's going to be like an engineering manager.
+
+Participant 10:  I guess sometimes you might have like
+
+Participant 10: program managers or something like that. I don't really think that that's a common thing, at least like [COMPANY] that I know about most time you would have like privacy. Engineers are in what's known as like, there's like this thing called like role profile. So [COMPANY] is.
+
+Participant 10: they have the core, like formal for everything like everything, has been thought out and has, like its own, like thing, right? So there's this thing called row profiles, which is literally a tool, that you'll go. And there's like job families. And so there's like software. And like, you click on that. And there's like
+
+Participant 10: privacy, engineering, software, engineering, security engineering and like research engineering or something like that. And those are all part of like the software engineering like Job family. And then each one of those will like
+
+Participant 10: have its own like role profiles, and like ways of like, they have its own bladder. So like criteria by which you like can can get compared for like performance reviewing structures and stuff like that. So it's very like codified I. It's probably not the case at other companies. But I wouldn't know. So.
+
+Liam: gotcha. And then what deliverables are required from you and your role?
+
+Participant 10: Yeah. So most of it is is like. is just like
+
+Participant 10: in this, like Jira ticketing type, tooling of just like the day to day. Privacy, guidance. We like capture in our like tooling. That's just like responding to teams like marking things as fixed, like bringing things up like attending the meetings like
+
+Participant 10: that's like the core thing is like these, like ticket systems. And like S related artifacts. Then there's like project work. And so project work. For example, like, when I first joined my like nuclear project was, I had to like.
+
+Participant 10: convert this our playbook, or like, we're how to do reviews, playbook from like a dock to like a website. So like, I'd like, build a website, an internal website for us. So then that'll do that. That's like a discrete thing, or like some people on our team are building like
+
+Participant 10: specific tooling like a new version of the what's known as [Internal Product], which is the privacy design, Doc tooling. And so like they'll make a change to that. And like, that's the deliverables like this tooling thing that they've like built that's like this internal tooling, or it'll be like a specific set of guidance or something like that. A discrete thing. Sometimes they can be a little bit more like
+
+Participant 10: ephemeral, or like sticky where it's like, oh, I did all this work for like office hours like, how do we capture that? It's like, Oh, well, we have like office hour notes, or you can just like count how many office hours you did, or just like summary statistics of like that quantified back to your support. Back to the team.
+
+Participant 10:  But yeah.
+
+Liam: okay. And then how are those deliverables evaluated by your manager.
+
+Participant 10:  so
+
+Participant 10: well, okay. But evaluated. Do you mean for like performance reviews, situations? Or do you mean like the like
+
+Participant 10: actual like? Content itself? Because that's like different types of evaluation
+
+Liam: in terms of like content. If it's like, satisfiable kind of
+
+Participant 10: senior, or like everyone, is at least like no one's like a new right. Everyone's sort of responsible, and everyone's at least an l. 4, which means they have like a certain they have to have a certain amount of autonomy.
+
+Participant 10: So it's sort of like
+
+Participant 10: you decide that, or like, I decide that, hey? Like we need some guidance on like a bunch of teams are coming to us with, this, like one particular type of issue of like
+
+Participant 10: cross id space, join ability where it's like, Oh, there's this issue with, like we trying to prevent like sign inside out joins, it's like, and then we need some like guidance for that. So it's like, Okay, so like, I'll scope that project I'll like, make that project, and then I'll like talk with maybe my manager or or Tl, and be like, Hey, like
+
+Participant 10: like who needs to be a reviewer on this, and maybe, like the Tl. Might need review, or you sometimes our manager might might be a reviewer on it, too, but usually sort of like
+
+Participant 10: they'll just do like comments in it like it's for like revisions, if it's like a dock or something, or if it's a website or something like that like they'll be like, Oh, hey, change this change this, but like
+
+Participant 10: it's not like judged on a scale of like one to 10. So like, did you do it and like, do these things, or or like not? And then you're kind of responsible, like how good it is is largely on you, and then
+
+Participant 10: it gets published, or say, like.
+
+Participant 10: you address the comments and say, the audience is like something like ads wide. So there's like a big viewership, because we're like setting a new policy on retention that's like for every team in Ad. So
+
+Participant 10: how it gets evaluated in terms of like your performance is like, what impact did that thing have like?
+
+Participant 10: Are you influencing beyond your team and beyond one team like? Are you setting an influence across like a bunch of teams and ads, or like 1,000 potentially like thousands of teams or something like that, right like that, might have a big influence or might have a like a really small influence, if it was like, really dumb. And we didn't actually need this guidance, and no one's listening to it anyway. So it's kind of like
+
+Participant 10: up to you and like your own decision making of like making it doesn't need to get made. Is it actually good? Yeah, you can have them as like reviewers, but they're not gonna like, Tell you it's bad or good. They're just gonna be like, Oh, hey! It should be this or include this or not.
+
+Participant 10: And then it's like way post the fact in the performance review time where you're like. Oh, hey! Here's something I did. How she's gonna evaluate it, or how your manager's gonna evaluate. Okay, well, what the thing you made? What did it actually do like, what were the outcomes from it like, did anybody read it? Did anybody care? Did anyone? Did it actually change anything? If not like that doesn't have a lot of impact. So it's like.
+
+Participant 10: it's not gonna look good for you. Cause it's gonna be like, okay. Well, someone else did something that had a lot of impact. So
+
+Liam: Gotcha, okay, we have 2 topics left. I have time to go over, but no worries. If you guys have to leave. Okay, great, no, just let me know. Let me know when when you have to call it quits. But otherwise. So I'm good.
+
+Liam: Okay? Well, then, the next topic we'd like to discuss
+
+Liam: is challenges and then strategies you use to address those challenges? The first question I have.
+
+Liam: are there any tools, techniques, or standards that create challenges for you?
+
+Participant 10: Are there any tools, techniques or standards that create challenges?
+
+Participant 10: I mean, yeah, sure, we have internal tooling that can suck, that creates challenges because it's broken or something like, Yeah, that's that's one thing
+
+Participant 10: techniques.
+
+Participant 10: This is this is a hard question to answer, because, like, yes, there, there are all sorts of things like.
+
+Participant 10: you know, creating a formal differential privacy. Implementation can be very challenging or telling a team how to do that can be very challenging, depending like they can't have any sort of like lapse and usability, because they need to deliver like a ground truth to the customer until it's like
+
+Participant 10: how you gonna add noise and add uncertainty if you have to deliver the actual answer to the customer. So like that can be a challenge too.
+
+Participant 10:  is there? Can you explain more on exactly what you're looking for in this question. Cause that, I think helped me like, answer it.
+
+Liam: Yeah, I
+
+Liam: I think the question is sort of itching at. If there's any sort of
+
+Liam: specific tools that you're using that create challenge which you've mentioned, there are. If there's any standard frameworks that you have to follow, that create challenges for the end goal. That sort of thing,
+
+Participant 10: I see. So yeah, so there's an internal like [Company] wide, like tooling call that's created by one of the like central privacy teams called [Redacted], which is like the privacy design. Docs are almost like [Internal Product] tool breaks a lot for sure, like we make our own version of it for ads teams. That's like a little bit better. But like the tooling itself, breaks a lot.
+
+Participant 10: or there's like outages in it, or something like that. But it generally works pretty well
+
+Participant 10: in terms of like techniques like we don't follow like any sort of like external, like privacy by design stuff, or like iapp thing like, like all the stuff that we do is like very specific to us, and like guidance that we've make ourselves or like
+
+Participant 10: that, we've developed ourselves, or that our team has developed ourselves. So it's like, usually the stuff that we're using in terms of like frameworks
+
+Participant 10: is so like specific to like what we're doing. It's kind of like which is kind of, I guess, not to like go on a diet tribe. But like, I kinda like question the like
+
+Participant 10: usability of like the iapp stuff like, I've never really gone through with it. So maybe that's like part of like, maybe I don't know really know what's in it. But to me it's kind of like those general privacy by design. So like, I've never seen them use it because it's like what in terms of the stuff we do. It's all like
+
+Participant 10: very specific technical challenges that are like specific to like our business, that like, you wouldn't be able to make a general framework. It's like, Okay, yeah, make a general framework on like
+
+Participant 10: on like this pseudonymous cookie space. And whether or not that could be joined to like first party data uploaded. That's like hash pi uploaded by a customer. It's like
+
+Participant 10: we have techniques and and frameworks that are designed to like handle those types of challenges. But those aren't generalizable outside of like even ads like they're generalizable just to within our own team. So.
+
+Participant 10: but they're very useful for us. Sometimes they can. Sometimes there are like
+
+Participant 10: like specific things like, there's like the very famous blog post that announced [REDACTED]
+
+Participant 10: and like, announced like, [REDACTED]
+
+Participant 10: and sort of like. I guess this is kind of confidential. I don't know how confidential is, but like, basically, that statement was made without any sort of like thoughts as to like how the impacts actually happen
+
+Participant 10: of like ad serving and like systems within ads. And so that's been a huge thing of like, we made this external commitment, and, like regulators, are looking at us like.
+
+Participant 10: Oh, hey! Like you're deprecating third party cookies and like replacing with privacy sandbox. Yada, yada, yada, like
+
+Participant 10: we're not gonna track people on the web like we made these statements. And then now, like
+
+Participant 10: actually putting that like rubber meets the road of like
+
+Participant 10: launching ads products and doing stuff. It's like, well, very gray area, and becomes very hard. And so that was like a framework that
+
+Participant 10: is like still ongoing to this day of like. Why, like, how like, if you think about like, how come third party cookie? Deprecation has been delayed like 3 or 4 times, it's like. because the entire ads business runs off third party cookies. And you can't like replicate that overnight without, like.
+
+Participant 10: you know, like actually having like considerations to that. So.
+
+Liam: Gotcha. And then, are there any challenges related to your organization or reporting structures that you face?
+
+Participant 10: Yeah, there's there's a lot there's there's like one of the key things that we've noticed that that's kind of funny, because my whole team like notices. This, too, is like, so there's other privacy engineers at [COMPANY] that say, work in core. So I work in ads.
+
+Participant 10: so we're privacy working group ads, so we're federated to ads. So all of our like performance. Review stuff happens
+
+Participant 10: with like managers in the ads org or whatever, and say ads is like a few 1,000 people, or whatever right like, we're the pretty much the only no, we are the only privacy engineers in ads. So the rest of like engine, the rest of, like the technical roles in ads, are all like
+
+Participant 10: software engineers. Maybe some data scientists. Right?
+
+Participant 10: There's there's like core. There's like other like business units that aren't ads that like maybe have like a central privacy team that have like more privacy engineers
+
+Participant 10: and or more like other types of roles or whatever. And one thing we noticed, it's just kind of funny. Cause we're like. very like.
+
+Participant 10: not like bitter, not maybe a little bit bitter about it. But just we've noticed that, like other teams like other privacy engineering teams
+
+Participant 10: way easier to get promoted like II guess before, definitely, for lay offs and stuff like way easier to like show impact. And like they get way higher ratings for like stuff where it's like.
+
+Participant 10: everyone on our team is like super super high performer, like very high performance, like everyone on our team does work. That's easily like
+
+Participant 10: L, 2 or l. 3 plus like across the board, like unilaterally like, that's the case. And like
+
+Participant 10: we kind of are like, hey like if we would, the same work that we would have done that just is like for us is performing at level would have been like performing at like 3 levels higher, and would have gotten promoted, and other things in other orgs, or whatever so like.
+
+Participant 10: When our manager does the like horse trading and bureaucratic political stuff. That is the like performance review and promotion process.
+
+Participant 10: We're compared just to like sues or like a software engineering managers who don't have any really insight into like privacy engineering, and are kind of like, alright, they did this thing like who fucking cares cause they don't really understand the role. And so that's been really, really hard, is like, ads is already very like intense. And then also, like.
+
+Participant 10: we're kind of like we have like, how like Berkeley is famous for grade deflation, or whatever like. We have like level deflation within, like ads versus. But then the benefit of that is like a lot of the people that we've seen that had the level inflation. And like the other stuff in core.
+
+Participant 10: they are now on some problems because they're going through crazy reorgs, and it's like very stressful to be them, too. So it's like, it's it's a double edged sword where it's like, Oh, wouldn't really want to be them, but also kind of suck that we weren't them because we had to work way harder to like. Show the same level of contribution.
+
+Liam: Okay, got it. So in summary regarding your the challenges you've listed. Of course, there's internal tooling challenges where they're just buggy. There could be old. They don't work properly. And then, honestly, the bulk of the challenges are just the job analyzing super technical problems and finding solutions.
+
+Liam: And then, in addition, there are some organizational structural challenges where you feel as though in your in your team. The level there's that sort of level deflation that you've mentioned. Is that correct?
+
+Yeah?
+
+Participant 10: And just like we all are like like art. Our Pwg. Has, like the most launches of any Pwg in [COMPANY] by like a lot, but like a few 1,000. And so, like all of us, are all like
+
+Participant 10: like overly contributing, which I guess is part of that. But I think the the biggest challenge, though, is honestly just like
+
+Participant 10: being at odds with, like the ads. Business itself, like T, like
+
+Participant 10: like revenue, like the ads business. There's like a ton of cause. It's a huge, it's like [large part of company's revenue], right? And so there's a huge amount of pressure
+
+Participant 10: to like grow that.
+
+Participant 10: And so, like a lot of times like
+
+Participant 10: in efforts to unlock new markets and new business outcomes. there's like teams will like
+
+Participant 10: push the boundaries of, like the types of data collection, or the types of like conversion, or the types of serving, or the types of targeting, or like whatever like they, they they want to like, push the limits of like what is acceptable from privacy. And like, we're the last line defense, and we're directly at odds with like business, like
+
+Participant 10: critical business outcomes. And so lot of times like, we're not very like well loved, and like we have to go to that against like Vps who are like trying to like
+
+Participant 10: grow revenue by like 100 million dollars or something. And we're like, Hey, this is like a key risk that we're gonna be doing like. It's probably not good that we do that like from a technical perspective like.
+
+Participant 10: And that's like directly at odds with like
+
+Participant 10: [CEO] earning, and that, like, you know, I'm saying like that's like with, like the key thing of driver like [COMPANY]'s revenue. So that's definitely the most stressful part is just
+
+Participant 10: like at odds with that peace.
+
+Liam: Gotcha, and follow up on that. Are there any distinct strategies that you use to combat? Sort of that?
+
+Liam: bad guy persona to those vps that are looking to increase revenue by 100 million.
+
+Participant 10: Yeah, we like. And that wasn't like a specific number or anything like that wasn't anything but like, okay. So
+
+Participant 10: I think one thing we at least that I do personally is, I like, make sure that like
+
+Participant 10: leads in other areas like teams that I support. They. They know that I'm like a partner.
+
+Participant 10: And like, I work really hard to like develop relationships with those teams, and so that like, hey
+
+Participant 10: like, and sometimes it's easier to do that with because they are already are are like, are there more organized? Their Pds are better. They already just have, like a better privacy story. So it's just like easier for me to do that. And I have like better report with them.
+
+Participant 10: But then, like in general, even if it's like a new thing spinning up, I'll like go out of my way and like maybe go above and beyond our like standard slo engagements. Cause like I could just be like, hey, if someone pings me a question like
+
+Participant 10: an engineering manager. Tl, like a different team like pings me a question I couldn't just like. Give them a canned answer like, Hey, no. Go engage in this process with a 2 week slo for like anything, and I and that's 100 like reasonable that I do that. But like I'll try to at least like manage it so that I'm not being pulled in 1 million directions, but that I'm like, Hey, like I'll help them with like little things, or help them with like address. The things, or like show that, like, we can come to like
+
+Participant 10: negotiations, or we can come to compromises. And like that's actually happened before, where there was like very, very like this happened. I was like in there was like a very, very
+
+Participant 10: large effort that was going on that would have been like, let's just say, like fundamentally shifted [COMPANY]'s privacy posture in a in a certain area, like in a negative way.
+
+Participant 10: And like as an l. 3, I had to like push back against like vps. It was. It's kind of crazy that that that's was the case. But like that was the case right? And it went through this escalation process.
+
+Participant 10: and then it kind of got resolved in the sense where
+
+Participant 10: the team kind of backed down because I like pointed out these things, and it went through this like very formal escalation process up. But then they've come back with like other proposals that are like different that
+
+Participant 10: aren't as high risk.
+
+Participant 10: And maybe they're like more high risk than like what they would have been accepted as like all by themselves. But because it's sort of like, oh, they're stepping back from doing this one thing. I'm much more inclined to be like, okay, like, help them try to like, do those things as like a con. So it's like compromising with teams and being like, Hey, like.
+
+Participant 10: if we can't do this, how do we do this other thing that's like less risk. And even if it's not perfect like. that's still okay, because it's like.
+
+Participant 10: it's wellies better than the counterfactual, like something that's really really bad to do.
+
+Liam: Gotcha. Okay. And now the the last topic we have to discuss is the success and impact of your work. Broadly speaking, and the the first question I have is, how would you define success in the work that you do? Oh, it's impossible! It's so hard! That's I talk about this all the time, because success, I guess, in privacy and security to the extent is like
+
+Participant 10: a counterfactual, that it's like a terrible counterfactual that ideally will never happen right? And like. That's the best outcome.
+
+Participant 10: Right? So it's kind of like.
+
+Participant 10: it's, it's so it's so hard to measure your success cause. It's like, Okay, if you prevent a team from doing something. I guess you kinda have artifacts to show, hey?
+
+Participant 10: And luckily, in that case
+
+Participant 10: we ended up using like the artifacts and the stuff that like came out of that thing as like, Hey, like, here's our success metrics. But, like in general, like, how do you show the success of a privacy program. It's like, Do you have like less fewer privacy incidents, or it's like, if all your guidance is like early stage, it's like.
+
+Participant 10: it's very, very hard to show over time. It's very hard to like like that's like, that's a critical thing of like there isn't really like a really good way. There's ways that you can do.
+
+Participant 10: Maybe like quasi success metrics around it like, how much support have you given? How many early stage launches like there's there's and there's there's efforts that we're trying to do, which is like
+
+Participant 10: in regards to like these privacy design docs of like collection and aggregating like metrics as like in terms of like dashboarding. That's like a metric or like these, like this effort we're trying to do with that. But like
+
+Participant 10: even that isn't like a perfect thing cause. It's like a really good privacy. Engineer, like the best outcome is like the one that, like you, prevented the one from never happening that never sees the light of the day. So it's kind of like by nature. It's like this counterfactual that's like ephemeral, or like ideally ephemeral. So
+
+Participant 10: very hard.
+
+Liam: Gotcha and my follow up was, if if there's any associated metrics, and it sounds like they're kind of in development. And you're experimenting with no, we have metrics, for sure. So we have, like
+
+Participant 10: we have, like how many reviews get assigned per each reviewer. And so we have, like how many like I can literally stick. How many tickets I've closed like last quarter, or whatever like what the average time to slo was. And like we, they don't really like track like
+
+Participant 10: they're not like, Oh, hey! Like your slo increase is as long as you're not going over the slo they don't care like it's it's more like. Hey, like. here's how much. And I think that where these metrics are used is isn't really for like individual performance management
+
+Participant 10: that is done on just like the impact of like what you have to be able to show the impact from your projects like, that's really the thing. It's more like our manager uses that to like, justify budget allocation, or like justify stuff from like, Oh, hey! Look at all the all the stuff we're doing, all these launches. We're we're supporting all these metrics. It gets used to like bubble up at like a
+
+Participant 10: asking for like funding level, which is becomes a very big thing. And these, like big companies, is like bureaucrats. And like, who's going to pay for what or whose budget is this coming out of that becomes like a big thing. So that's usually used for for that sort of thing as opposed, like individual performance management.
+
+Liam: Gotcha alright, and that wraps up the last content topic. So as we close, I'd like to ask if there's anything else you haven't had a chance to mention, or or you would like to share with us, or anything you think we should know.
+
+Participant 10: Hope this is helpful. I don't know. I have no clue. If my ramblings were are going to be useful to you all. I hope that they are.
+
+Liam: No, it was great, and I felt as though you had great insights and super interesting
+
+Liam: and lastly, give you a chance to ask any questions to us.
+
+Participant 10: I don't know if you guys have anything else happy to chat more, or Nikita, if you just want to like chat, too. I'm happy to just chat, and you know. But yeah, no, this was cool. let me know what the outcomes are.

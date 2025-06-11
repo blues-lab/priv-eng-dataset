@@ -1,0 +1,909 @@
+Nandita: Okay, your identity, and anything you share with us will be kept confidential, and will only be heard and read by the researchers in our study.
+
+Nandita: Please note that this interview is designed to be a conversation, so there are no right right and wrong answers. You can skip any question or pause the interview at any time. Do you have any questions before we begin
+
+Nandita: alright, so we'll go over the questions. We have 6 topics
+
+Nandita: Topic one is introduction. So I'd like to start by asking a few general questions about your work. Can you tell me? Be briefly about, what do you do in your job?
+
+Participant 7: So currently, I focus on looking at perspective features and products
+
+Participant 7: and working with the engineering and product teams to understand what are the privacy risks.
+
+Participant 7: how can we mitigate them? And then verifying that they actually did
+
+Participant 7: mitigate the risks. and it will depend on where they are in their life cycle, depending on the sort of
+
+Participant 7: flavor of engagement but feels a lot like internal consulting.
+
+Nandita: Okay.
+
+Nandita: So when you could, you define the term privacy, as you normally use in your work context, when you say privacy risks? How do you define it at work?
+
+Participant 7: Don't actually know. I think it's too ambiguous for a single word, because it means something different to everybody. And that's part of the problem with those sort of internal engagements is, everybody else has their own
+
+Participant 7: feel, and under and definition of what privacy means. And that's part of the
+
+Participant 7: role is understanding.
+
+Participant 7: What biases are people bringing in when they think of privacy and then aligning everybody to a shared understanding for that review. But at least for me, it's an understanding of
+
+Participant 7: What sort of data is going to be collected? Why is it going to be protected. What's the risk of
+
+Participant 7: not protecting it and understanding ways to verify that
+
+Participant 7: and putting in blockers and privacy intention technologies to sort of add an extra layer of guarantee. Besides, just trust me. So.
+
+Nandita: so, so, [PARTICIPANT NAME], how would you define privacy like, what does privacy mean to you personally?
+
+Participant 7: I don't think I have a good definition, cause I think often it becomes a I'll know it when I see it. To kinda take after the Supreme Court a little bit in their definition of things.
+
+Participant 7:  because it's so context dependent and sometimes the same sort of data or the same sort of
+
+Participant 7: concern doesn't arise depending on a different situation or context. And so I don't feel like you can necessarily say, this is the definition of it, because you move it to a different context. And suddenly something that was out of scope is now in scope
+
+and
+
+Participant 7: and like it's the same thing as a person where you know you have your phone number, and you feel concerned that anybody might have it.
+
+Participant 7: But then your friends have it. So it's like, well.
+
+Participant 7: you know, there's still a third party that has access to a thing.
+
+Participant 7: It's still the same piece of data. But there's generally a trust differential. But why?
+
+Participant 7: Sorry, at least for me, I don't. I don't have a good definition which is not helpful.
+
+Nandita: How would you describe the roles in industry related to privacy engineering.
+
+Participant 7: There's definitely at least for me, there's security engineering, which is the basis. It's
+
+Participant 7: the phrase I've used before is privacy. Engineering is still trying to figure out what it is. But in the meantime, let's just copy and paste everything from security engineering
+
+Participant 7: replace the word security with privacy.
+
+Participant 7: And we're 80% of the way there. Now, let's figure out the other 80%
+
+Participant 7: but they kind of build the basis for securing the systems where the data will live and flow through. And you can't have privacy if your systems are broken or leaking. Credentials.
+
+Participant 7: aren't secured with acl stuff like that. You have legal? Who kind of gives you the guidance on
+
+Participant 7: how to interpret laws, regulations? Upcoming regulatory issues, where they see risk.
+
+Participant 7: And then you have product and marketing, who are trying to influence a product or a feature.
+
+Participant 7: And the data that it's collecting or using in a certain direction for some sort of business outcome.
+
+Participant 7:  then I would also say cryptographers, for sure, because a lot of the easy pet's are kind of
+
+Participant 7: done like. Oh, we know how to use acls. We know how to do our back that sort of stuff. And now we're getting into differential privacy and homomorphic encryption and federated learning. And it's like, Okay, cool. We're moving out of the easy
+
+Participant 7: privacy. And now it's looking more and more like cryptography in some flavor.
+
+Participant 7: Those would be the ones right off the top of my head.
+
+Nandita: And how would you dis define a privacy. Engineer.
+
+Participant 7: I think for me it's difficult, because there are so many different flavors. There is sort of like the internal reviewer
+
+Participant 7: point of view, where it's trying to build in privacy by design.
+
+Participant 7: There's also privacy engineers that are more like SWEs, who are trying to build systems
+
+Participant 7: or supporting privacy enhancing features within a system.
+
+Participant 7:  there's
+
+Participant 7: privacy engineers that look more like pen testers, they're, you know, doing penetration testing, but more from a data perspective, not from a systems perspective which kind of takes after the
+
+Participant 7: copy security engineering role.
+
+Participant 7: And then there's also privacy engineers that deal more with regulation
+
+Participant 7: that deal more with interpreting and understanding. How does this impact? Products and systems?
+
+Participant 7: What will we need to change? Or where would our risks be
+
+Participant 7: but everybody uses the same term, which is privacy. Engineer. It's like. sure, if you want to call it that
+
+Participant 7: yeah.
+
+Nandita: sounds good we moved the next section, which is focusing on the motivation. So we'll talk about more. Mo little bit more about your career journey. So let's start by asking, How did you become interested in privacy engineering as a career?
+
+Participant 7: I think I was always into it privacy in some sort of form.
+
+Participant 7: at least for me.
+
+Participant 7: only like 5, 2, 5, 3. So I'm kind of [REDACTED]. Which then means in I inherently don't have as much privacy in the physical world. Because I I'm an outlier. So it's just like, Oh, where could I have privacy? Then? Okay, there's this digital thing called the Internet? I was like, Okay, cool. Maybe that's a spot.
+
+Participant 7: And so that was that, I think, is a lot of the underlying motivation and then growing up. There was a lot of like, the Internet is new, and
+
+Participant 7: we don't really know what any of this stuff is. And it's like, Oh, that's like got hacked interesting. How did that happen? How do they know how to do that? And so I kind of got started it with it from just like a
+
+Participant 7: privacy from, you know, meet space versus digital. And then thinking, you know, pen testing. Or you know, hacking is
+
+Participant 7: neat, cause
+
+Participant 7: I was a kid who's like 11 or 12. So yay loss but then, after that, just going through more dev work in my career, working at different layers in the tech stack
+
+Participant 7: and then eventually kind of being like, okay, I've done all these different layers. What is there? That's more, all encompassing.
+
+Participant 7: So I got into security engineering. And then privacy engineering started becoming like an actual thing.
+
+Participant 7: And so then I hopped over to that because that's where I really wanted to be.
+
+Nandita: Thanks for sharing that, and maybe we can take a step back. And could you share your career journey on? How you arrived at your current position. Maybe like starting from like
+
+Nandita: when you graduated. Like, how? What? Yeah? So I'd started first out of college was
+
+Participant 7: hardware manufacturer. So working on firmware.
+
+Participant 7: Then, after that was a
+
+Participant 7: large tech company that did things like OS's and applications and products. So I worked on drivers there.
+
+Participant 7: and then after that it was web work and then consulting.
+
+Participant 7: and then security engineering. And so it was just going up different layers of the stack, and each time it was like, Okay, I feel like I've learned
+
+Participant 7: enough here where there I don't feel like there's as many shiny things that will keep my interest.
+
+Participant 7: What's the new shiny thing it just so happened
+
+Participant 7: after like the second career jump or a job jump, I was like, oh, I kind of have a pattern here of what I'm doing. Let's keep that going.
+
+Nandita: And what motivates you to continue pursuing privacy engineering as your profession.
+
+Participant 7: I don't know, like it doesn't feel like it's ever gonna be done. But it feels more impactful than
+
+Participant 7: security engineering. whereas security engineering. It's like
+
+Participant 7: cool. That internal database
+
+Participant 7: has a better
+
+Participant 7: acl. I guess we updated the library that runs it. It's like and doesn't really mean it doesn't feel like it matters and then with privacy engineering, it's much easier to say, oh, we prevented the use of X data, or we changed the company's position on how they handle Y data
+
+Participant 7: that actually matters for people. They might not ever see it or understand that it happened. But it feels like you're impacting people and not machines.
+
+Nandita: Okay? And so you mentioned about like
+
+Nandita: impactful work, and sort of like forever you know forever a student and privacy. What are some of your personal goals. You have for this work.
+
+Participant 7: I think long term, probably moving towards policy at some point. Because of that longer like work history going up the different layers of the stack
+
+Participant 7: so little unique. Compared to others. I've seen that are in the role. And it feels like
+
+Participant 7: cool. I'm affecting privacy at a company. What's more than that is like, oh, policy! I don't necessarily want to do that anytime soon, but it feels like at some point that conversation internally is going to start building.
+
+Nandita: And if I were to ask this question differently, what value do you get from being a privacy engineer.
+
+Participant 7:  I don't know. It feels like I'm actually doing something that's a net good
+
+Participant 7: for once, like.
+
+Participant 7: Oh, cool. II wrote some software. And it it's used in like some business thing. It's like an add.
+
+Participant 7: I don't care. Line on. Spreadsheet went up because of it. Okay. whereas this feels like, Oh, cool. I'm I'm impacting people. I can feel good about that.
+
+Participant 7:  and I can, you know, talk with my family and friends of like, oh, yeah, this is kind of the area that I work in this would I care about doing? And they're like, Oh, nice, as opposed to like, Oh, yeah, II write software for hedge funds to, you know, do arbitrage. So it's like.
+
+Participant 7: Yeah, I guess whatever that's a different value system.
+
+Participant 7: that I wouldn't feel as comfortable with.
+
+Nandita: Now, I'm gonna ask you question about the future. So a year from now, do you see yourself in the same position more specifically, doing what you're currently doing in your position as a privacy engineer.
+
+Participant 7:  I see myself in the same position. I don't see myself necessarily doing the same
+
+Participant 7: work necessarily because of the rate of some of the tech. It's advancing pretty quickly. And so I think as a result. the work will naturally change, but it will naturally change to what I'm interested in doing next.
+
+Participant 7: So it's kind of like cool. It's gonna look different. But that's also what I want to be doing.
+
+Participant 7: Because it's kind of a continuation of cool. We've kind of solved the easier problems. Now let's move on to the harder problems. And then those become the easy problems, and so on.
+
+Nandita: and curious, like double clicking on that. What would some of these examples be of the harder problems, or or like  changes that you expect in the work that you do.
+
+Participant 7: Yeah, I think for not speaking, for where I'm at currently. But when I talk with other people in the space like they're finally getting a handle.
+
+Participant 7: making things like Acl so much easier. And then they're gonna start looking at. Oh, how can we do annotations and lineage more automatically? And just like, okay, that
+
+Participant 7: that will. That is your current, hard problem. It's about to be your easy problem. Then you're gonna encounter to the next
+
+Participant 7: thing. And so where it goes from here for me, I don't really know, but it's kind of a
+
+Participant 7: you solve it. And then you figure out, okay, what's the next pain point that you've now discovered? Have I feel like, at least with privacy. It's gonna
+
+Participant 7: be that constant, solve something and then find the next new problem for quite a while.
+
+Participant 7: because data is not hosted locally. So as a result.
+
+Participant 7: this is just a cat and mouse game for a very long time.
+
+Nandita: Sounds good. Thank you for giving that context. So now we'll move into the the third topic, which is around roles, responsibilities, and skill sets. So we'll talk about your day to day responsibilities. Can you give me an idea of what a typical day at work looks like for you?
+
+Participant 7: Now, I
+
+Participant 7: yeah, I don't have a typical day. Because it depends on what I'm working on, or you know who I'm supporting. But then, if I did try, give a typical day, I think that would go a little bit too far into. Wouldn't it be comfortable answering that.
+
+Nandita: So we'll we'll skip that. Oh, that's fine. Yeah, don't worry about it. We've skipped to the next question, which is, what responsibilities does your employer expect you to take on at work?
+
+Participant 7: I think it changes day to day. I think there's a general expectation of privacy, excellence.
+
+Participant 7: and privacy communication which doesn't drive with. I can't define it. But being able to explain risks to stakeholders. In a way that they understand being able to translate
+
+Participant 7: between product, engine, legal and understanding the nuances of what they're saying to find
+
+Participant 7:  gaps or misunderstandings in their assumptions.
+
+Participant 7: Strong technical skills. So reading and writing code. being able to
+
+Participant 7: get a on a call with either an architect or an intern, and say, here's some risks here. and here's how you mitigate it. Here's what you would need to do
+
+Participant 7: and so day to day. It's always gonna look different. But the responsibility is kind of all.
+
+Participant 7: They they stay similar. Just being an advocate for strong privacy, having the technical background and experience to be able to contribute in some way. If not writing code, then reading code and being able to understand the business constraints
+
+Participant 7: and how they compete
+
+Participant 7: with security or privacy constraints.
+
+Nandita: And do you think there is a difference or similarity between what is expected by your employers, and then what you really do on a day-to-day basis.
+
+Participant 7:  I don't know. I think I'd have to think on that quite a bit more, but I think the answer would be
+
+Participant 7:  probably not good, for, like II think it'd be hard to give any sort of answer that is
+
+Participant 7: helpful enough.
+
+Participant 7: without revealing anything. because it'd be so specific
+
+Participant 7: to the current place. That'd be difficult to provide a reasonable answer. I think so. I'll pass on that one
+
+Nandita: perfect so we'll move on to the next question. We're trying to differentiate between, what do you do for work and things that you do outside of work. So are there any additional responsibilities that you feel you're expected to take on in your role, such as to the society or others in the organization, or even to yourself, outside the the what's in the job description?
+
+Participant 7: I think there's definitely an expectation of staying up to date.
+
+Participant 7: doing a lot of reading seeing what the current academic research is out there. Staying up to date. with privacy laws. and then also cultural norms towards privacy.
+
+Participant 7: Many different
+
+Participant 7: subcultures and niche groups have different views on all of this. But if they're all using the same code or same feature, it's gonna impact them differently.
+
+Participant 7: So, being aware of that and being able to advocate on their behalf.
+
+Participant 7: I think, as an expectation. That's not directly in the job role, but it's
+
+Participant 7: a core fundamental part of it.
+
+Participant 7: And then also staying up to date
+
+Participant 7: with technical skills. So if you're coding at work, then that's fine. But if you're not coding at work, then making sure that you're spending time
+
+Participant 7: in your free time.
+
+Participant 7:  keeping those writing skills sharp like, whatever you prefer to code in
+
+Participant 7: But yeah, I'm trying to think of anything else. But those are the ones that stick out.
+
+Nandita: That's good. And just a follow-on question to that one.
+
+Nandita: more form from a perspective of expectations to like
+
+Nandita: others. In the in the, let's say, privacy, engineering, community or privacy professionals. Do you feel like you? You have. You have some expectations.
+
+Nandita: of responsibilities that you have to take on for other like the community.
+
+Participant 7: Not really. To be honest, II didn't feel it either too much with security, but I feel like, maybe security has that a little bit more?
+
+Participant 7: But I also think, like security, engineering and technical security is more advanced.
+
+Participant 7: So I would expect that as time goes on, privacy.
+
+Participant 7: engineering community will get stronger and grow. And as a result of more people being in it, there'll be more sort of like shared sense of, you know, trying to contribute so I feel like, at least, for right now
+
+Participant 7: there's
+
+Participant 7: enough people in it where they're all kind of trying to make a name for themselves is like, I'm the privacy expert, and just like, I don't want to be a part of that So
+
+Nandita: so maybe let's now talk about skill set. So what skills are the were demanded of you when you started your current role?
+
+Participant 7: Not because I would be coding necessarily like I can if I want to. But you.
+
+Participant 7: you're dealing with engineers a lot. So it would be very unreasonable to say you might have to dive into some code
+
+Participant 7: but you can't code. So yeah, that's not gonna work.
+
+Participant 7: So I think everyone that I've worked with has been a software engineer at some point. A lot of us, I think, had
+
+Participant 7: security background because engineering or practice engineering still somewhat new.
+
+Participant 7: It's kind of like the closest. It's like the sibling or the cousin, or it's just like it's close enough. As a starting point.  I think some awareness on regulations, not because we'd have to be experts on it. But just understand.
+
+Participant 7: Oh, here are some sort of concerns. That policy has
+
+Participant 7: strong written communication was definitely one and then
+
+Participant 7: explain technical concepts. to different stakeholders, I think, was another one.
+
+Participant 7: Yeah, trying to think of any other ones that I can talk about. But those feel like
+
+Nandita: programming knowledge, security background, knowledge of regulations, and communication skills,
+
+Nandita: are, what are the skills that you currently use in your job like these were expected of you when you started. But what do you currently use
+
+Participant 7: day to day? I think all of them currently depending on what I'm looking at or who I'm talking to. It could be like, oh, I'm just doing a code review for a different poll request or something, or it could be. There's no engineers in this room but I need to
+
+Participant 7: discuss. Oh, if you wanted to make this change or this policy decision, it was the engineering impact
+
+Participant 7: and being able to say, Okay.
+
+Participant 7: that might be the impact. But here are your options. Here are the different things that you could do and sort of being able to
+
+Participant 7: build out
+
+Participant 7: a sort of roadmap that incorporates privacy of like. Here's what you could do right now as your easy thing.
+
+Participant 7: Depending on where you want to take this feature. Here are your different options. and if you make a couple easier, or couple more painful decisions. Now.
+
+Participant 7: 3 months from now, 6 months from now, you'll be in a much better and more efficient path.
+
+Participant 7: because you've already accounted for like, say, data, separation
+
+and service identity separation stuff like that.
+
+Participant 7: So being able to explain like. Hey, you need to make a trade off for pain right now, and it's to your benefit. I know that's not gonna feel good. But this will be a payoff. So being able to understand
+
+Participant 7: like longer term business plans and kind of  predict whether they want to go, even if they don't mention it and incorporate that into your recommendations.
+
+Nandita: Well.
+
+Nandita: I think I already answered this question. But I'm gonna ask it, anyway. Is there a difference or not between the skills that you were expected to demonstrate when you during the interview process and those that you require in your role.
+
+Participant 7: I think the one, now that I think about it, that they never quite mentioned.
+
+Participant 7: is task management and multitasking
+
+Participant 7: because the amount of contact switching is massive. Whereas in an interview you kind of have, like yours, your one task to do.
+
+Participant 7: and it's time limited. And then
+
+Participant 7: at any given day, you could be talking to many different players of management or engineers. on different products, different features.
+
+Participant 7: and if you're helping teams with their roadmap or implementations or anything like that.
+
+Participant 7: they're going to be at different stages. So one team might need your time once a week. Other teams need to talk to you every single day
+
+Participant 7: and then balancing those sort of competing schedules, and cadences.
+
+Participant 7: is not easy. So definitely task match and context. Switching.
+
+Nandita: This multi-tasking and and context switching is is the difference between what you interviewed for, and everything else remains the same close enough.
+
+Participant 7: I don't think there was anything else that I would say I was like, oh, I'm really glad.
+
+Participant 7: But I have this skill. I didn't realize I was gonna need it. I think the only one there might just be
+
+Participant 7: consulting, just to understand like
+
+Participant 7: how to break bad news to people in power. And you know, being able to advocate for like
+
+Participant 7: individual contributors and stuff like that to management. Which was something I've learned in
+
+Participant 7: the more consulting side. My work experience.
+
+Nandita: Thank you. Thank you for that additional context. And and talking about the consulting piece as well. We'll move on to the fourth topic, which is reporting and deliverables. So let's move on to talking about reporting and deliverables
+
+Nandita: in your work. Who do you report to and and by who like we're talking about like like a title or or like a team?
+
+Participant 7:  yeah, I think for this one, I'll probably not be able to say too much. But just standard manager. That is also managing managing other privacy engineers. Yeah.
+
+Nandita: does anyone report to you? No, thankfully, no. What are the typical reporting structures that you see in the profession? And by reporting structures, we mean, like
+
+Nandita: like reporting into security legal or like.
+
+Participant 7: we, we can talk high level we don't have to get into like the 2 that II know of are reporting into security, which is then usually under CTO or CIO. And then there's also reporting underneath product
+
+Participant 7: that has a like privacy component to it.
+
+Participant 7:  but I don't know of anywhere, or it's like a strict like privacy org
+
+Participant 7: at the C-suite necessarily. and
+
+Participant 7: maybe it will get there one day, but everyone says that they they can only be effective if they have a C-suite at the top layer. Which
+
+Participant 7: I don't think that's true. but I understand their argument, and I empathize with it.
+
+Nandita: And when you talk about the teams this privacy engineering teams like, what? What do they look like?
+
+Participant 7: A lot of them tend to focus on either like they tend to be either engineer focused. So building out tooling, others tend to be focused on regulation, and others tend to focus on like privacy by design.
+
+Participant 7: and what that can look like.
+
+Participant 7:  But they, I would say they all
+
+Participant 7: bleed into each other a little bit. If just that, they're like distribution
+
+Participant 7:  of where they focus is skewed. So like while I care about regulation, and I have to be aware of it. I might spend very little amount of my time focusing on that, whereas regulatory teams, that's all they do. But they do also care about some of the code
+
+Participant 7: and some of the like architecture decisions. But that's not where they spend their time.
+
+Nandita: Okay? And double clicking on this like, what methods do you do people like in the profession generally use to report to others like talking about examples like, are they meetings? Are they emails, or some sort of like Jira or project management tooling.
+
+Participant 7: I've seen definitely combination of like Jira lot of meetings
+
+Participant 7: way, too many meetings.
+
+Participant 7: email, chat.  But yeah, I'd say it feels like
+
+Participant 7: the email chat. Jira. and then.
+
+Participant 7: yeah, those those are the main ones. Definitely, a lot of meetings. And then, because it's a tech company, there has to be a wiki, which is always out of date. So then people communicate that way by saying I put it in the wiki, even though it's not to date. But that's that's just standard engineers documentation problems.
+
+Participant 7: But but I think that's
+
+Nandita: and what would you say, is a like
+
+Nandita: the actual, like organizational structure? Or is it a Fo, a flat or a hierarchical?
+
+Participant 7: I think everywhere that I've ever seen is hierarchical.
+
+Participant 7: I think, at a previous role. It was a little bit more flat. but we were also kind of expected to
+
+Participant 7: work with any given team. We're a security engineering team.
+
+Participant 7: And while we did have our hierarchical structure. we were kind of set up so that way. It's
+
+Participant 7: kind of like independent consultants on the team, and you kind of go out to different
+
+Participant 7: related teams and ask them. what are your current bottlenecks? What are your concerns? And then, as a engine security engineer.
+
+Participant 7: You were kind of their partner. and you would implement stuff for them, and then you'd move on and find the next team to kind of work with.
+
+Participant 7: So that was like
+
+Participant 7: technically hierarchical, but it felt virtually flat.
+
+Participant 7: whereas everywhere else I've seen has been just a lot more hierarchy.
+
+Participant 7: With
+
+Participant 7: people claiming their silos, and they get really upset if you violate the silos so
+
+Nandita: so we'll move on to the deliverables that are required from you in your role?
+
+Nandita: So if you're good, next.
+
+Nandita: talk briefly about, do you write code? What kind of do you like like research report or like, give advice. What? What is the output like? What are? What are your predictables from the job? There's definitely a lot of documentation on things that we've looked at, risks associated with, what we've looked at
+
+Participant 7: and the recommendations and verifications
+
+Participant 7: or, you know, fixing privacy risks.
+
+Participant 7: And there's
+
+Participant 7: definitely a lot of output in writing on
+
+Participant 7: what we're currently up to. Because everybody is contact switching so much. It's very difficult to know on your team what your co-worker is actually working on
+
+Participant 7: so giving periodic updates. So here's what here was my focus area for the last, like several weeks. Here's what we accomplished. Here's what's next for it.
+
+Participant 7: because their work will often intersect with yours in ways that you're not expecting.
+
+Participant 7: Then you're already in so many meetings like you can't be in their meetings, too.
+
+Participant 7:  definitely. Some talks and some knowledge sharing
+
+Participant 7:  to try. And you know, say, like, Hey, I've worked on a thing, or I've looked at a thing. Let me kind of explain. So that way you can ramp up on it quickly.
+
+Participant 7:  definitely. Some postings and talks on like, Hey, here's some interesting privacy tools that I found, or interesting pat research papers. Here's how that applies here.
+
+Participant 7:  and then a lot of status updates to the manager.
+
+Nandita: And can you tell me more about why these are important in your role?
+
+Participant 7: I think it's because everybody's working on so many different projects, but not just projects, but different types of projects at any given time. So you might have.
+
+Participant 7: you know, a bunch of stakeholders for a project where they're just thinking about building a thing. and then you might have a
+
+Participant 7: project. That's oh, this is something that's already been built, but they want to improve the posture of it. And then your co-worker, they could be on something wildly different. That's hey. Let's do an assessment of what this
+
+Participant 7: potential regulation could be?
+
+Participant 7: How would that affect us from a technical perspective?
+
+Participant 7: and so because you're working with so many different flavors of projects. At so many different levels of the company
+
+Participant 7: and such drastically different scope. It's very difficult to communicate that outside of
+
+Participant 7: just constant status updates, or like longer form, like blog posting of like. Here's what's going on with me. Here's the current stuff that I'm focused on.
+
+Participant 7: Because then it also makes it much easier for people to search and find that they say, Hey, I need to look at a thing.
+
+Participant 7: Let me just search the Wiki. Oh, this person has looked at it or worked on it, you know, 3 months ago.
+
+Participant 7: Alright, they might not work on it right now, but they can point me in the right direction. So you're trying to also leave bread crumbs for other people to find the right people to talk to about stuff?
+
+Nandita: And do you think that these deliverables you mentioned a lot of them like the documentation, the status reporting the the sort of like like knowledge development on vickies and resource development. Are these deliverables typical or not typical for someone in your profession?
+
+Participant 7: I would expect that they are typical. I've definitely seen at other companies.  and roles that they're not as expected.
+
+Participant 7:  but I feel like
+
+Participant 7: here. It's it's definitely a little bit more expected. I think.
+
+Participant 7: It's also because the size of the team is larger. And then when I said other places and it was mean, like 3 people, you didn't need that necessarily because you could just very easily communicate to the other couple of people, whereas the larger the team is
+
+Participant 7: that is doing similar types of work.
+
+Participant 7: That communication load factor gets much higher, much faster.
+
+Participant 7: It's kind of the classic problem of oh, this project is going slow. We'll just add more people to it. It's like, no.
+
+Participant 7: now, it's so much worse because you're trying to coordinate and communicate the work.
+
+Participant 7: Yeah, so definitely feels more efficient with less people.
+
+Nandita: Thank you for sharing that. How? How are these deliverables evaluated by your manager?
+
+Participant 7: I don't know.
+
+Participant 7: Okay, I can. Yeah.
+
+Nandita: from a performance review perspective like. just give me an example like
+
+Nandita: maybe like conducting like providing like X privacy by design consultations is like the number. Is that what's evaluated or like? I think it's a factor. I think another factor might be
+
+Participant 7: talking with people that I've interacted with and get their perspective of how that sort of like consulting engagement went.
+
+Participant 7: because I think it's similar to what security engineering has finally come around to where they can't
+
+Participant 7: just make a decree and say, we have decreed this.
+
+Participant 7: You have to do exactly that. I think
+
+Participant 7: privacy was able to learn from security much faster that
+
+Participant 7: you're trying to work with a team?
+
+Participant 7: And so you're trying to find good compromises? Because you'll be working with them for a lot longer. As they build out their stuff.
+
+Participant 7: And so you know, manager, talking with those teams of like, how did that engagement go?
+
+Participant 7: Were those recommendations point in time to the give you like a longer term vision of how you approach this problem.
+
+Participant 7: That sort of stuff. And then also like, was he communicative with you? Was it hard to get a hold of them?
+
+Participant 7: Was he unavailable? That sort of stuff, too?
+
+Nandita: We'll move on to the the next section, which is challenges and strategies. So I'd like to talk about like the challenges that you encounter in your profession as a privacy engineer. So are there any tools, techniques or standards that create challenges for you.
+
+Participant 7: I
+
+Participant 7: wait tools and techniques that create challenges, or maybe like a standard, or or maybe like a particular coding language, or like a pet, like a privacy enhancing technology. That's like really challenging. I don't think so, at least not for the work that I do? Most of my problems are people problems. But that's usually the way it goes.
+
+Nandita: And maybe like talking about the deliverables that you had mentioned earlier.
+
+Nandita: are there any challenges with like providing the consultation, or of advice on privacy, or or developing this guidance, documentation, or or validation?
+
+Participant 7: I think where it can get difficult is, if the team isn't sure where they want to go long term. it's difficult to provide
+
+Participant 7: good recommendations.
+
+Participant 7: Which then they don't tell you what they quite want to do longer term, and then they take your advice for that point in time recommendation.
+
+Participant 7: and they get further along. They're like, well, this was a terrible idea. Why would he have us do this thing? It's like that was the right thing to do at that time, and you didn't understand what you wanted to do long term. Had you known, I would have made different recommendations.
+
+Participant 7: and so it can be difficult when the team doesn't know what they want to do. So you have to develop strategies and types of questions to ask them
+
+Participant 7: to kind of get them thinking longer term.
+
+Participant 7: But then also trying to make that case for you. Don't. It sounds like you don't know what you want to do longer term. Here's what you might encounter. Here's how we can mitigate that now.
+
+Participant 7:  and so yeah, it's it's definitely still people problems
+
+Nandita: until what are the most common challenges that you encounter.
+
+Participant 7: and I'd say deadlines people coming to you late and be like, Oh, we. We wanna launch this thing at this time.
+
+Participant 7: And it's like, well, you're supposed to come to us X amount of time before. And you didn't like, yeah. But like.
+
+Participant 7: my director says, this is important, like.
+
+Participant 7: okay, well, we can see what we can do.
+
+Participant 7: But yeah, and that can
+
+Participant 7: if if you help them.
+
+Participant 7: Then now, you've taught people that if you come to us at the last minute.
+
+Participant 7: you'll always get our attention.
+
+Participant 7: Which is a bad thing to reinforce. So I think one thing that I've had to do is develop ways to
+
+Participant 7: understand what's coming down the pipeline before it reaches our team. So part of that is. you know, building really good relationships with partner teams, even when I don't need to do reviews with them when I don't need to engage with them.
+
+Participant 7: Also.
+
+Participant 7: being on top of internal wikis and internal knowledge base to understand. Oh, this is what people are currently like editing. Or this is what they're currently posting about. Or
+
+Participant 7: you know there's attention in this area. So I should be aware
+
+Participant 7: that that might filter down to me in a bit.
+
+Participant 7: So you're trying to set up like early warning, like detection systems of like. Okay, they might not come to me yet, but I should start being aware that this is a growing thing. There's
+
+Participant 7: more activity in this area.
+
+Participant 7: Which at the longer I've worked in security and privacy, the more that is paid off.
+
+Participant 7: because then you start anticipating
+
+Participant 7: where they're going or what they want to focus on. So when a team comes with team like, we need to do this. One thing like, Oh, is this part of this broader thing? And they're like.
+
+Participant 7: Oh, yes, it actually is. I hadn't even thought of that. So you can make better recommendations. But then they also remember. Oh, he was aware of this thing. He helped us with our current product.
+
+Participant 7: So as we get further along, we can just reach out back to him, cause he has context already.
+
+Participant 7: So again, you're trying to build those little breadcrumbs?
+
+Participant 7: or a reengagement?
+
+Nandita: Yeah, and do you think these challenges are typical or not typical? The the challenges of late engagement, and the challenge of not really knowing the the the roadmap of the product when you're being
+
+Participant 7: policy has been further away from product and security has traditionally been, I think.
+
+Participant 7:  because security has tended to mostly be engineers, and a policy tends not to be engineers.
+
+Participant 7: And so they've kind of sat in different silos. And and now I think that's part of why privacy engineering has been taking off so much as more regulation, more impact.
+
+Participant 7: not just on product, but the underlying engineering
+
+Participant 7: architecture and implementation.  but yeah, it feels like security kind of got an easy one there because they kind of were born out of it. whereas privacy engineering feels like it was more born out of policy. And now they're finally kind of meeting in the middle
+
+Nandita: and are there challenges related to your organization or reporting structures that you face like from a deliverable standpoint. We talked about the lead engagement and the the, you know, not knowing the the complete picture, but from a reporting structure, or like just the how the organization is set up. Are there any other challenges that you face
+
+Participant 7: can't think of where I'm at? Currently I know for security engineering at a previous company.
+
+Participant 7:  there is a very common problem of security, was a separate org.
+
+Participant 7: Therefore, security, saying, you need to do a thing.
+
+Participant 7: Fell on deaf ears because they're like cool. You're not my manager.
+
+Participant 7: You don't do my performance review. You don't decide my bonus so I could listen to the security engineer and do this thing
+
+Participant 7: but it will slow down my deliverables, which my manager will get upset about.
+
+Participant 7: And so there's a real poor incentive structure financially
+
+Participant 7: or security engineering that they're fighting against.
+
+Participant 7: And I would imagine a lot of privacy orgs feel a similar thing.
+
+Participant 7: I think the advantage is, privacy tends to have regulation to fall back on.
+
+Participant 7: whereas security engineering is more on. No, but we might get hacked. And there might be this data leak which
+
+Participant 7: does not
+
+Participant 7: motivates product teams nearly as much as here's a legal reason why you need to listen
+
+Nandita: so.
+
+Nandita: I know the example that you shared is more security engineering than privacy engineering. But do you think that this this challenge also applies to privacy engineering?
+
+Participant 7: I think it, I would imagine at most places it does.
+
+Participant 7: I've worked like when I did consulting before.
+
+Participant 7: There's a whole bunch of talk about oh, we wanna do digital transformation. And we want to make all of our product teams like little start ups. And
+
+Participant 7: I would just simply ask them. Have you changed your accounting and Hr
+
+Participant 7: focus and systems to account for this. And they said, No, it's like cool. Then none of this stuff that you're talking about matters because you're still gonna be on the annual
+
+Participant 7: financial planning roadmap. You're still on the Annual performance review.
+
+Participant 7: So all of these sort of things that you're intending to do are gonna not work out because you haven't changed the core structure and the core incentive structures. And unless you do that and
+
+Participant 7: finance is usually the motivating one for people in America.
+
+Participant 7: If you don't change the way people are rewarded financially or for their job.
+
+Participant 7: then you can't expect them to go along with the new thing.
+
+Participant 7: yeah, it was. It was definitely a major problem, because they would say.
+
+Participant 7: it's going to be this, you know, startup thing. And it's like, but you're still reviewed annually.
+
+Participant 7: The people that are judging. If this like transformation is going well, have nothing to do with your management chain, and they have no impact on that. and
+
+Participant 7: but changing finance, and Hr. Is a little bit harder than oh, we're moving from azure to aws
+
+Participant 7: Pacific.
+
+Nandita: So
+
+Nandita: Trying to like. You've already mentioned some of the strategies that you you've used in the past to like overcome these challenges? But can you tell me more strategies on how you overcome the challenge of
+
+Nandita: late engagement.
+
+Nandita:  when, like everything, is a deadline and everything is a fire. The second challenge of
+
+Nandita: not knowing the the longer term roadmap
+
+Nandita: and being and advising on like a point solution. And the third sort of problem on
+
+Nandita: but he mentioned about
+
+Nandita: you're you're supposed to like influence, privacy, behavior without any authority, and and
+
+Nandita: that and other teams are not incentivized in their performance reviews, or or how
+
+Nandita: to do that challenges and like the strategies
+
+Participant 7: one unorthodox strategy I've had is I tend to try and make my write ups and documentation fun.
+
+Participant 7: So that might be inserting memes or jokes, or funny illustrations, or something where it becomes a oh, this person has posted a thing.
+
+Participant 7: This is not dry technical documentation. There might be some of that in there, but at least I might laugh or chuckle as I read it. And then, when I'm engaging with teams
+
+Participant 7: trying to be very light hearted about serious topics. Where possible. So that way they're kind of at ease. And they know, hey.
+
+Participant 7: this is gonna this is, we're talking about changing a major
+
+Participant 7: engine approach, which could, you know, take months to resolve.
+
+Participant 7: But let's at least have a good time as we're having this discussion.
+
+Participant 7:  because I think we're engineering privacy. Engineering tends to sit is
+
+Participant 7: at this continuum between engineering and auditing because you're kind of playing, both like security engineer and regulatory
+
+Participant 7: or policy role. So that kind of comes out as like engineer versus audit.
+
+Participant 7: And I think when most people think Oh, I need to talk to privacy.
+
+Participant 7: they immediately think, Oh, this is going to be like an audit thing. This is going to be like an auditor persona, but I'm an engineer. And so, being able to code, switch and kind of speak their language and have them enjoy the engagement or enjoy the conversation.
+
+Participant 7: It's like, Oh, that wasn't so painful.
+
+Participant 7: Okay, that that's not what I expected. And then, oh, this, you know, months later on this thing came up. Oh, I should ask somebody about this. Oh, I know who won't make
+
+Participant 7: this a painful conversation. I can go talk to them
+
+Participant 7: again, just trying to leave little breadcrumbs for people to re-engage  because then they're more likely and I've seen it
+
+Participant 7: way too often where it's just like.
+
+Participant 7: Hey, I have this thing that you know we're gonna be working on in like 5 months. You don't have to do anything right now, but just wanted to give you a heads up about it, because it's gonna start growing a little bit
+
+Participant 7: and they feel comfortable telling me that because we've had a good working relationship.
+
+Participant 7:  but yeah, it's it's as silly as it is. It's yeah. Sometimes writing jokes or memes and technical documentation. Making video calls with product teams. Fun?
+
+Participant 7:  because then they're more likely to re-engage, more likely give you a heads up. You become their more preferred person to work with
+
+Participant 7: because you're not playing the role of like a dry policy or audit person. You're a little bit more engineering persona for them.
+
+Nandita: Thank you. Thanks for sharing that and we'll move on to the last
+
+Nandita: a topic which is success metrics. So we'll talk about the impact of your work, broadly speaking. How would you define success in the work that you do?
+
+Participant 7: I think the one that I tend to focus on the most is, and not what you know the company does. But how often do people re-engage with me when they don't have to?
+
+Participant 7: Because if they reach out when they're not required to. Then there was something about that last time you work with them
+
+Participant 7: that they
+
+Participant 7: liked or didn't hate because, because, like, it's similar with like security engineering and that sort of thing work
+
+Participant 7: product teams tend to only work with you when they're required to. They're not proactive about it.
+
+Participant 7: And so if teams keep coming back and keep keep wanting to re, engage or ask you just one off questions.
+
+Participant 7: then you're you must be building a positive relationship with them, or you're more likely to be building a positive relationship with them.
+
+Participant 7: That's the one that I care about the most. Because so many of the problems that teams face are people problems.
+
+Participant 7: That's where I want to focus on evaluating myself. I think
+
+Participant 7: management would tend to focus on like.
+
+Participant 7: you know, how quickly are you doing reviews? How
+
+Participant 7: well are you managing your workload
+
+Participant 7: context switching? How well is your documentation and your writing.
+
+Participant 7: what are engineering product and legal saying about their interactions with you? That sort of stuff?
+
+Participant 7: You know. Are you
+
+Participant 7: sharing your knowledge with less experienced engineers.
+
+Participant 7: Are you like adding a net positive to the team? I think that's kind of where management would probably sit. But for me it's mostly like
+
+Participant 7: for teams I've worked with before. Do they reach back out? Do we have a good working relationship? If so.
+
+Participant 7: I'm enjoying my work. So I'm more likely to stick around
+
+Participant 7: means longer time to learn all of the systems as they change
+
+Participant 7: and catch gaps
+
+Participant 7: better. So the way I kind of phrased it is shit. Posting is a hedge against privacy risk.
+
+Participant 7: because you're absolutely making jokes. But you're having a good time at work.
+
+Participant 7: So you're retained longer. You understand the systems at a deeper layer.
+
+Participant 7: So you're more likely to catch stuff. But yeah. And I preached that to my team very often
+
+Participant 7: you should be having a good time
+
+Participant 7: if you're not having a fun time here
+
+Participant 7: you might want to change something, because you're more likely to leave sooner, which is a huge privacy risk.
+
+Participant 7: because then you have to bring someone new who has none of that context.
+
+Participant 7: So being able to preserve people and their context and their working relationships is massive.
+
+Nandita: And then [PARTICIPANT NAME], like follow on to that one you mentioned. How does... how do managers evaluate your work? I'm curious like, are there any success metrics associated with this evaluation? Criteria?
+
+Nandita: I'm sure they there is. I don't know what they are.
+
+Participant 7: they I mean, I'm sure they've told me. But I
+
+Participant 7: as as an A, as a non manager. I'm not in those meetings, where they decide what your rating is, or what your thing is, so they can tell me whatever they want. I can't verify it. So
+
+Nandita: so when we talk about like the impact of your work as a privacy engineer, what do you think is the overarching goal of
+
+Nandita: of you being a privacy engineer and the
+
+and the impact that it drives within the organization.
+
+Participant 7: I think the one that I've told my manager is
+
+Participant 7: I don't really care my role or rating. I just want to be in the room when someone's about to make a dumb decision
+
+Participant 7: to prevent that dumb decision from being made. If that means I need to do more internal talks or documentation.
+
+Participant 7: or whatever to do that, I'll do it.
+
+Participant 7: But to me that is, the core impact is stopping bad decisions before they're made as opposed to. So
+
+Participant 7: a long time ago, someone decided a thing. And now we have 2 years of end work to like, fix this thing. It's like, no, thanks.
+
+Participant 7: But yeah, so definitely. And for me at least, an emphasis on proactive
+
+Participant 7: risk identification and mitigation. And it's more satisfying than saying, Hey, we found this risk. And here's how we work to mitigate it. And here's our documentation around all of it
+
+Participant 7: that it's nice when you finish that sort of project. but it doesn't feel nearly as rewarding as yeah. So they were heading down this path. And then I
+
+Participant 7: kind of worked with them a little bit. And now, suddenly, it's not a problem anymore
+
+Participant 7: that is significantly more and rewarding.
+
+Participant 7: the problem is going back to incentives
+
+Participant 7: saying, You stop. Something bad happening is like. well.
+
+Participant 7: maybe something bad wouldn't have happened versus look at this heroic effort that people did and so you see this a lot with security teams and engineers, too, where it's the person that does preventative maintenance gets no credit.
+
+Participant 7: and the person that pulls an all nighter to solve a problem that shouldn't have been a problem in the first place.
+
+Participant 7: gets massive like rewards and thanks and promotions and stuff like that.
+
+Participant 7: So I think the way teams and businesses judge Impact is already inherently flawed.
+
+Participant 7: So I tend not to try and focus on how they define. It
+
+Nandita: sounds good and we're at the end. So thank you so much for your time. If there's anything else that you haven't had a chance to mention, or you would like to share with us. Or you think we should know, feel free to mention that?
+
+Participant 7: Okay, yeah, II think I covered my bases for the most part. But yeah, if you have any additional questions or anything definitely let me know I was happy to chat. As this field kind of figures out what it is. So
+
+Participant 7: and do you have any questions for us? And we're happy to like stop recording at this point.

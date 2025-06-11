@@ -1,0 +1,669 @@
+Nandita: Now that the recorder is on, could you please repeat that you consent to be recorded.
+
+Participant 9: I consent to be recorded, recorded.
+
+Nandita: Thank you so much your identity, and anything you shared with us will be kept confidential, and will only be heard and read by the researchers in our study.
+
+Nandita: Please know that this interview is designed to be a conversation, so there is no right or wrong answers. You can skip any questions or pause the interview at any time. Do you have any questions before we begin?
+
+Nandita: Thank you. So we go over the first topic, which is a general introduction. I'd like to start by asking a few general question about your work. Could you tell me briefly about what do you do in your job?
+
+Participant 9: I do several different things, but predominantly. I pay attention to all different regulation changes in data, privacy. And I also pay attention to all the different technology changes that are coming through
+
+Participant 9: and based off those things. I look at what my company itself does, and how it might need to change.
+
+Participant 9: But then, in the services that we provide for clients how they might have to adapt
+
+Nandita: interesting.
+
+Nandita: Could you also define the term privacy as you normally use in your work context, like in your organization. What does privacy mean?
+
+Participant 9: Because we deal with regulation in different countries? The definition is a little bit more fluid.
+
+Participant 9: So
+
+Participant 9: under like GDPR, you know, they have rights in Europe that allow them to have control over their data. So we have a stricter standard when we're talking about data collection in Europe or just predominantly, not the United States. In a lot of cases.
+
+Participant 9: whereas in the US our advice might differ a little bit.
+
+Participant 9: but we still try to push them toward
+
+Participant 9: a more privacy, friendly framework, such as like the California law, because that's the direction things are going. And I checked the map this morning and something like 34 out of the 50 States either have privacy laws on the books, or are actively discussing them.
+
+Participant 9: As of today. So
+
+Participant 9: it's not going away
+
+Participant 9: absolutely super fast, fast paced for both international and national changes in in privacy.
+
+Nandita: How would you describe the roles in the industry related to privacy engineering, just like, generally.
+
+Participant 9: there's a lot of commonality. If you take a step back and look at like, well, the different countries have done. But in the States. It's very fragmented.
+
+Participant 9: because, even though
+
+Participant 9: we have a lot of State laws, they have exemptions for the Federal laws where the Federal law is slightly different, for like, say Hipaa or Copa, or any the G. Lba for the financial sector, etc.
+
+Participant 9: And
+
+Participant 9: because there's so many different standards, it can be harder to know in the States what your specific rates are at any given time, because
+
+Participant 9: even if you're in a state with privacy laws.
+
+Nandita: you may not apply to the specific company that you want to actually to speak with.
+
+Nandita: So in terms of like the industry in and specifically just talking about us? like, are there specific roles for privacy engineers that you have come across?
+
+Nandita: Like a a particular title, or a or a sort of a broader role, or a function
+
+Participant 9: increasingly. What I have seen is
+
+Participant 9: there are now like data security requirements as part of data collection and processing.
+
+Participant 9: So you may have to stand up a security program.
+
+Participant 9: you just may have to encrypt data or otherwise de-identify it.
+
+Participant 9: You may, in the case of your privacy engineer working for healthcare.
+
+Participant 9: need to make sure that whatever vendor they want you to integrate at, you have a business associate agreement with those folks.
+
+Specific type of contract
+
+Participant 9: more broadly,
+
+Participant 9: as different states passed their laws. They're requiring data protection impact assessments. And those are often a technical evaluation of like the different privacy controls and engineers get brought into that
+
+Nandita: interesting.
+
+Participant 9: Lastly, I would say, a lot of companies and organizations are now moving to like consent management. So like the banners. they're also looking at data, subject, access request forms
+
+Participant 9: that you can go in and fill out to get copies of your information and stuff like that. So
+
+Participant 9: as a privacy engineer. I tend to be involved in a lot of those different discussions and talk about like the trade offs, or how it might integrate with their existing
+
+Participant 9: technical stack, or what changes that you might have to make to make that work
+
+Nandita: interesting. So you mentioned, like the privacy technical reviewer to the consent manager sort of like
+
+Nandita: and then building those controls that are aligned to laws. Right? The
+
+Participant 9: I would say the last thing would be any type of cloud architecture
+
+Participant 9: and sort of like international data transfers. because those could trigger additional regulatory clauses.
+
+Participant 9: If you're moving data across borders essentially
+
+Nandita: Sounds good. How would you define a privacy engineer?
+
+Participant 9: ideally, someone who's interested in keeping up to date with all the different regulatory changes, and can translate those
+
+Participant 9: in a way that the business folks or the less technically minded, can understand them. Well, also, I'll enabling the engineering team to have a better understanding of what's required to how to get there.
+
+Nandita: Okay.
+
+Nandita: so this concludes like the first section, the introduction. We're now moving on to the second topic, which is motivation. So we'd like to understand and talk more about your career journey.
+
+Nandita: How did you become interested in privacy engineering?
+
+Participant 9: I've always been slightly interested in like computer security. But I went into web development as a field. and then from there I got into a B testing for marketing.
+
+Participant 9: and
+
+Participant 9: I was doing that for a while, and a part of A/B testing is accurate data collection. So that caused me to start paying attention to like all the different browser changes because I needed to know when stuff was going to mess with my tests.
+
+Participant 9: And then the guy who was working on analytics retired. So I took on that responsibility. So then, I was doing analytics for, like the whole website.
+
+Participant 9: And then GDPR came along, and the lawyers like, we need to talk to somebody who understands the analytics portion. So I read the whole GDPR.
+
+Participant 9: And I was able to make that work, and the following year I was cause I did so well, with that they asked me to help them with the CCPA rollout.
+
+Participant 9: So I did that.
+
+Participant 9: and I found I have a knack for understanding the legal definitions of things and being able to translate those into technical
+
+Participant 9: action items. And so I've just kind of kept doing that since.
+
+Nandita: Interesting. So you've already sort of, answered the second.
+
+Nandita: The next question I was going to ask like, How did you arrive at your current position? Some. I'm just going to go over to the next one. What motivates you to continue pursuing privacy engineering? So we we talked about how you got here. Why are you still working in privacy.
+
+Participant 9: Yeah, I would say that
+
+Participant 9: I like that. It's always
+
+Participant 9: an interesting problem, because the first off it's currently especially in the last couple of years.
+
+Participant 9: It's always changing.
+
+Participant 9: But then how each company deals with it's kind of unique, because it has to be put in context of like what not only they do, but like what technology and resources they're willing to put behind it.
+
+Participant 9: So even though it's a similar problem, like one company may deal with complying with the CCPA. A completely different way than another company, and it's cool to see kind of how each one handles that.
+
+Nandita: What would you say are some of your personal goals that you have for this work?
+
+Participant 9: I would love, and I'm not going to to push this on my own effort, but I would love to see a Federal law, because
+
+Participant 9: now we're getting up to
+
+Participant 9: 15 States 16, I think, if New Hampshire signs their law. So I mean, it's super fragmented in the States, and I think having a common framework like Europe does, might be better in the long run.
+
+Participant 9: I am just less convinced we're going to see that before 2025.
+
+Nandita: See? Or you mentioned that? It's the novelty. And it's like the the challenge of the problem keeps you interested. What value do you get from being in privacy engineering?
+
+Participant 9: Well, I run a [WEBSITE]. So I've been asked to speak at conferences. I've been asked to be on podcasts.
+
+Participant 9: I do webinars. Occasionally at school I have a college in [REDACTED] reach out and ask me to like. Explain some of the marketing changes to their marketing divide marketing class.
+
+Participant 9: So that was pretty cool. So I mean, it's opened up a lot of doors just being able to
+
+Participant 9: translate what's going on in the privacy space for different audiences that might need to care about it.
+
+Participant 9: because if I was to give a random marketing person like a list of browser patch notes. That's not gonna mean anything to them.
+
+Participant 9: but being able to connect that with their work, so they know if they need to pay attention to it, they find valuable. And
+
+Participant 9: I think that's pretty cool.
+
+Nandita: On a related sub sub question. What do you enjoy about being in privacy engineering?
+
+Participant 9: in 2022, the FTC basically came out and said, You can't use any marketing pixels that you don't have a business associate agreement with.
+
+Participant 9: I was very busy for the next 6 months talking to hospitals who now needed to figure out what they were going to do in light of that information. so as different enforcement picks up. I get very busy in different ways, and it's always kind of unique to see how an industry responds to something like that.
+
+Nandita: Thank you. Thank you for sharing that.
+
+Nandita: Now I'm gonna ask you a question about the future. Let's say a year from now. Do you see yourself in the same position. More specifically, doing what
+
+Nandita: you're currently doing in your position. Not like the title per se, but like the work.
+
+Participant 9: Yes and no. So currently my team that I'm on it is fairly small.
+
+Participant 9: so I suspect will happen
+
+Participant 9: is we'll get some more junior folks, and I'll move more into like a second tier.
+
+Participant 9: Help mentoring them as well as doing the work as opposed to just doing the majority of it on my own, with my my coworker.
+
+Participant 9: So that's how I think my role will change over the next 12 months, potentially
+
+Nandita: So moving from like a completely like hands on role to a more mentorship role, at least for part of the work.
+
+Participant 9: Correct cause they want me to spend. They want me to be able to spend part of my time researching all of the stuff coming down the the line
+
+Participant 9: so we can not be reactive to it. But if I'm doing that then I am not doing something else right? So they have to free up my time to be able to do that.
+
+Nandita: Okay, thank you so much. We moved to the third part of this interview focused on responsibilities and skills. So let's talk more about your day to day responsibilities. So I'll begin by asking, could you give me an idea of what your typical day at work looks like?
+
+Participant 9: It's gonna be a slightly long answer. So
+
+Participant 9: I purchase I participate in sales calls as necessary cause. We do sell privacy services, so I may have to be on those calls.
+
+Participant 9: I help negotiate sales, contracts, and do estimates for work.
+
+Participant 9: I actually attend meetings with clients to help them work through standing up either part of a privacy program or the entire privacy program.
+
+Participant 9: Then I may actually do work in support of that. So like, if they want to install consent management, I might help wire all of that together.
+
+Participant 9: I also would do troubleshooting or said systems that we might put in place. And then I write.
+
+Participant 9: or our company blog on occasion, I'd run them newsletter for their company that's related to privacy.
+
+Participant 9: and I often end up speaking on several webinars a year. So I have to create
+
+Participant 9: marketing material and talks for that type of stuff, so my day may include any and all of that, as well as randomly consulting on other client projects when that project team might need
+
+Participant 9: a privacy viewpoint or understanding the specifics of something that the client wanted.
+
+Nandita: You've mentioned everything from sales to communications research customer enablement.
+
+Nandita: So taking a step back. What responsibilities does your in employer expect you to take on and work like all the? Are these all expectations at work? Or
+
+Nandita: there's a disconnect between the expectation and what you actually do?
+
+Participant 9: My official title is like senior analytics, engineer.
+
+Participant 9: but that is not at all what II actually do. So the company has kind of over the last
+
+Participant 9: year and a half adopted a more privacy-focused viewpoint on things cause.
+
+Participant 9: Every service we sell has to deal with the privacy laws that are coming out and potentially change how we offer stuff.
+
+Participant 9: So the co-worker and I that I work with.
+
+Participant 9: we're kind of on our own. And we focus almost exclusively on privacy work.
+
+Participant 9: So it's not like, there's an official job title. It's like, here's what's expected of you. It's more.
+
+Participant 9: This really needs to be done, and I can do it. So that's what I get asked to do.
+
+Nandita: That's good.
+
+Nandita: and I'm you've talked about this a little bit before, but just wanted to revisit it. We're trying to differentiate between what you do for work and the things that you, outside of your work.
+
+Nandita: Oh.
+
+Nandita: are there any additional responsibilities? You feel that you're expected to take on your role such as like society or or like
+
+Nandita: professional organization or to yourself that you're just doing outside of your work-related responsibilities.
+
+Participant 9:  so I sit in a slack channel with different marketers. And I might talk about privacy topics on my own time, just because I don't mind doing that.
+
+Participant 9: I have pitched talks to conferences not directed by work, just because I knew the people running the conference. Or what have you?
+
+Participant 9:  like? I'm
+
+Participant 9: I have a [REDACTED].
+
+Participant 9: and that's actually part of why I got my current job because I
+
+Participant 9: had that content that people were reading. So
+
+Participant 9: those are things that I do that are adjacent to privacy work, but not like company mandated.
+
+Nandita: Thank you. And we're just wrapping up this section by talking a little bit about your skill sets what skills were demanded of you when you started your current role like when you were hired like, what? What is? What was the skill set that your organization was looking for.
+
+Participant 9: Being able to translate like the whole translation of like the regulations and things, was a really big selling point for them.
+
+Participant 9: Also, understanding the complexities of the different browser changes. And what that might mean for measurement or marketing was a really big thing, because they felt like they needed to understand
+
+Participant 9: how that worked ideally before the customer started asking them, why doesn't my data look the same that it did a couple of weeks ago?
+
+Participant 9: So I believe that was part of why I was picked up from my current role is because I'm
+
+Participant 9: willing to and able to make those translations between all the different business groups
+
+Nandita: sounds good. And do you think your
+
+Nandita: those are the skill sets that you currently use in your job? Or, like more broadly, what skills are you currently using in your job?
+
+Participant 9: So when I used to work at my previous employer, I gained a lot of experience with [LARGE COMPANIES].
+
+Participant 9: and I actually rely on that a lot to help me speak with different client groups. So well. My background is in web development, with like a
+
+Participant 9: bit of security. And I have since developed
+
+Participant 9: expertise in like data privacy stuff being able to understand which group I need to talk to in order to get the result I want has actually been very valuable.
+
+Nandita: Is there any other difference between the skills you were hired for versus what you are now expected to demonstrate in your current job?
+
+Participant 9: I used to be a lot more involved on, like the marketing pixel, tag configuration and analytics debugging not so much on that anymore.
+
+Participant 9: just because there's been so much more privacy specific work to come up.
+
+Participant 9: I basically spend all my time either talking about or working on privacy projects at this point.
+
+Nandita: That's cool.
+
+Nandita: Thanks for going over the skill sets. And now we move to the fourth part of the interview which is reporting and deliverables. Let's move on to talking about
+
+Nandita: what you produce at work. So we'll start with. Who do you report to? Like the title or the org.
+
+Participant 9: I technically report to the analytics practice director.
+
+Nandita: Okay. does anyone report to you?
+
+Participant 9: No one currently reports to me
+
+Nandita: what are the typical reporting structures that you see in the privacy engineering profession like in general. Where do you
+
+Nandita: hear other privacy? Engineers report to
+
+Participant 9: that basically has 3 different groups.
+
+Participant 9: Very, very rarely do I hear that somebody is in marketing.
+
+Participant 9: but it does happen on occasion more commonly.
+
+Participant 9: Either they're an engineering person that's working alongside the legal or compliance team.
+
+Participant 9: or they're specifically part of like the information security team.
+
+Participant 9: I haven't seen anybody just like in an it application team. Essentially, it's usually like a specialty team that focuses on that kind of work
+
+Nandita: sounds good.
+
+Nandita: What methods do you use to report to others like meetings, or like some sort of emails project management platforms?
+
+Nandita: How do you report to others?
+
+Participant 9: So I don't typically deal a lot with the project management stuff. We have people who do that. So I let them run all the spreadsheets.
+
+Participant 9: I have a lot of email back and forth to clients on different questions that they may have. I
+
+Participant 9: either have the deliverable where I'm building the thing, and I have to prove that it works so I can hand it off to them.
+
+Participant 9: or I will occasionally be asked to create like a point of view on something so like, say.
+
+Participant 9: a client wants to enable Google signals, which is part of Google analytics. But their lawyers are kind of like, oh, I don't know what it what really is all that about.
+
+Participant 9: So I read all the documentation, and I figured out how it works. And then I write up a viewpoint
+
+Participant 9: with the context of whatever regulation that they're they care about. So I'm like, I'm not a lawyer. But here's everything I know about this feature in this area that you might need to be aware of, and then they can make the decision if they want to go forward with that or not.
+
+Nandita: What deliverables are required from you in the role. So you mentioned, like actually building things, the point of views? Like the consulting part of the work. Are there any any other
+
+Nandita: like
+
+Nandita: like your OKRs or like what you deliver that are tracked.
+
+Participant 9: Well, I do have OKRs for content. So I have to have create so many newsletters or advisory emails essentially.
+
+Participant 9: and blog posts on an annual basis, because They understand that like, I'll have more to say if there's news. and if there's no news, maybe I don't have anything to say.
+
+Participant 9: aside from that. my coworker, who's more on the business side of things, she does track like the amount of revenue that we're bringing in both from
+
+Participant 9: privacy direct, so like stuff that she and I do directly for the clients as well as if we make a recommendation. But then another team actually executes, it will have like privacy driven.
+
+Participant 9: So we have like revenue targets that way that we try to hit.
+
+Nandita: Can you tell me more about why these deliverables are important to your role.
+
+Participant 9: Sure. So I can start with the revenue one first, because if we don't make enough money we're not gonna be able to continue doing what we're doing.
+
+Participant 9: and we'll get told to go back and do analytics work. So. hitting the revenue goals fairly important. the
+
+Participant 9: all the advisory and thought leadership stuff that I tend to work on
+
+Participant 9: is important because it keeps us both front and center to different potential clients as
+
+Participant 9: being in the industry. like what sets us apart from like a different media agency or a different analytics agency. But it also
+
+Participant 9: helps drive traffic to the website. Because if I write something and people come see it.
+
+Participant 9: It's also like, so basically, it's a marketing vehicle. But it also positions us well as someone who really knows the space.
+
+Nandita: Do you think the deliverables you mentioned are are typical or not typical for someone in your profession, like someone who is like a privacy engineer?
+
+Participant 9: from the ones I've spoken with. They're probably not that typical, because I definitely am more on the
+
+Participant 9: their promotion side, like I attend sales calls, and help explain stuff for the salespeople
+
+Participant 9: whereas a lot of the other folks are more internal to their teams.
+
+Participant 9: So
+
+Participant 9: I think what I do is probably more common for engineers who are in an agency. but not so much common. For, like people who are in house, necessarily
+
+Nandita: okay.
+
+Nandita: so like what you do like Mo, the sales and the thought leadership part is the one that you think is not typical for industry.
+
+Nandita: right? Because the whole understanding technology and the privacy trade offs and stuff. I think you'd have to do that regardless. How are these deliverables that you're producing, evaluated by your manager?
+
+Participant 9: cause we're allowed to kind of do what we want. The micro worker and I we she looks over the stuff, see if it's gonna conflict with anything that she's trying to position as far as like a business
+
+Participant 9: engagement.
+
+Participant 9: But she basically trust me that I get the technology portion right, and I trust her that she gets the business portion right? So
+
+Participant 9: we kind of work with each other that way. A lot of the stuff is brand new. So we end up doing a lot of testing on it. So, for example, like Google is phasing out third party cookies. And they have a bunch of replacement technology. We had to do a bunch of testing on.
+
+Participant 9: Well, how does that actually work? And if a client wanted us to do that. How would we get that done? So anything that comes in that way? I'll take a look at essentially.
+
+Participant 9: and then I'll work with whatever team in the company that actually needs to execute on that on a day to day basis and walk them through, like all the edge cases and stuff that they probably need to be aware of.
+
+Nandita: Thank you. And we're now move to the next topic, which is focused on like challenges and how to address those challenges at work. So I would start with asking, are there any tools, techniques or standards that create challenges for you?
+
+Nandita: Like, when we're talking about challenges like challenges, and like
+
+Nandita: writing, content or testing or providing advice, like.
+
+Nandita: what are some of these things that that are challenging in?
+
+Participant 9: I think that there's two. I think
+
+Participant 9: one of them is like just the sheer fragmentation of all the different privacy laws and what's involved.
+
+Participant 9: So it can be very confusing for folks like well, what what actually matters? It's like, well, I don't know. Are you healthcare? Are you for profit? Are you nonprofit like where you're cut like, where are your customers? How many customers do you have like? I need to know all of this to figure out? Okay, you probably need to be concerned with these things.
+
+Participant 9: and figuring that out isn't necessarily always easy, because the people that hire us it might be like a different department that might know that information.  secondly, would be
+
+Participant 9: business teams that
+
+Participant 9: really want to have a death grip on the way things used to be and not adapt. And it's like, I don't wanna deal with the phase out of third party 50 s. It's like, well.
+
+Participant 9: you're running out of time like, literally like you. You got months left, and you have no plan.
+
+Participant 9: and that will show up in reporting. And so you're gonna have to explain that to your leaders at some point like we really think that you might want to look into this. and we can't always convince them. And some some folks have been caught
+
+Participant 9:  In bad positions as a result of their unwillingness to to look beyond the like the quarter financials. Essentially
+
+Nandita: so, you mentioned the like that regulatory patchwork of like lots of different laws, and the second part of like sort of this inertia, or like resistance to technical change.
+
+Nandita: Do you think these challenges are typical on. not typical for the broader profession of privacy engineering.
+
+Participant 9: I think if you're not in a start up, they're probably pretty typical.
+
+Participant 9: does startups are less concerned with all the regulatory compliance things usually, unless they're like in the financial or healthcare sectors.
+
+Participant 9: But once you get to like a certain size like
+
+Participant 9: you have on staff lawyers and clump compliance professionals. And they're going to be like, no, we're not doing that.
+
+Participant 9: or you need to have a business justification for doing something.
+
+Participant 9: and it could be a lot more in internal bureaucracy to to get through, to make changes on stuff.
+
+Participant 9: and it can be very hard to convince people who have done it one way for the last 10, 15, 20 years that that way is no longer valid. and it's like.
+
+Participant 9: I'm not telling you, because
+
+Participant 9: I think that what you're doing is bad. I'm telling you because it's going to actually stop working.
+
+Participant 9: And just people are like Google wouldn't phase out cookies
+
+Participant 9: or Europe's never going to pass that law. And then they do. and then they're like, Well, I don't know what to do now.
+
+Nandita: So in terms of the organization, like just now, looking at like within your organization and the reporting structure that you have in your company. Are there any challenges with Ri related to how things are set up and where you're reporting to.
+
+Nandita: For you right now.
+
+Participant 9: I would say
+
+Participant 9: no, but that's mostly because
+
+Participant 9: my coworker and I. She and I
+
+Participant 9: have more of a direct access to senior leadership, then we probably would have otherwise.
+
+Participant 9: But that's mostly because the company has just decided like this is somewhere that we need to focus. So we have a slightly unorthodox reporting structure.
+
+Nandita: So if I'm understanding this correctly, that reporting an organization is not a challenge in the organization because of the relatively flat
+
+Nandita: reporting and and autonomy that you have.
+
+Participant 9: It's more because of the an autonomy like.
+
+Participant 9: I'm technically like 4 or 5 levels down from like the President, right?
+
+Participant 9: But like we have fairly regular discussions with him, and like with his boss and the holding company
+
+Participant 9: we meet with, like the CFO and stuff fairly often. And that's not typical for most of our company.
+
+Nandita: Okay.
+
+Nandita: sounds good, and you've already answered like the second part of the question. So I'll move on to the next one. Can you tell me more about the strategies you use to overcome the challenges? Looks like the organizational challenge like you mentioned, like, just like having frequent access to leadership. But then the other 2 challenges you mentioned earlier about
+
+Nandita: laws and like resistance to change. How? What strategies do you use to overcome those challenges?
+
+Participant 9: for the consumer information one. It's just being
+
+Participant 9: knowing what you need to ask and asking it earlier in the engagement or during, like the scoping process, to figure out what exactly it is that you're dealing with rather than
+
+Participant 9: afterwards. So, for example. say, you had a healthcare client
+
+Participant 9: knowing that they can't sign the BAA
+
+Participant 9: for Google marketing platform.
+
+Participant 9: Maybe we wouldn't try to sell them Google marketing platform because we know that they can't use it.
+
+Participant 9: So finding out that their healthcare client would actually change our recommendations.
+
+Participant 9: Likewise, if we found out that a client was operating in Europe for the majority of their business.
+
+Participant 9: we would suggest different things potentially or different processes. so they can comply with whatever regulation that they're dealing with. as far as overcoming the inertia with like existing businesses.
+
+Participant 9: That's hard.
+
+Participant 9: because you need to make them understand that
+
+Participant 9: their way of business is changing.
+
+Participant 9: And sometimes all you can do is make your case, and then they'll decide they're not gonna listen to you. And then we've had people come back to us like 6 months later. And they're like.
+
+Participant 9: Okay, we're finally ready to listen to you on this now.
+
+Participant 9: cause they just decided like
+
+Participant 9: their way wasn't going to work after all.
+
+Participant 9: But there's there's still some people that are adamant that
+
+Participant 9: they can make it work. And it's like
+
+Participant 9: the Internet is literally changing how it functions on a fundamental level. And nothing is not going to be impacted. And they're like. but is it? Though it's like it really is. And they're like, but is it? Though?
+
+Nandita: You mentioned, like the strategies were like early engagement, understanding the context of the business and sort of like
+
+Nandita: being available to them if they decide to come back. These are like the the strategies is, are there
+
+Nandita: once, you think are like more effective or or less effective like these 3 things that we mentioned
+
+Participant 9: well, like with the clients if they don't want to listen to you, I mean, they're the clients. You could just say, Okay, well.
+
+Participant 9: I gave it my best shot. You can't. You can't let it like get to you.
+
+Participant 9: And you're not the one that's gonna get fined if they ignore you so like. When [COMPANY] got fined by [REGULATOR]. I know people who are working on that account. It wasn't our company, but I know people who are working on that account, and they had
+
+Participant 9: similar discussions with them, and they didn't listen. So then, a couple months later, they got fined. It's like, Okay, well.
+
+Participant 9: how many times is that gonna
+
+Participant 9: before companies are more willing to listen. and that's going to depend on what enforcement
+
+Participant 9: comes through. So like when the FTC sent, cease and desist letters
+
+Participant 9: to all the healthcare clients
+
+Participant 9: that are out there. You know all the all the people suddenly took
+
+Participant 9: because they were addressed to the legal counsel. In most cases, like, if you actually look at who they were sent to. The lawyers, take those letters seriously. and that promptly forced the marketing team to listen.
+
+Participant 9: whereas before you might not have had as much traction. So sometimes external stimulus can be more effective than your pitch.
+
+Nandita: Okay, that's very helpful to know, like a a C&D letter or an enforcement at a different client can even influence a change in like their privacy, stance, or position. Yeah, you can definitely overcome resistance that you may have been facing, especially if they're in the same industry.
+
+Nandita: Sounds good we're on the last, like specific topic on success metrics. So let's talk about the impact of your work. Broadly speaking, how would you define success at work for what you do?
+
+Participant 9: Can I help the company that I'm working with get into a better position
+
+Participant 9: for consumer privacy. Then it was in when I found them. Essentially.
+
+Participant 9: if I can do that even a little bit. Then the world is just a little bit better
+
+Participant 9: than when we've started the engagement.
+
+Participant 9: I don't. I don't ask for much. I just tried to give it a nudge here and there. Better.
+
+Nandita: What? What do you think is a overarching goal?  
+
+Participant 9: I mean, I'd like to see all the companies just be comp like do right by the users, and be compliant with the laws that they're subject to cause. I mean.
+
+Participant 9: I just saw a story by the markup, and it's like something like 3,000 different companies share user information with Facebook for a given person. It's like, but does that really need to happen
+
+Participant 9: like, do you really need to follow me across the Internet with a set of sneakers? I don't think you do
+
+Participant 9: so. Maybe some of that. despite it being a huge business. Maybe some of that doesn't need to happen any longer, and I'd be okay if it stopped. It's
+
+Nandita: so you you mentioned about like your personal goal sort of is, like, you know, just doing the right thing, and and you know, leaving things better than you found them like in terms of like privacy. But how do you think your work... How do you think others evaluate the impact of your work? Let's say your manager or your organization. Like,
+
+Nandita: how do they know that you're doing a great job or not at work?
+
+Participant 9: Well, we have for several years now continually made more money on privacy engagements than we did.
+
+Participant 9: and I actually get into calls with clients sometimes, and they have read [WEBSITE], and they point that out to the rest of the group when they they see me. So
+
+Participant 9: I'm not saying like that is
+
+Participant 9: telling them I'm doing a good job as much as being super visible, but
+
+Participant 9: the client seemed to respond favorably to that. And so they're like, Oh, I know that he knows what he's talking about, because I've read his work. So that
+
+Participant 9: makes the engagement go smoother. I feel cause we get less resistance because I'm not needing to prove that I know what I
+
+Participant 9: I'm talking about because they honestly believe it.
+
+Participant 9: So it makes the yeah go a little bit smoother.
+
+Nandita: So a in terms of so so you mentioned the evaluation criteria, as like just, you know, visibility, and like just being known as a thought leader in industry and and that sort of helps. You get recognition within the company as well.
+
+Nandita: Are there other things in the evaluation criteria, let's say, like, you know, performance reviews or something. How is your work being evaluated for you know, promotions, or just like career progression within the company?
+
+Participant 9: Our pay is a combination of several factors, so part of is cost of living, part of it is merit. and then part of it is extra
+
+Participant 9: stuff that you have done to like really promote the company.
+
+Participant 9:  so I constantly. I have
+
+Participant 9: for most years got in something in all 3 categories. So I actually get more money as part of my raise. As a result of that
+
+Participant 9:  But the company is also willing to like, fly me out to conferences and pay for me to stay there, and either speak or just attend. So they've done that. And they've also paid for
+
+Participant 9: training and different certifications and stuff that I've been interested in.
+
+Nandita: As we close, I'd like to ask, is there anything else that you haven't had a chance to mention? Or you would like to share with us that you think we should know about privacy, engineering, or
+
+Nandita: your specific role.
+
+Participant 9: There are now certifications in the the engineering space that I'm starting to see show up on job requisition. like different companies, more often
+
+Participant 9: so like the International international Association of privacy professionals has, like a series of certifications. The more engineering one is like certified information privacy technologist.
+
+Participant 9: I have one. I have that particular certification, but it currently goes into how privacy engineering fits in the whole, it workflow. and what would be involved in different processes and things like that.
+
+Participant 9: The other one is an ISACA certification that I don't have. It's the CDPSE. so like, now, we're seeing
+
+Participant 9: industry organizations be like, here's the things that you need to know to be successful here.
+
+Participant 9: Additionally.
+
+Participant 9:  colleges are starting to have like data, privacy engineering courses to date. The only one I've seen has been a master's degree. But
+
+Participant 9: it starts somewhere, right? So that's still gonna become a more prevalent thing, I think, as time goes on. Because would they need someone to understand
+
+Participant 9: all the complexity and edge cases of things like anonymizing data, and all of like the the things that you don't typically think about because it's
+
+Participant 9: related to computer security. But it's distinct cause. You can have a security event without it being a privacy event.
+
+Participant 9: and you can have a privacy event without being a security event. But you can't have privacy without security. So
+
+Participant 9: it's kind of an offshoot of the computer security
+
+Participant 9: lens, but because the Sec. Now requires
+
+Participant 9: that any publicly traded company make a disclosure within 4 days of having a material cyber security event.
+
+Participant 9: and they have to file like a form 8K to advise all their shareholders. I think we're gonna see an increase in budgets for computer security and privacy
+
+Participant 9: over the next several years, because
+
+Participant 9: they're going to try to prevent a breach.
+
+Participant 9: But then they're going to want to use privacy to limit the impact of a breach if they have one.
+
+Nandita: Okay.
+
+Nandita: are there any questions for us that you know we can help answer, or something about the study?
+
+Participant 9:  no.
+
+Nandita: alright! We have one. Ask that. If you think there are other participants. Who we should talk to, who would be helpful to get like a good perspective of what privacy engineering looks like for them. Please let us know. We'll we'd love to like, share the screening survey link with them and get their consent.
+
+Participant 9: No one's coming to mind, because what I've noticed is since I started blogging and and posting on LinkedIn and stuff. A lot of lawyers are interested in what I have to say. and a lot of marketers are, but not like
+
+Participant 9: you start talking about like legal things with engineering, and a lot of engineers are just like, Nope don't want to deal with it. So the amount of people in the engineering space that are super interested is actually fairly low in my experience.
+
+Nandita: Thank you. And quite like that's all we had.

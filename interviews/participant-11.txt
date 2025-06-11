@@ -1,0 +1,401 @@
+Daniel: Alright awesome recordings activated. If you wouldn't mind. Could you just repeat that you consent to being recorded?
+
+Participant 11: I do consent to being recorded.
+
+Daniel: Awesome. So I'm obligated to say that your identity and anything you share with us will be kept confidential, and will only be heard and read by the researchers in the study. Please know this interview is designed to be a conversation, so there's no right or wrong answers. You can skip any question or pause the interview at any time. Do you have any questions before we begin?
+
+Participant 11: Nope. 
+
+Daniel: Okay, let's get started. So I'd like to first ask a few general questions about your work. So if you could just tell me briefly about what you do in your job.
+
+Participant 11: So right now I do. Have privacy have, like grc, compliance. Mainly a control assessor. Of security and privacy.
+
+Daniel: Awesome.
+
+Daniel: So could you define the term privacy as you normally use it in your work context.
+
+Participant 11: privacy and work in my work. Context, pretty much is your right to be left alone. So you making the decision of if you want your information out there, or if you don't, if you want to delete it, if you want to keep it
+
+Daniel: makes sense so
+
+Daniel: in general, how would you describe roles in industry that are sort of related to privacy engineering
+
+Participant 11: in general?
+
+Participant 11: I would say that they are vastly different. Attached to the the privacy label. I feel like they can be really, really different when it comes down to what you are protecting or just what section of privacy you're working in
+
+Participant 11: so just very different. But they typically all have some element of privacy.
+
+Daniel: Okay? Well, that that makes sense. And then, a little bit more specifically, how would you define a privacy engineer.
+
+Participant 11: a privacy engineer? I feel like goes beyond just the privacy portion. And they actually deal with a lot of data. Because I feel like just a regular privacy, maybe analyst person. They could be dealing with like third party risk assessments, privacy assessments. I feel like privacy. Engineers are more so. How to actually protect the data.
+
+Daniel: I see that makes sense.
+
+Daniel: And in contrast to say, legal roles are. Are you sort of thinking about that when you mentioned privacy, engineer, or sort of the roles in industry in general? Or are you thinking about something a little different.
+
+Participant 11: I was thinking about something a little different. But II do. I still stick to that, because even the privacy engineers that have come from a legal background. I feel like it still goes beyond privacy, and they're like privacy. Engineering roles are looking for people that go beyond privacy like you have privacy and legal, or you have privacy and data security experience.
+
+Daniel: cool. Okay? Sounds good. So let's talk a little bit more about your career journey. So how did you become interested in privacy engineering as a career, or, you know, as a function of your career?
+
+Participant 11: I was working in cyber security. I was doing web application testing and we had to talk to the privacy team sometimes. And I kinda I liked what they were doing. And I was asking, you know, can I shadow some of you all? And I like the work. I still liked my my security work, but I like the privacy work better. And then from there my next role was actually a privacy. Analyst.
+
+Daniel: Hmm, so it sounds like you started in security. And then you kind of moved into privacy in the analyst role. Could you give us a little bit more detail about your overall career journey and kind of how you arrived at your current position.
+
+Participant 11: Yes. So I spent a little time. As a privacy analyst kind of shifted into
+
+Participant 11: privacy. Engineer, at the the end of my, the first role in privacy. And then I did different contracts because I wanted to see I wanted to work in the whole space, and not just do like a small portion, because, starting off, I was only doing. I was only dealing with privacy in regards to like third party risk from assessments from the Gdpr.
+
+Participant 11: so I wanted to, you know, dabble into more of the field. And so that's when I started doing data, subject, access, request.
+
+Participant 11: And so just processing those and adherence to any compliance timelines and things like that. And that's how I kind of slid into more Grc. And compliance and auditing
+
+Daniel: gotcha. It's it sounds to me like one thing you've said a couple of times now is that the sort of privacy. Engineer is one who sort of looks at things a little bit more holistically. So is is that kind of something that you were looking for. And that's sort of what motivated you.
+
+Participant 11: Yeah, that's what motivated me to like. Learn different parts of it, because I knew like, in order to be like a privacy engineer, I would have to see the whole landscape of it
+
+Daniel: makes sense. So what motivates you to continue pursuing privacy? Engineering as part of your profession.
+
+Participant 11: I think that it is a growing field. I think it's gonna grow tremendously, especially with AI coming in. That's gonna be a host. New set of privacy laws against that, you know, privacy laws are being passed every day now, so
+
+Participant 11: I just I feel like it's a good feel for me, and I think my background contributes very nicely
+
+Daniel: makes sense. So it sounds like, you know, you're really excited by the fact that the field is really growing, and that there's all kinds of new things. Do you have any personal goals for your work?
+
+Participant 11: Yeah. I would like to pick up a certification. I would like to pick up the CIPT and get that out of the way. That's a pretty big search for me, and I see that it's often required on a lot of privacy roles. They really look for that. So I wanna pick that up and get that out of the way. And then I just really wanna work in a a robust program. Cause I feel like a lot of privacy programs. And they're just getting off the ground. They may have like
+
+Participant 11: 2 people on the team, you know, it's mostly legal. So II wanna like really help help a company like get off the ground, and we can have a really big privacy team certifications. I was looking at Cipp. The Us. Version
+
+Daniel: So could you just mention one more time which one it was you're looking at.  got it. so what value do you get from? You know these specific goals like, for example, that certification, or you know, from your sort of work in general.
+
+Participant 11: I think that that especially the CIPT certification. I think that that will help me with my journey of learning, like the whole landscape, because that is a very like comprehensive certification. It's a lot to do with all of the legal jargon and the privacy side the security side. So I really felt like that would help me just studying for it. And then the validation of having the cert, of course.
+
+Participant 11: I think that that would propel me forward as well. Maybe some people will start looking at me. They weren't looking at me before. Because me, coming from security and going into data, you know. Sometimes people don't want to touch that. But you know, I was just thinking that it would make me more marketable. And then, privacy as a whole, II really do believe in the actual term of privacy. That's another reason why I'm working in the field.
+
+Daniel: Yeah, that totally makes sense. So you know, it sounds like you get a lot of kind of, you know, value from not just the pursuit of knowledge and getting those credentials and getting more attention. But, you know, helping protect people's rights and so on. Right? What do you? What do you enjoy about working in privacy?
+
+Participant 11: So I like that. We are pushing to give people a choice
+
+Participant 11: because it with how fast things are moving. It is easy to just not even think about that for companies to just not even think about that. And then just be collecting your data and holding onto it and doing whatever they want with it. So I love that we're giving people a trust like, Hey, do you want us to collect this data. This is what we're gonna be doing with it. I think that's very important for you to know where your information is going and what's happening with it? Who has it? And where is it stored, you know.
+
+Daniel: Empowering choice. Yeah, that's that's a really great point. So let me ask you a little bit about the future. So you know, you mentioned that the field is moving very quickly. That's exciting. Let's say we're a year from now. Do you see yourself in the same position, in the same role? Or maybe more specifically, do you see yourself doing what it is you currently do in your position?
+
+Participant 11: Currently, no, because I don't want to. I don't wanna stay in assessments. And auditing this is a very valuable role, very valuable skills. And I do think that I did need to stop on my way.
+
+Participant 11: To to learn this. But a year from now I definitely see myself more into the privacy engineering room. I really wanna get into data security data engineering, because that's gonna be even bigger part of privacy. I feel like
+
+Participant 11: coming up in the future. So I I'm looking. I'm actually looking at some of the programs for that, engineering.
+
+Daniel:  interesting. So it seems to me like, you know, you're making a prediction that engineering is going to increasingly be a part of the privacy engineering role. Could you tell me a little bit more about why you think that?
+
+Participant 11: Yeah, because I think that is gonna boil down to how the data is stored.
+
+Participant 11: And just the architecture cause. All of that is gonna count with the security of the data and the secure. I feel like you can't really have the privacy without the security, which is why the teams are always talking to each other. So for for privacy, engineer, and I really feel like
+
+Participant 11: you have security. You have privacy, and you have legal.
+
+Participant 11: And all of those kind of come together. And I feel like with the security team is, gonna be more of a talk about okay, all of this data that we're having like, how is it being stored? Is it even being stored securely?
+
+Participant 11: Yeah, I feel like, that's a a big part data engineering?
+
+Daniel: So let's move on a little bit. I I'd like to talk a little bit more about kind of your day to day. Right? So could you give me an idea what a typical day at work looks like for you?
+
+Participant 11: Yeah. So right now, typical day at work is whether I'm working on an assessment or leading an assessment. I pretty much start off with a stand up. You know what what we have been doing is we what we did yesterday? And then just going over what we have for the rest of the week. Starting on any assessments, security and privacy wise going through the specific controls
+
+Participant 11: and determining if they are meeting the standards of that control. If they do, passing them on this estimate, if they don't telling them you know the risks and the impacts if they don't, you know, implement it. And also given a recommendation of how they could recommend how they could implement it. Yeah, that's pretty much my day all day.
+
+Daniel:  So II heard a few things there, right? So it sounds like the first one is that you do a lot of assessments. And one thing that sort of stood out to me is that you do assessments for privacy. But you also take a security perspective.
+
+Daniel: Right? Okay. And then it sounds like, also, you know, you do a lot of you know, recommendation for things like mitigations, and so on. And then it sounds to me like there's also a fair bit of coordination with the as other teams and kind of setting expectations. And so on. Does that sound about right?
+
+Participant 11: Yes.
+
+Daniel: Okay, okay, cool. So in terms of like overall responsibilities, what overall responsibilities. Does your employer sort of expect you to take on at work?
+
+Participant 11: Leading an assessment which is talking to cause
+
+Participant 11: depending on your client that you're working with talking to the system owner of that client. Talking to the CISO coordinating like the kickoff of the assessment, where you inform them of everything that you're gonna be doing.
+
+Participant 11: My board pretty much expects me to handle that whole process.
+
+Participant 11: You know, alone, and then I have a I may have a team of 2 or 3 to help me. Assess the controls. And then also typically in the middle of the assessment. I'm expected to reach out again to the Isso and schedule A, a walkthrough of the system, so anything that maybe could not be uploaded as evidence. We could see in real time as evidence.
+
+Participant 11: Of implementation of a control and just really, they really expect me to coordinate and really keep an open line of communication with the system owners about the system. If I have any questions of how they are implementing something.
+
+Daniel: gotcha gotcha. So
+
+Daniel: it sounds to me based on, you know, kind of what you do in your day to day, and what your you know employer sort of expects you to do day to day that there's a pretty strong overlap between the 2 and that, you know. Basically your employer expects you to do. You know, as we said the assessment, the coordination piece, the kind of mitigation piece, all of that stuff, and that's what you do. So why do you think that there is such an overlap between the expectations and the reality.
+
+Participant 11: In this case I feel like they not only expect it, but they do give guidelines
+
+Participant 11: for how to go about doing it. There's like a rough
+
+Participant 11: like draft of the expectations of how it goes. And you may have. I've I've when I first started. I had questions about, you know the little steps in between and things like that just a little nuances. But I feel like. between what I actually doing with the expectations are. There's like a clear example of what you're supposed to do every day that makes sense.
+
+Daniel:  So so if I if I heard you're right, it sounds like the reason why there's such a close alignment there is because they'd already prescribed all the stuff that they wanted you to do kind of when they hired you right like they thought it through. There's a clear process like there was even, you know, very nuanced, you know. Instructions in the process, and kind of everything was sort of laid out for you in advance. Does that sound right?
+
+Daniel: Awesome Okay, cool. So in the next question that I'm gonna ask you what I'm trying to do is kind of differentiate a little bit between what you do for work. And then the kind of stuff that you do outside of your work. But obviously, you know, related to privacy, and so on. So
+
+Daniel: Do you feel like. There's any additional responsibilities that you're expected to take on your role, such as say, you know, responsibilities to society, or like others in the organization, or like even responsibilities that you take on for yourself.
+
+Participant 11: Yeah. I do think that we are expected to
+
+Participant 11: keep up with like trending developments in the security, space, privacy, space.
+
+Participant 11: we're definitely expected to research certain handbooks we deal a lot with. Nist.
+
+Participant 11: And so we're expected to keep abreast of that things that are going on with that laws that are being passed up any updates on policy. We're expected to keep up with that. Also, with the client side anything that they have going on during the assessment. We're expected to keep up with that, too, as well, and that sort of comes in outside of work hours a lot of times, just following things
+
+Daniel: interesting. Okay, so so let me kind of read that back and make sure I understood correctly. So you're saying that even though it's not necessarily like explicitly defined as something that you have to do in your role, you feel that there's really a clear expectation for your sort of greater organization as well as your clients as well as maybe policy makers, and so on, or even standards, bodies like NIST, for example, that you really have to keep up to date with everything that's going on in the privacy world. And also the security world. Is that right?
+
+Participant 11: Yes, yes,
+
+Daniel: interesting, interesting, interesting. so some other examples. You know, might be, for instance, like serving your broader community, or even other privacy professionals or mentoring people, or volunteering your time to do stuff. Is that also something that you feel like you're expected to do at all? Or is it really more so, volunteering your time just to keep abreast of things.
+
+Participant 11: I volunteer my time. I was wanting to share my time, anyway. Beforehand. I don't feel like it's really expected. I have been in situations where it was definitely expected, but not in this one. But yeah, I definitely do that because it it sort of keeps my mind in the room like it. Keep me in in the subject. I don't wonder too far off from it.
+
+Daniel: Okay, that's that's great. So next, I want to talk a little bit more about your skill set, which I think is kind of related, you know. So what skills do you feel were demanded of you when you started in your current role?
+
+Participant 11: I felt like they needed somebody with at least a background in a cyber.
+
+Participant 11: which is why they they picked me. They they wanted somebody, at least, with maybe like a year or 2 in cyber related role or any other skills that you know, they really kind of demanded of you when you got started.
+
+Participant 11: No, they weren't requiring any privacy. They weren't really requiring any a compliance, either. As long as you had some cyber security experience, they were okay with that.
+
+Participant 11: Okay, cool. So then, in contrast, what are the skills that you currently use? I mean, it sounds like they didn't ask you to do all the you know, have all the pricing skills. But maybe you're using those now, is that right?
+
+Participant 11: Yeah, there was definitely a gap. They didn't require it. But once I got actually hired on, and that's when it kinda changed. You would be a great fit over here. And so that's that's how I ended up usingmy background. Once I talked about everything that I had done, and that I had done privacy. They were like this would fit really well in assessments.
+
+Daniel: That's very interesting. So it sounds to me like there's a pretty clear difference between the skills that you were expected to demonstrate kind of during the interviewing process, and so on. And then those that were like actually required. Is that right? So just as a few examples, it sounds like the assessment piece, just like wasn't really there when they initially yeah. And then what? What else? Any any others?
+
+Participant 11: Yeah. The assessment piece, the I would say. Risk management frameworks that wasn't mentioned. But you know we obviously deal pretty heavily in there.
+
+Daniel: Now, what about some of the stuff that you mentioned earlier on that you're responsible for? Like all this coordination and kind of like mitigation type stuff. Was that also?
+
+Participant 11: they didn't mention it. I feel like they just expected you to have that just by working just working just any professional experience.
+
+Daniel: Yeah, okay, I got you. That makes sense. Okay, so let's
+
+Daniel: take a slight pivot here and talk maybe a little bit more about things like reporting and deliverables in your work. So who do you report to? And does anybody report to you?
+
+Participant 11: So nobody reports to me per se
+
+Participant 11: not per se, I would say, when I'm the lead assessor. My support assessors during that time. Report to me. But it's not really like a hierarchy type. Situation is really just for the assessment. And then I report to my manager.
+
+Daniel: I see, okay, so that actually helps me with my next question. Cause I was gonna ask you, like, what are the typical reporting structures that you see in your profession? So it sounds to me like the reporting structure is a little bit fluid sometimes, so you generally
+
+Daniel: always report to your manager. But then sometimes there's people that kind of report up to you during specific tasks and sometimes not. Is that right?
+
+Participant 11: My support assessors have to report to me, anything about the controls. Because I'm I'm the lead on everything that's happening with that assessment. So if they have a problem with the control, it all comes to me, and then I they go through me, and then we talk to the CISO.
+
+Daniel: Gotcha. So are are there any other teams, and like, with a sort of similar or different composition that you kinda interact with.
+
+Participant 11: I I'm not sure. I know that it it rotates because we we normally have more than one assessment going on at a time. So it it could be that at the same time I'm the lead Assessor, and people are reporting to me. But I'm also reporting to somebody else who's the leader says they're on another assessment.
+
+Daniel: I see. So that really kind of reinforces. I think what you said earlier. It's very fluid. Is that right? Okay, interesting. So what about like methods that you use to report to people? So, for example, you know, like meetings, emails, project management platforms like, are there any tools or methods that you see is pretty common?
+
+Participant 11: Yeah. So
+
+Participant 11: day to day we have a tracker. We have what's called a daily tracker. And so that just that's how we basically report it to each other of what we're doing.
+
+Participant 11: you update the tracker, we get a notification. That's how we do the controls. And then also the project as a whole, we have a tracker for that as well where you can go and check off things updated. You did them. And it reports to the manager. And then we also do have you know, emails, especially with, like certain reports that are supposed to come out. You know, I will email them to my manager.
+
+Daniel: Gotcha. Okay, that's cool. And I think we may have touched on this a moment ago, but in terms of like the overall organizational structure, it sounds like it's fairly flat, right like you mentioned that there isn't really like a strict hierarchy, and it is kind of fluid like overall. You're not reporting up to someone who reports up to someone who and so on. And so on. It's mainly flat. Yeah, okay, gotcha, alright. Well, that's really interesting. So
+
+Daniel: you do. You also mentioned a few types of reports and other deliverables. But maybe, could you tell me a bit more about what like overall the deliverables are that are required from you in your role like. So again, writing reports. But for do you write code? For example, do you, you know, deliver like specific privacy by design, like reports with advice in it or like anything like that.
+
+Participant 11: So it's typically the same reports for each assessment. The first report that comes out is just a report. Detailing what exactly we're we're going to be doing what controls. We're gonna assess how many
+
+Participant 11: how we're gonna do it. And so and that goes straight to the is so after review the process. So I do that, and then send it to my manager where he can review it, and then it goes to the is so there's every assessment. And then there's another report that comes out when we finish the controls. Which is just a write up of
+
+Participant 11: any controls that failed, what our recommendations were. And so that goes to the is so as as well
+
+Daniel: got it. Okay? So it sounds like, there's a few different types of reports. Could you tell me a little bit more about why you think those specific reports are important, especially for someone in your role.
+
+Participant 11: Oh, yeah, I actually love the process now. I hated it when when we first started. But the more you do it, the more you realize why you're doing it. And so just from the kick off in the beginning where you're telling you're telling them exactly what's gonna be going on. It's like you keep reiterating that information to them. And so you tell them in the kick off.
+
+Participant 11: But then, the first report, the the first security report that you sent out to them is a re reiteration of same information. It has. Everybody listed that's gonna be participating.
+
+Participant 11: It has everybody's content information. It has all the controls that you will be assisting and what they are. What the implementation statements are all of that. And so
+
+Participant 11: I really feel like that's important. So there's no, there's no questions about like, Oh, are you assessing the the correct controls? Because I sent this report out to you, you know, saying which ones we're gonna be doing. And even when it comes down to the dates, and how everything is gonna be structured like on this date. We're gonna send you the record. The security report on this date is when the assessment actually begins. This date is when it ends.
+
+you know. And so there is very, very important, for I think both sides
+
+Daniel: Gotcha. So if if I'm hearing you right, it sounds like the main reasons why these reports are so important, even though they might be a little bit of a pain sometimes is that they set clear expectations for what's happening and when. And it also establishes a clear line of accountability because you've got everybody who's involved listed there and how to get in touch.
+
+Daniel: Have I basically captured the key points there. Awesome. Okay? So let me ask you a slightly different question about these things. So do you think that these reports or these kinds of deliverables in general are typical or not so typical for someone in your profession.
+
+Participant 11: I think it's very typical. I think that
+
+Participant 11: this role, this. This area is very document, heavy. very document, heavy, very, very policy heavy. And so I think it's pretty typical day. Everything is outlined. And there's a document for everything you can always find.
+
+Daniel: Okay, that totally makes sense. So
+
+Daniel: in terms of how these reports and these other types of deliverables are evaluated.
+
+Daniel: How do you reckon your manager, you know, kind of looks at those and determines whether they're good enough and and and that kind of thing.
+
+Participant 11: I think that I definitely think that my manager looks at it from the perspective of a system owner or CISO, and and he determines, you know, if I work, somebody that was the head of a system. Could I understand this information? Could I understand what I would need to do moving forward? Do I know what my responsibilities are.
+
+Daniel: Hmm! That's a really really good point.
+
+Daniel: So it's it sounds like the main way that they determine whether reports, you know, cutting it or not is how understandable and how clear and and so on. It is. Is that right?
+
+Daniel: Gotcha. Okay, so let let's take a slight pivot again. I wanted to move on to talking about things like tools and techniques and standards, but specifically what I was interested in cause you. You kind of alluded to this earlier are there any tools or techniques or standards that generally create challenges for you? So, for instance, you said at first that those reports were kind of challenging because they were so comprehensive. And there's such a detailed process, right? Did maybe talk a little bit more about that, or if there's any others that you wanted to mention.
+
+Participant 11: so we use a tool called CSAM.
+
+Participant 11: And it's it's just basically where all of the systems are in this website. And this is where you go and the controls are listed. And it can be a pain sometimes because the reports that we have to send out. Are downloaded from CSAM and
+
+Participant 11: it's just it's it's it was a bit of a a learning curve. At first, just going in system and knowing what buttons to click and how to get to whatever but then you also, you don't use it for just the reports. You use it throughout the assessment. And so a lot of times, if there is confusion about
+
+Participant 11: where to upload things. You have to kinda explore in the tool to figure out like, well, okay, where did they put this document? Because it's not attached to the control, you know. So II actually think that that we're working on better documentation for that, because we've been getting feedback from some of the system owners that are like, well, you know, we weren't really clear or where to upload the evidence.
+
+Daniel:  You you mean, sort of improving the documentation for the tool itself or improving the documentation. Okay? And actually, if you wouldn't mind, you said it was called CSAM. What what does that stand for? Or does it stand for anything?
+
+Participant 11: No, it's just CSAM.
+
+Daniel: CSAM okay. Gotcha. So okay, fair enough. So it sounds like the tools can be somewhat troublesome, and maybe the documentation standards are a little bit troublesome. What are other sort of? You know of the most common challenges that you encounter in general.
+
+Daniel: not even necessarily with the tool, but just like in in your work
+
+Participant 11: in general miscommunication, which I guess is why, you know, we're so policy heavy and report heavy and stuff like that. Because it. It can be a miscommunication between what they need to provide us in order for us to pass them.
+
+Participant 11: I wanna control a lot of times
+
+Participant 11: us just saying, Okay, you know, upload evidence next time. If they didn't upload anything they're like, we don't know what evidence would even satisfy this con this type of control, because some of the controls are really technical. And so, you know, they may not know
+
+Participant 11: what it takes to satisfy that implementation. So I think just
+
+Participant 11: more so talking to them. Because I think when we first start it's kinda like a who, you know, I don't really wanna the the Iss are like, I don't wanna you know, really message the lead Assessor. And I don't know. I'm gonna just try to, you know, upload whatever I can, you know. And II think sometimes that results in controls being unnecessarily failed just because you probably had it. You just didn't know that. That's what you needed to upload to satisfy the requirement.
+
+Daniel: That's really interesting. So it sounds like, actually, in addition to just overall miscommunication, managing expectations can be kind of tough. Okay, Gotcha. So do you think that these kinds of challenges are typical or sort of atypical for folks in in your profession?
+
+Participant 11: I think this is pretty typical. Yeah,
+
+Daniel: okay, so what about challenges that might be related to like your organizational or reporting structures that you face? So again, it sounds like, there's issues regarding the reports themselves. But what about like the reporting structures?
+
+Participant 11: I definitely feel there's a there's an issue with that sometimes, just because of differences in judgment.
+
+Participant 11: opinion, and judgment. A lot of times. What I have faced, especially in a role like this is that I may make a judgment call, because, with the nature of it being assessments, you know, you make a judgment call on. If the document satisfies the requirement. I may make a judgment call and say
+
+Participant 11: that they, you know, pass this control. But then there's like 4 other people that have to look at it and do quality control, and you know they may it. It may differ.
+
+Participant 11: I've I've experienced challenges where I will say yes, they pass. Somebody will tell me no change it. They feel because there's A, B and C. But by the time it reaches the Chief of security he's like No, pass it. And so it comes all the way back down to be, you know.
+
+Daniel: that's really interesting. So it sounds like, if I got this right, you've got this flat organization. You got a lot of eyes on sort of the same report. But there's maybe a challenge in establishing consistency about how the overall judgment should be for these things, and then it can kinda get thrown back. Yeah, okay, interesting.
+
+Daniel: So now, do you think that these kinds of challenges are typical for folks in your profession.
+
+Participant 11: No, I actually don't. I think that.
+
+I think that most places have it ironed out better.
+
+Participant 11: And it isn't that back and forth, because that also waste time. And I think that if you do have deadlines, which we do I think most places
+
+Participant 11: are better about it, even if it's just because of the deadline, they're not gonna have that much back and forth on the matter. It's gonna be like a clear cut, you know.
+
+Daniel: I see I see. So so, in other words, you know, at your specific organization everybody's got an opinion, and there is a fair bit of back and forth. But you figure that, you know deadlines are tight. Every company everywhere has deadlines. And so you figure most other companies have probably got a better established sort of organizational scheme that prevents that kind of back and forth. Is that right?
+
+Participant 11: Yes, yes, I think that. I think that is, it's just taking a while to get this all ironed out. It's because this is the first instance of
+
+Participant 11: this particular company doing this type of work in a group manner, gotcha interesting. So they're trying to, you know, get everything established and get the pipelines together. So they're still working on that part as well. Yeah.
+
+Daniel: okay, that's that's really interesting. So what kind of strategies do you typically have to use to overcome these kinds of challenges that you mentioned, whether they're with the tool or organizational, or any of them.
+
+Participant 11: So
+
+I love.
+
+Participant 11: Looking back at my past work, I think that when things are hectic it becomes so easy to forget about what you did last week. you know, especially if you're on a new system this week. It is so easy to forget about all the little tiny challenges you had because you're on a new system.
+
+Participant 11: And I think it's it's very important to look back at all reports and see where we went wrong and see what cost us time.
+
+Participant 11: See a bit a bit of where that back and forth was, because I've definitely that has definitely helped me the most is going back and reading over emails and seeing who had a problem with what and it, it still stands. And you can use those skills on the next assessment that has helped me a lot and also taking the initiative to create an sop if there needs to be an sop
+
+Daniel: interesting. Yeah, that's a great point. So it sounds like self reflection. You know, really seems to be the most effective, would you say?
+
+Daniel: And then, you know, once you've done some self reflection kind of establishing something that kind of generalizes from that is also pretty effective. Yeah, what about stuff that's less effective, or even just totally ineffective.
+
+Participant 11: Like II mentioned the the back and forth. II just think that it's just not. I think it only costs us time and we should just adapt to whoever the the top person. However, they want it done, we should just try to do it in that manner because it's not. It's not gonna matter if it gets to them at the end of the day, and they don't like it.
+
+Daniel: Yeah, it's not gonna matter what the people in between said if they, you know that they wanted a certain way. Okay, so that's really interesting. So I think what you're saying is that another very effective strategy has been to just like, go to the authority and get a decision, and don't bother continuing to turn this around at, you know, lower levels in the organizational hierarchy, even though there's not that many of them, because that becomes ineffective, since it just takes a whole pile of time. And then ultimately, it's just gonna go to that person for their sign off, anyway.
+
+Daniel: Right? They have to sign up on it, anyway. So it's like where I even while I even waste your time, I'm gonna do it. How that person likes it done and and just wait till it gets to them. That's really interesting. So it seems to me like there's really a lot of value in, you know, establishing trust in the authority that's kind of like leading stuff. Is that right?
+
+Daniel: Interesting. Okay, cool, cool. That's that's really good. So I gotta shift gears again. Let's talk about the impact of your work sort of in in broad strokes. So how would you personally define success in the work that you do?
+
+Participant 11: Meeting deadlines going through and making sure that everything was cohesive.
+
+Participant 11: We didn't really have any bumps in the road. I love when we can finish the assessment just all the way through just everything. The kick off. Call the walkthrough of the system, the assessment of the controls, the delivery of the report at the end. I love when it just goes off without a hitch like, I just love that and that is success to me. I feel like we've had a successful assessment. We could just get through it, and there are no hangups. We're not late
+
+Participant 11: on submitting anything. I love that
+
+Daniel: cool so
+
+Daniel: in terms of like the overarching goal. Then, you know, like, what do you think the overarching goal is of your work?
+
+Participant 11: I think the goal of it is to show that we are all capable of doing the assessments, because that's what everybody was. That's what everybody was hanging on. You know, everybody was like, Okay, we're gonna see how this goes. And if it goes well, then we get more work
+
+Daniel: that totally makes sense. Yeah, that. That's that's a really interesting point.
+
+Daniel: so then, okay, let me recap. So you said that your personal sort of like success metric is how well you can kind of come up with a plan and stick to the plan, and it goes off that hitch right? But how do you think that others might evaluate the impact of your work?
+
+Participant 11: I think that they're evaluating it based on accuracy means, I think it's so fast paced. And just okay, this is the next step, this the next step. But
+
+Participant 11: if they have to stop.
+
+Participant 11: because there's an error. It it like makes them notice you, but not in the best way. So if they haven't noticed you. and they look back and see that you've led for assessments. It's better that they didn't notice that you were the one leading the assessment, because that means that you didn't make a mistake.
+
+Daniel: Okay, that's interesting. So so if I got this right, the idea behind accuracy is, you know, if somebody is, you know, taking this assessment and all the reports, and they agree with everything, and it looks good, then it's accurate. But if they find that something's wrong or inconsistent, then it's not accurate. Is that right? So do they make any like formal metrics about this? Do they like, you know, tally up the overall percentage of reports that you know didn't have mistakes or like, were there? Are there any other metrics that you know they kind of use to sort of evaluate things.
+
+Participant 11: Yes, so they I don't think they share them. They're definitely tracking because a lot of times I've noticed that at the end of the month.
+
+They will report on something that I didn't even know that they were paying attention to.
+
+Daniel: Can you give me an example?
+
+Participant 11: Yes, actually, this happened today.
+
+Participant 11: someone A manager reported on reports being submitted without a specific column for the CISO. To make comments on.
+
+Participant 11: And and she so she had just been adding them herself, and not telling us that, you know we were missing it. I quickly went and looked at all the reports that I had submitted and made sure that it wasn't me, but it let me know that they do notice stuff like that, but they will bring it up after it's happened, and sort of give a generalized statement of like, Hey, this is happening. Make sure you do this.
+
+Daniel: Okay, that's really interesting. So it sounds to me like you know folks do evaluate your
+
+Daniel: sort of the impact of your work, not just by like what's in the report and how accurate it is, but also how well you've adhered to. Standard kind of template. Is that? Right? Wow, okay, interesting. And that seems to be like an actual metric associated with how you're evaluated in terms of your performance.
+
+Participant 11: Yeah, whether you, whether you like it or not or whether they're willing or not.
+
+Daniel: Wow, okay, that's really interesting. Do you think that there's any other metrics that you're being evaluated, based on?
+
+Participant 11: I also think, being present being on time? I think that's definitely looked at, especially if you're leading. If you're leading an assessment and you have a demo scheduled a walk through scheduled
+
+Participant 11: they're definitely evaluating. You know, promptness just being on time, being on time with communication with the iso and the system owner. And then also, when you're so when you do a walk through of the system, it's kinda on display for everybody of how you communicate, because everybody's on the call, including the chief security. So everybody's listening to how you're talking to this system only.
+
+Participant 11: And so they definitely evaluate that. How well you're able to convey that you know what you're doing in front of everyone.
+
+Daniel: No kidding. Wow, that's really interesting. Cool.
+
+Daniel: is there anything else you want to add about that? Or you feel like that's pretty much it.
+
+Participant 11: I think that's pretty much it.
+
+Daniel: Okay, fair enough, fair enough. So I did just want to let you know that we're getting to kind of the, you know. Conclusion, part of the interview. And this is really been a really good one. As we close, I just wanted to ask you a few things. So first if there's anything else that you haven't had a chance to mention, or that you wanted to share with us, or that you think we should know. Let us know. Is there anything like that?
+
+Participant 11: I don't think so. I think we we got pretty deep in into it.
+
+Daniel:  Awesome. Okay. I'm really glad to hear that for us.
+
+Participant 11: But II did wanna know. what did everything go like? How was expected? The with the questions you were asking and the answers you were getting?
+
+Daniel: Yeah, no. So I'll I'll tell you quite candidly, that this has been a very interesting interview, because it's been quite unlike many of the other ones. It sounds like that's a reflection of both. Your, you know, quite unique working circumstance. That is a little different, actually, to some of the other privacy folks that we've that we've talked to. It sounds like in in particular. The way that things are organized in your workplace is very regimented where we've seen you know other examples where it's quite different from that. So that's interesting. Now, to be clear, we we don't evaluate interview performance right? But I will say, though, that you, you have been very candid with us, and you've given us really excellent information. And we really really appreciate that
+
+that.
+
+Participant 11: Well, thank you. That's good to hear. Yeah, for sure.
+
+Daniel: So one thing I did wanna ask you is, if you wanted to help us recruit more participants. If you knew anyone who, you know might have a good time, you know, answering these kinds of questions. Or you know, who's even just interested in privacy, engineering, and kind of works in the profession, and might have something to add. We would love it if you could. You know, share the screening survey with them. And I think we've got the link for you.
+
+Daniel: And then that way we can recruit more people. But otherwise at this point. I think we can also stop the recording.

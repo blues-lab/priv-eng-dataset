@@ -1,0 +1,991 @@
+Daniel: So now that the recording is on, could you please repeat that you consent to being recorded.
+
+Participant 24: Yes, I consent to being recorded.
+
+Daniel: Excellent your identity, and anything you share with us will be kept confidential, and will only be heard and read by the researchers in our study. Please know that this interview is designed to be a conversation, so there are no right or wrong answers. You can skip any question or pause the interview at any time. Do you have any questions before we begin.
+
+Participant 24: Nope great.
+
+Daniel: Let's get started. So we're gonna begin by asking a few general questions about your work. So could you tell me briefly about what you do in your job.
+
+Participant 24: Question, am I talking about my current job, or am I talking about my past job?
+
+Daniel: If your current job is privacy engineer, or if you would consider it to be privacy engineering, then? Yes, absolutely, although we would also like to hear about your past job. If it was also meeting that same criteria.
+
+Participant 24: Okay. So I think I'll focus on my past job.
+
+Participant 24: So in that in that position I was working with
+
+Participant 24: I was working across the spectrum. I was working with software engineers. I was talking, working with program managers. I was working product managers on their launches related to
+
+Participant 24: both
+
+Participant 24: machine learning, privacy and kids and teams privacy. And essentially, the the format of the role was to provide guidance and feedback on specific specific issues that were identified. So I guess technically, we also did like risk identification ahead of it.
+
+Participant 24: and discuss potential paths to solution and solutions to it.
+
+Participant 24: And if necessary, we could always
+
+Participant 24: escalate things when there was like a misalignment between what the privacy team and the engineering team were focused on. So that was the kind of like client facing bit of the job. The other part of it
+
+Participant 24: that we did was also in association with the policy, and the legal teams was set internal policies on what our best practices, guidelines, standards that the the company should be using
+
+Participant 24: across the spectrum related to machine learning, privacy and kids and teens, privacy.
+
+Daniel: Awesome. Okay, that's great. So you mentioned the term privacy a few times. Could you define the term privacy for us, as you would normally use it in your word context.
+
+Participant 24: How I would use it, or how the company would use it.
+
+Daniel: Actually, both of those would be great.
+
+Participant 24: Okay. So privacy for me
+
+Participant 24: relates to an individual's ability to
+
+Participant 24: make decisions and understand how their data is being used. Sometimes that replies on the individual making decisions sometimes that relies on the company just being a good corporate actor and not collecting more information and needs to collect. So it's going to like. It's going to depend on the situation. Exactly which lever I would I would want to use for that. But to me it also comes down to the data being used in alignment with what the user expects
+
+Participant 24: the company would very smackly put it under user control.
+
+Daniel: Got it. Okay? Fair enough.
+
+Daniel: So in terms of roles and industry related to privacy engineering, how how would you describe those roles?
+
+Participant 24: Can you say that again.
+
+Daniel: So.
+
+Daniel: we kind of preface this conversation by saying that we're talking about. You know your role in privacy engineering, right? But presumably there's other folks in industry that call themselves privacy engineers, or who do privacy engineering? So how would you describe what those other sort of roles look like.
+
+Participant 24: I think there's a spectrum, right? I think there are people who are doing privacy engineering who are building the.
+
+Participant 24: you know, privacy, enhancing tools that are building the the systems
+
+Participant 24: like, even like databases and whatnot and like privacy, protective ways. So and that's kind of like in my mind, I put those more into like suite type of privacy engineering.
+
+Participant 24: The type of parties.
+
+Daniel: Expanded for software engineer. Sorry I just have to expand that for the transcript. Yes, thank you.
+
+Participant 24: Oh.
+
+Participant 24: the type of work I did to me falls more on the category of the
+
+Participant 24: or like policy type of privacy engineering.
+
+Participant 24: Which is more of kind of just like advisor, almost and then I think there is, like the other spectrum, which is almost the like like user experience researcher. So you Xr type of privacy engineering, that's more focusing on the like end user interaction. How that's gonna go like, does this align with.
+
+Participant 24: you know, like privacy, best practices.
+
+Daniel: Okay.
+
+Participant 24: I don't know, like I don't think anyone would call themselves privacy engineers. If they're doing research. I think we just call themselves privacy researchers in in.
+
+Daniel: Okay, that's that's fair. So so you've mentioned that there's like a whole spectrum of different kind of flavors of privacy. Engineer. All of which are, you know, of course, valid. But how would you define privacy, engineer, like? What's the essential sort of definition in your mind?
+
+Participant 24: I I don't think there is an essential definition. I'm sorry to be that person.
+
+Daniel: No, no, no, that's totally valid. There's no right or wrong answers here.
+
+Participant 24: I think that oh.
+
+Participant 24: the fact that exists of spectrum, of privacy. Engineering is what makes privacy, engineering, privacy, engineering.
+
+Participant 24: I think I guess like, if I had to like define privacy engineering, it would be kind of just like a person who is working in alignment with like engineering teams and other teams within the company
+
+Participant 24: towards this, toward the goal of building more privacy respecting system, respectful systems.
+
+Participant 24: and, I guess, encapsulate the range of what I see out there.
+
+Daniel: Okay, alright, totally fair.
+
+Daniel: So shifting gears just a little bit. I'd like to talk a little bit more about your specific career journey. So how did you become interested in privacy engineering as a career or as a function of your career?
+
+Participant 24: Okay, so I wasn't the Phd, I had already done internships as like a like a Uxr, so user experience, researcher, I knew what that path looked like for me. I knew that that was a path for me, and your new academic was a path for me. I knew that existed privacy engineering, because we had a [ACADEMIC PROGRAM].
+
+Participant 24: and I was just like, Hmm! I'll go try to figure out what that was
+
+Participant 24: which is kind of hilarious because it ended up that my internship was the goal of my internship, was literally defined by my manager, as [REDACTED] figures out with privacy engineering.
+
+Daniel: Okay.
+
+Participant 24: And
+
+Participant 24: yeah. And then,
+
+Participant 24: I stayed as a privacy engineer because I defended in the middle of the pandemic, and the job seemed interesting enough, and they converted me, and I was just like, sure. Why not?
+
+Daniel: Fair enough. So if I was to kind of play this back in terms of your career journey and sort of how you arrived, you know.
+
+Daniel: at your positioning privacy engineering. It sounds like you had a academic interest in privacy. You are exposed to privacy engineering type careers as a user experience. Researcher. You ha were, you know, uniquely privileged to be at an institution that had a specialty program relevant to the discipline. I'm obviously saying this in this way, because I'm gonna have to redact [REDACTED] and all that other stuff
+
+Daniel: to the identify you. And then eventually, this led you to a position which you felt comfortable in amidst the economic uncertainty at the time of the pandemic. And that stuck. Is that about right?
+
+Participant 24: Got stuck until I couldn't do it anymore. Yes.
+
+Daniel: Fair enough. So
+
+Daniel: presumably you do still continue privacy engineering by some definition as part of your profession. What motivates you to kind of continue along that vein.
+
+Participant 24: I care about privacy. I think privacy is an important, like fundamental right that we need to have in order for society to like remain.
+
+Participant 24: I don't know. Respectful of individuals
+
+Participant 24: as we continue to
+
+Participant 24: move along this like very data, intensive like data, hungry economy that we live in.
+
+Daniel: Yeah, so primarily, the respect for fundamental human rights is kind of your main driver. Do do you have any personal goals for the work.
+
+Participant 24: I mean I would.
+
+Participant 24: and I guess it depends on how you define personal goals. But if I'm thinking of just like in terms of what I would like, the work that I do like, in which direction I would like it to to see it going. I think I would like to see it going in the direction of like
+
+Participant 24: like data, minimization and purpose limitation sort of angle. So that it aligns more with the
+
+Participant 24: with people being able to
+
+Participant 24: have their data be used in the way that they wanted to use, that there's so much data being collected of you and being used for so many different ways. There's like absolutely no way in hell. Sorry there's no way that you can.
+
+Participant 24: you know, have even like
+
+Participant 24: a fantasy of having control over it. But
+
+Participant 24: maybe if you have a more limited scope and you're having to make fewer decisions, you're able to think more carefully about those.
+
+Participant 24: So I think
+
+Participant 24: my ultimate goal. And probably why could not last very long in industry was, that data minimization doesn't really align.
+
+Participant 24: Yeah, that they want to do.
+
+Daniel: So so in terms of what you enjoy, or sort of what value you get out of working as a privacy practitioner. What what would you say? That is.
+
+Participant 24: It's a big thing that you know. There's all, all of the like.
+
+Participant 24: I couldn't make interesting, because these are like interesting, new, complicated problems that come up. But I think something that like doesn't goes, doesn't, is, isn't like recognized as much is the community of people that work as privacy. Engineers
+
+Participant 24: right like these are usually like extremely like brilliant kind.
+
+Participant 24: you know, like well, like thoughtful human beings, and
+
+Participant 24: working with them in order in working with them towards something that has like
+
+Participant 24: meaning and value to society, in my opinion.
+
+Participant 24: was
+
+Participant 24: wasn't is something that I think it's important.
+
+Participant 24: and that brings me joy.
+
+Daniel: So so the the main value is kind of the pursuit of the common good, but the personal enjoyment is from being able to, you know, hang out with cool, smart people that are in the community. That's that's great.
+
+Daniel: So I'm gonna ask you a question now, kind of about the future.
+
+Daniel: Although this might be somewhat awkwardly phrased. Because I think you acknowledge that you are sort of shifting, or ha have shifted roles, though I think you still would consider yourself a privacy practitioner or a privacy engineer. But
+
+Daniel: a year from now, do you see yourself in the same position, or maybe more specifically doing what it is that you currently do in your position as a privacy engineer or practitioner.
+
+Participant 24: I will say that, like even what I was doing before and what I'm doing now. There's like a lot of overlap between
+
+Participant 24: both. So I do see myself like doing some a similar sort of
+
+Participant 24: helping identify what are good and more productive paths forward.
+
+Participant 24: I have like having left industry. I have to compromise less with like business. The business goals.
+
+Participant 24: though compromise is still necessary everywhere you go. So I do, I think, like that seems
+
+Participant 24: potentially in a different scale, potentially in a different location. But I do think I'll be doing some more work.
+
+Daniel: So I just wanted to probe on one thing specifically. So do you think that your certainty about doing a similar flavor of work, you know, a year from now comes from the fact that you aren't in industry, and that this is a specific feature of being
+
+Daniel: in a different sector or do you think that it just comes from something else like, for example, you know, privacy is privacy, or
+
+Daniel: something else?
+
+Participant 24: Because if I if I if I was still at my previous company, which I'm just literally not saying the name, because I know you're gonna have.
+
+Daniel: I know, I know. Yeah.
+
+Daniel: Thank you.
+
+Participant 24: Hello!
+
+Participant 24: So if I if I was still at my previous company, I would expect the work that I was doing to be significantly less
+
+Participant 24: privacy oriented and significantly more compliance oriented.
+
+Daniel: Okay.
+
+Participant 24: Like you.
+
+Daniel: That's a great response.
+
+Participant 24: I think that's the shift that I was already seeing happening, and did not appeal to me.
+
+Daniel: Okay, awesome. Well, said, so let's talk a little bit more about your day to day.
+
+Daniel: So can you give me an idea of what like a typical day at work looks like for you these days.
+
+Participant 24: These days are in the past job.
+
+Daniel: Well did.
+
+Daniel: Yeah, I'll I'll I'll leave it to you to kind of decide how you want to interpret that.
+
+Participant 24: I'll continue with the positive, just because it's easier.
+
+Participant 24: it looked like a lot of meetings.
+
+Participant 24: It looks like a lot of reading Pds, so privacy design docs.
+
+Participant 24: Reading
+
+Participant 24: like just design docs in general.
+
+Participant 24: And.
+
+Participant 24: you know, identifying like what are potential risk or potential considerations. How could we mitigate what has already been done?
+
+Participant 24: And having all of those meetings to
+
+Participant 24: discuss what are potential solutions? What are
+
+Participant 24: the the barriers that the teams would face.
+
+Participant 24: So it was
+
+Participant 24: essentially reading. A meeting is what every day looks like.
+
+Daniel: Okay. Now, in in terms of your responsibilities. Were you kind of responsible for presiding over these meetings, running them? Being an advisor like, what? What was your actual key responsibility in in terms of the day to day.
+
+Participant 24: It depended.
+
+Participant 24: So
+
+Participant 24: as as a whole, my job was always as an advisor
+
+Participant 24: to these meetings
+
+Participant 24: to the bulk of these meetings unless we were dealing with an escalation to type of meeting. If we're dealing with an escalation type of meeting, then at that point, I am not as an advisor. I'm kind of just. I'm presenting my case. So I am leading that that side of the meeting. But normally, the way that this would function is that
+
+Participant 24: either our Pgm. Or the Pgm. Program manager for the other team would be the the meeting leaders to like direct up the path, manage the agenda, and we were there
+
+Participant 24: as more of like expert consultants.
+
+Daniel: Got it. Okay, that makes sense,
+
+Daniel: And then what sort of overall responsibilities would you say that your employer kind of expected you to take on at work. Generally speaking.
+
+Participant 24: We have. We had a latter. We had a lot of description that was essentially talking about risk, identification, risk, mitigation, consultancy.
+
+Participant 24: there was
+
+Participant 24: trying to remember what were the other things that were included, but
+
+Participant 24: very little about being proactive, a lot about being reactive.
+
+Participant 24: finding solutions. There wasn't. Necessarily it was actually, I was actually told a handful of times to not try to build things, because that was not the job of a privacy engineer. That was the job of a software engineer.
+
+Participant 24: So at that specific company there was this like clear separation between the 2,
+
+Participant 24: you you could be either a technical program manager or a software engineer with a focus on privacy. But as a privacy engineer, your role is more of a consultant.
+
+Daniel: Okay, but it does
+
+Daniel: gotcha gotcha. So it does sound, though like, based on your kind of description of the day to day, and sort of what the general responsibilities were. That there was a pretty, you know, pretty close similarity between the 2. Do you figure that it might have just been because the sort of responsibilities that were expected of you were a bit vague, and you know the way that you instantiated them. Kind of just fit? Or was there something else.
+
+Participant 24: No, no, I think they were. I think they were purposely vague as well, because the company that I was working at had different formats of privacy engineering. They had privacy engineers that worked horizontally, which was what I was doing
+
+Participant 24: where you specialize in the domain area. And my kids in my case, kids and teams and machine learning.
+
+Participant 24: And then there are vertical privacy engineers that specialize in a product area.
+
+Participant 24: So the privacy engineering ladder needed to be
+
+Participant 24: vague enough to accommodate both types of position.
+
+Daniel: Okay, that totally makes sense.
+
+Daniel: So in the next question, I'm trying to differentiate between what you do specifically for work. And then the things that you do or did outside of work. So was there any additional responsibilities that you felt or feel that you're expected to take on in your role, such as you know, say to society or others that were in the organization, or even to yourself.
+
+Participant 24: Yes, but I did not know
+
+Participant 24: how I could engage. I actually at 1 point had a conversation with
+
+Participant 24: a senior person on my team on. How could I engage with things like civil society, for example, in a way that would not create a conflict with my day to day work.
+
+Daniel: Interesting. So it it seems like you kind of felt the responsibility to serve the broader community. Specifically, you said civil society but you felt barriers in doing that, because it just wasn't clear how the organization you belong to would be able to allow or facilitate that.
+
+Participant 24: Yes.
+
+Daniel: Gotcha.
+
+Participant 24: Academic work was easy to justify. There were hoops, but there was a path.
+
+Participant 24: Other types
+
+Participant 24: not as much.
+
+Daniel: Did you feel that you were responsible for taking on academic tasks, like writing research papers and things like that?
+
+Participant 24: What does a privacy engineer know? The most that
+
+Participant 24: there was no pressure whatsoever to do that sort of thing if I wanted to
+
+Participant 24: I could, but it would probably be more from like a.
+
+Participant 24: This is me anonymizing myself. Do you know, deanonymizing the company as a 20% project.
+
+Daniel: Okay, yeah, I got it. I got it. So. But but that would have been like a strictly outside of normal work expectations. Kind of thing. Yeah, got it? Okay? Great. So let's talk a little bit more about your skill set, then. So what would you say? The skills were that were specifically demanded of you when you got started.
+
+Participant 24: Technical knowledge for sure understanding how different pieces of technology
+
+Participant 24: work, so that you can be able to identify what are areas of risk that they will all have
+
+Participant 24: creative thinking
+
+Participant 24: is another one, because
+
+Participant 24: the easy solution that you can have it's almost never going to actually be the thing that ends up being implemented is because it goes against like
+
+Participant 24: business goals.
+
+Participant 24: or because
+
+Participant 24: the technology stack that the company has doesn't allow for it.
+
+Participant 24: So that I think
+
+Participant 24: one thing that wasn't clearly expected. But what became very clear early on that would be needed is negotiation skills.
+
+Participant 24: same with kind of just like communication, like like project management, to some extent.
+
+Participant 24: But I would say that, like the probably the top 2 would be the the technical knowledge and the creative thinking.
+
+Participant 24: And then there is the God! I hated. It was this one was actually said,
+
+Participant 24: Thriving in uncertainty, I think.
+
+Participant 24: unknown.
+
+Participant 24: essentially like being able to function when there are no clear rules for guidance on what you're supposed to be doing.
+
+Daniel: Okay, fair enough. So you.
+
+Daniel: you kind of preempted my next question. So I'm gonna play this back and see if this track. So you know, you were explicitly expected to kind of understand technology, the tech stack think creatively but in terms of like actual skills, you had to use on the job. There was a lot more emphasis on like negotiation communication skills, and then kind of being able to, you know, be a a diplomat, you know, work in ambiguity or uncertainty.
+
+Participant 24: Security. That's the word that they use thriving ambiguity thing.
+
+Daniel: Okay, got it, but that that one was an explicit expectation. That was also something that, like you actually had to do on the job right?
+
+Participant 24: Yeah. And that was that was actually, I think I'm pretty sure that's an
+
+Participant 24: actual thing that they tried to capture during interviews.
+
+Daniel: I see, I see so.
+
+Participant 24: And is it competent at that.
+
+Daniel: So I'm trying to tease the 2 apart a little bit right? And I was wondering if you might be able to comment on whether you see a difference, you know, between the skills that you were kind of expected to demonstrate during the interview process. And then those that were like actually required of you to be successful in your role.
+
+Participant 24: Yeah, I think that the things that
+
+Participant 24: we're being asked during the interview process are more related to like creative thinking.
+
+Participant 24: And okay, so here's the thing. Here's the complicated answer.
+
+Participant 24: the technical skills. Yes, creative thinking. Yes.
+
+Participant 24: thriving integrity.
+
+Participant 24: something that they were trying to capture period
+
+Participant 24: negotiating skills. And just like the people management side of things
+
+Participant 24: is something that
+
+Participant 24: at a lower level
+
+Participant 24: was not going to be necessary and was not going to be measured and and checked on an interview, even though you would still need to have that ended your day to day job.
+
+Participant 24: however, for lower for higher levels of the same job at the same ladder. That becomes requirement, right? Because once you go up the the levels in in the latter you're expected to be doing more of that. You're expecting to be negotiating with like higher profile cases with like more people.
+
+Participant 24: That's root of management
+
+Participant 24: becomes more of an expectation. So I think that the reason why saying this is complicated is that
+
+Participant 24: it's not that
+
+Participant 24: it wasn't needed is that
+
+Participant 24: that's an entire side conversation.
+
+Participant 24: companies have a tendency to down level people
+
+Participant 24: when they're hiring them.
+
+Participant 24: So I was hired with like very low expectations, but I was put in a position
+
+Participant 24: where I needed to be performing at the next level where those expectations were needed. Th, those set of skills were needed, even though they weren't initially
+
+Participant 24: measured and like
+
+Participant 24: captured and interviewed.
+
+Daniel: Got it. Okay, that makes a lot of sense. And that actually makes a good segue into the next topic. Which is about reporting and deliverables. So
+
+Daniel: who do you? Who did slash do you report to? Obviously, we're not asking for their specific name, but like, maybe you can tell us a bit more of their role.
+
+Participant 24: Yeah. So I had. I had an engineering manager who was a people manager.
+
+Participant 24: right? His job was very focused on
+
+Participant 24: kind of just like making sure that I was doing work that was assigned like made sense with the latter, with the responsibilities that I was expected to have.
+
+Participant 24: And just kind of just like making sure that I wasn't like a good career progression.
+
+Participant 24: That's why I reported 2.
+
+Daniel: Did you have any reports?
+
+Participant 24: I did not. No.
+
+Daniel: Okay, sorry. But I didn't mean to interrupt you. You said that there's someone else, maybe, that you reported to as well.
+
+Participant 24: Yes, so separately. I'm not reporting to this person, because there is no formal relationship in terms of just like like hierarchy. But I was in a team that would have a tech lead.
+
+Daniel: Okay, got it?
+
+Participant 24: The person is serving the per the point of like a person manager, like a people manager. Their point is making sure that the work is being. The work that is being done is being done in the right direction. It's being done in the right way.
+
+Participant 24: Okay? Aye.
+
+Participant 24: for the purpose of like the broader
+
+Participant 24: strategy and objectives of the team. So even though I didn't, I didn't formally report to this person. That was this informal
+
+Participant 24: reporting that happened as well.
+
+Daniel: Got it. Okay? So you you you directly preempted my next question. So I'm just gonna read this back. Make sure I got that.
+
+Participant 24: You're very efficient.
+
+Daniel: Yeah, this is very, very efficient. So the it sounds to me like the typical reporting structure is formally to have a manager who's sort of responsible for your overall career trajectory, and, you know, kind of get some insight into how you're personally doing. But then, in terms of how like projects and overarching deliverables and goals. And what have you are also getting met? There's kind of this informal reporting structure involving team leads and tech leagues and and and things like that. Okay? So then, the common reporting
+
+Daniel: reporting structure for the team, then, is a bunch of people with managers, but then also, like a team, lead or a tech lead as well. Correct. Okay.
+
+Daniel: awesome. So in terms of methods that were actually used to report to one another like meetings, emails, project management platforms. Maybe there's something else special that's unique to that particular organization. What sort of methods did you actually end up using.
+
+Participant 24: So that we're
+
+Participant 24: so most of the time. It would just be like informal meetings, like
+
+Participant 24: actual, just like one on ones
+
+Participant 24: weekly by weekly depending on like which frequency we were doing at a particular point in time, and then we would have.
+
+Participant 24: I don't know the cadence. I don't remember the cadence, like, I think, like once every quarter, like formal performance reviews.
+
+Daniel: Okay.
+
+Participant 24: That would be
+
+Participant 24: We would normally do a first pass of just like creating a doc where we were outlining like for the different responsibilities and the different things that were associated in the latter, like, what was the work that we did where the parts like? We may be like
+
+Participant 24: missing or needing to do more work related to that.
+
+Participant 24: what were the things that were accomplished? Right? We would document that in in like a like a separate, just like document.
+
+Participant 24: and then eventually, that would go into like a formal system for the performance review.
+
+Daniel: Okay? But then, in terms of like, sort of more day to day type reporting, did you use any like special project management platforms or any tools, or it was really meetings, and maybe email as well.
+
+Participant 24: We just never did.
+
+Daniel: I see. Okay, well, let me probe on that a little bit. So they tried to implement some
+
+Daniel: reporting tool, but it just didn't receive any kind of widespread adoption.
+
+Participant 24: Not in our team at least. No.
+
+Daniel: Okay. Good. To know.
+
+Participant 24: And Africa.
+
+Daniel: Alright and then, and obviously, I'm not gonna ask you to name any specifics about the tool. I think that that should suffice. But now in terms of the actual overall organizational structure. Would you say that it's more on the flatter side, or more hierarchical like? What? What's your take on that.
+
+Participant 24: Day-to-day is flat.
+
+Participant 24: If a decision needs to be made, it becomes very hierarchical.
+
+Daniel: Okay.
+
+Participant 24: Yeah. So for, like, just like every day sort of things, it it would have been like a very flat
+
+Participant 24: if a decision needs to be made in terms of like
+
+Participant 24: taking a certain direction or another. Then there are 50 people that all of a sudden need to sign off on something.
+
+Daniel: Okay, I got you so
+
+Daniel: in terms of like the actual deliverables that were required from you and your role. You know, some examples might be things like writing code which it sounds like explicitly you were asked not to do. You know, maybe there's research reports. Maybe there's privacy, vibe design advice. Maybe there's sign offs right. What? What kind of deliverables would you say were required from you?
+
+Participant 24: Sign offs for sure. Both.
+
+Participant 24: like the official form, will sign off, but also just the
+
+Participant 24: the more formal documentation within our ticketing system.
+
+Participant 24: cause we had a separate tool, for like launches to be able to go out the door.
+
+Daniel: Okay.
+
+Participant 24: Oh,
+
+Participant 24: Policy documents, just like the drafts, the creation of those documents before they they get all the sign offs and are incorporated into like actual.
+
+Participant 24: the internal policy tracking system.
+
+Participant 24: a lot of
+
+Participant 24: honestly, just like a lot of
+
+Participant 24: Lg, tmu. So saying, it looks good to me. And documents like, just sign off and like design docs.
+
+Participant 24: Okay,
+
+Participant 24: that sort of thing.
+
+Daniel: Fair enough. So
+
+Daniel: you listed a bunch of different deliverables, right? So like mainly sign offs. But there's also like policy docs, docs and ticketing system. Things like that. Could you tell me just a little bit more about why they're important in your role.
+
+Daniel: or why they're not important like it's
+
+Daniel: it's open for true
+
+Daniel: paper trail. Okay? So like accountability and ensuring that people have actually signed off. And like that, policies and procedures have been met okay.
+
+Participant 24: Yeah.
+
+Daniel: Got it? And then would you say that the that collection of deliverables is typical or not so typical for someone in the profession overall.
+
+Participant 24: It depends on whether this Comp. The company that other people are working under have a consent decree or not.
+
+Daniel: Okay. Alright, that's a very good answer.
+
+Participant 24: Is, are they required to have a privacy program with with documentation.
+
+Daniel: Yeah.
+
+Daniel: I see. So so, just just so that you know we capture this on the recording. You know, the idea is that if the company has a consent decree, then it would be very typical to have a lot of formal sign off procedures, policy docs, ticketing system, things like that to ensure accountability, and I think that you're sort of.
+
+Daniel: you know.
+
+Daniel: in through informed speculation, asserting that companies that are not under a consent decree may have, like a somewhat lighter weight version of these processes, or maybe not have them at all. Is that about right?
+
+Participant 24: Yes, it will also depend on so just fundamentally the size of the company.
+
+Participant 24: If the company is bigger and has
+
+Participant 24: more risk associated with not having formal processes.
+
+Participant 24: they might have formal processes. If the company is smaller or doesn't feel like they have like
+
+Participant 24: enough risk being crewed. They might just continue doing informal processes until they have to.
+
+Daniel: Okay, that's a great point.
+
+Daniel: So in terms of how your deliverables are actually evaluated by your manager. Right? What? Possibly also by the tech lead, as you said. What what would that look like like? How did the actual deliverables get evaluated.
+
+Participant 24: It weren't.
+
+Participant 24: It was a trust system they trusted. I was confident enough to do my job. I don't think anyone.
+
+Participant 24: unless I asked for a second opinion. I don't think anyone checked.
+
+Participant 24: So for for signoffs.
+
+Participant 24: 99% of the shot time, it was a single person doing the sign off
+
+Participant 24: for policy. That's different for policy. There would be a lot of like a lot of people checking a lot of people, making sure that you know the
+
+Participant 24: what's being written is appropriate. Is it the right, like scale like, has the right protections in place, the right considerations. But for launch sign offs
+
+Participant 24: it could be just me. It could have been that we just had a meeting where we altogether decided like, yeah, this is fine. Sign off on it. Move on. Kind of just dependent.
+
+Daniel: Okay, so let me probe on that just a little, if you don't mind. So it sounds like when it comes to the formal sign off processes for things that are not policy related. As long as you had participated in some way, the you know, evaluation from your manager would be yep like looks good. But then, in terms of things that were more policy related, it sounds like there was more layers of bureaucracy to evaluate whether the policy artifact, and so on, was acceptable.
+
+Participant 24: Yes, sir.
+
+Daniel: Could you maybe comment a bit on sort of how that kind of
+
+Daniel: like works.
+
+Participant 24: The policy.
+
+Daniel: Yeah.
+
+Participant 24: Yes, I'm normally the way that the policy process, the policy drafting process would work would be.
+
+Participant 24: say, I wrote, I would write the first draft
+
+Participant 24: maybe with someone else, maybe by myself. This would normally be sent to both my people manager and my tech lead
+
+Participant 24: they would provide feedback, they would provide considerations
+
+Participant 24: once those were incorporated, this would be sent to appropriate counsel
+
+Participant 24: for their feedback and considerations.
+
+Participant 24: Once those are incorporated. We start entering the world of executives right?
+
+Participant 24: Director, senior director, Vp. Whatever level you know, it, it varies whether it was going to be a guideline a standard or policy.
+
+Participant 24: if it was like a company, wide policy, you also would need sign off across the different product areas.
+
+Participant 24: So it
+
+Participant 24: it would vary, but it kind of just like
+
+Participant 24: you. Essentially
+
+Participant 24: it was. You start with your like more direct managers. You would loop in
+
+Participant 24: legal, and then you would start going. So once you have kind of just like a basic agreement that this is like fine.
+
+Participant 24: You start getting like the executive buy in.
+
+Daniel: Got it. So it it sounds like the way that it's actually evaluated is if you get the buy in from people, then you've succeeded. And that's great. Okay, awesome. So I'm gonna shift gears just a little bit here, although this is still pretty closely related. Were there any tools, techniques or standards.
+
+Daniel: that kind of created challenges for you. Right? So I again, just to clarify what I'm saying here, a little bit like you talked about actually creating new standards. Possibly, even, you know, arguing in favor of using tools and things like that. So did any of those actually pose challenges for you, or in the more meta sense, were there any like tools, techniques, or standards that you had to follow in your work that created challenges for you either one is totally fine.
+
+Participant 24: I don't think so. I think
+
+Participant 24: like
+
+Participant 24: the tools weren't perfect.
+
+Participant 24: you know. There could have been things that
+
+Participant 24: could have worked better, or, you know, like
+
+Participant 24: public specific design changes that could be better. I think the thing that
+
+Participant 24: mostly God and delay of the word, or make it difficult was culture.
+
+Daniel: Got it. Okay? So I mean, that's not a exactly a standard in its own right. But the company culture posed a challenge for you? Would you say that? That's that. Those kinds of culture related challenges were the most common ones that you encountered.
+
+Participant 24: Yes, and it would essentially dictate how well a pro a product
+
+Participant 24: project or product launch would go would be
+
+Participant 24: whether the
+
+Participant 24: the product manager.
+
+Participant 24: Was someone who thought that privacy was
+
+Participant 24: important, and something that should be taken seriously, or a checkbox.
+
+Daniel: Gotcha.
+
+Daniel: So do you think that this kind of challenge is typical or atypical for folks in the profession more generally.
+
+Participant 24: I would say typical.
+
+Daniel: Okay.
+
+Daniel: now.
+
+Daniel: what about challenges related to your specific sort of organizational or reporting structure? It. It sounds like, though, the kind of cultural challenge that you mentioned may be somewhat related to this, but were there were there any specific issues that kind of came out because of the fact that you reported to your manager in the Tech League lead, or because of the sort of hierarchical nature when things come down to, you know, making decisions anything like that.
+
+Participant 24: I think a big
+
+Participant 24: thing when it comes to like the structure is the
+
+Participant 24: number of times teams would be reorg
+
+Participant 24: or would get new leadership, and anytime you have a new leadership, or you have a reorg. The priorities change, because whoever is now your Vp. Or your or your senior Vp. Your vice President.
+
+Participant 24: They want something else. They'll want something new. They want something to call their own, so they might just like Scrap everything that was like being done before, and just go like, no, we're doing this new thing now.
+
+Participant 24: So that creates a lot of uncertainty and a lot of just
+
+Participant 24: lost cycles, having to redirect.
+
+Daniel: I see. So it it sounds to me that the most common challenge
+
+Daniel: related to organizational reporting structures was just how fluid they were, and then that fluidity resulted in a lot of lost time, a lot of realignment, a lot of reorganization in general. Okay.
+
+Daniel: so do you think that these challenges are typical or atypical for someone in the profession where generally.
+
+Participant 24: I don't know. They were very common in the company it was in.
+
+Participant 24: I think.
+
+Participant 24: from what I talk to people who are in other companies like that sort of thing is not uncommon, but I don't know if it's a.
+
+Participant 24: you know, have 3 reorgs in 6 months. Sort of situation.
+
+Daniel: Okay? Fair answer.
+
+Daniel: So what about the ways that you sort of overcame the challenges that you mentioned? Right like, did was there any sort of specific challenges or approaches that you found were, you know, especially effective or not so effective at dealing with. Like I said, the fluidity of the organization. Or you know, the overall organizational culture and things like that.
+
+Participant 24: So for the fluidity of the organization
+
+Participant 24: I don't necessarily recommend. But my approach was essentially to just ignore it
+
+Participant 24: and just continue doing the work that I'm doing and dependent of who isn't, who is in power. Because if I decided to do that work is because I thought that was important work, and it just meant I might need to like, reconvene, like have to convince someone again
+
+Participant 24: that this was important. But I
+
+Participant 24: I very quickly got tired of waiting for
+
+Participant 24: people to like say, to like, this is the new direction, I'm just like great. This is direction I'm going.
+
+Participant 24: I'm just going to keep doing it until someone tells me to stop it.
+
+Daniel: And that worked for you.
+
+Participant 24: I did. I got promoted right before I left.
+
+Participant 24: yeah. Culture. I think
+
+Participant 24: I think this is, we're almost just like
+
+Participant 24: Social engineering almost comes into play.
+
+Participant 24: Could you tell me.
+
+Daniel: More about what you mean by that.
+
+Participant 24: Yeah, in the sense to like very early on in like a new product meeting, I would figure out like.
+
+Participant 24: who are the Allies for the people who care about privacy. You are the people who clearly don't care
+
+Participant 24: who are the people who are like, you know, are willing to do it if you, if I make it easy enough for them to do it.
+
+Participant 24: And I would take different approaches to talking to people depending on where they stood in the spectrum.
+
+Participant 24: and
+
+Participant 24: it it becomes kind of just like a people's go. It's almost
+
+Participant 24: feels icky to say it, but it's almost like learning to manipulate people to do the right thing.
+
+Participant 24: Almost that kind of felt like the job a lot of times.
+
+Daniel: That's gonna make for a really excellent quote in the D in in the anonymized version of this so I I just wanna clarify one thing, though. So it sounds like you were implying that it was most effective to kind of use these social engineering skills to kind of manage expectations. You know, again.
+
+Daniel: whether that feels manipulative or not is, is, I think, a matter of your personal opinion. But was there any moments where that kind of approach was not effective.
+
+Participant 24: That was less effective. If you're talking to researchers.
+
+Daniel: Interesting. Okay?
+
+Daniel: So so, Ju, just that I can play this back and make sure I'm getting this right? So
+
+Daniel: you knew that it was effective with many different types of stakeholders, and you mentioned lots of them like managers, executives, you know, so on and so forth. But this kind of stakeholder management approach with researchers kind of fell apart. Why, why was that.
+
+Participant 24: As researchers are very headstrong.
+
+Daniel: Okay. Okay. Fair. Enough.
+
+Participant 24: Do it.
+
+Daniel: Okay. So they they. So you, you reckon that they probably had made up their minds. And you just didn't really have any leeway to actually influence them.
+
+Participant 24: Yeah.
+
+Daniel: Okay, interesting.
+
+Daniel: Alright, so let's shift gears one more time. And we're gonna talk a little bit more about the impact of your work in in broad strokes here.
+
+Participant 24: So.
+
+Daniel: So how would you personally define success in the work that you do.
+
+Participant 24: Okay.
+
+Participant 24: Question.
+
+Participant 24: how do I define success for
+
+Participant 24: what I was willing to.
+
+Participant 24: or what was success defined as.
+
+Daniel: Yeah, no. In in this case I'm actually asking for, like your personal opinion, not not what was like impressed upon you, or what you were made to believe was success, but rather like, what makes you feel like? Yes, I've actually achieved my, I've done my job, as you know, a privacy engineer type person.
+
+Participant 24: Yeah, I think like, whenever I had like a launch where I was able to
+
+Participant 24: reduce the amount of data that's being collected, or have it be collected at a high granularity, or have them keep the data for longer, or making sure that was like
+
+Participant 24: segmented away from other data, so that it was only gonna be used for that purpose, right? Which for me is again like it goes back to like, what are my goals right? Like purpose, limitation, the organization that was
+
+Participant 24: those were the things that I that I think of.
+
+Participant 24: So to me.
+
+Participant 24: that's what I would consider to be
+
+Participant 24: successful
+
+Participant 24: and also even I'd like to.
+
+Participant 24: and a more like human side of like side note
+
+Participant 24: when I felt like I was able to flip someone
+
+Participant 24: from the, you know. Maybe you know, maybe privacy is fine, but it's kind of a lot of work to like. Oh, no, like we can actually do this, we should be doing this building like moving forward. We should be considering this from the start.
+
+Participant 24: So those 2 would be my metrics of success is kind of just like.
+
+Participant 24: have I created another essentially like privacy advocate? And have I made just like for this specific thing
+
+Participant 24: better from a privacy perspective?
+
+Daniel: Okay, sounds great. Now, you did mention like purpose, limitation and data minimization as sort of overarching principles. What do you think they're the overarching goal is or is. Are those 2 things really the actual overarching goal for you?
+
+Participant 24: No, I think that those are the so. The
+
+Participant 24: the overarching goal for for me is to
+
+Participant 24: not have people feel as powerless
+
+Participant 24: about what's happening to them and their data.
+
+Participant 24: And I don't think control is useful because there's too much like people can't exert control over the obscene amount of data that is being collected of them.
+
+Participant 24: so to me, kind of just like
+
+Participant 24: making sure that we were
+
+Participant 24: getting as close as I could get to
+
+Participant 24: what would be reasonable
+
+Participant 24: to think that people expected, you know, like how they expect their data to be used, how they expect their data to be handled, so trying to like match that like end user expectation, such that they didn't have to like, actually go do things themselves. Because
+
+Participant 24: who can?
+
+Participant 24: yeah, top of definite.
+
+Daniel: That sounds really good.
+
+Daniel: So early. You asked me, okay? Well, like, you know, when you ask me wh you know who defined success isn't me? Or is it like what's pushed upon me? Let let's take it from the opposite perspective. So how do you think others evaluate the impact of your work?
+
+Participant 24: Oh, okay.
+
+Participant 24: there are 2 answers to that. There's a company answer to, not the company answer to that, but in the sense of like. The more
+
+Participant 24: the more cynical company perspective of it which is, can they still make money
+
+Participant 24: while being able to say that they're doing things for privacy?
+
+Participant 24: And then there is the defeatist perspective that I heard so often from other privacy. Engineers, which is
+
+Participant 24: privacy's goal is not to to improve on privacy is not to make privacy better. It's to lose slowly.
+
+Daniel: That's very interesting.
+
+Participant 24: Yeah. The goal was not to actually push the needle. To like make things better was to like, reduce the pace of which things got worse.
+
+Daniel: Okay.
+
+Daniel: Alright. That is very cynical, but understandable.
+
+Daniel: so so let me ask you a bit more precisely then. Because you did actually mention a few metrics earlier. Do you think that there's any specific metrics associated with these 2 evaluation criteria about the sort of company and the defeatist philosophy.
+
+Participant 24: Like metrics, actually, metrics.
+
+Daniel: Yeah, yeah.
+
+Participant 24: Privacy was not good. Okay? So privacy was not good with metrics was a
+
+Participant 24: perpetual thing, like the the biggest metric that people had was just related to
+
+Participant 24: how many launches got, approved, not approved, how many were escalated, how many got like fought and lost
+
+Participant 24: though the privacy organization that I was in was actually very adamant, like very
+
+Participant 24: like resistance to metrics from because of the perspective of
+
+Participant 24: what gets done is what gets measured and defining good privacy metrics. It's hard right, because if you decide that.
+
+Participant 24: you know, like the metric, to let measure how good a privacy program is is
+
+Participant 24: how much they approve or like, reject something you're not creating an incentive to approve or reject something faster or slower. Right? So they were very.
+
+Participant 24: very resistant to like defining any metrics which.
+
+Participant 24: on one hand, I appreciate the I appreciate the sentiment, but it also makes it really hard for you to justify to leadership
+
+Participant 24: that
+
+Participant 24: they should continue investing in privacy.
+
+Participant 24: Yeah.
+
+Daniel: I mean, I think that just about says it all, doesn't it?
+
+Daniel: well, I will say this was an extremely efficient interview, as you said. We have actually reached the sort of conclusion part so as we close, I'd like to ask first, if there's anything else that you haven't had a chance to mention, or if you'd like to share with us, or you think we should know
+
+Daniel: do you have anything like that? Or.
+
+Participant 24: Okay. My alarm went off.
+
+Participant 24: I,
+
+Participant 24: Joan.
+
+Participant 24: think so. I'm.
+
+Daniel: That's fine!
+
+Participant 24: Yeah.
+
+Daniel: Totally okay. Did. Did you have any questions for us?
+
+Participant 24: Well, I would love to know how. If, when you know this is gonna get published, or you know what's the ultimate.
+
+Participant 24: you know, like end goal here. If a lot of the questions reminded me of Ari's book
+
+Participant 24: on like industry unbound.
+
+Participant 24: So I'm kind of curious how like
+
+Participant 24: how the findings you have here expect, how you expect it will play to the findings that he had.
+
+Daniel: Yeah, that. That's really a great question. So I'm happy to answer it. Bearing in mind that we're in the recorded section of the interview still so obviously, I can't share with you the findings from specific interviews, but I can tell you that overall sort of the main theme of this work is to better understand, like, what actually is privacy engineering. And what do privacy engineers actually do? Because I think that there's this.
+
+Daniel: you know idea that you know it really is a hypothesis. That you know, privacy, engineering may be very different from what people in industry, government, etc. actually expect
+
+Daniel: and that the kinds of skills. And you know, techniques and strategies and even organizational structures. That you know, so called privacy engineers may face are so diverse that it's very difficult to come up with a singular definition that really properly encompasses what it really means to like. Actually do privacy engineering.
+
+Daniel: And so I think the really the overarching goal of the work is to kind of extract a diverse set of perspectives on that such that we can see what seems to align across individuals, perspectives, and come up with hopefully. You know some more generalizable conclusions.
+
+Participant 24: Do you? Wanna do you wanna hear? What was my conclusion of the
+
+Participant 24: of my internship when I was supposed to like? Figure out what a privacy engineer did.
+
+Daniel: Please.
+
+Participant 24: My summarization was that we were the watchers on the wall.
+
+Daniel: Interesting.
+
+Participant 24: Our job was to like, make sure that, like
+
+Participant 24: we kept as few of the monsters from crossing the wall as possible.
+
+Participant 24: Could we see it all? No, because the wall was massive, and there were only a handful of us. But
+
+Participant 24: the job was to stand there and bear witness and making and make sure that, like the structure was sound, and that there weren't holes, and that whenever needed we would engage. But
+
+Participant 24: we were the watchers on the wall.
+
+Daniel: Nice. I like it well, I'm sure that we'll probably also quote that as well, though we may have to kind of manipulate it a little bit. So so let's end the recorded part of the interview now.

@@ -1,0 +1,739 @@
+Daniel: Right. So now that the recording has been activated, could you please just repeat one more time that you consent to being recorded.
+
+Participant 2: I consent to being recorded. 
+
+Daniel: Awesome, so I'm obliged to say that your identity and anything you share with us will be kept confidential. Only be heard and read by the researchers and study. Please know this interview is design is designed to be a conversation. So there's no right or wrong answers. And again, you can skip any question or pause the interview at any time. Do you have any questions before we get started?
+
+Participant 2: Nope.
+
+Daniel: great. Okay, so let's dive right into it. So I'd like to start by asking you a few general questions about your work. So could you tell me just briefly what you do in your job.
+
+Participant 2: Yeah, I'm [PARTICIPANT NAME]. I run the privacy architecture team at [COMPANY]. So I manage a team of privacy engineers.
+
+Participant 2: I can tell more on what these engineers do, what the team does.
+
+Participant 2: But essentially, we oversee the or give advice on the implementation of privacy into engineering design.
+
+Daniel: Okay, so could you define the term privacy, as you would sort of normally use it in the context of this work.
+
+Participant 2: privacy is about
+
+Participant 2: doing the right thing with users. Personal information users could mean
+
+Participant 2: any sort of
+
+users that use a company product. It could also include employees. So individuals, data.
+
+Participant 2: and doing the right thing could go from securing it properly all the way to minimizing is usage, making it transparent.
+
+Participant 2: So addressing all the known privacy principles. you know that you can find under a standard or or decide. So go beyond security
+
+Participant 2: and else enhance user trust and do the right thing with user data.
+
+Daniel: Great? Okay? So here's a bit of a broader question. Then how would you describe the roles in the industry related to privacy engineering.
+
+Participant 2: Yeah. So there are different types of privacy engineering roles. So the companies use the term very differently. I can't think of.
+
+Participant 2: Let's say, 4 different subgroups. So first, you have people who
+
+Participant 2: have the privacy engineering title or present themselves as privacy engineers. They basically
+
+Participant 2: do anything non related to the legal Council department, so operationalizing part of privacy and privacy. Right? So this could include setting up processes such as a data export process, whether it's manual or automated doesn't matter. So they kinda operationalize and do the admin or or more on the implementation side of processes. Roughly,
+
+Participant 2: so that's
+
+Participant 2: for example, the organization wouldn't be a privacy engineer. That would be a privacy program manager. But some companies would call it a privacy engineer. Second, people
+
+Participant 2: coming from security engineering background. So they're used to protecting sensitive assets. Personal data could be one of them. And they focus on things like authentication, authorization and and all that other things, and they gradually move on to
+
+Participant 2: privacy field. But still their focus is more on protection of the data. On the third subcategory. You have folks coming from software engineering background. They understand distributed systems.
+
+Participant 2: how systems work their limitations. So you know, can a privacy principle be implemented for this particular type of
+
+Participant 2: technology. What are the challenges? So it's kind of
+
+Participant 2: translate the policy to the actual system level, but also
+
+Participant 2: inform the policy based on the system limitations. They could. They typically don't code they they. But they do understand what the engineers are doing. So they could fix things themselves or give the technical advice
+
+Participant 2: to engineers. That's also privacy, engineering, subtype. And the fourth one, this is something I'm observing recently.
+
+Participant 2: those are people who don't have software engineering background or haven't built systems.
+
+Participant 2: but they
+
+Participant 2: deal with engineers quite often. So they might be doing some sort of reviews. They're familiar with technical standards, so they would remind the engineers what they're supposed to do at implementation level. So go beyond the typical compliance checklist. But to a technical review, but in kind of implement or remind technical standards to engineers without being able to tell how to build things.
+
+Participant 2: some companies call this technical program manager. Others call this also privacy engineer, which kind of complicates things. But these are the 4
+
+Daniel: types of privacy engine use site. Not okay. So this is very helpful. Now I'm gonna sort of take a slight variation on that question. I asked because, of course, we asked you to describe the roles in industry more broadly that seemed to be described as privacy engineering. But how would you define a privacy engineer?
+
+Participant 2: I think
+
+Participant 2: a at least a the privacy engineer should be
+
+Participant 2: doing something relate to engineering side of things. So anything on the process side, you know, operationalization is not privacy. Engineer, in my in my opinion, because done anything could be engineering. It's just too broad.
+
+Participant 2: I'd say anything where your kind of shaping
+
+Participant 2: tooling the engineering design
+
+Participant 2: is privacy engineer. If it's related to enhancing user privacy.
+
+Participant 2: so. But again, as as I say, it, it depends on on on what you're looking for. If you look at IAPP's latest privacy, engineering definition. I find it a bit broad
+
+Participant 2: like that. This, for example, talk to someone a ux researcher or a Ui expert building a consent flow is also.
+
+Participant 2: they call it a privacy engineer, or, if you're an It system, admin where you can configure some settings to be more privacy friendly. They also call it
+
+Participant 2: privacy engineer. I disagree with that approach again, because that could make any one doing something for privacy. Be a privacy engineer. Kinda
+
+Participant 2: How do we call it it? It makes it just too broad. Your. It should be your primary duty to get privacy embedded, and that you.
+
+Participant 2: arguing something to engineers and some something technical advice, something tangible. But they could just take it and implement your solution. And it enhances privacy. Right? So it's different than
+
+Participant 2: minimize user data or adhere to
+
+Participant 2: retention policy. So you have to go one step further.
+
+Daniel: Okay, interesting. Just a quick clarification. So I think I understood what you were saying was, say, a systems administrator, but could we just quickly go back to that sort of you know, ux designer type character. So are you suggesting that that was not an example of a privacy engineer, or that it would be if they're developing. Say, you know.
+
+Daniel: user interfaces that help people exercise privacy choices. For example.
+
+Participant 2: I would. It depends. If this person.
+
+Participant 2: typically day to day job, they build different systems, not necessarily privacy, and there is a project that involved in, and they were asked to build this consent. Work, flow of this privacy dashboard.
+
+Participant 2: I wouldn't categorize this as a privacy engineer.
+
+Participant 2: the one, for example, let's say, this person builds very good for privacy, enhancing dashboard to where you can come in as a user is clear where to click and which one will exercise which privacy rise. So this phone goes to deletion. Whether it was export.
+
+Participant 2: That's good, that's that's enhancing. But what happens in the all the back end? So maybe it doesn't delete all the data is supposed to do, and it doesn't export data sufficiently.
+
+Daniel: so are you doing more privacy than or more user enhancing. So helping the ux part of privacy versus actual engineering privacy. I see. So the engineering seems to have to have this sort of end to end piece. Is that what you're saying? I'd like to talk a little bit more about your career?
+
+Daniel: So how did you personally become interested in privacy engineering as a career or sort of as a function of your career?
+
+Participant 2: Yeah. So I, I was a software engineering student, and then I
+
+Participant 2: follow the course on ethics of technology. So obligatory course you mean in [LOCATION], where I'm originally from and it discussed basically the effects of engineering on the society. And there were some examples on privacy.
+
+Participant 2: I want to.
+
+Participant 2: you know, learn more on this, but this is more than a decade ago. There were no privacy engineers back then, not even privacy
+
+Participant 2: officers, or even councils. So I still worked on
+
+Participant 2: as a software engineer in in the in industry building some technical skills. Then I entered Academia. So sent a research proposal on
+
+Participant 2: algorithmic bias. And you know, effects of recommended systems on society echo chambers and filter bubbles, etc. Sort around 2010.
+
+Participant 2: That I publish on this domain. And I want to go back to the industry and have an effect on algorithms. And you know responsible development which we now know as AI ethics. And and and, you know, responsible. AI but again it. Nobody was hiring for professionals at the time, but they were looking for some sort of privacy security experts slowly. So
+
+Participant 2: I this is before. Just before Gdpr. Came into effect. So what I done is II looked, joined, a consultancy firm that was given security, advice, and I built their privacy, framework, privacy, consultancy, service. Then worked as a consultant in the industry then joined. [COMPANY], which is a health tech company and health data is more strictly regulated. Right? Including the Us.
+
+Participant 2: So I worked in there
+
+Participant 2: corporate department on building policies, learning more on the Gdpr. And legal size. and then it
+
+Participant 2: quickly became apparent that we also need privacy engineers, not just privacy officers or or consultants, because engineers are looking for more technical requirements rather than
+
+Participant 2: policy requirements. So because a policy could be translated in different ways to different systems. So they were looking for some sort of an architect. So I kinda
+
+Participant 2: got a privacy architectural created at the company and carried that out and worked on things like, how do we build a content management framework that can be reused across the company rather than just one project?
+
+Participant 2: And what are the default? Privacy by design requirements for a consumer platform. So that any service using it
+
+Participant 2: is already by default, privacy friendly. So these were kind of new back in 2015 before Gdp. I was, in effect, and from that on
+
+Participant 2: I got my offer from [COMPANY], where I still working last [many] years in a much more engineering role. Here I work under the engineering security department and under platform engineering. So we
+
+Participant 2: are expected to deliver more engineering products, not just advice or policy advice more like privacy enhancing, develop privacy, enhancing products.
+
+Participant 2: That's how I entered, how I transitioned into my current role
+
+Daniel: impressive. So if I was to kind of summarize your career journey and sort of how you generally arrived at your current position. I guess it sounds like you started with an academic interest during your initial training in privacy. You then, got involved in some research and application, and then consulting as you kind of transitioned into a more industry, focused role and then eventually, you began to really come into your own and industry as you worked at that healthcare health Tech company, I should say
+
+Daniel: and then from there you since have moved to a [COMPANY] in which you are now taking on a more manager role is that kind of accurate
+
+Participant 2: the last one is not accurate. [COMPANY] is not doing that anymore. So we do [INDUSTRY].
+
+Daniel: Apologies. As as just as an aside, my my involvement with that particular company was during that time. I know some folks who have since left, but anyhow, that's neither here nor there. Ii was just using this language deliberately, so it'd be a bit easier for us to redact the the the interview. I hope you understand?
+
+Daniel: Very good. Okay, so let's move on to the next question, then. So what motivates you to continue pursuing privacy engineering as part of your profession?
+
+Participant 2: I think
+
+Participant 2: skill set wise. I can bring a lot to the what? What is being required. Right? You need to understand software. But you need to understand privacy if you can build software, but don't understand the whole dimensions of privacy. You could build something that is not actually improving privacy, 100%
+
+Participant 2: or otherwise, you might know, in sense, out of different legal opinions and and decisions. But then, translating that it becomes hard. You kind of rely on engineers
+
+Participant 2: telling you that they've done it. But you can actually validate what they're doing. So that challenge doesn't go away. Because technologies change. You know, it used to be location data. How do we reduce it? Anonymize it or let's say we have
+
+Participant 2: consumer data. We have health data. We have B2B data, and and then you kind of apply the frameworks. But then something like generative AI comes in. Now, things change because you if you use it, you basically have a third party
+
+Participant 2: provided model or system that does some things that you don't really know how it does. Tools and methods are not there yet, so you have to look and kinda
+
+Participant 2: look, assess the risk, and also see if it could be delivered responsibly. Maybe it could not be delivered responsibly. What do you do?
+
+Participant 2: Do you delay, do you? Approve in a limited basis? Do you yourself develop new tooling? So there's always a challenge. You know, it's it's there will always be challenges. That's what I observed. That kind of keeps it.
+
+Participant 2: interesting things that it doesn't become this checklist exercise. If you supposed to build tools to fix these things.
+
+Participant 2: another thing, you know, I also see a lot of
+
+Participant 2: challenge on building a team of engineers, privacy engineers. How do you develop them. Because, you know, yes, we have master programs that, you know, privacy engineering. But that doesn't deliver someone ready to go and handle all the facets and different parts of privacy. So you
+
+Participant 2: have to be ensure you bring the right candidate, and then, so to selection, finding sourcing is already tough. It's a very niche field.
+
+Participant 2: Then how do you train? How do you support? How do you ensure these people develop? So these 2 aspects still are interested for me. That's fine. Still in field.
+
+Daniel: Okay, that's a really interesting response. So it sounds to me like, you know, keeping your skills sharp, but also being able to be on this kind of bleeding edge. State of the art is what's really motivating. In terms of personal goals. What are some personal goals that you have for for your work.
+
+Daniel: You mean for this year, for the feature what is in in in in general. I mean, if if you feel that these personal goals are best exemplified by something that you're planning to do this year? Great, or if it's something that your entire career is kind of leading you towards. Then that's great, too.
+
+Daniel: But whatever response you have is equally valid.
+
+Participant 2: Internally, my personal goals are
+
+Participant 2: you know, get embedded to the multiple areas of business in a scalable manner. Because.
+
+Participant 2: for example, my company is not one of the biggest you have
+
+Participant 2: in in the industry where you have tons of resources. So you have to do more with the last people. So how do you select prioritize? Ensure? You have the biggest impact for users. Privacy. That's one of the goals that includes again, training people, delegating work, finding relationships, influencing others within the company. So you can do more with less resources. So that's
+
+Participant 2: kinda a goal. Second, is kind of influence, the industry itself as well. I see a lot of interesting publications coming from Academia. But there, in my opinion, a bit role like there are very good ideas. But I'd say half doesn't really apply because
+
+Participant 2: of the industry challenges and limitations. So how do you get the relevant ideas? Make it apply and make it practical for the industry, and then give it back to the industry and say, Hey, you don't need to.
+
+Participant 2: You know. Read all the papers we already done it. And and then here's some what works for this setting. So if you're a similar company facing similar challenges, this is one way to address it. So kinda shape where the industry should go with ideas and what works, what doesn't, so that there's a broader effect other than my own company. Those 2 would be my immediate course.
+
+Daniel:  Great. Okay. So then, if you were to describe in general what value you kind of get from these goals and from those overall trajectories. It sounds like to me. The main value is being able to not just exert, you know, influence in a positive and scalable way. But also to sort of be influenced in a positive and scalable way. Does that sound right?
+
+Participant 2: Yes, I mean, we can't
+
+Participant 2: find out everything ourselves, right? Like we might be having solutions that works for us. But maybe there's a good idea out there that we haven't thought about, or there is some tools already available that we could deploy and improve what we have and then maybe build upon it, and then give it back to to the industry and and the community.
+
+Participant 2: so be influenced. But also influence is a good way to characterize is this idea of giving back something that you really enjoy about your role in your profession? Yes, I think it's one of the things that is very good in this company. I've worked for other companies where
+
+Participant 2: you know, presenting something was not very encouraged, especially if you work in the legal department. There will be a lot of question, or are we, you know, revealing something for? For the, for the feature with my current company? Yes, we do have some checks, but they're really encouraging
+
+Participant 2: to present and influence industry. I think it's important. Ii do know some organizations that they have a lot of internal knowledge, but they're barred from sharing it due to some concerns on compliance, you know, revealing compliance. Caps. That's that's a pity but I like it that my company allows me to do it.
+
+Daniel: Yeah, indeed, it is a pity.
+
+Daniel: So I'm gonna ask you a slightly related question. But about the future. Okay, so you know. Think ahead, let's say a year from now. Do you reckon you see yourself in the same position, or, more specifically, do you see yourself sort of doing what it is that you're currently doing in your current role a year from now.
+
+Participant 2: I think a year from now I could be doing what I'm doing because
+
+Participant 2: the privacy field isn't mature yet.
+
+Participant 2: And you know there there are also, what you can do in terms of team sizes like we're in a period. We probably not gonna expand teams
+
+Participant 2: due to where the industry is and and the challenges are still there. On the longer term. Things could change like we could have a lot more Poll, I could have more.
+
+Participant 2: You know, influencing larger teams. It it's all possible. But in a year I don't think I don't see a change.
+
+Daniel: Yeah. So it sounds like the reason why you're saying that things would probably be more or less status quo is that, first of all, the state of the industry and the economy is kind of a limiting factor for growth in general, but also that the state of
+
+Daniel: privacy as a discipline it's just not mature enough to have a clear trajectory. Is that right?
+
+Participant 2: That is right. If you look at security where it was maybe 15 years ago. You would have just security expert doing everything.
+
+Participant 2: And now we have different specializations. We have application security. We have security, threat analysis, response teams and all whatnot.
+
+This was interesting because we were going through this exercise of
+
+Participant 2: our skill sets looking into which skill sets we have within the company, and I notice all the security skill sets were separated, and then people could say, I know application, security, but I'm not so good in threat, modeling and whatnot. But privacy was just one.
+
+Participant 2: it was added, just, you know, privacy, or you don't know privacy. Right? That's how it seemed. We need to be at a stage where we have different privacy, sub specialization. So you know, the industry recognizes one privacy. Pro cannot know
+
+Participant 2: everything. That would mean you would need more people, and that would mean, you know, the privacy field gets more mature specializations, and then things can change. You would need different roles.
+
+Participant 2: But where we are is versus security is maybe 10 years ago, 15 years ago.
+
+Daniel: Hmm, okay, well, that makes a really great segue into the next topic, which is responsibilities and skills. And so I wanted to talk just a little bit more about your day to day responsibilities first. So could you just give me a really basic idea of what a typical day at work looks like for you.
+
+Participant 2: Yeah. So I'm a a tech lead. So I do have a lot of one on one with different privacy. Engineers and other people who report to me so kind of see where they are, where they're stuck, where they want to go so we could do that.
+
+Participant 2: speak some more practical things, like projects they need support.
+
+could be a
+
+Participant 2: domain expertise question, but could be that they blocked. Something needs escalation. So it could be organizational help, kind of questions.
+
+Participant 2: I'm also involved in myself, in
+
+Participant 2: in some projects like it could be much a higher level, higher impact. And then there's a lot of strategy kind of questions like, where what should we be doing as a team next year? Next quarter over the next 3 years.
+
+Participant 2: But where our skills are? If you're gonna do hiring, what kind of personnel should be higher, what kind of skills do we need?
+
+Participant 2: So there's the team management aspect. There's the still actual privacy engineering aspects. And there's also supporting others on one on one. We I also think cross functionally, a lot
+
+Participant 2: so could be with lawyers or discussing the data science teams. So they might have some ideas and maybe asking early on about potential privacy risk.
+
+Participant 2: There could also be
+
+Participant 2: things with engineers that they're building tools. But they might be asking advice how to build it. Maybe I wanna build a third party deletion system. What is the best way? What should I be auditing and logging, and any other advice design wise? So you know.
+
+Participant 2: we day to day
+
+Participant 2: we could be interacting with different engineers, teams, essentially, either teams that are building a product where we tell, okay, do this privacy friendly, or we could be talking to privacy, engineering
+
+Daniel: So I'm going to put a slight twist on the question. And I'm really emphasizing one piece of it right? So
+
+Daniel: what responsibilities does your employer expect you to take on at work. I know we were just talking about sort of day to day responsibilities, and it sounded like a lot of them were related to. You know the way that you personally have adapted to fulfill this role into excel in this role and to, you know, give others the support that they need, and and so on. But on paper, you know, as a tech lead. What are the expectations that your employer imposes on you?
+
+Participant 2: So I think the larger goal of privacy. Engineering is
+
+Participant 2: enable other teams so that they do their privacy duties in a scalable
+
+Participant 2: manner. So do they need tools? Do they need advice? Do they need some sort of
+
+Participant 2: discussion higher up because maybe no tool or process can help what is trying to be achieved
+
+Participant 2: so kinda help them assist them so that they don't have to figure out all the policies, or search, or whatever is accepted in the industry themselves. That's kind of the higher
+
+Participant 2: goal of privacy engineering. We have privacy, legal teams. They might give legal advice. If you wondering what a specific legislation requires. We have privacy product teams. They might be
+
+Participant 2: leading content facing features. And but the privacy. And we have software engineers that are building things. But we kinda
+
+Participant 2: connect these things, see gaps across the company and then prioritize what should be built. You can build many things.
+
+Participant 2: But
+
+Participant 2: the eyes of the privacy engineer will tell. Okay, this is the thing we should build first versus the other, due to following reasons. So
+
+Participant 2: prioritize privacy, enhancing features. and give advice to other engineers, so to enable them to do privacy in a scalable manner.
+
+Daniel: Okay, so I mean it. It really does sound like the responsibilities that your employer kind of you know, places upon you as expectations are very well aligned with how you actually sort of are operating day to day. Why do you think that there's such a similarity, or even overlap between? You know the expectation and the reality for you?
+
+Participant 2: Yeah, I mean it was when I joined they, the employee knew that we had some gaps. That cannot only be addressed by a legal privacy team. So that's that's what
+
+Participant 2: was first set up, we the privacy legal team. There was a console doing privacy related stuff, but there was no privacy legal team, so they first set that up which is very typical.
+
+Participant 2: And then there was a security engineering team that did security threat assessments and whatnot, but no privacy engineering team. So they thought, okay, we need a privacy team under that security team. But they didn't know. What will they exactly do? How will they work together? So that gave me and and some others to define on how we can best
+
+Participant 2: do, and and then
+
+Participant 2: kind of defined the paths. So there is a lot of flexibility, because it's also small team, because it's a neat team, but in a different organizations it could be different, I hear, from others who work in a larger organization that are maybe 300 privacy engineers, Swan or privacy engineers in their org.
+
+Participant 2: and they work in a very small subset of it. Maybe they do incident handling support, or they do only reviews and they don't get out of that. So they kinda think, oh, you know. I wish I had the flexible days you have. So I could, for example, experiment with this sort of technology, which I don't, because my role is much well defined.
+
+Participant 2: In a company such as ours. Things move quick. It's very agile, and it's a small team, so that hence we have a flexibility on
+
+Participant 2: where to go, but we could be. or our scope could be.
+
+Participant 2: influence like if the leadership says, Hey, this project has real priority over others. We could be giving more resources there. That is possible. I'm not saying we're fully
+
+Participant 2: determining everything we do. But the reason why my goals and the organization go line because I was given the flexible to define those goals.
+
+Daniel: Okay, well, said, so for this next question, what I'm trying to do is to differentiate between what you do for work and the things that you sort of do outside of work. Okay, but are obviously still related to privacy and privacy, engineering, and so on. So are there any additional responsibilities that you feel you're sort of expected to take on in your role, such as maybe to society or to others in your organization, or even yourself.
+
+Participant 2: I think
+
+Participant 2: privacy as a privacy engineer, you might have some policies, checklists, or expectations. So let's say you do a privacy, threat, assessment, or a review. And
+
+Participant 2: the review has the areas to address.
+
+Participant 2: You could be checking all those boxes and
+
+Participant 2: maybe find nothing. But I think, as a responsibility to the societies kinda have empathy with the user, what they might be feeling when they use this particular product.
+
+Participant 2: and then maybe there is nothing that says in the checklist. But you might see. Hmm! You know, I wouldn't be finding this acceptable as myself. So user advocacy is important. This is something. I always tell my team as well. We have policies. We have a guidelines, we have tools, but there could always be something that is not expected, because, you know, privacy is ambiguous. New technologies arrive. Try to think as a user and be the users
+
+Participant 2:  advocate within the company. And then kind of you try to influence products, even if it's not explicitly required by your role. I think, as a privacy, engineer. That's one.
+
+Participant 2: Think that you all through society.
+
+Daniel: That's a great answer. Yeah. But it also sounds to me like this ability to empathize aside from it, you know, not being necessarily a strict expectation, maybe also is tied with a particular skill set, or even is a skill in its own right? So what I wanted to ask you at this point is what skills were demanded of you when you started with your current role.
+
+Participant 2: Yeah, the skills that were demanded for me was, does this person
+
+Participant 2: understand software systems? Because you're gonna be talking to engineers directly, you cannot, for example, you cannot just say, did you implement retention policy? Even something like this could
+
+Participant 2: sound very obvious to legal professionals. Engineers don't really understand it, or even things like data procession. That's a very legal team, the link term so.
+
+Participant 2: you know, are you be able to translate this? Are you? Do you know which word to tell them when you want to reduce data in a Mysql database? Is it the Ttl, is it? account, deletion, activity. So use the are you? Are you able to use this right jargon in the right church? So that's that's 1Â s. Are you?
+
+Participant 2: Sufficient
+
+Participant 2: in privacy, knowledge, understanding what the overall
+
+Participant 2: frameworks require and translate it into engineering design?
+
+Participant 2: And then can you actually talk to people, explain technical things to a non-technical audience and non-technical things to the technical. So do this translation
+
+Participant 2: easily. These were the 3
+
+Participant 2: skills I think my employer asked me back in 2019. I think things change a bit like now, for example, if I do hiring, I'm looking at. In addition to these things, has this person actually
+
+Participant 2: build a system with privacy in mind? Can they think about different components? And you know, rather than I'm gonna minimize data, where are you going to minimize data once you enter back end of a system. Do you know how things work or not?
+
+Participant 2: That's a essential skill. I also check again the privacy domain knowledge. Can they work with different stakeholders with different expertise, different technical understanding?
+
+Participant 2: And then, you know, finally, behavioral like, is this a person that has the patience can drive things? If there's adversity? If there's resistance from one of the stakeholders, can they negotiate convince?
+
+Participant 2: Because, you know. Telling people to do this is what Gdpr requires. This is what Article 25 says is one thing, but getting them to accept it is, is you need a different strategy. So those skills are
+
+Participant 2: essential. That's what we look for.
+
+Daniel: So I think you've raised a really interesting point. So the skills that were sort of demanded of you when you started where these more technical skills and so on. But it seems as though the skills that you currently use have actually evolved because your personal understanding of what skills others need has evolved. Thus, the skills that you use is
+
+Daniel: that improved understanding of what skills others might need as well, and to sort of empathize with that and reason through. That is itself a skill that now you have and that you currently use, but which wasn't necessarily demanded of you when you first started. Is that correct?
+
+Participant 2: Yeah, those skills were also not available back then, right? Like, maybe the. And maybe we didn't have that many tools 5 years ago, or maybe we didn't have such a large company, or maybe the whole.
+
+Participant 2: How the product development is approach is done is changed. So you have to adapt I mean, maybe things will change different. But same. Apply the security, as I said, when once you once you, if you want to hire an
+
+Participant 2: someone who would work on security, would hire someone who's a jack of all trades and would do all kinds of security. But as domain evolves the subset of skills also able.
+
+Daniel: Okay, that's fair enough. So let's move on to talking a bit more about reporting and deliverables in your work. So who do you report to? Does anybody report to you?
+
+Participant 2: I report to? the Director of technical privacy. I have
+
+Participant 2: less of privacy. Engineers program managers report to me.
+
+Daniel: Okay? Great. So then, what are the typical reporting structures that you see in your profession sort of in general. You know, like the teams composition, that kind of stuff.
+
+Participant 2: Very. It depends on the organization. For example, I noticed organizations where privacy engineering is more central. And then they kind of support different lines of businesses.
+
+Participant 2: They might have a large set of privacy, engineers or small.
+
+Participant 2: There are others where they're embedded within the business.
+
+Participant 2: and there's a hybrid approach where there's a central team that supports all these with best practices.
+
+Participant 2: policies, and whatnot.
+
+Participant 2: These 3 are possible. I worked in one where the hybrid approach has been implemented, and where we working on is much more centralized privacy. Engineering, wise privacy. Self is always distributed. You know, legal
+
+Participant 2: product, engineering. They regularly report to one privacy hierarch. Typically, it will be distributed, I think technical teams report mainly to engineering security, whereas legal reports to chief legal office.
+
+Participant 2: But privacy, engineering itself. It. It depends on the organization
+
+Daniel: that makes sense. Now.
+
+Daniel: what about the sort of tools and methods that you and others sort of use to report to one another? So, for example, you know, do you use like meetings, emails, project management platforms like, how do you kind of get everybody aligned and and on the same page.
+
+Participant 2: So for engineers, you know, if they have a product, and they want our advice. Hey, I wanna build this thing. Is this the best way. We have review program, and we have a review of tool itself. They. The document is stored in a document file, that is Google docs, or or word, or whatever use.
+
+Participant 2: and we use Jira to track what we have established and agreed upon, and then revisits a meetings. Wise, let's say, with legal teams or others, to discuss a project maybe not yet
+
+Participant 2: created in this review tool. And we use
+
+Participant 2: mainly meetings we use slack, you know, because it's easier to put people in the same channel.
+
+Participant 2: Email is still used. I observed less. Now think a lot of things move to slack more what meetings still there?
+
+Daniel: Okay, interesting. So going back just for a moment, you mentioned that, you know, privacy tends to be something that's distributed in general, and it kind of depends on the org how things are sort of composed and what the overall organizational structure is. But how would you characterize the organizational structure that you belong to? Would you say that it's more flat or more hierarchical, or something altogether different?
+
+Participant 2: There isn't a stiff, specific hierarchy a lot. We didn't
+
+Participant 2: like, we're under engineering engineering has different teams. This larger parent talk is engineering security and it has different security teams. And then we have
+
+Participant 2: technical privacy. We're privacy. Engineering is one of the teams. We also have software engineers. We also have other supporting teams. So there is some sort of
+
+Participant 2: hierarchy, but it's I wouldn't call it very
+
+Participant 2: hierarchical. You could, as someone within one of these sub teams go talk to
+
+Participant 2: another team directly. I could go talk to a senior director or Vp. If I need to get their advice. For a recent project I worked with a Vp, for example. I mean, maybe a junior engineer wouldn't. But they could also go talk to a director if needed. So there is an organization. But it's not 100% hierarchical. Some direct communication is encouraged. Different opinions are typically
+
+Participant 2: encouraged within the company.
+
+Daniel: Okay, interesting?
+
+Daniel: So I just wanted to quickly summarize, just to make sure that I understood. So you're saying that, you know there is a clear separation of departments and departmental responsibilities, and while on paper. There is kind of a hierarchy between them. It doesn't seem so much like that. Hierarchy, you know, heavily influences people's communication or their overall sort of like organizational structure.
+
+Participant 2: I mean, if it's let's say, Vp, they or senior director, they have
+
+Participant 2: tons of responsibilities. They might not have the time.
+
+Participant 2: or they might want someone in their team to learn those skills so they might delegate. So you know, it doesn't mean anyone to can work on the same project. But the communication and raising an issue, and and that that is no limitation due to hierarch. That's what I'm saying,
+
+Daniel: Fair enough, fair enough. So let's pivot slightly and talk a little bit more about the deliverables then. So you know what sort of deliverables are required from you in your in your role. So, for example, you know, you mentioned a bunch of engineering teams and so on. But do you personally do you write code? Do you re do research reports privacy by design advice, a mixture of all of these.
+
+Participant 2: Yeah, it. It kind of depends on the
+
+Participant 2: directors or or the person who's running at at whole
+
+Participant 2: privacy engineering, and their advice to give an example, I was
+
+Participant 2: more expected to give advice. So privacy by design advice to different teams just
+
+Participant 2: cover the entire company's scale, and sure they respect
+
+Participant 2: the privacy policies and or or guidelines, but also enable them and give them like? Yes, the policy says, anonymize data. But
+
+Participant 2: is is this data set properly? Anonymize, help them and give them advice? So it was much more advisory role. Now, it's more on the it's also expected to deliver
+
+Participant 2: the privacy, enhancing, tooling, and shape the roadmap, an agenda of software engineers working on privacy, enhancing, tooling. I'm not expected to deliver code. But I'm expected to read codes or technical documents and then shape the technical direction.
+
+Participant 2: Let's say we use Llms. Should we be doing fine tuning. Should we be using ranks, or is it all fully on prompt? What kind of prompt? So that kind of
+
+Participant 2: input is expected, even if it's not code. I will occasionally code, but not not a lot. Mainly. Some folks in my team will be coding. Those who code. They're not gonna code.
+
+Participant 2: something for production as in it's not gonna go delivered but they will typically deliver a pro of concept something. Look, this is how.
+
+Participant 2: But anonymization thing could work.
+
+Participant 2: If it works for specific use cases, we will hand it out to the engineering teams which will
+
+Participant 2: ensure it's fully developed and become a tool that adheres to companies, coding standards and and etc. So reviews output
+
+Participant 2: maybe tooling architecture and strategy or or specs requirements offer tooling
+
+Participant 2: different architectures, and which one is more advised, but also general. At least at my level. More strategy level. Where should we go? Which project should be handled which one should be prioritized.
+
+Participant 2: And why are we prioritizing them?
+
+Participant 2: kind of
+
+Participant 2: these are, these will be the output. Typically, I would give. Yes. Okay. So I mean, it sounds like, in general, the biggest bucket that captures.
+
+Daniel: You know. The vast majority of what you mentioned is concretely that the deliverable is advice, technical advice, or specifications, or some flavor of advice. Right? But could you tell me a little bit more about why that kind of deliverable is important in your role.
+
+Participant 2:  so there are 2 types of technical advice that we could give. One is
+
+Participant 2: let's say it's engineers. They want to build something. They laid out potential architecture. They could go any either way, but not all of them will be privacy, friendly and then
+
+Participant 2: giving that advice. That kind of shapes where their product is headed to early on and doing this early on, you know, helps, because otherwise, if they already deploy codes. And we say that's not the way to go. They would need to revert change. It will be more costly. So that's why that early on technical architecture. Advice is important. The second one is on the privacy enhancing tooling. Again, we don't
+
+Participant 2: have to write to. I mean, we can go ahead, and some of the folks in my team can can are coming from a software engine background. They can just write code. But there are many engineers. But there aren't that many privacy engineers? So for instance, the way they tell the system to be developed
+
+Participant 2: will have implications. We've seen systems that were developed without privacy engineering input legacy systems, maybe built 7 years ago. We're still in the process of changing them. There's a lot of what you call privacy depth
+
+Participant 2: as in it works. It worked
+
+for
+
+Participant 2: specific use cases. But it doesn't scale. There's a lot of rework to be done. We want to minimize those privacy depth going forward. So that input also helps
+
+Daniel: totally makes sense. So it sounds like, really, the key is that you are both preventing and paying off or otherwise minimizing technical debt. Okay, great. So would you say that, you know, for someone in your profession?
+
+Daniel: Would you say that these deliverables are typical or not so typical.
+
+Participant 2:  again, depends on the company. For those that are more mature. It's very typical. Larger companies. They that's where privacy engineers are giving input. But I also talk to more smaller companies. They're expected to take
+
+Participant 2: the roles of Porta security engineer kind of privacy engineer, but also software engineer building privacy product. So they have to quote, develop these tools, but also do reviews, but also do the security part.
+
+Participant 2: It's a bit tough. Even finding someone with all these skills is is very difficult. So you have to do some, you know, compromises like, do you want first tooling? Or do you want first technical advice and reviews
+
+Participant 2: or security first, privacy, later privacy first secure later. So it gives you different candidates. A. Again, for the company of this size and this maturity in this area. I'd say it's typical. Large tech companies have this, these deliverables, but not not everyone
+
+Daniel: makes sense. So how would you say, then, that the deliverables that you produce are evaluated by your hires up?
+
+Participant 2: So
+
+Participant 2: one way is, you know,
+
+Participant 2: because with an engineer there's different ways. You can evaluate their output. You could look into amount of codes. You could look amount of
+
+Participant 2: services using your codes. And there's also scalability metrics? You know how, how? What is availability? Is it? 99.9, or does it fail sometimes? Is there outage, right? Those typical engineering metrics doesn't really apply here. It's a little bit more on the impact. So maybe you given advice. But it's used by
+
+Participant 2: one small team, and or maybe you fix one thing in this project, or whether what you deliver skills, it has the impact multiple organizations, multiple products. And what do the peers say about you? Let's say you give advice to data, science team and machine learning team. What? What do they think? Do they see you as blocker or as enabler?
+
+Participant 2: Where your contributions, helped with the speed things were delivered right the security and privacy are often seen sometimes as blockers due to.
+
+Participant 2: you know. Sometimes you need to redesign or or you need not to do it that way, doing things without privacy for anyways typically faster. So
+
+Participant 2: how do you, while improving privacy, improving user trust, but also not blocking engineers. So one of the things is the impact. But also how
+
+Participant 2: peers perceive you. These you definitely have to
+
+Participant 2: account for both board bought size
+
+Daniel: great. Well, that actually makes a really good segue into the next topic, which is challenges and strategies. Would you say that there's any tools or techniques or standards. That actually create challenges for you. You know. So, for example, you mentioned earlier that you know you don't want the privacy team to be seen as sort of blocking everybody's progress. But do you see that there's tools, techniques, or standards that actually can create scenarios where that happens or other challenges along those lines.
+
+Participant 2: Let me give you the real thought. So when you talk about technical stance, are you talking about?
+
+Participant 2: Could you give some examples?
+
+Daniel: Well, so you've mentioned just, you know, off the cuff here a couple of times. Compliance with Gdpr. Right, which in itself, you know, might perhaps be considered a standard.
+
+Daniel: Or maybe there's internal standards that your organization wherein you know you have to do A, B and Ca certain way. And maybe there's tools that help facilitate that. Maybe there's techniques. I mean, any one of these different interpretations of these are are valid. What I'd really like to know in in particular, is is whether there's any of these types of things. That create challenges for you.
+
+Participant 2: I can give an example from, for instance, from Gdpr, like, if you look at
+
+Participant 2:  one of the recitals, it will say, if the data is anonymous. It's not under scope of Gdpr.
+
+Participant 2: you're done right. But what is anonymous? It's not clearly defined. And if the if you look into legal discussions now different. There are different lawsuits that challenge this perception. There's one approach where you need to ensure
+
+Participant 2: the data is not re-identifiable by anyone which often means you have to delete the original data. And you know that's very, very difficult to do and often not practical. The other approaches. Is it re reasonably anonymize in this context, this kind, this organization, re-identify or not.
+
+Participant 2: It's it's unclear. So when engineers come to us and say. is my data set anonymized, we will ask with our check with our legal team, but often there.
+
+Participant 2: not sure. So you know, things change. So these evolving nature of legal requirements is, I'd say definitely a challenge.
+
+Participant 2: Technical standards there aren't that many on on privacy. There are iso standards on, for example, how to do anonymization or how to do privacy by design, they're not widely adopted, and there is no real expectation yet from regulators that everyone should adopt, because there are also too many which ones should be adopt. So I can say, you know, similar to secure not there yet on the privacy, but the legal
+
+Participant 2: definitely one where makes it challenging. Yeah, would you say that this is kind of the nature of the most common challenges that you encounter is kind of this alignment of definitions and requirements under an inherent ambiguity, and, you know, inherently evolving standards.
+
+Participant 2: This is definitely one like ambiguity is one, but also they might also differ
+
+Participant 2: from one jurisdiction to another. Even if Gdpr somehow
+
+Participant 2: clarifies what they mean by anonymized data. If you're a global company, let's say in a different jurisdiction, it could be different. It's same thing with retention. For example, there was this publication that
+
+Participant 2: listed all the retention policies across the world like, if you're in Netherlands, and you have CCTV footage. You have to delete it in 6 months, but in Germany you have to keep it. One year in Brazil is told different they gave up. So they
+
+Participant 2: do not publish this anymore. There, this, this law firm that did this publication. Their advice is, you can't satisfy all the regulations. You'll have to make compromises. And I have a global global thing, otherwise very difficult to automate this, if you can automate, which means you're essentially not implementing it. So you can't have this perfect policy. So that's that's another example. You know, even if one
+
+Participant 2: legislation is clear, you will have to think about, how do we
+
+Participant 2: implement technical standards and policies that are not perfect, but
+
+Participant 2: overall makes it easier to implement privacy. Hence protects users. Privacy that I said, that's that's a definite challenge.
+
+Daniel: Yeah. And I suspect that the answer this is yes. But do you think that these challenges are typical for someone in the profession. Yes, very typical.
+
+Daniel: Okay, so are there any challenges related to your organizational reporting structures that you face?
+
+Participant 2: One challenges, and you have this, regardless of where you report to is people like, for example, if you typically
+
+Participant 2: privacy engineering reports to security and the security might not understand privacy very well, so they might think it's, oh, you're securing user dates. That's that's your specialization within security. So you have to always remind you need to think beyond security beyond data security, but also minimization, transparency, explainability and all that stuff.
+
+Participant 2: It will be ongoing education. You'll have the same thing if you report to legal. For example, I've seen engineers report to legal, and then they don't understand. Maybe maybe they understand privacy better, but they don't understand the engineering part
+
+Participant 2: better, or what the engine. Other engineers need and what the output should be. So
+
+Participant 2: that that's a little bit. II rarely seen companies where there is a privacy or higher up. That doesn't report to security or legal, and on its own reporting somewhere. That doesn't often happen. So if you're a privacy pro within security department. You'll have this challenge explaining that privacy is not just data security.
+
+Daniel: So it sounds like the most common challenges that are probably very typical, for the profession is simply having to report up to an organization that doesn't necessarily fundamentally understand what it is that you do. It poses a challenge.
+
+Daniel: Correct? Okay? Alright, that's fair enough.
+
+Daniel: So can you tell me a little bit more about the strategies that you might have used or that you currently use to overcome the kinds of challenges that you mentioned. So, for example, that organizational one, or you know the ones that we talked about earlier but and Ambigu ambiguous you know, standards and technical definitions and requirements, and so on.
+
+Participant 2: So start with the organization's challenge. One way to do it is engage with the business on these non lesser non security aspects of privacy, and
+
+Participant 2: bring in their questions. Answer them, and let them talk to your leadership. So your leadership understands. There is such a demand from the business on non security parts of privacy so apparently civil thing. There's a lot of ambiguities. So teams cannot just go do it on their own or the legal team can't just tell them what to do. Apparently our team is needed, and so
+
+Participant 2: get your project. You're working on to be visible to your leadership. And you. The best way to it is, let business tell to your leadership rather than you tell them how important it is. I mean, how important you tell is
+
+Participant 2: you have to remind. But business have to tell basically your impact. The other part on this ambiguity of the legal part.
+
+Participant 2: II said. That involves a lot of things with legal departments on. Look, you know. Maybe you think it's easy. But here's the challenges we face when we try to implement these things, or, by the way, you have that policy. But it we can't automate it
+
+Participant 2: like this. Yes, maybe checks all the legislations in the world. It's a good policy from a legal standpoint, but it's not practical. So sync with the legal teams on telling them what is feasible, what is not feasible to, you know. And it's gonna be ongoing thing. You know, they're not gonna change the entire policy and the first feedback there will be iterations.
+
+Participant 2: so you know
+
+Participant 2: that that's another thing. We also give feedback to regulators and other bodies on.
+
+Participant 2: you know. Maybe it sounds like, why isn't this organization is doing? This sounds like they just don't care. But in reality we do care. But it's not that easy. So kind of show our challenges back to
+
+Participant 2: outside community. That also helps.
+
+Daniel: I see. So in general, it sounds like the most effective strategy is stakeholder management. But in order for that strategy to be effective, you've got to manage each stakeholder group appropriately. So what seems to work effectively in your opinion is that you need to engage early and actively with each stakeholder group. But what's less effective is to try to sort of go it alone, and to present your case without backing from the business.
+
+Daniel: or to try to go it alone, and to not influence the, you know, perception of the legal stakeholders, including even external legal stakeholders, like regulators, because they may make assertions or assumptions that aren't necessarily realistic.
+
+Participant 2: Yeah, on the on the last part, maybe not regulators per se. I mean, I don't engage with regulators. For example, we have a legal department that does a data protection office. I said to larger community. You know that that will be a more appropriate.
+
+Daniel:  Yeah, I see. Makes sense
+
+Daniel: awesome. Okay, so we're getting towards the end here. This is the last topic before we conclude. I just wanted to talk a little bit about the impact of your work, sort of, broadly speaking, so how would you personally define success in the work that you do? Not necessarily your organization or privacy in general, but you personally?
+
+Participant 2: I'd say so you have to
+
+Participant 2: find a good balance on strategy and output. I've seen folks who
+
+Participant 2: have great strategies, great ideas, plans on have a great tool, but they never get that realized. They never get it accepted versus those
+
+Participant 2: who make things. They change things. But it's very small scale, very. And and doesn't. Just.
+
+Participant 2: is it. It doesn't scale to the larger org.
+
+Participant 2: Having this balance is important. And maybe
+
+Participant 2: you don't, you know, just knowing the requirements, the
+
+Participant 2: the technical standards, regulations is not necessary. So how do you get them implemented? And and
+
+Participant 2: so you know, if you're someone who knows you're a privacy person, as in you know what is required, but don't get it implemented. You don't achieve their goal, whereas I've seen people who are highly connected within the organization. They have great skills on negotiation, you know, commencing people, but they don't know what they should be prioritizing so they, for example, they might be prioritizing this product. But whereas
+
+Participant 2: the real problem is elsewhere, but they don't know because their privacy or engineering skills lack. So I'd say, the impact is, you know.
+
+Participant 2: identify the right problem and get it solved. I think that's that's the biggest skill.
+
+Daniel: Yeah, it. It sounds like, that's actually the overarching goal, isn't it, that you want to really
+
+Daniel: get an impact. And in the right place that it really creates an impact. Okay, it sounds like, you agree with that.
+
+Daniel: Yes, okay?
+
+Daniel: So then how do you think others evaluate the impact of your work?
+
+Participant 2: It kind of depends. So  somewhere, for example.
+
+Participant 2: engineering part, they might be focusing more on the tools that you deliver.
+
+Participant 2: whereas someone on the legal side, they might be looking into the technical advice that give.
+
+Participant 2: So you have to find a good balance on who's giving feedback, and and then on what deliverables? So you know.
+
+Participant 2: in in the end it's the projects. What kind of projects what did you achieve within that project? I mean, maybe there was this
+
+Participant 2: the technology that is used.
+
+Participant 2: You gave advice. But what did you do within that project? That that question will be asked, which milestones were defined? Of? What was your deliverable particle deal with within that project so type of project and your deliverable that essentially looking into that. But again, how they prioritize would depend on who they are.
+
+Participant 2: So you have to satisfy a lot of folks, because, let's say, you give a lot of good technical advice.
+
+Participant 2: You don't deliver any engineering related privacy, enhancing tooling and some inch. People won't be happy. They'll be saying, you know, you just give me advice. So you have to find a good balance between these 2.
+
+Daniel: Fair enough. So it sounds like in general. Others impact the or others evaluate rather the impact of your work, based on what kind of stakeholder they are, and each stakeholder group evaluates things differently. Fair enough.
+
+Daniel: Do you think that there's any metrics associated with these different evaluation? Criteria?
+
+Participant 2:  I mean, for example. let's say, you're a type of a privacy engineering team that do a lot of advice. You would review a lot of products. One stakeholder might be looking
+
+Participant 2: how many you're evaluating. Others might be looking at.
+
+Participant 2: How quickly you are giving advice to the engineer. Let's say you, you said you would close a review within 5 fees, which percentage of these reviews
+
+Participant 2: are close within those 5 feet. Some might be really looking into that because they don't want their customer. The the business stakeholder to be unhappy like we. They really don't want to be seen as blocker, whereas others will not be looking at that
+
+Participant 2: metric. Then we'll be looking at something else like which percentage of
+
+Participant 2: these reviews actually resulted in something that you identify something like, were these reviews meaningful? Did we actually find something and change something so that could be
+
+Participant 2: an impact for them as well, whereas not for the other person I can think of, you know.
+
+Participant 2: Tell all these different
+
+Participant 2: types of metrics? Like, which percentage are looked by a expert which percentage are looked by a less of an expert or someone who does initial check. How many tickets are open? In in the queue? How many closed?
+
+Participant 2: But it again. E, it depends on the stakeholder on on the metric side.
+
+Daniel: Okay, I think that's completely fair.
+
+Daniel: It sounds like in general, it's difficult to PIN down sort of a golden set of metrics, because it not only depends on what stakeholder, but it also depends on what interest they have, and perhaps even whether or not the phenomenon that you're trying to assert as impactful is even measurable. Would you agree with that?
+
+Participant 2: Yes, yeah.
+
+Daniel: okay, fair enough. Well, that actually covers the last topic. So we're sort of in the concluding portion of the interview now, and as we close I just wanted to ask if there was anything else you haven't yet had a chance to mention, or if there's something in particular you'd like to share or think that we should know. You know. Obviously, please let us know. And I also wanted to know whether you had any questions for us.
+
+Participant 2: I don't think I have immediate question. I can be tackled by the broad set of problems. Thank you for these questions. Very, very good questions. My general question would be like, What what is the next step? We'll you will be interviewing more folks. And then
+
+Participant 2: what is the timeline we're looking at? When can I? I'm obviously very curious what the end result will be super happy to contribute to this, what is the timeline? And looking at?
+
+Daniel: Yeah, absolutely, so actually, very conveniently. The next portion of the script that concludes the interview sort of addresses this. It says you can expect to hear from us when the study is complete, so that you can also hear about the results of the study. And of course thank you very much for speaking with us. But I think, Tim, more concretely, answer your question. Yes, there will be many more interviews occurring. And while I can't share with you you know the number of interviews that we've yet completed, or how far along we are in the analysis.
+
+Daniel: The way that the methodology works is that we're going to continue interviewing people until we stop seeing new themes and sort of new findings emerging and that obviously makes it very difficult for me to give you a very, you know.
+
+Daniel: specific timeline as you might as you might imagine. Though again, you know there, there is an infinite time on this. So we are planning over the next several months. You know, to finish as many of these interviews as possible, and do as much analysis as possible. And then I do believe that there will ultimately be a couple of different publications. Which we'll be able to see the sort of, you know. Synthesis of our findings.
+
+Daniel: and yeah, we'll we will definitely keep you abreast of those publications as they emerge. I believe we do have your contact information. And I think we'll also check in with you to make sure that you're still interested in receiving this information. Before we share it.
+
+Participant 2: Perfect. Thank you so much.
+
+Daniel: Of course it's our pleasure. Once again. Thank you very much for speaking with us today. Your results, or I should say rather, your your interview, I'm sure, will contribute very meaningfully to our results. And so thank you once again. And if you have any other, you know colleagues, friends, or others in industry as well. That you think you know, would benefit us or benefit them to participate. You know we really do encourage you to spread the word you know we are actively recruiting.
+
+Participant 2: I have some folks in mind. Who should I send those to? Nikita? Should I send directed to you since I got your email? Well, I think you should send the screening survey to those participants, and then we will use that information as we did with your interviewing criteria, and that that way the participant selection is fair.
+
+Participant 2: perfect.
+
+Daniel: Thank you very much. Once again. So I think at this point we're going to conclude the interview. We're going to terminate recording, and we're going to close the Zoom Meeting.

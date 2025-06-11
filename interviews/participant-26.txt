@@ -1,0 +1,813 @@
+Nikita: And now that the record is on, could you please repeat that you consent to being recorded.
+
+Participant 26: Yes, I consent to be recorded.
+
+Nikita: Yeah, of course, your identity, anything you share with us will be kept confidential will all be heard and read by the researchers in this study, and please know that this interview is designed to be a conversation, and so there are no right or wrong answers, and as I mentioned, you can skip any question or post the interview at any time. And do you have any questions before we begin.
+
+Participant 26: No, I'm just. I sign out of really a curiosity about what's happening here. Because I have been in this profession for a while now. So
+
+Participant 26: why, now, and I'm just curious to know
+
+Participant 26: why now and what is it that this study is going to? What's the output of the study going to be, and
+
+Participant 26: how important it is. Is it a part of your
+
+Participant 26: research? Is it like a sub part of your research, or it is the entire, just just a little bit more about what your study is about at Berkeley, and whether it's part of your
+
+Participant 26: research, or it's just the research.
+
+Nikita: Of course. Yeah. And also, you'll have, like another participant question too. So maybe that will also.
+
+Participant 26: Okay?
+
+Nikita: Some of the points. But just just to quickly say a few things is that this is a. This project is kind of a broader research that will go into part of my thesis focusing on how to best address.
+
+Nikita: You know, privacy, compliance issues, and how someone with like a privacy engineering discipline can sort of like address that. And so we're really interested in learning about the experiences of people who work in that profession. So yeah, we'll have 6 different topics that will cover.
+
+Participant 26: Okay.
+
+Nikita: And and so, yeah, let me just like.
+
+Participant 26: I didn't really prepare anything, so I'm just hoping they are.
+
+Nikita: Not even maybe that's.
+
+Participant 26: That.
+
+Nikita: No, it's it's okay. You don't need to prepare anything. It's just gonna be questions about the work that you do. And.
+
+Participant 26: Okay.
+
+Nikita: You know, as I mentioned, there's no wrong answers, so just treat it as like an oral conversation, you know. So I I'd like to begin by asking you a few general questions about the work that you do. And could you just tell me briefly about what you do in your job?
+
+Participant 26: So in my job today, without giving too many details, I am looking to improve privacy operations overall for the organization that I work.
+
+Participant 26: and it is across the org that I work for. It's not across the company. In my previous role. So I would say, this is more like a federated organization in my previous role. I did
+
+Participant 26: privacy operations, improving a lot of the privacy processes, and also drove some of the initiatives but it was more at the company level and and so
+
+Participant 26: I would say, I've been in both sides of spectrum where I have operated managing privacy operations at a company wide level, which is again, big companies, really huge companies, and then also at a at an organizational level, which is again within a big company, so I would say.
+
+Participant 26: most of my experience has been in managing the privacy operations. At this. That's mostly the recent roles that I've been in. And previously to these operational roles, I was mostly driving a lot of the engineering policies. Again for a big organization again, at the organization level within a big company. So I was
+
+Participant 26: doing a more hands-on role at that point in time. Where I was actually
+
+Participant 26: auditing the policies that I was evolving and improving.
+
+Nikita: Hmm! That's very interesting, and I know you mentioned quite a few times the word privacy, and could you define the term privacy, as you normally use in your work context.
+
+Participant 26: I would say it is a very.
+
+Participant 26: There is no right or wrong answer. Privacy is too broad, and it's a very, I would say, open ended question. So I'm gonna give you what I see. Privacy as not a definition so I would say, privacy is something that a person or an organization feels about how they want to manage and protect a user harm, I would say. So I look at privacy from a user hum perspective.
+
+Participant 26: And so I would say, privacy to me means how I'll be managing from organizational perspective, how I'll be managing
+
+Participant 26: the amount of
+
+Participant 26: user's privacy
+
+Participant 26: when we do
+
+Participant 26: offer them the different services that we need to offer our customers from a customer.
+
+Nikita: Perspective.
+
+Participant 26: Yeah.
+
+Nikita: Yeah, no, that's very well set. And
+
+Nikita: can I ask you, like personally, how would you define the roles in industry related to privacy engineering in the way that you see that.
+
+Participant 26: I have. I started off in privacy when privacy was not even spoken about. This was more than 10 years ago, and so I have seen this entire role evolve and grow. It started off being a lot more security focused role earlier on
+
+Participant 26: but now, with the advent of Gdpr,
+
+Participant 26: in 2018, a lot more emphasis. People have suddenly begun to speak about the term privacy. Previously it was not even
+
+Participant 26: something that people thought of in their day to day work. So I would say for me,
+
+Participant 26: I've seen this role evolve. I started off in privacy. But within the security organization. But I was looking at different aspects from a very privacy lens where I was looking at data in terms of the Pr of user harm approach and whether or not.
+
+Participant 26: and in terms of making sure that we are
+
+Participant 26: adhering to the assurances and the policies that we have within the organization. And so I would say, the role was engineering enough
+
+Participant 26: to manage
+
+Participant 26: the data privacy within security organization. But now, with the advent of Gdpr, a lot more focus.
+
+Participant 26: I would say. The core
+
+Participant 26: role hasn't changed. But the way things are being looked at, and it has both spectrums of this role where it is engineering focus. And it is law focused. And so I would. It's hard to define exactly the roles because they have so different per industry
+
+Participant 26: for teams per organization. So it's really hard to bucket this role. But I would say it is a broad enough role where it's part to not like security where you can state it as a black or white role, where either you fix the vulnerability or you don't fix the volunte.
+
+Participant 26: Privacy is a very gray role. So it can be because there are multiple ways to fix the same problem. It can be done through technical resources or technical mitigations, or those can be done through policies. It could be done through
+
+Participant 26: more processes. So
+
+Participant 26: maybe I'm
+
+Participant 26: probably digest. May. I don't know if I'm digressing too much, but I would say, the role itself is too broad, and it has evolved over a period of time, and a lot more
+
+Participant 26: from security now has moved out of security. Finally, after all these years, where people are starting to build more privacy, focused organizations versus a privacy within a security organization that makes sense.
+
+Nikita: Makes sense. Yeah, and what about privacy engineering compared to other privacy roles? Well, how would you define a privacy engineer.
+
+Participant 26: Again, the same thing where privacy engineer is
+
+Participant 26: privacy engineer can be anybody who's who's interested in solving
+
+Participant 26: data privacy problems. They don't necessarily have to be I would say, stated as a software engineer, or they could be any. They could be a software engineer doing be being is privacy engineer. They could be a lawyer becoming a privacy engineer. I guess it didn't. Definition of privacy. Engineering has again shifted, and
+
+Participant 26: I have been seeing a lot of, I guess the role
+
+Participant 26: very broad again. It doesn't have a I guess I haven't
+
+Participant 26: I? I've been able to slate it per se. It has again evolving a lot. And so privacy, privacy engineering is anything that allows you to solve data privacy problems.
+
+Nikita: That's very well said, would you say the word that you do falls under privacy, engineering, or, would you describe it somewhat differently.
+
+Participant 26: Can you repeat the question?
+
+Nikita: Oh, would you say that your role follows under privacy, engineering? Or would you describe your role differently?
+
+Participant 26: My role does fall under privacy engineering because I do support the privacy engineering when I'm organization, but in a very operational goal. So which is where I'm seeing where I'm day to day. My job is about improving how we are supporting the organization, making sure that we are being able to solve the right problems at the velocity we should be solving.
+
+Nikita: that makes a lot of sense. Yeah, thanks for sharing that so i'd like to now talk about your career journey. So how did you become interested in privacy engineering as a career.
+
+Participant 26: That's a very interesting question, because I happen to fall into this profession as an happenstance. It didn't come. It was not something I chose. So I started my journey at [FANG COMPANY] as a privacy QA Engineer, which is where I started my journey. Audit, I would say again.
+
+Participant 26: I did not have any background and privacy whatsoever. But once I came there, and I'm just glad and happy that the leaders there saw something where, and they gave me that opportunity to, you know. Just take on that role and run with it. So I learned a lot about privacy, and it just intrigued me more and more. So much so that I
+
+Participant 26: don't feel ever bored. There's never a dull moment in privacy to be honest and just really very, very exciting for me, because, like I said, there's no one way, one or 2 ways to solve the problem. Problems can be solved in multitudes of ways, and that's where I got well interested in the profession.
+
+Participant 26: And I learned everything on the job. And I, my teachers have been mostly security engineers. Who taught me how to look at.
+
+Participant 26: You know, data from a privacy using security tools, but but using the privacy lens to to find the issues. And so I'm just very thankful. For that opportunity. And so the more so, more and more I got. I was doing more and more hands on. And slowly my role evolved into
+
+Participant 26: establishing policies. Because I was I was seeing more and more issues, and I knew how to solve them. I could help people figure out
+
+Participant 26: how to solve them. And so my role just grew from being more depth to more broad, where I started to establish a lot more processes in place and a lot more. I would say, lot more trainings in place. And so I was able to go from
+
+Participant 26: an engineering role to a more program management lead role that I was leading the privacy organization overall that comes on. Yeah.
+
+Nikita: And you mentioned that privacy never gets dull. Could you also share what motivates you to continue pursuing privacy, engineering as part of your profession.
+
+Participant 26: There's so much I would say
+
+Participant 26: they're just so much data is the new gold. So
+
+Participant 26: I guess there is different ways for us to see how this gold is getting abused by different people. And now, with the advent of generative AI and AI I think
+
+Participant 26: garbage in garbage out. And so being really, really careful about the different types of data and how we're going to be managing that data is a very interesting problem to solve. And that keeps me going. It's and because they're just so much of new data, it's hard to slate that data either way. Because now,
+
+Participant 26: the way the data is being managed and the way it is being categorized is so different. And it's evolving. And so I feel like that. Space is very, very intriguing, and so that keeps me motivated to continue in this domain for a long time to come.
+
+Nikita: Yeah, no, I I hear that. And what are some personal goals you have for this work.
+
+Participant 26: I really want to keep learning, I would say that
+
+Participant 26: I never feel I never feel like it's done and it gives me an opportunity to see different aspects of the the roles. Allow me to kind of see so many varied aspects in general, or the domain itself. I won't won't call it a role. The domain
+
+Participant 26: is.
+
+Participant 26: as I would say, different perspectives. Given. It's technical, it can be policy, it. And then you get to interact with so many people I love interacting with different people. It's you're not you're not just sitting in one place and figuring out. You know, this is A
+
+Participant 26: B needs to come out. It's not like that. And so it just a very interesting space to be in that allows you to kind of understand different perspectives. The product side, the legal side engineering side policy side regulatory side. I mean, it's just.
+
+Participant 26: It's a very, very. I would say it's a very holistic approach, or that gives a very opportunity to have a very holistic view of the entire I would say, space or product or feature or anything that you're working on. That is super interesting and intriguing for me.
+
+Nikita: Yeah, I can definitely see how that is motivating. And let me ask you a question about the future. So a year from now. Do you see yourself in the same position, and I guess, doing what it is that you currently do in your position as opposed to the title itself? For example.
+
+Participant 26: Yes, I've never approached. I've never approached my career in general. To be very title focus. I've never, never emphasized on the title. The role itself is something that really keeps me going. Because so long as I'm learning a lot of day to day, because I feel like
+
+Participant 26: this is so much to learn in this domain, and there's just new things coming out of the way. So I feel like in a year from now I do see myself in the same domain. I don't. I don't see myself moving away from privacy, but what I will be doing more is not something I have seen, for now I've now I've been doing more operational work, but I do see myself going more into
+
+Participant 26: understanding, more threat modeling in how how to approach privacy problems via some of these tools recently that have come about. I didn't have all those tools before. They were all from on the job learning, and I did all my threat modeling from here. So
+
+Participant 26: Looking at the actual output of what I was, you know, auditing, and so now that we have all these tools. And there's lot more technology being developed. So I I definitely wanna
+
+Participant 26: understand what we can do with those tools, because what was being done manually is now being done with tools. And so we have more time to approach
+
+Participant 26: problems from completely different mindset. With a little bit more, I would say structure. Previously, we didn't really have that structure. But now there's more structure. And people are working towards that. So I see myself using a more of that structured approach to problem solving versus a more ad hoc approach to problem solving. So yeah.
+
+Nikita: No, that's great. That's a great goal to have so let me talk a bit more about your day to day, responsibilities and what I wants to ask you is, could you give me an idea what a typical day at work looks like for you?
+
+Participant 26: I would say, since it is a very operational role, my day to day work is making sure that we have the right you know the right tickets that are coming in, and we have the right timelines that are set in. We have the right solutions that we want to put in place. Are they getting fixed on a right time, or they're getting fixed. As for both of the organization,
+
+Participant 26: asking or reaching out people reaching out to me for help, hey? You know, directing them to resources, directing them to
+
+Participant 26: documents, writing them to people. So my role is mostly like just in the weeds of every day, making sure that
+
+Participant 26: problems that we have, and we have some kind of a system to manage the intake of what we want to solve, and making sure that those are get moving along in
+
+Participant 26: a reasonable manner, and so along that as part of that process, it is about just managing the day to day in terms of making sure that it is getting assigned. People are looking at it. It's getting the velocity it's supposed to get directing people.
+
+Participant 26: and then, of course, reporting
+
+Participant 26: on a on a regular basis, making sure that I have all the data available to make my reports on on a regular basis.
+
+Nikita: Yeah, that sounds like, quite a number of responsibilities. Would you say, your day to day work is very, similar from day to day? Or does it differ, depending on what you have to do.
+
+Participant 26: Since I do drive multiple initiatives. No, no! One day is very similar, I would say, and that is again another part that keeps me very interested because I don't. Tonight is at least in the roles that I've been. I mean, you never know what
+
+Participant 26: what issue will show up and show up in a.
+
+Participant 26: and that you have to sit on fire fight. Sometimes. I mean, I'm saying not about
+
+Participant 26: today's day to day, but moral in the past. I've had days where
+
+Participant 26: that will be, something that comes up within and something I need to really produce an answer right away, or, you know, write a report right away. And then
+
+Participant 26: be able to surface what the problem is to hire up. So it's there's I feel like
+
+Participant 26: I've had. I've had multiple days where it's it's pretty common that now I have had days where I've had to jump in and do something out of
+
+Participant 26: out of my regular
+
+Participant 26: day to day to meet those goals, and so
+
+Participant 26: I would say that it is. It's not very consistent.
+
+Nikita: Makes sense. And it's also great that you refer to your previous employments as well, because that that's also gonna be very helpful for us to see if there's any.
+
+Participant 26: A lot. I would say a lot of my experiences from my previous, because I've been there the longest. So I've had a lot a lot more, I would say. Varied experiences at my previous workplace, especially [FANG COMPANY], where I was there for [many] years, and so I would say.
+
+Participant 26: a lot of my experiences from
+
+Participant 26: from those times rather than the most recent ones where it's been more operational. But those were the ones where I had lot more, I would say. Hands on approach. Where like that.
+
+Participant 26: I had to immediately test immediately. Get the answers out, prepare a report.
+
+Participant 26: send it out. So those those were, I would say, out of my day to day when I was not doing just guiding people. A lot of my role was consulting at that time, so like I said, it evolved from hands on to slowly becoming more consulting because I was owning this policies. And so
+
+Participant 26: I people were coming to me on, you know, figuring out what they need to do if they are not meeting the policy requirements. And so and then
+
+Participant 26: I would say that was probably a lot of my day to day at that point in time, but they were days when I was also had someone. So I would see all that experiences was at [FANG COMPANY].
+
+Nikita: Yeah, no, that's very interesting. And what responsibilities would you say, your employer expects you to take on at work, and I guess you can talk both about your current and past experiences as as as applicable.
+
+Participant 26: I think now my roles are very like, I said. A lot of the roles have evolved from hands on to being more a lead. Right? So I would say, my in
+
+Participant 26: a lot of the role is about manage to the program management, right? So which is where my operational meeting the goals of the organizational, making sure that we are meeting the velocity of the organization. Is being met. So I would say, my.
+
+Participant 26: a lot, I would say.
+
+Participant 26: this is my role right now, where I am making sure that if I am given any initiative to solve, I've been a goal to solve.
+
+Participant 26: I am going and meeting those goals of the organization.
+
+Participant 26: Yeah.
+
+Nikita: Would you say there's any mismatch between
+
+Nikita: kind of like the things? You have to do day to day and what your employer expects you to be doing, or.
+
+Participant 26: I don't think no, I don't think I've had that, because, there's a very I would say there's a lot of communication. And so the meeting, the expectations, or make making sure that what you're expected to do earlier on is something that happens on a regular basis. And then you go, do it. And so, and if you're not able to meet those, you again have a communication. So, having that ongoing communication
+
+Participant 26: has helped me to stay on track for the expectations I'm supposed to meet at work, so I have not necessarily felt again. I haven't really felt that I haven't been in, or I would say I haven't been in a position where I feel like I'm not doing what I'm expected to not do.
+
+Nikita: It makes all, yeah, yeah, that makes all sense. Yeah, and so in this in the next question i'd like to ask you to differentiate between what you do or work and the things you do sort of outside of your work, but relevant to privacy engineering. And would you say there any additional responsibilities you feel you're expected to take on in your work such as to society or to others, organization, or maybe even to yourself.
+
+Participant 26: Not currently in my current roles. I have not been able. I I have not, taken on additional responsibilities outside of work. But I do try to read more. I am I my name, my recently IAPP member. You know. But I do try to keep on on top of what's happening in the industry outside of work. I don't necessarily take on that
+
+Participant 26: right now. I haven't done that yet. Yeah, but I'm trying to get more involved. But I do try to volunteer at organizations. I recently I mean, I [recently] did talk at a conference. But it's it's a it's not something I do regularly.
+
+Participant 26: you know, but.
+
+Nikita: And so, yeah, and it's.
+
+Participant 26: Myself. Doing more. Yeah.
+
+Nikita: And it sounds like your employer doesn't really have that sort of expectation that you
+
+Nikita: I don't present all.
+
+Participant 26: My organization does not have that expectation. That I should do that. Yeah.
+
+Participant 26: it's something. It's something I wanna do. Then I do it.
+
+Nikita: Got it. Got it that makes so much sense.
+
+Nikita: So now I'd like to also talk about your skill set. And so could you tell me what skills were demanded of you when you started your current role.
+
+Participant 26: My current role.
+
+Participant 26: My current role was the expectation was understanding privacy, understanding data, privacy, understanding how to manage day to day, load privacy load. And how are we gonna improve?
+
+Participant 26: the, I would say.
+
+Participant 26: The capacity and managing how we are going to be able to improve different aspects of
+
+Participant 26: the the load.
+
+Participant 26: So that we can improve the velocity
+
+Participant 26: as well as improve other aspects where we are. We are not spending too much time on doing
+
+Participant 26: mundane things. Rather. We have more time to do more intense work.
+
+Participant 26: Does that make sense? So I came in with understanding.
+
+Participant 26: I'll
+
+Participant 26: the types of work that needs to get done in the organization. I'm I'm supposed to know how to manage the team and the load of the team
+
+Participant 26: for the work that they do, and that work being privacy, work.
+
+Nikita: And what about your previous position that you spend more time on? Would you say that the skills
+
+Nikita: that were demanded? They were different, or were they.
+
+Participant 26: When I started off, I said, when I started off my career and privacy.
+
+Participant 26: I was expected to know how to
+
+Participant 26: find problems.
+
+Participant 26: use the tools to find problems. And those tools were typically security tools. And so I was expected to be
+
+Participant 26: to know, learn the tools, find out the problems in the tools.
+
+Participant 26: Figure out what to do with the pro, figure out, how are we gonna solve that problem
+
+Participant 26: and then teach people how to fish?
+
+Participant 26: Because now I knew how to do it. So I was expected to grow and build a community to teach people on how to fix problems that I found
+
+Participant 26: And then documentation setting up improving. I would say, dot, yeah, improving the documentation.
+
+Participant 26: So my role.
+
+Participant 26: yeah, my role was like, I said, more hands on, and then slowly it became
+
+Participant 26: whatever I learned. Go, teach others how to do it.
+
+Nikita: Yeah, that sounds very interesting. So it sounds like that. There was some evolution of skills that you use.
+
+Participant 26: Yeah.
+
+Nikita: When you just start the role. And if you could talk a bit more about that like, what did you sort of like, what skills did you gain or start using, as you sort of spend some time in the globe.
+
+Participant 26: Yeah. So as I started becoming more like as I, as I started growing in my career, I from being hands on where I was given. Okay.
+
+Participant 26: this is this is the job. Go find the problems. This is the tool.
+
+Participant 26: I what I learned first, how to use the tools. I didn't know anything about it, so I started off like that.
+
+Participant 26: And then, once I knew how to do it, I went and taught people on how to do it.
+
+Participant 26: So I learned. So I learned more about managing.
+
+Participant 26: I I learned about managing
+
+Participant 26: I would say people aspects of you know, teaching. So I learned how to teach how to fish or how to make sure that people feel into so more soft skills. I would say, I started developing from hard skills to more soft skills. And I started using more of my soft skills.
+
+Participant 26: making them feel part of the community because I needed now others to do the same work that I was doing for me to go do something else, which was, you know, I started talking more in terms of
+
+Participant 26: to folks that I'd never spoken to before, which is legal teams. But I so I started
+
+Participant 26: there. So I
+
+Participant 26: was doing what I was told to do, and slowly I started telling other people to do what they need to do, and I was going talking to other people that I've never spoken to before.
+
+Participant 26: To first learn from them.
+
+Participant 26: because legal was legal is like the main counterpart for privacy a lot of times as well. Still, now still true.
+
+Participant 26: And then I would say that
+
+Participant 26: and how? How should I put it? Yeah. So I would say.
+
+Participant 26: Yeah, that's mostly
+
+Participant 26: talking more to people that I've never spoken to before. More leaders within the organization.
+
+Participant 26: And then, when Gdpr kicked in
+
+Participant 26: setting up
+
+Participant 26: daily regular meetings or visibility on what's happening. I I establish different work streams figuring out how we manage these different work streams so slowly and steadily. My role is completely different from being hands on to figuring out how we wanna manage this massive lines of the organization.
+
+Participant 26: And so I would say.
+
+Participant 26: I grew with the role that I was as or the work that I was assigned to do. I knew nothing. I just learned everything on the job. I had to learn Job to get it done. And so I would say.
+
+Participant 26: it's just do take on work that you are given, or go ask for work that you want to develop skills in and then go do it, for example. Yeah. So
+
+Participant 26: I would say.
+
+Participant 26: I, I don't know if that's enough for you. But I would say.
+
+Nikita: Oh, yeah. Yeah. Yeah.
+
+Participant 26: How I approach my career way. You just have to keep learning and keep going.
+
+Participant 26: Yeah. And I used to also be on call for security. I knew nothing about security when I volunteered to be on call for security problems. So I
+
+Participant 26: keep that muscle going as well. So
+
+Participant 26: so I thought, even though I was doing a lot of privacy work, I was on call for security. So I was able to do some security threat modeling. And so I would say, it's about just reinventing and learning continuous reinventing and learning.
+
+Participant 26: that is, can help me shape my career. Yeah, title.
+
+Participant 26: Not so much because titles, titles, and work. They just sometimes they just don't match up
+
+Participant 26: poop.
+
+Nikita: Yeah. Yeah. And I also thought it was very sample how you said that you transition from those harder skills to software skills that's very important to notice. Yeah, and would you say, kind of like, think about the interview process? Was there a difference or not between the skills you were expected to demonstrate during the interviewing process, and those required of you in your role.
+
+Participant 26: No, a lot of since I've moved on to a lot more program and project, and I would say, overall privacy, leadership roles my expectations or the interviews. Processes have been about how I've managed the privacy programs that I was expected to manage because I am not no longer doing hands on work, but I'm expected to know how I will manage a privacy initiative if I'm thrown it
+
+Participant 26: thrown at it.
+
+Nikita: So so you feel just to clarify that the skills you had to show during the interviewing process was aligned with the skills that you're using in your role is that.
+
+Participant 26: Yes, so yes, so I it. It did align with the types of roles I was interpreting for. Yes.
+
+Nikita: Wonderful. Yeah, that's great. So let's move on to our next topic reporting and deliverables, so i'd like to talk about that in your work. And could you just tell me, who do you report to? And if anyone reports to you.
+
+Participant 26: No one reports to me. I am an individual contributor. I just report to the the program
+
+Participant 26: head of the organization.
+
+Nikita: And what are the typical reporting structures that you see in your profession.
+
+Participant 26: I've seen all kinds. So it's hard for me to describe one way or the other like, for now I am within the privacy organization.
+
+Participant 26: which is a completely separate organization from security. When I started off, I was a privacy, one person, privacy or within security. I've also been in roles where
+
+Participant 26: the privacy was was completely separate, but it was a central privacy for the entire company.
+
+Participant 26: and so
+
+Participant 26: it's hard for me to say,
+
+Participant 26: one be or the other. It's what works for the organization.
+
+Nikita: Is there any sort of structure that
+
+Nikita: you hear about most often? Or you feel it's difficult or would you say that it really just varies.
+
+Participant 26: It just varies. I don't have any preference, one view or the other. To be honest with you. It all depends in the organization. And how but the I do, I do. Wanna call out that although I have not been in the in that position. But during my interview processes that I was interviewing. I felt the hardest interviews were when I was expected to be
+
+Participant 26: supporting privacy programs for a legal organization, because I guess the expectations of
+
+Participant 26: privacy within a legal organization is very different from expectations of a privacy role within an engineering organization. And so if I am, I feel I'm more comfortable when I am within that engineering coconus organization versus trying to fit into a legal organization, if that makes sense.
+
+Participant 26: But again, just. It's been very, very few instances where I felt like this role is not a good fit for me.
+
+Participant 26: I haven't been in positions where I can make a general call.
+
+Nikita: Hmm, yeah, I hear you and I know you mentioned that, you know, for reporting. You use meetings, emails. But are there any other methods they use to report to others. I guess, like any project.
+
+Participant 26: And then big. Yeah, so I've always been in big organizations. So most big organizations have their own reports and own reporting. I guess tools. So I've just used whatever the needs of the organization are. I I have not used any third party tools for reporting.
+
+Nikita: And would you say that the structure is mostly hierarchical? Or flat?
+
+Nikita: What what would you say.
+
+Participant 26: Again. It depends on the organization. I've I've seen
+
+Participant 26: pretty flat.
+
+Participant 26: But then privacy, I haven't seen a whole lot of hierarchy.
+
+Participant 26: Like. I said I was 1 one person privacy reporting to the director and so.
+
+Participant 26: although I didn't have the title, my role was pretty intense there, because I was owning quite some data privacy policies there. And this was at again a bigger company, and but then, with reogs and things like that, things change. So I've seen that as well. But
+
+Participant 26: overall
+
+Participant 26: organizations are still flat. At least the tech industry is still flat. I cannot speak about the non technical industries which are like finance or health or I don't think I have enough knowledge to speak about that, but from my experience.
+
+Nikita: That's that's perfect. Yeah. And we spoke before about your day to day. And I just wanted to go slightly more into that. So could you tell me about the deliverables that are required from you in your role? For example, do you know right code, research reports privacy by design, advice, or do you have to deliver anything else.
+
+Participant 26: I'm not doing any of that consulting. I used to do privacy by design. I like, I said. I used to do a lot of privacy by design consultation and a lot more code. I used to write code. I used to write tools. I used to be able to give those tools to others.
+
+Participant 26: to be able to find issues. And so
+
+Participant 26: so I've been
+
+Participant 26: in that side of the spectrum where I've done that.
+
+Participant 26: And I did that for quite some time, because that was the only way for me to evolve the policies is to be able to do privacy by side my current role. I don't do that. I am given a. I am just managing the entire queues of privacy problems that come my way.
+
+Participant 26: I am actually prioritizing them and figuring out how we are going to maintain the velocity of those issues.
+
+Nikita: Hmm, super interesting. And I guess, maybe going back to the role that was more hands on could you tell me why those deliverables the privacy by design consulting the privacy tools. Are important in your role.
+
+Participant 26: They're important because you need tools to find out issues. There's no way you can find out tools manually find out issues manually, even though you are using manual mechanisms like quote reviews. Or you could be doing basic you know.
+
+Participant 26: I would say, tools to find out issues like man in the middle tools, or like, I said, I was using a security tools at that point in time. So a lot of my tooling was again
+
+Participant 26: not very specific to privacy, but they were security tools to to go attack the system,
+
+Participant 26: and find out what data is getting leaked. But when it's leaked. Whether or not that data should be leaked is where I was looking at versus a a security person would like it. Oh, it leaked. Let me go fix it now. That is a bright, different mindset. But for privacy, when something is leaked you need to put, why is it even here?
+
+Participant 26: That's the lens you stop, look at. And so for that purposes it's very important. Have a tool. And like I said at that point in time, 10 years ago we didn't have any structure. We didn't have like a threat privacy threat model. So. But you still used quite a bit of this security threat model, and I used heavily. Use the obas
+
+Participant 26: model
+
+Participant 26: to do my thread modeling for privacy at that point in time. So they did have some privacy ones, but I kind of reused a lot of the ovas
+
+Participant 26: tools, and I would say their documentation
+
+Participant 26: to evolve my internal processes.
+
+Nikita: Would you say that the deliverables that you had to produce are typical or not typical for someone in your profession.
+
+Participant 26: They were very typical, because I was supposed to evolve this policies and keep the policies correct. Co. Correct right? And so, in order for me to do that. I have to set the privacy requirements I have to set.
+
+Participant 26: How this policy has changed, and why it has changed, and how are you supposed to now do what you need to do? Because this policy has changed? So I would say that my deliverables were pretty much
+
+Participant 26: keeping that policy updated which is again
+
+Participant 26: a byproduct of all the things that you do.
+
+Nikita: And how would you say your manager would evaluate those changes? And any other deliverables that you produce.
+
+Participant 26: There was different. I I'm I would not be able to give you a specific, but
+
+Participant 26: that one of my goals is to have regular updates to policy, one that was one of the key deliverable that I had as part of my role was to produce regular updates to the policy.
+
+Participant 26: And so I would be evaluated, based on whether I produce that policy or not. Whether I, was able to communicate that policy to everybody or not. How is the policy being used? What types of issues are being found because of this policy? How many exceptions are we having to the policy? So I would say, these are some of the high level metrics that that would used for me. For me to be able to say that this policy.
+
+Participant 26: You know, I would say this new policy is working well or not.
+
+Nikita: No, that's super helpful, insightful. Yeah, thank you for sharing that, so i'd like to move on to a different topic, it's gonna be relevant to what you were talking about. You know the tooling that you developed. So I'd like to ask you if there any tools, techniques, or standards that create challenges for you.
+
+Participant 26: Hmm! I would say that a lot. Can you repeat that question? So let me.
+
+Nikita: Of course. Yeah, so kind of like in this topic, we just want to understand better what sort of challenges you face in your work. And I was asking if there are any tools, techniques, or standards that create challenges for you in your role.
+
+Participant 26: Okay, I'm again going to go back to my previous roles, because I guess it's.
+
+Nikita: Okay.
+
+Participant 26: Mostly more relevant because I did was more hands on with the tooling per se. Yes, so I would say when I started off. There were no tools. I actually wrote those tools in order to identify issues in this policies. Again, they were very
+
+Participant 26: a Kluge, I would say, brand not not super fancy. Very simple, probably a mix of different. I'm I use a lot. I used to be a
+
+Participant 26: be more familiar with Paul and python, and mostly a lot more poll at that time, because scripting is the easiest with Paul. So I used quite simple per language and ruby at that time to write my code.
+
+Participant 26: and I, I would say the the most challenging part was getting adoption of those tools. You can write your tool, and then and then a lot more. People are willing to adopt your tools provided to teach them how to use them. And so the I would say.
+
+Participant 26: if you ask people to do something
+
+Participant 26: for you like I said I was hands on. I wrote the tool. I used it
+
+Participant 26: fine, I know what to do. But now, if I have to give that tool to somebody else, I really need to teach them how to use it. And so
+
+Participant 26: to be able to
+
+Participant 26: to get them, to adopt that tool and to be able to customize the tool because
+
+Participant 26: every team has to find issues in their own system, so I can only scale so long as they are able to scale it.
+
+Participant 26: And so to write tools that are scalable is a challenge.
+
+Participant 26: I would say, and I was able to meet that challenge successfully in my previous role. But then, getting people
+
+Participant 26: to adopt that and teach them that it is not hard to customize was the most challenging part.
+
+Participant 26: So I had to do. A lot of training
+
+Participant 26: does make them value in using the tool.
+
+Participant 26: and why they should be using the tool.
+
+Nikita: Do you feel there were any other kind of like tools that you use? Maybe yourself, when you were developing those tools or other external resources. I know you mentioned the All wasp tools, for example, that.
+
+Participant 26: Like, I said, I'll yeah. So a lot of times since I work for these big companies, we had quite some restrictions on the tools that we use.
+
+Participant 26: So most of the tools were built in built. And so I would say, I didn't really use any third party tools per se, and then I'm blanking out on the some the some of them that I did use since it was so long ago. But I did use some tools. That were third party tools. But again they were all security tools.
+
+Participant 26: Necessarily privacy, tools.
+
+Nikita: Gotcha. And would you say that this, those restrictions that you know the big companies to work for place on the toys you can use? Do you feel that presents a challenge for you? Or is that something that you can navigate.
+
+Participant 26: It depends on the organization. Our organization was pretty open to letting us use third party tools, but again, depends on the policies and whatnot and the bigger scheme of things. And so
+
+Participant 26: again, my experience was a long, long time ago, but
+
+Participant 26: from from what I know, most big companies like to develop in house. They don't like to use third party tools, because there's a lot of IP for big companies. So I would say that that's I don't know if it's a challenge or not, but so long as the tools are being built, whether they're in bill in house or external, so I think it doesn't really matter.
+
+Nikita: Yeah, it sounds like the challenges and getting people to adopt and scale those tools as you said and I, I, I assume that those challenges are typical for your profession. Is that the case?
+
+Participant 26: I guess it's typical for any engineering profession. It's not per our privacy per se. I think.
+
+Participant 26: But it shouldn't. It shouldn't be a hindrance. I mean, the tool should be so so seamless
+
+Participant 26: that it is not necessary specific to privacy. In my opinion, it is a general
+
+Participant 26: engineering challenge
+
+Participant 26: that you write any tool or you write any form of a technical
+
+Participant 26: support. Technical, you know, automatic technical support, that you're providing different organizations. It should be seamless enough, such that they don't have to do extra work to adopt it.
+
+Participant 26: So I I think it's not specific. And this answer is not specific to privacy. It's across the board, across the technical companies. I don't know about other other industries which would have different, completely different set of challenges. But the most challenging part is like, give them a tool you support. You're building an Api. Everybody has to, you know, on board onto that Api that Api is gonna give like 5 steps to onboard. Nobody gonna on board that.
+
+Nikita: that makes so much sense? What about organizational reporting structures would you say, you face any challenges when it comes to those organizational reporting structures.
+
+Participant 26: I really didn't really face any, because I've been in very flat structures. So I've been lucky enough to be able to get access to the right people. To put forth my, I think opinions and my, I think
+
+Participant 26: problems that I was, you know, trying to solve. So I guess I
+
+Participant 26: haven't really had too much of challenges in when it comes to getting access to the right people. Or in terms of you know, getting traction.
+
+Participant 26: I don't know if it's it's lucky or not, I guess tech. At least I've not observed this of the tech industry. At least I again.
+
+Participant 26: Depends on the organization depends on the team.
+
+Participant 26: Some some teams have a little bit more hierarchy, I guess. Any organization that has a lot of hierarchy. You are going to have those reporting challenges, otherwise I don't think you would have a lot.
+
+Nikita: So it seems like the main challenges that you outlined was with the adoption of tools, I don't know, if there are any other challenges in your profession that you face, that you feel is.
+
+Participant 26: Lot of pushback.
+
+Nikita: Agent.
+
+Participant 26: I would say a lot of pushback
+
+Participant 26: from product teams, especially when, because privacy and business goes sometimes collide
+
+Participant 26: and so
+
+Participant 26: would say, the challenges come from actually adoption of those policies, as well.
+
+Nikita: To.
+
+Participant 26: They are again far between. If you have leadership support, those policies can be adopted very easily without much pushback. But if you don't have leadership support. Any new policy that you're trying to roll out is going to have challenges, because if it's going to block a business goal
+
+Participant 26: that if that policy is going to block a business goal, you're gonna have a problem.
+
+Participant 26: About.
+
+Nikita: Yeah, that makes that makes a lot of sense. Are there any strategies that you use to overcome this challenge of push back.
+
+Participant 26: I would say leadership support. I think that's the biggest you have to have leadership support to drive any. So any form of change again. This is not specific to privacy. It's it's specific to any industry or any goal that you're trying to meet. I think more so when it comes to privacy. But I would say, when you have a compliance, specific requirements.
+
+Participant 26: that pushback is is minimum. But when you have a best practice type of a policy. That's where you have a lot more.
+
+Nikita: And with the adoption of tooling, how do you approach that I think you mentioned that trying to have more frequent meetings with the engineers using those tools. I know, if using a lot of strategies to increase the adoption, the tools that you developed in your previous trial.
+
+Participant 26: I guess I'm helping them see? Value bringing them along.
+
+Participant 26: Teaching them on how how it is sitting with, I would say I I sat a lot
+
+Participant 26: with them. And I offered to be there when they were actually giving them a lot of support and making them feel that they're not. Okay. Give this slide like, throw this tool at them and like, go figure it out. No, I think you have to be there to help them
+
+Participant 26: see value of that tool and help them be with them
+
+Participant 26: when they are actually using the tool and help them, you know.
+
+Participant 26: Figure out
+
+Participant 26: and then gain that slow, slow, I think traction in terms of making them see the value of using the tool.
+
+Nikita: Yeah, that sounds that sounds a very important component so we're on our last topic, so i'd like to talk about the impact of your work, broadly speaking, and could you tell me, how would you define success in the world that you do.
+
+Participant 26: Very interesting question.
+
+Participant 26: I would say my success, I mean again going back to my days of [FANG COMPANY]. I would say my success was
+
+Participant 26: that particular? I had a hundred percent adoption. I would say that was my my success.
+
+Participant 26: Every team
+
+Participant 26: that I
+
+Participant 26: worked with or had to work with adopted the processes that I put in place, and the tooling that I put in place, I would say that that was a big success for me.
+
+Participant 26: and that's how I was able to get
+
+Participant 26: privacy
+
+Participant 26: ingrained into minds of people because it was part of the process.
+
+Nikita: Would you say? Sort of this ingraining privacy in the minds of people is the overarching goal of the world that you do? Or would you frame it somewhat differently?
+
+Participant 26: I used it as a so I I would say I introduced privacy as a measure of quality
+
+Participant 26: within the organization, and that was sucks. And that was a hundred percent adoption that
+
+Participant 26: just why I'm saying that was a huge win for me.
+
+Participant 26: Hmm! Whether or not it I would say it automatically, organically got ingrained, though it wasn't the first motivation
+
+Participant 26: for me. It was mainly for me to yes, I would say, in a way, it was a mo motivation to make them aware.
+
+Participant 26: But then it soon became a part of the process. And so I would say that
+
+Participant 26: that was a huge win.
+
+Participant 26: Yeah, it's it.
+
+Nikita: And shouldn't.
+
+Participant 26: And yeah, I would say, because it it slowly, because people were able to see value. Then you they it doesn't become like a burden. It's you're not like a
+
+Participant 26: you know. I would say. Gatekeeper, it should be something part of the process. So it's and making them see that it's not hard to do.
+
+Nikita: Do do you think that's like the end goal of the world? That you do or would you frame it also differently.
+
+Participant 26: I would say. I think it's a dream for everybody to be privacy centric. And it's a constant
+
+Participant 26: teaching process, because
+
+Participant 26: people come and go.
+
+Participant 26: and so to be able to develop the right processes where privacy is part
+
+Participant 26: of the day-to-day work, I guess, is something that is an overarching goal.
+
+Participant 26: But it should, it shouldn't come across as forced it it should come across. As I want to do this.
+
+Participant 26: That is success for me.
+
+Nikita: Yeah, yeah. And how do you think others evaluate the impact of your work?
+
+Participant 26: I,
+
+Participant 26: I would say, when I left that policy was still up and running. Everybody was using it. So it's it was a well and alive for a long, long time. And so
+
+Participant 26: I feel that.
+
+Participant 26: I guess that that that is something that defined my success
+
+Participant 26: in some ways, because I set those processes.
+
+Participant 26: and it was up and running for several several years. I'm not talking one or 2 years for almost 6 years that process was running, so I would say that
+
+Participant 26: the process that I prefer place, and if those kept running for a long time is successful.
+
+Participant 26: it's a success measure of success for me.
+
+Nikita: Yeah. Do do you think there are any metrics associated with that evaluation, criteria or or not? Really? Is it.
+
+Participant 26: I I I didn't really have I kind of just measured in terms of adoption, mainly.
+
+Participant 26: Which was, I said, I'm I'm pretty excited to say that this was 100% adoption. I surprised myself to be. I wasn't. I never went in with that goal. I just was doing my own thing. And then slowly, I was asked to.
+
+Participant 26: you know, take on additional responsibilities. So I started kind of scaling myself.
+
+Participant 26: Slowly, I got that 100% adoption which is which felt really good. And then number of I would say.
+
+Participant 26: number of people really
+
+Participant 26: to see the exceptions. Exceptions should be very, very small, I think.
+
+Participant 26: and I felt like that number was super super small. So that's also an ex. I would say. That's also a measure of success for me.
+
+Nikita: That's that's very, that's very interesting. So i'm, happy to tell you that this is the end of our interview and as we close it. Like to ask if there's anything else that you haven't had a chance to mention, or you would like to share with us, or you think we should know.
+
+Participant 26: Not really, I think, I answered.
+
+Participant 26: What I knew. I don't know if you got everything that you were looking for, because I really wasn't very prepared into preparing.
+
+Nikita: And.
+
+Participant 26: Golf. Okay? I, yeah. And I like, I said, I
+
+Participant 26: think, since I worked on really big companies, I cannot get very, very specific. I was trying to keep the conversation as broad as possible. And most of mine and most of my work is pretty sensitive. And so I tried to keep
+
+Participant 26: keep the opinions mostly
+
+Participant 26: to what I should be. Those are pretty much my opinions, a lot of them.
+
+Participant 26: Yep.
+
+Nikita: And we were looking for your opinions. I feel you were really on point in the answers. So that was great. And do you have any questions for us.
+
+Participant 26: So how would you? What would you be doing? And will you be compiling this into some kind of a paper? Or how how do you think? And would I be able to access that paper when it's done? And what type of
+
+Participant 26: how are you gonna manage this this entire project. And how many people have you chosen like hundreds of people or a different or have you picked the the audience, or this? The
+
+Participant 26: people interviewing in different categories? Or how did you pick? How did you make the choices for who you picked.
+
+Nikita: Right? Yeah, that those are all great questions. So we are, as you said, trying to compile, sort of like the different responses to this question that you heard today to see if we can find some trends among people who are in privacy, engineering adjacent positions.
+
+Nikita: And when it comes to really selecting the individuals. If if you remember that sort of screening survey that you had to do in the beginning, that's really how we approach. We let people self select if they feel that they are doing something that they feel is privacy engineering, that it's individuals that we want to talk to, to see? Why is it that they have this belief? And what is it that they're gonna tell us? So we're really kind of letting
+
+Nikita: the individuals to self select.
+
+Participant 26: Okay.
+
+Nikita: And then with the conversations we see. You know where that goes. But I would say, from my experience so far, we had, like very on point participants who gave us really insightful opinions about the work that they do. It's not gonna be in the hundreds. Unfortunately, as you can imagine, this sort of interviews does take a bit of effort, but it's gonna be on the order of like 30 professionals, and we'll
+
+Nikita: hoping to have
+
+Nikita: to deliverables. There's gonna be a white paper more in the short term, and there's gonna be an academic paper coming out kind of like a bit later, probably sometime next year. but we will also communicate to you. Once
+
+Nikita: either of those deliverables are available, we'll share the results with you. So you can also learn more about the study and also share with others, because one of our goals is to raise awareness in the community and see, we can help.
+
+Nikita: you know, other privacy professionals as well as those who actually just want to be privacy, professional, and to understand for them what is it that they're getting into what skills they need, and so on and so on. So that's kind of like the I guess the motivation behind the study.
+
+Participant 26: That's that's great. Actually, so do you? So can I ask your background. And I know you're a Phd student. But did you.
+
+Nikita: Yeah.
+
+Participant 26: Come from an engineering background, or you come from a different legal background, or.

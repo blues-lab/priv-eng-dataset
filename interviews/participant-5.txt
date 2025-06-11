@@ -1,0 +1,711 @@
+Nikita: Great now that the Recorder is on, could you repeat that you consent to being recorded?
+
+Participant 5: Yes, I consent to being recorded.
+
+Nikita: Great thanks. Your identity, and anything you share with us will be kept confidential, and will only be heard and read by the researchers in our study. Please know that this interview is designed to be a conversation, so there are no right or wrong answers. You can, of course, skip any question or pause the interview at any time. Do you have any questions before we begin?
+
+Participant 5: Nope.
+
+Nikita: okay, great. So I'd like to start by asking you just a few general questions about the work that you do. Can you tell me briefly about what you do in your job?
+
+Participant 5: Yes, I am part of the global compliance and operational risk team within [INSTITUTION] and our focus is horizontal coverage across [INSTITUTION] for privacy.
+
+Participant 5: risk and compliance
+
+Nikita: makes sense. Go ahead. No, no, go ahead. Continue, please, yeah.
+
+Participant 5: yeah. And and specifically for me, the way we're task organized, I have coverage over global technology
+
+Participant 5: and enterprise data management risk as it intersects with privacy.
+
+Nikita: Got it, and you mentioned several times the word privacy. How would you define this term as you normally use it in your work context?
+
+Participant 5: Well. for us, we really look at. How do we? Process? You know, customer client data
+
+Participant 5: in an ethical way. While adhering to, you know, the global data regulatory environment
+
+Nikita: great, that makes sense.
+
+Participant 5: And we take more of a compliance based approach compliance based approach. Yeah, yeah, yeah.
+
+Nikita: that makes sense. And it was also kind of curious to ask you in kind of this vein.
+
+Nikita: the work that you do. Would you see that as privacy engineering, or would you define it in some other way?
+
+Participant 5: Can you restate that?
+
+Nikita: Oh, II was just curious. Given the description that you gave me about the job that you do? Would you say that the work that you do
+
+Nikita: is something that you consider privacy engineering? Or would you define it more, using a different term?
+
+Participant 5: Yeah, I would say, not in the purest form. I am not in the the Devops cycle. So I'm not you know, interpreting business requirements into user stories. And then, you know.
+
+Participant 5: building architectural diagrams. And then, you know, code and all that. I am attempting
+
+Participant 5: to build a privacy by design framework
+
+Participant 5: what I would call non negotiable, like design patterns
+
+Participant 5: that you know would be most
+
+Participant 5: countered in our in our business, in our industry.
+
+Nikita: And and you said that you don't feel that this is the purest form of privacy engineering. Maybe you could tell me how, how you would describe the roles in the industry that are related to privacy engineering.
+
+Participant 5: Yeah. So you know, to me, privacy engineering is, you know, hopefully, that
+
+Participant 5: person comes from, you know, a a development background
+
+Participant 5: that's also paired with knowledge around.
+
+Participant 5: What we consider privacy harms design patterns best to address possible, you know, harms and or risks
+
+Participant 5: and then developing, you know, a capability that's, you know, repeatable and scalable.
+
+Participant 5: You know, cause there aren't enough of us privacy, subject matter experts out there to have one of us in each step team. It is not possible.
+
+Nikita: I totally hear you. That makes all of sense thought, thanks so much. So kind of on the same on several topic. I now want to talk more about your career journey, and just want to ask you, how did you become interested in privacy engineering in the way you described it as a function of your career?
+
+Participant 5: Yeah, well, II think I just kind of fell into it, to be to be honest. You know II spent most of my adult professional life in the military
+
+Participant 5: and from there I just took that sort of experience into the consulting space.
+
+Participant 5: I worked for [LARGE CONSULTING FIRM] and [LARGE CONSULTING FIRM] and some small boutique firms, and you know.
+
+Participant 5: most of my work was focused on risk management. Right? You know, we have a threat. We have vulnerability, you know. What's the likelihood, the impact and applying those basic risk management principles which then
+
+Participant 5: I evolved into cyber security. Because that was, you know, the the thing that was growing, you know
+
+Participant 5: [many] years ago. And then there I got more fine-tuned into privacy, because in my consulting
+
+Participant 5: profession at the time we carved out a team of us from our service cyber security practice and developed a go to market strategy and solution for addressing
+
+Participant 5: privacy enablement for organizations that we're trying to get their arms around. GDPR.
+
+Nikita: Got it. So it seems like you went from sort of risk management towards cyber security, and then became more interested in the privacy, compliance, aspect. Is, is that correct?
+
+Participant 5: Yeah. And then, now I would say, you know, I'm embarking on this next phase, which is. you know, honing my my acumen and skill sets around
+
+Participant 5: more hands on operational how to develop a privacy engineering capability within [INSTITUTION]. It's a tall order, it's a tall order, but that's my that's my.
+
+Nikita: I hear you. And I guess, given that you're motivated to enable this privacy engineering capabilities in your organization. The [INSTITUTION].
+
+Nikita: What is that? What is it that motivates you to continue pursuing that? What is it that really kind of yeah, what's your motivation? Let's say for pursuing that, let's say.
+
+Participant 5: well, you know, sitting in the risk management, you know, seat, you know, we're largely sampling. We're reviewing things in late stage.
+
+Participant 5: and it becomes this pattern of I'm not sure if you're familiar with this colloquial term. But whack-a-mole. Are you familiar with? This term is basically addressing issues as they pop up? It's very reactive. It takes a lot of time.
+
+Participant 5: you know, somebody's looking for an answer right away. But you have no context. And so you have to go back and start from Stage one to understand background and intent and content, and it's like it just creates a lot of churn
+
+Participant 5: and a lot of pain. And so I'm all about.
+
+Participant 5: you know, the better we can get at the front end, no matter what it is, whether it's a standard business process, or if it's privacy engineering, the better we can get at the front end. You know, data quality streamline process, the right checkpoints all that stuff. That's what motivates me is process excellence.
+
+Participant 5: And it's just applying that in the in this, in this vein of privacy and building products from the beginning, that's, you know, preserve, you know, and protect people's rights.
+
+Nikita: Got it. So it seems like you are really motivated by the desire to streamline the process. As you were saying, right? How in the beginning.
+
+Nikita: or initially, it's a lot of whack-a-mole compliance, just trying to get
+
+Nikita: kind of like what's available really quickly. But it seems like you're really interested in how to actually improve the process. Is that correct?
+
+Participant 5: Yeah. Yeah. Cause I'm all about repeatable and scalable. And you know the current state of affairs. At least you know where we're working, and I believe the [FINANCIAL] industry at large is is faced with this is, you know, it's reactive. It's point in time solutions
+
+Participant 5: that satisfy an individual use case, and you know, and then let's move on. And there's no learning. There's no learning from that experience that can be, you know, put into.
+
+Participant 5: you know your libraries, and you'd develop a design pattern from it. Say, Okay, hey? We had this issue, you know, 6 months ago. This is how we solved it. Boom, let's put it in the library. Here's, you know, a use case and a design pattern.
+
+Participant 5: and it's done
+
+Nikita: that makes sense. And II hear that as a goal, you have also more organizationally. But what are some personal goals that you have for this work that you do?
+
+Participant 5: Well, you know. I think you know 2 to 3 years from now over the horizon. If I if I'm able to.
+
+Participant 5: you know, instantiate even at what I would call a beta level where we have a proof of concept tested out. And we're starting to roll it out
+
+Participant 5: even if it's in the most. What I would say, critical
+
+Participant 5: parts of the [INSTITUTION] where most of the customer data is processed. then that would be a success.
+
+Participant 5: You know. Unfortunately.
+
+Participant 5: based off of my role description earlier, I sit in a risk management function. So I don't.
+
+Participant 5: I don't have an operational role. So I have to develop kind of like the standard and the framework in which to operate.
+
+Participant 5: But the real challenge will be getting a frontline operational element to buy in and invest in it
+
+Nikita: makes sense. Yeah. And I guess for you personally, what is that? Something that you enjoy about as well? I guess. Here, I'm just like trying to understand more from your personal side. What is it that attracts you to this role that you're currently doing?
+
+Participant 5: Yeah, it's the constant you know, perseverance and and then trying to achieve. And you know, reach that North star. It's definitely not an easy path. And so the challenge is what keeps you going? You know, I would eventually like to see myself
+
+Participant 5: walk away from the risk management aspect of it, and be more operational.
+
+Participant 5: And personally, I know that's gonna take time. Because I'm just gonna need exposure. I'm gonna need to work with dev teams. I'm gonna have to order on. You know their language and how they work. Because I you know I'm not by by birth or by schooling. You know, technologist in any way, I didn't start out as a Sys admin or a dba
+
+Participant 5: so I'm learning.
+
+Nikita: Umhm. That makes all the sense, and I feel you've kind of also answered the next question I had for you, because you mentioned how you want to transition it to more operational role. But let me ask you this question about the future. So from a year from now, do you see yourself in the same position, and more specifically doing what it is that you currently do in your current position.
+
+Participant 5:  I I'd say the a year from now is probably a little bit of a you know. Short runway.
+
+Participant 5: I would say probably 2 to 3 years I could and see myself. You know.
+
+Participant 5: growing a team that's more operational focused, that's a, you know, like a center of excellence. Or you know, a shared capability that the [INSTITUTION] could turn to to say, Hey, you know.
+
+Participant 5: got a team of you know what half a dozen
+
+Participant 5: where we can. Address, most of the [FINANCIAL INSTITUTIONS]. Risky designs and built
+
+Nikita: completely understand that that's great let's shift Gears, a bit here and talk a bit more about your day to day responsibilities. So could you please give me an idea of what a typical day at work looks like for you?
+
+Participant 5: Yeah. So as I mentioned, II cover global technology and enterprise data management
+
+Participant 5: at the [INSTITUTION], you know, applying a privacy optic to that to that business or businesses.
+
+Participant 5: And it's generally reviewing.
+
+Participant 5:  projects
+
+Participant 5: say, a large material project. Maybe it's a a net new platform. It's a transformation. It's you know, transition from
+
+Participant 5: on prem to off. Prem, and I'm evaluating general risks that may materialize in that particular project. And you know, it's generally gonna be is is the
+
+Participant 5: is the intent to collect data. Are we gonna collect new data?
+
+Participant 5: Are we gonna process it differently? And it's teasing out that sort of stuff from the project team. But I'm not doing it at every project. It's more or less things that rise to the top, because
+
+Participant 5: the the project is deemed high risk, just from the size of and scale of the project
+
+Nikita: that makes sense make sense
+
+Participant 5:  and or or to simply a trigger, you know, does, or doesn't this this project involve the processing of personal data. that alone could be enough to to get us involved.
+
+Nikita: Got it. So for projects that involve personal information, you get involved. And then you basically are responsible for yeah, looking at this from a privacy perspective performing risk analysis. Is that correct?
+
+Participant 5: Yeah? And and it's the end to end kind of data processing journey. Right? It's not just looking at design strategies. And you know, code code reviews. And
+
+Participant 5: you know, lower lane and
+
+Participant 5: environment testing anything. Now, it's more generally, okay, okay, are we going to change our privacy notice because we're collecting new data elements. Are we going to, have a way to support data port for subject rights request, you know, the end to end kind of things that transpire and processing
+
+Nikita: makes sense. And let me ask you this question, which
+
+Nikita: which you might find interesting. But so this is what you described as the responsibilities and your day to day activities that work. What would you say
+
+Nikita: Your employer in terms of your employer. What responsibilities do they expect you to take on at work?
+
+Participant 5: Yeah, that's it. It's manage, risk, manage, risk. Well, I mean, that's my, that's my, that's my remit.
+
+Nikita: So you feel you, you feel that you, you feel that it's basically the the expectations that you have for your work and the expectations of your management is basically equivalent. Is that correct?
+
+Participant 5: Yeah. And then, you know, we have an established risk management framework at the [INSTITUTION], how we operate. So it's it's not I'm applying, say.
+
+Participant 5: a NIST framework or an ISO approach. It's like we have a [INSTITUTION] framework we operate in. And then, I, you know. Apply that to how I think about privacy.
+
+Nikita: Got it that makes sense. Let me ask you this next question, where we're trying to differentiate between what you do for work and the things you do outside of your work, relevant to privacy engineering. So do you feel there are any additional responsibilities you're expected to take on in your role. Such as to society, maybe others in the organization.
+
+Nikita: or even yourself. And and here, I guess, like some examples that we might be looking for is maybe your employer expects you to contribute your time kind of like outside of the direct walls, or maybe serving your broader community. Mentoring someone. Is there anything like that?
+
+Participant 5: Not necessarily in the vein of privacy or privacy engineering? You know, obviously, I participate in [PROFESSIONAL ASSOCIATION] events here that are, you know, local in the [LOCATION] market.
+
+Participant 5:  and then I contribute my time to other causes that aren't related to privacy like, I support the military
+
+Participant 5: and activity group here at the [INSTITUTION]. Just to support other veterans.
+
+Participant 5:  but yeah, that's generally it
+
+Nikita: is that something that you do yourself? Or is that something that you feel you might be expected to do?
+
+Participant 5: No, no, neither of them are expected.
+
+Nikita: Umhm got it good makes sense. And let's also talk about your skill set. So when you started your current role, what skills were demanded of you?
+
+Participant 5: It was just a good acumen, or you know, and and experience with general risk management practices. That was first and foremost, because you know, the [INSTITUTION] generally believes that you know you can take a well rounded risk manager and teach them the discipline
+
+Participant 5: in which we are managing risk for work that way versus. You know, I'm an expert, in you know, information security. But I have no idea, how to manage risk.
+
+Participant 5:  you know with processes and controls and metrics and KRIs and KPIs, and that whole process
+
+Nikita:  and do you feel that the skill set you're using has evolved over the time in your job?
+
+Participant 5: Yeah, II think the lines are becoming blurred between, 'cause you know, generally the expectation is that a risk function in an organization is to maintain some sort of independence
+
+Participant 5: and not solution for the operational elements for which you can cover.
+
+Participant 5: But I think in some of these more niche.
+
+Participant 5: you know, disciplines like privacy.
+
+Participant 5: because, you know, it's niche cause. It's still generally new.
+
+Participant 5: The lines are blurred on maintaining that independence. And so we are more involved in operations.
+
+Participant 5: because most people you're talking to are like, I don't know how to do it. I don't know what you got, and so you have to get to solution. And it's difficult. It's difficult.
+
+Nikita: Sounds like maybe that's not something you really necessarily anticipated doing right in the sense of. as you say?
+
+Nikita:  Well, I guess. Let me just confirm. So you expected that you would be more independent. But then, in the role, you see how you have to be more involved with the operational team. Is that is that correct?
+
+Participant 5: Yeah, that's that's that's accurate. And so it's it's it's a constant struggle.
+
+Participant 5: Because you know one. My, my, my leader, is the chief privacy officer, and she's always
+
+Participant 5: because I have more of an operational background. And she's always, you know, reminding me. You know you must maintain your you must maintain your independence.
+
+Nikita: That makes sense, and I don't know how applicable this is for you. But was there, or is there a difference or not between the skills that you were expected to demonstrate during the interviewing process? And I guess you know the skills that you're using right now that you mentioned
+
+Participant 5: no, cause II don't think the you know the the
+
+Participant 5: the expectations. Weren't that prescriptive? It was, you know. Generally, you know, risk management. First and foremost, we know that you have a background and privacy
+
+Participant 5: which is great. And I think most of the expectation was
+
+Participant 5: not
+
+Participant 5: perfect. And hone, your risk management skills, your privacy skills. But it was more about learning the [FINANCIAL INSTITUTIONS].
+
+Participant 5:  you know, organizational structures and how they operate.
+
+Nikita: Umhm, it makes sense
+
+Nikita: great. Well, thanks for talking about that. So let's move on to
+
+Nikita: talk about reporting and deliverables in your work, and I know you mentioned that. I guess you report to the chief privacy officer. Is that correct? [So that's your direct reporting to right?]
+
+Participant 5: Yeah. Yes.
+
+Nikita: And does anyone report to you?
+
+Participant 5: No, I'm a sole contributor.
+
+Nikita: Gotcha. And what typical reporting structures do you see in your profession?
+
+Participant 5: Well. right now.
+
+Participant 5: we have, you know, Chief privacy officer, and then there's all of us risk officers that report to her. There's like [A NUMBER] of us globally. and we have. We either have a regional coverage or a
+
+Participant 5: discipline coverage like myself, global tech and enterprise data management. And then we have the data protection officers that are aligned to operating units within a jurisdiction.
+
+Participant 5: And so we don't carry any of the
+
+Participant 5: typical responsibilities of a data protection executive or officer
+
+Participant 5: because this management function.
+
+Nikita: do you do you think that in similar organ, not a similar organizations, you would have similar structures for reporting.
+
+Participant 5: Yeah, II think. I think the [INSTITUTION] where I'm at is probably
+
+Participant 5: less like the norm, you know, more of an outlier in in terms of structure, like the the
+
+Participant 5: the chief privacy officer and our data. Privacy, operational elements don't align up. They don't align up to a CIO. They don't align up to a CISO. So they don't align up to legal
+
+Participant 5: which are more than normal structures.  we line up
+
+Participant 5: through the risk management structure at the [INSTITUTION].
+
+Nikita: I see.
+
+Participant 5: Privacy operation element rolls up underneath our enterprise data management function at the [INSTITUTION]. So I mean, there's some good nexus there with enterprise data management. Because, you know, personal data is just a subset of all data.
+
+Nikita: Umhm.
+
+Participant 5: However, it's somewhat
+
+Participant 5: restricts us or limits us in our ability to
+
+Participant 5: what I would say have better enter interplay with tech and security.
+
+Nikita: I see.
+
+Nikita: And this is maybe it's a bit more into the weeds. But when you have to report to others. Let's say, what are the usual methods. How do you sort of go about reporting to others?
+
+Participant 5: What do you mean reporting like official reporting or just management reporting?
+
+Nikita: Ah, so things like, Do you use meetings? Emails? You know, maybe some tooling just to sort of have your role.
+
+Participant 5: Oh, yeah, yeah, we have a lot of you know, custom develop tools
+
+Participant 5: that. We that we use for, you know, managing our risk assessments, managing issues that are open when we find, you know, troubled areas.
+
+Participant 5: And we have.
+
+Participant 5: you know.
+
+Participant 5: tools for reporting our metrics. We have tools for meetings. You know.
+
+Participant 5: we have. Email.
+
+Participant 5: Don't do a lot of in person stuff. And I think all of us are experiencing that that everybody wants back in the office. But nobody meets in person anymore. Kind of funny?
+
+Participant 5: yeah. So yeah, so nothing unique. There.
+
+Nikita: Yeah. Got it. And given what you've told me about. You know the way your reporting is structured. Do you think there are any? Or do you find for yourself that there are any pain points or issues that you experience for that? Or do you feel runs mostly smoothly?
+
+Participant 5: Yeah, I would. I would think that there's probably a lot of room for an improvement. Because I would say. when you think about risk management and the platforms are supported, we don't have an integrated platform
+
+Participant 5: global. You know, we don't have an integrated GRC platform. So we're we're kind of, you know.
+
+Participant 5: multiple system multiple screens. You know, it's hard
+
+Participant 5: to really kind of tease out where those troubled areas are. You know, there's no dashboarding. I mean, we're getting better. We're bringing. We're bringing on board some some analytics and things. And so we are getting better on that.
+
+Participant 5:  you know, on the development side, more privacy engineering specific. Yes, the [INSTITUTION] is using Jira
+
+Participant 5: and a lot of those in devops platforms. So I would say on the operational side, they're probably much more advanced than we are in risk management
+
+Nikita: got it. But for yeah, but for you, I guess the tooling is seems like one of the things that could be improved. Right?
+
+Participant 5: Yeah.
+
+Nikita: Got it. And you mentioned that you mainly focus on risk management. And so speaking about that, what deliverables are expected from you in your role? I assume it's mostly reports. Or do you have any other deliverables that you have to present?
+
+Participant 5: Yeah. So my, my, my main function at deliverable is performing what we call targeted risk assessments. And those are just, you know. as it sounds. We find an area.
+
+Participant 5: either a known issue or an issue where we think there might be some
+
+Participant 5: hidden risk, because a new law is coming into effect. And so we want to go evaluate our. You know
+
+Participant 5: our position before we have to solution. And so we we perform a lot of targeted assessments. And that's usually a very detailed process do something within a 3 month, time period. And then there's a set of deliverables that go with that, and it's documented and the various tools.
+
+Participant 5: And then we perform an annual risk assessment at the end of every calendar year.
+
+Participant 5: Which is usually just an aggregation of all the independent targeted risk assessments and it's summarizing it's summarizing our view
+
+Participant 5: of the [INSTITUTION]
+
+Participant 5: from a privacy point of view.
+
+Nikita: And do you feel this is this deliverables are typical for someone in your profession?
+
+Participant 5: yes.
+
+Nikita: and I presume that the reason why the focus is on this deliverable specifically such as the target of the risk assessments and the annual risk assessments is to ensure compliance. Right? That would be the main purpose, essentially. Is that correct?
+
+Participant 5: Right. Right.
+
+Nikita: Got it. And so given this deliverables. how would you? How would you say your manager evaluates them. What would be their criteria for evaluation whether you've done a good job or not? Let's say with the deliverable.
+
+Participant 5: if you're able to point out the root cause of any issue. and that you have a solid set of recommendations
+
+Participant 5: on how the business should proceed
+
+Participant 5: to solving.
+
+Participant 5: So yeah, that's, you know, at the end of the day root cause. And do you have, you know, some meaningful recommendations.
+
+Nikita: And so yeah, so as as long as you're able to point out that root cause and provide concrete recommendations. That would be the criteria your manager would use to evaluate your your deliverables right?
+
+Participant 5: Right.
+
+Nikita: Got it? Got it great? Well, this is very useful. Thanks so much. Let's move on to a different topic here. So in your work.
+
+Nikita: Are there any tools, techniques, or standards that create challenges for you? So, for instance, some privacy engineers by struggle with, you know, implementing privacy by design for their organization. Is there anything that is maybe challenging for you in your role?
+
+Participant 5: Yeah, it it. It's that's just like a common theme here just because of the way I'm placed in the [INSTITUTION] in in the risk organization.
+
+Participant 5: I don't own a budget. I don't control resources.
+
+Participant 5: So the approach that we are looking to take is we're going to have to create the baseline guidance from which we can drive
+
+Participant 5: the operational elements to operate from
+
+Participant 5: creating a standard.
+
+Participant 5: And so, therefore here's the standard you operational element. Now go and ensure that you are conforming to that standard.
+
+Participant 5: So that's how we are going to drive change.
+
+Participant 5:  because right now I'm not sure if you're fine familiar with how the financial industry largely runs.  the regulators drive change at the [INSTITUTION].
+
+Participant 5:  it's not necessarily always from we are constantly innovating because we
+
+Participant 5: understand our clients, or we hear our clients. It's like Regulator comes in and says, Hey, [INSTITUTION]! You're screwed up, and then, therefore then the [INSTITUTION] goes off and does something
+
+Participant 5: to address it.
+
+Participant 5: So that's one of the biggest challenges is that you know some may see privacy by design and creating all these great
+
+Participant 5: frameworks and design patterns. And
+
+Participant 5: let's get in better than the Devops pipeline. Some may say that's great. We understand the business case. However, we are
+
+Participant 5: overwhelmed with all these matters that we have to take care of for the regulators. So it doesn't get prioritized.
+
+Nikita: I see, I see. So it's sort of
+
+Nikita: you might want to innovate, but because of the regulation. That is a roadblock. Essentially.
+
+Participant 5: Yeah, it. It's it's yeah. It's just. It's an obstacle. It's not necessarily a roadblock.
+
+Participant 5: So you know.
+
+Participant 5: rather than saying, Hey, you know, tech team that oversees the entire consumer business of the [INSTITUTION]. Let's
+
+Participant 5: let's pilot this. Let's tease it out. Let's prove it.
+
+Participant 5: It's hard to find someone to take on that and be a champion. Hmm.
+
+Nikita: would you say there are any other challenges you encounter? Or is this the main one?
+
+Participant 5: Yeah, that's the main one. And I think that's just because
+
+Participant 5:  where we're positioned in the [INSTITUTION] as a risk
+
+Participant 5: second line function.
+
+Participant 5:  so it's it's just gonna take time, culture change. And then I think the other challenge, as I mentioned before, is that we largely manage privacy
+
+Participant 5: just from a compliance, perspective like check the block, check the box, and we
+
+Participant 5: we write our standards and guidance to every law that comes out
+
+Participant 5: across the globe.
+
+Participant 5: instead of instead of normalizing
+
+Participant 5: and saying, You know, all of these laws have these 10 things in common. So these are our principles. And this is how our program will be designed, and we're not going to manage to the outliers.
+
+Participant 5: We'll address it. But we're not going to manage our entire program. or we're gonna take some risk and say, you know the likelihood that the Nigerian government is gonna come after us because we don't have this one little
+
+Participant 5: saying that they specified under law. We're gonna take risks. And we're not gonna
+
+Participant 5: invest in that because we have a program that's based off of these 10 sound principles that apply to
+
+Participant 5: you know, 80% of the privacy laws around the world
+
+Participant 5: that's another challenge
+
+Nikita: do you think these challenges are typical for your profession?
+
+Participant 5: Yeah, I think that's probably common. You know, II can't speak for all industries and all organizations. But
+
+Participant 5: I think that's largely out of the gates. Since GDPR.
+
+Participant 5: People have taken that that compliance approach. And so
+
+Participant 5: example.
+
+Nikita: Umhm.
+
+Participant 5: we're a global organization. Law is enacted in X country, and we have a very small footprint in that country. We are going to solution
+
+Participant 5: to conform to that local law for a very small portion of our business.
+
+Participant 5: and they're gonna go off and do things, and they're gonna make sure that they're compliant with that privacy law. However.
+
+Participant 5: the rest of the [INSTITUTION] isn't learning.
+
+Participant 5: from how they approach solving for that law. And so it's a very isolated
+
+Participant 5: point solution that
+
+Participant 5: you know the [INSTITUTION] is not learning from
+
+Nikita: sounds like there's maybe not enough knowledge sharing. Is that correct?
+
+Participant 5: Yeah. Yeah. Because we allow local entity and their management structure. And then if we nominate a DPO, because it's required, and that DPO. and and it's gonna oversee solutioning to address the performance to that law.
+
+Nikita: Umhm.
+
+Participant 5: And so there's no like, okay, hey, what did we do over in this other country, you know, 2 years ago to address these same concerns? There's no like repeatability and scalability.
+
+Nikita: I see. And yeah, that makes all of sense. Let's so recapping what you said about the challenges. It sounds like, well, this is one of them right? Just sort of knowledge sharing, being able to learn from prior experiences what you said about being position in risk management, and maybe not always having the priority given to you and given to privacy challenges. Right?
+
+Nikita: And of course, as you said, with being in the financial sector, you're, of course, very concerned about regulation and how to innovate in that space? And so given this challenges that we spoke about just now. Could you tell me about the strategies that you used to overcome. these challenges.
+
+Participant 5: I think it's just beating the drum really, just constantly beating the drum.
+
+Participant 5: because right now the strategy is
+
+Participant 5: comply.
+
+Participant 5: That's it right, manage risk well, and and doing so.
+
+Participant 5: then drives us to comply with everything cause we we
+
+Participant 5: culturally believe that if we comply with the law. Then we are minimizing our risk.
+
+Participant 5: To the nth degree.
+
+Participant 5: So the strategy, I think. And I I'm starting to see it.
+
+Participant 5: With my boss is.
+
+Participant 5: you know, she's starting to see that we can't continue to operate and solution for every new law that comes out that we have to get to that kind of
+
+Participant 5: up
+
+Participant 5: principle based and design based off of those principles and forget about all the noise and each law that comes out
+
+Nikita:  and do you find it's working is it effective. You're, I guess, like, you know, trying to bring attention to these issues. Is this effective you would say?
+
+Participant 5: Yeah.
+
+Participant 5: yeah, II think, but it it's it's just gonna be a very slow and arduous process, because
+
+Participant 5: the culture is so compliant heavy that
+
+Participant 5: the way that the chief privacy officer is positioned in the [INSTITUTION].
+
+Participant 5:  she doesn't have a lot of sway, if you will, or flexibility to make some of these calls
+
+Participant 5: on her own that she has to go up through the Management risk committees at various levels all the way up to the top of the house to get approvals.
+
+Participant 5: which is, you know, that's a very slow process.
+
+Nikita: I can imagine. Yeah, it sounds like a slow process. Would you say you use any other approaches or strategies to overcome the challenges in your role?
+
+Participant 5:  yeah, II the strategy, I think, for us to get the most like instantaneous return on investment is
+
+Participant 5: to conduct the things in our remit, like the risk assessments and
+
+Participant 5: ensuring that it's scope properly
+
+Participant 5: with the intent of really affecting change.
+
+Participant 5: because that's the only way that our words are really heard in a in a in a, in a most expeditious way, is, do the risk assessment identify a root cause that's causing some some angst or real risk.
+
+Participant 5: and lay out some recommendations, because once we do that. the business in which we were investigating has to address.
+
+Participant 5: the concerns that we point out.
+
+Nikita:  Umhm sounds like, yeah, especially the the cultural shift seems like a very major point of your approach of trying to change
+
+Nikita: the way things are done. Would that be correct?
+
+Participant 5: Yeah.
+
+Nikita:  makes sense great well, let's I think this is a good point to switch to our next topic. We've been talking about the challenges you experience, the strategies that you take to tackle those challenges. And I know I want to actually talk about the impact of your work. Very broadly speaking.
+
+Nikita: so in the work that you do, how would you define success?
+
+Participant 5: I think for me, it's it's having, you know, my finger on the pulse of the tech business
+
+Participant 5: data management business and
+
+Participant 5:  seeing others
+
+Participant 5: in those businesses
+
+Participant 5: bring privacy concerns forward without
+
+Participant 5: us having to always inspire them to do so. So it's
+
+Participant 5: the training that goes out, the supplemental materials that we provide to them
+
+Participant 5: the upskilling of folks within the businesses that have been identified as our privacy champions
+
+Participant 5: in seeing them work through these privacy issues without having to call us up and risk management and say, What do I do? That to me is success.
+
+Nikita: I see. So kind of making
+
+Nikita: yeah, making those processes more independent, I guess and more autonomous. And and would you say that's the overarching goal of the work that you do?
+
+Participant 5: Yes. because the
+
+Participant 5: you know, the the the operational elements own the risk they have to, you know, mitigate the risk. And so, when they are
+
+Participant 5: cognizant and aware that oh, hey! Wait a minute. I am. I'm touching personal data here. So I got all these privacy concerns to think about. Let's let's address them.
+
+Participant 5: That's that's
+
+Participant 5: that's success.
+
+Nikita: Yeah. And I guess.
+
+Nikita: looking at this a bit more from a higher level. If you were to manage, you know, to get the operational team more autonomous, what would be
+
+Nikita: like the end goal, I guess. How would you define the end goal for the role that you have?
+
+Participant 5: I think it would be the number and frequency of these, you know. random issues that we see, or even issues that keep repeating themselves
+
+Participant 5: like the fact that you know the business just can't get their privacy notice right? When
+
+Participant 5: like, can we stop worrying about that like that's that's elementary stuff
+
+Nikita:  would you say that
+
+Nikita: other people would also agree with you that? This is something that's important.
+
+Participant 5: Yeah, yeah, I think I think all my colleagues would agree that some of these
+
+Participant 5: elementary privacy tasks
+
+Participant 5: the less we deal with them the better. And so we could focus on. You know what I would call the real. The real win is. you know, embedding privacy
+
+Participant 5: in the beginning and consistently and repeatable
+
+Participant 5: as we build
+
+Participant 5: the stuff that all of our customers are touching, which is the technology, how they interact with the [INSTITUTION]?
+
+Nikita: Umhm.
+
+Participant 5: because, you know, we're, we're worried about all these kind of compliance things like, do we have a notice? And it's like, Okay, these are all like what I call another colloquial phrase, lipstick on the pig. Right? We look good.
+
+Participant 5: But all we really get in the middle.
+
+Nikita: So maybe, generally speaking, what I hear is some people like you said your colleagues would also agree with you that
+
+Nikita: just compliance, or those small things are not important. But some might say that
+
+Nikita: you know you're successful. Only if you're
+
+Nikita: focusing on those random small issues where you're saying that well, actually, we need to go beyond that. Is that correct? As well?
+
+Participant 5: Yeah, yeah. And and that's where I think this all falls into the the realm of, you know privacy, engineering, and privacy by design really doing really, really doing it?
+
+Nikita: What are some sort of metrics would you use to evaluate whether you're reaching this goal?
+
+Participant 5: For me. It's number of material tech change projects that that myself and our my team are involved in.
+
+Participant 5: that. II think if if we can see some acceleration and increase in numbers
+
+Participant 5: and to me that's that's success in terms of you know perfecting what's in the middle the actual processing
+
+Nikita: great? Well, we're actually at the end of our interview so this is great so as we close i'd like to ask you 2 things. So first of all.
+
+Nikita: if there's anything else that you haven't had a chance to mention, or you would like to share with us, or you think we should know?
+
+Participant 5: No. I appreciate it.
+
+Nikita: And then, do you have yeah, any questions for us?
+
+Participant 5: Yeah. So
+
+Participant 5: the consent form, I
+
+Participant 5: read that you guys are gonna be compiling, you know, a final product at some point. what? What's the goal? Is it just to really kind of take a health check of the
+
+Participant 5: privacy engineering profession. You know, you're gonna slice and dice the data by industries and
+
+Participant 5:  skill levels and backgrounds and all that
+
+Nikita: that's a great question. Well, the goal is right now, trying to really demestify the role of a privacy engineer and really trying to get more clarity on what privacy zoom is, because, having spoken to quite a few people, I think there is still
+
+Nikita: misunderstandings around what exactly privacy engineering entails. So we want to actually hear from people who work in those roles, and at the end we want to compile together. You know the challenges that this professionals face, how they approach those challenges, and whether we, as a community, can help in any way. We we probably won't have
+
+Nikita: that many participants to be able to say confidently, on an industry basis, right? Because we might not have a lot of people in all of the different industries. But I think we'll be able to hopefully say something about you know the privacy engineering more generally as a profession.
+
+Participant 5: Okay? Yeah. Yeah. Cause my, my, my gut tells me that.
+
+Participant 5: You may talk to more people kind of like me than people that are actually, you know, working in the devops, pipeline.
+
+Nikita: III think that's okay? Because II think that's what we want to see. We want to see
+
+Nikita: Who? Who would be the one to respond to a request for interview with the title Privacy, Engineering, right? And we want to see how people see themselves in this case. So II think this was super useful. And yeah, II hope that the questions were also relevant, because, you know, this is like the challenge of trying to tailor the questions to a broad audience. So yeah, thanks so much for answering them very clearly.
+
+Participant 5: Yeah, it it. It was good for me, because, you know, I'm aspiring to be more
+
+Participant 5: of a privacy engineer, and I know that, you know there's quite a ways to go. But
+
+Nikita: at least I'm charged with developing the capacity at the [INSTITUTION]. So hopefully by that, I will become one myself. Okay, yeah, that's a that's a great goal to have. Yeah, I think that's a great time to also be really going into privacy engineering? Well, well, thanks again, thought. And as yeah, as you mentioned, we can, you can expect to hear from us when the study is complete, we'll share the results. So you can also take a look
+
+Nikita: and thanks so much for speaking with me today.
+
+Participant 5: Hey? Hey? Thanks for the opportunity, and y'all have a great day.
+
+Nikita: Thanks, take care, bye.

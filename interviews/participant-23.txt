@@ -1,0 +1,861 @@
+Nikita: And now that the recorder is on, could you repeat that you consent to being recorded? 
+
+Participant 23: Yes, I consent to being recorded.
+
+Nikita: great. So I'm also glad to tell you that your identity and anything you share with us will be kept confidential, and will only be heard and read by the researchers in our study. Of course, please know that this interview uses had to be a conversation, so there are no right or wrong answers, and, as I said, you can skip the interview, skip any question, or pause the interview at any point, so do you have any questions before we begin?
+
+Nikita: No, I don't think so. Okay, great. Well, we have 6 different topics that we will cover today. And I'd like to start by just asking you a few general questions about your work, so could you tell me briefly about what you do in your work?
+
+Participant 23: Sure. So I am a senior privacy engineer. I
+
+Participant 23: lead the scoping. And
+
+Participant 23: I guess the the overall. Sorry I don't usually talk about my job with folks outside the company. And yeah, so it's trying to figure out what I'm allowed to say and what I'm not. There are areas of strategic importance and privacy of my company. And so I
+
+Participant 23: conduct some privacy reviews where I do kind of the end to end privacy, consulting for projects. You know, embedding on product teams giving advice, running office hours, things like that. I also do more of the strategic direction recently. So things like, how do we want to respond to upcoming
+
+Participant 23: regulatory requirements, or what are new and emerging privacy threats that the company should be paying attention to. And then yeah, making sure that everyone at the company is prepared to handle those compliant, and with, you know, respect for users.
+
+Nikita: Nice? Very well, said could you also define the term privacy as you normally use in your work. Context.
+
+Participant 23: Yeah, I usually use it to mean boundaries of information between people and organizations or other people, but it it always has to have, you know, a person involved for it to be privacy. And then, you know some other entity. I will say. The company that I work for is.
+
+Participant 23: I think, moving in a direction where it's more focused on privacy, meaning compliance with regulatory requirements. And I imagine this will come up later. But yeah, where? Where privacy really means like, avoid a gigantic fine for doing a thing that a government says we're not allowed to do.
+
+Nikita: I see, I see, makes sense. I see the distinction there as well, and you mentioned that your role is a senior privacy engineer. Could you also describe the roles in industry, generally speaking, that are related to privacy, engineering.
+
+Participant 23: and, like other kinds of roles like software roles. Or right, yeah, like, what will you say that our roles are that are related to privacy engineering?
+
+Participant 23: Yeah, the roles that I work most frequently with would be program managers who help us, you know, set up and maintain programs that, you know, ensure and track privacy goals across projects in the company.
+
+Participant 23: lawyers. So you know, folks who are directly responsible for translating regulatory requirements into, you know, risk assessments.
+
+Participant 23: I work a lot with software engineers who actually, you know, implement whatever changes into a product or tool
+
+Participant 23: product managers who set the roadmaps and prioritize privacy improvements. And then I work a lot because my background is in user research. So I work a lot with user researchers and user designers to make sure that everything that's user facing is doing is doing everything that we wanted to. Just like everything on the backend does.
+
+Nikita: Umhm.
+
+Nikita: yeah. Sounds like there's quite few roles. With the different people you're working with. W. How would you define a privacy engineer?
+
+Participant 23:  to me
+
+Participant 23: a privacy engineer is a. you know it. It's a professional role. So like II usually think about it as
+
+Participant 23: you're doing something that makes privacy better in some kind of, you know, technology or process or system?
+
+Participant 23: so yeah, it's a bit broad, like, I've I've done privacy engineering work where I did not look at a line of code where I did not talk to a person who was working on code but that what I did was was essential for making a change that improves privacy. So that really is how I define it. Like, if I'm if I'm doing something that makes
+
+Participant 23: people
+
+Participant 23: that that makes people's, you know their boundaries for how their data is accessed, used, stored, collected, etc. If those boundaries are being respected. Then I'm doing my job as a privacy engineer
+
+Nikita: Umhm and I mentioned previously that you work with quite a lot of different people on different roles, and that. you know, privacy engineering can be hard to define. Would you say those other walls would count as a privacy engineer or or not really like? What's your opinion on that?
+
+Participant 23: Some of them. II would say some of them would definitely qualify like they would be able to move into a privacy engineer role if they wanted to
+
+Participant 23:  I think I was on the tail end extreme like I've I've only had the title of Privacy Engineer for
+
+Participant 23: formally about [few] years now. But before that I was doing a lot of work that privacy engineers considered privacy engineering. And so I think I see more of that, because I've been like I, I've made that shift myself. And so yeah.
+
+Participant 23: I see a lot of
+
+Participant 23: designers doing privacy engineering work. I see a lot of software engineers doing privacy engineering work, and also program managers, and my company in particular, like, I don't know how it works at other companies with this, but a lot of the privacy reviews can be conducted by a program manager the same way they would be by a privacy engineer who has the title
+
+Nikita: Umhm. It does seem to be a live with your definition. Where you said that you know anyone who is making privacy better right could be could be potentially a privacy engineer, right? Is that is that correct? My understanding? Yeah.
+
+Nikita: Umhm, okay? And I think that's that's my very self serving definition having come from another non privacy field into it that I'm like, oh, yeah, it should be expansive and cover everyone who does anything. But
+
+Nikita: yeah, no, that's perfect. We want to hear your thoughts. So that's amazing great. So I'd like to move on and talk more about your career journey. And so could you tell me, how did you become interested in privacy engineering as a career.
+
+Participant 23: Sure. I signed up for an internship that was not privacy related at all, and right. Before it started the project was changed and was gonna have a big privacy focus. And I was nervous and started to do some reading on privacy, and found that the more I read, the more I was just.
+
+Participant 23: It felt like it was exactly in line with my values. It was exactly in line with how I like to work with other people. And so, yeah, then, even though I was still a researcher at that point, I kept seeking out, you know, roles on privacy teams or you know, if there was an opportunity to write a privacy documentation, I would, you know, jump at the chance to do that. And
+
+Participant 23: yeah. Then.
+
+Participant 23: just from having worked with a lot of those folks, I started to talk to people about. Okay, well, you know, what was your background. And how did you get into privacy engineering and found that a lot of those people didn't come from like.
+
+Participant 23: you know, a Cmu, or like a strong usable security or privacy background. They just, you know, they used to be a lawyer, and they cared about privacy. And then they they made this switch into privacy engineering? And so I think because it was this kind of expansive like.
+
+Participant 23: if you can help us with the mission, then we want to have you here? Yeah, it just it felt like it was both a fit for, you know, working with people who are all working on a shared mission.
+
+Participant 23: it, you know, accepted and respected my, my research background and said, Oh, this is a way we can get data to make better privacy engineering decisions. yeah, it was just it just felt like a lot of things kinda
+
+Participant 23: kept pushing me towards this as a potential path.
+
+Nikita: And what motivates you to continue pursue privacy engineering as part of your profession. Is it more of the same, or is there anything else that you've kind of discovered for yourself?
+
+Participant 23: I did start to get a bit disillusioned with my previous role scope.
+
+Participant 23: the team that I was on had a pretty big focus on like, let's just put out a bunch of white papers and then never actually bring them through to implementation. So at that point I said, Okay, well, I wanna actually see
+
+Participant 23: changes happening in the organization based on the work that we're doing. And privacy engineering
+
+Participant 23: at that point was the only place at the company. So my company has a required
+
+Participant 23: like launch review process.
+
+Participant 23: every
+
+Participant 23: launch. Approval can be optional except privy privacy, has to be
+
+Participant 23: formally, affirmatively approved for every single launch, and so, having that stick means privacy gets heard in every launch. And that was attractive to me, even though it feels kind of authoritarian, I wanted it to be where I could. I could be in there and effect more decisions and they kind of had to listen
+
+Nikita: I know you mentioned that. There was something about your values. Also, lining with the computer of privacy engineering, could you talk more about that by the way.
+
+Participant 23: yeah,
+
+Participant 23: I come from a psychology background. I got involved in a lot of like research ethics, kinds of things like Irb type things. And
+
+Participant 23: saw a bunch of studies where II thought people's data were not handled in ways that I was comfortable with, and that, I think.
+
+really struck me as like.
+
+Participant 23: You only hear that story. If you're in the organization that's doing it. Otherwise, if you're outside, you only hear, you know
+
+Participant 23: the final paper or the press release, or whatever and it felt like, you know, there are a lot of people who shouldn't have to pay attention to this as a full time job to make sure that that their data safe to make sure that they don't
+
+Participant 23: get hurt in ways that are tough to recover from.
+
+Participant 23: So yeah, I've I think you know, I've always cared a lot about protecting people from bad things that could happen.
+
+Participant 23: and
+
+Participant 23: yeah, II think, especially the internship that I had. I had a project where I spoke with a lot of people who had experienced really serious privacy, breaches, and kind of life altering
+
+Participant 23: consequences of those. And it just it felt like.
+
+Participant 23: you know, I care about taking care of people, about protecting people from bad things that could happen. About making it impossible for a type of bad thing to happen like that. That's what really.
+
+Participant 23: that's like. My favorite thing in the world is like that bad thing just can't happen anymore. It's just it's impossible. Like, that's the best feeling in the world to me.
+
+Nikita: That's amazing. Yeah. You said that one of the goals you have is making sure that privacy gets heard in your organization. Would you say there are any other personal goals you have for this work.
+
+Participant 23:  job. Security is important to me. stability is important to me.
+
+Participant 23: inclusion. A. A work is important to me. I'm [MEMBER OF SPECIFIC GROUP], and it can be
+
+Participant 23: risky putting that out there to people. Privacy engineering happens to be a field where I've met more people who [MEMBER OF SPECIFIC GROUP]. And so yeah, in that sense, it's also a place where I can
+
+Participant 23: be more of myself. And
+
+Participant 23: yeah, I'll say, like interpersonally, it's nice to have a more like diverse and inclusive work. Environment
+
+Nikita: makes all sense. Yeah, thanks for sharing that. By the way, I want to ask you a question about the future. Let's say a year from now. Do you see yourself being in the same position? And I guess, specifically doing what it is that you currently do as opposed to just having the same title. Let's say.
+
+Participant 23: no, I hope not.
+
+Participant 23:  yeah. II really liked the role that I was in. It has changed drastically in the last year. They're very excited about having me in it. But I'm hoping to get back to more what I was doing like a year ago.
+
+Nikita: and that was sorry. The year ago you were doing more of what if you could?
+
+Participant 23: Privacy in my company used to be more organized into
+
+Participant 23: There were some vertical privacy groups where it took care of a specific part of the company, and then there were, there were horizontal groups that kind of worked across boundaries. I was on a horizontal group, and most of those horizontal groups have at this point been
+
+Participant 23: turned into vertical groups. And so there's some fragmentation that's happening. Just increase coordination costs across, you know, 40 plus groups doing similar work. And so I'd really like to find a way to make more of a horizontal role. Where? It's not just this like
+
+Nikita: siloed. I only get to see this one thing that I that I work on. Yeah, makes sense. That may. Yeah, very well, said, let's move on to our next topic. Because we also want to talk about your day to day responsibilities. So could you give me an idea of what a typical day at work looks like for you.
+
+Participant 23: Yeah.
+
+Participant 23: so there are kind of 2 types of typical days. There are days where it's chock full of meetings, and there are days where I get a lot of heads down time to work.
+
+Participant 23: On a meeting day. I'm I'm pretty much like back to back.
+
+Participant 23: I might have
+
+Participant 23: 7 to 10 half hour meetings in a day. Usually with mostly non overlapping groups of people. And then so that'll be a mix of like meeting with leads on teams and working group members and you know, people who are actually doing the work that's like the
+
+Participant 23: the proactive work that we're doing. So you know, what have we said? These are our goals for the year. How do we make progress on those? It is a lot of meetings.
+
+Participant 23: and those meetings are usually to come to consensus about
+
+Participant 23: strategy decisions or to assign the work that we're going to do on heads down days.
+
+Participant 23:  and then there's also a a big chunk of work that's reactive. So the reactive work will be a senior director or a Vp at the company. Has a pet project, and they reach out because they know that I have expertise in an area, and they say, you know this is currently blocked by not having any kind of privacy. Review. Can you please take a look and flag? If there's anything that you'd say, is a show stopper or red flag here?
+
+Participant 23: And then, you know, I'm meeting with people or writing up a a quick doc or something.
+
+Participant 23: yeah, I would say, a pretty typical day is like
+
+Participant 23: 4 or so meetings that are just the strategy and coordination stuff. And then like 2 or 3 things that are the reactive work.
+
+Participant 23: a lot of email, a lot of redirecting people to the right group. Because again, privacy and my company's getting increasingly fragmented so where it used to be that I was the one person for the whole topic. Now it's split up across so many areas.
+
+Participant 23: yeah, and then on heads down days. It's more of the intellectual work. So trying to, you know. Write up a dock on privacy, considerations, and mitigations, or trying to come up with, you know, how do we get people to?
+
+Participant 23: How do we make it easier for people to implement something by writing a repeatable pattern for them? Or how do we write up anti-patterns? And, you know, get them out there to people that sort of thing.
+
+Nikita: Umhm, that's very interesting. Would you say that those are the same responsibilities that your employer expects you to take on at work.
+
+Participant 23: I would say. Probably like 80% of it is I think,
+
+Participant 23: some of the reactive work that I do is carry over from previous roles that I've had
+
+Participant 23: and
+
+Participant 23: I love doing that. And the company has made it clear that they don't value it because they shut down the team that did that. So
+
+Participant 23: yeah, I would say that 20%.
+
+Participant 23:  the company. I don't think wishes II were doing that.
+
+Nikita: Umhm understood what? So this last question I would like to ask you to differentiate between what you do for work and the things you do outside of your work professionally. Would you say there are any additional responsibilities you feel you're expected to take on in your role such as to society, maybe others in the organization, maybe even yourself.
+
+Participant 23: Hmm!
+
+Participant 23: When you say expected to take on like things that
+
+Participant 23: aren't a formal part of my role, but that
+
+Participant 23: I treat it as a responsibility or someone else treats it. Yeah.
+
+Participant 23: yeah, I treat it as my responsibility to help mentor new employees to
+
+Participant 23: normalize a lot of the
+
+Participant 23: difficulties that people can have when they're in this, you know privacy.
+
+Participant 23: When privacy isn't embedded within a team, it can end up in an oppositional sort of relationship. And if people don't talk about that, then you can feel like you're the only person experiencing that. Or you know that people would talk about if it was a big deal. And so
+
+Participant 23: yeah, I think that's a big part of it is newer members of the team, or just newer folks in general. A little bit of, I'd say informal mentorship.
+
+Participant 23:  a lot of my colleagues get called on to do
+
+Participant 23: interviews for job candidates. I don't get those I'm signed up to, but II don't. It's a thing that they mentioned is like, Oh, we're trying to get everyone to 100 opted in to interview candidates. I am technically opted in. But II just don't get caught on to do those, for whatever reason.
+
+Participant 23: Umhm,
+
+Participant 23: I would say. My own expectation is that if somebody reaches out to me for
+
+Participant 23: for help. That I should make a best effort to help them. Even if it's just finding the the right person to help them.
+
+Participant 23:
+
+Nikita: yeah. Well, what about outside of the company? Maybe you do any volunteering, for example?
+
+Participant 23: Yeah, I do. I do some volunteer work for [ORGANIZATIONS].
+
+Participant 23: And also a little bit of stuff with like local libraries.
+
+Participant 23: there are some programs where they just want you to like transcribe Youtube videos that they make and things like that. yeah.
+
+Nikita: yeah, is, is it also related to privacy by any way or or not, really
+
+Participant 23: tangentially, you know. Sometimes I'll write up a doc
+
+Participant 23: about you know how to
+
+Participant 23: handle [REDACTED], and it's handy that I you know, know some of the patterns for how to handle that.
+
+Participant 23: Umhm. But, I don't seek out opportunities that are related to my day job.
+
+Participant 23: it's more based on the the topic that I care about
+
+Nikita: makes a lot of sense. Yeah, thanks for sharing that. Let's also talk about your skill set. So what skills were demanded of you when you started your current role?
+
+Participant 23: I would say, the biggest one is issue spotting.
+
+Participant 23: So yeah, so you know privacy reviews when I was hired as a privacy, or when I you know, it was called a role alignment. It was saying I had already been doing this other role? They did that on the basis of I conducted, you know.
+
+Participant 23: several dozen privacy reviews and those privacy reviews are mostly about reviewing documentation.
+
+Participant 23: you know, recognizing, recognizing anti-patterns knowing, you know.
+
+Participant 23: privacy by design so that I could. You know.
+
+Participant 23: there's this big push to like shift left privacy in the development process. So, yeah, just trying to. Yeah. So I would say, issue spotting being able to review documentation, having enough kind of technical fluency to review like system architecture and to be able to review code to just ensure that what people say and documentation is actually happening.
+
+Participant 23: and then there are a lot of soft skills, too. You know, we had to run office hours. And so there's kind of a customer service mentality there? A. How do we? How do we get people to the yes.
+
+Participant 23: that we want them to have rather than saying no to people.
+
+Participant 23: Yeah, th, those are, I think, the biggest skills that they looked for. They also do care at my company about the the quality of documentation.
+
+Participant 23: So yeah, there was a lot less in terms of like they didn't care how familiar I was with regulations, with really the legal side of things, they said, we have lawyers for that. You are here for privacy. You need to work with lawyers.
+
+Participant 23: People will ask you to be a lawyer. You are not a lawyer. Never try to be a lawyer.
+
+Nikita: I see, I see. And when you were talking about in the beginning, spotting issues, is that something related to privacy, threat, modeling, or or do you see those as a bit distinct activities?
+
+Participant 23: I think privacy threat modeling to me is a subset of issue spotting. I think. You know, there are lots of different frameworks and risk assessment methods that different privacy engineers use. There's also kind of a a gut feeling of like
+
+Participant 23:  this is or isn't consistent with users. Expectations it
+
+Participant 23: a gut feeling. Really there is is my saying, from doing privacy, research, and from seeing the reactions of users and and regulators to different kinds of
+
+Participant 23: implementations of privacy features. you do develop a sense, for this will fly, and this won't
+
+Participant 23: But yeah, I do feel like a lot of the frameworks are more used for how I frame these things to demonstrate authority to
+
+Participant 23: client teams. Then I would say, it is about these
+
+Participant 23: explicitly help me find issues.
+
+Nikita: Umhm makes sense. I just wanted to quickly ask you, because one thing was interesting as you mentioned how you know your employer saw you, how you should not be thinking about the legal stuff. Would you say that
+
+Nikita: that has changed, or do you feel you're currently using this same skill set as before?
+
+Participant 23: There.
+
+Participant 23: I would say it's changed. Overall privacy.
+
+Participant 23: Engineering in my company to me, feels like it has moved from
+
+Participant 23: privacy, has a
+
+Participant 23: as a value to
+
+Participant 23: privacy, as a a
+
+Participant 23: privacy, as a compliance focused a
+
+Participant 23: way to reduce astronomical finds.
+
+Participant 23: Yeah. So my role feels increasingly like it's being pushed from privacy engineer to compliance engineer.
+
+Nikita: do you feel that sort of cultural shift is mainly a result of increasing regulatory penalties, or maybe you have some other insight into it.
+
+Participant 23:  this is a I don't need to stop recording but this is a I need to be careful what I say.
+
+Participant 23: yeah. The
+
+Participant 23: there are increasing regulations and the fines. Anytime. Something is a percent fine. like, you know.
+
+Participant 23: or per cent of global revenue. You know. Gdpr fines, DMA. Fines. These are things that
+
+Participant 23: the company takes extremely seriously.
+
+Participant 23:  but I do also think there's a shift at the company towards increasing independence of each of the
+
+Participant 23: big products that the company has. So rather than it being, we have one central organization for privacy that ensures consistency across all the different products at the company. It is let's have more of that embedded relationship where each product area is responsible for
+
+Participant 23: its own privacy. Risk mitigations. Strategy.
+
+Participant 23: and yeah, much less of a coordinated effort.
+
+Nikita: I see, I see, very interesting. Thank you for sharing that. There's also very good segments in our next topic. Because I also want to talk about reporting and deliverables that you have in your work? Could you tell me? Who do you report to? And if anyone reports to you?
+
+Participant 23: I report to a privacy engineer.
+
+Participant 23: I do not have any direct reports.
+
+Nikita: Gotcha gotcha! And what are the typical reporting structures that you see in your profession?
+
+Participant 23: Something like a an individual contributor. Privacy engineer will usually report to
+
+Participant 23: another privacy engineer, who is mostly a manager. Like most of their duties, are manager duties, not individual contributor work. Occasionally a a really senior person will report straight to a director or to a senior director. But usually it's privacy. Engineers, you know, maybe 5 to 10 of them reporting up to a privacy engineer manager and then a couple of privacy engineer managers reporting up to a director.
+
+Participant 23: A, you know. Couple of directors report into a senior director, and then Vice Presidents and Senior Vice Presidents and Ceos, and all that
+
+Nikita: makes sense, and I know you mentioned before. So just to come from my understanding when you report to others in terms of the methods that you use, it seems like it's mostly team meetings. But maybe there is anything else that you use to report to others in organization. Yeah, I write a lot of documents.
+
+Participant 23: some
+
+Participant 23: explicitly structured, like we have internal tools for privacy. And so sometimes it's
+
+Participant 23: a document in one of those tools. Sometimes it's like, you know, we're Doc or a Google Doc. Sometimes it's in
+
+Participant 23: a slide deck. Most of the deliverables. The higher up you go, the more it's like, Hey, write up the slide or 2 on privacy for this deck that this Vice President's going to review
+
+Participant 23:  But most of how I communicate with
+
+Participant 23: teams. Most of the deliverables. Deliverables for teams are either honestly, comments. And docs are a big one.
+
+Participant 23:  email, just as formal, you know, tracked documentation. Of, you know a decision or
+
+Participant 23: or a plan?
+
+Participant 23: And then yeah, slide decks more for formal presentations. Yep.
+
+Nikita: Umhm makes sense. Could you tell me more about the the tools for privacy that you were talking about. If there's anything else that you want to mention there.
+
+Participant 23: Yeah, there are a couple of main tools. One is
+
+Participant 23: the tool where the formal privacy documentation for each launch is kept. And so that has a bunch of structured.
+
+Participant 23: you know, multiple choice fields. It also has some open text fields. And it's where kind of all the documents are collected. All of the links are collected, and it goes through kind of a privacy by design cycle. So everything from collection to retention, deletion.
+
+Participant 23: There's also a tool that's used for
+
+Participant 23: triaging and assigning basically a tier of privacy, sensitivity.
+
+Participant 23:  and so that one is purely multiple choice questions.
+
+Participant 23: yeah, those. Those are the main 2 specialized tools for privacy. There are also things like, you know, tools used for contracts.
+
+Participant 23: and you know it. Yeah. Other.
+
+Participant 23: II worked in a subset of privacy where I was dealing with a certain type of data that we
+
+Participant 23: had to track separately from just kind of like user data at large. And so II did use a lot of like dashboards and
+
+Participant 23: sometimes just accessing data tables manually
+
+Nikita: makes sense. I know, previously mentioned that that launches are require an optional review apart from privacy, right? That Dan requires review. And maybe you could talk about any approval tools that you use that. How does that kind of work out in practice.
+
+Participant 23: Does that end up blocking launches, like, yeah, if you could talk about that, yeah. And II am leaving out some things that aren't like privacy specific here. But yes, there's also a launch tool. There's also a bug tracking tool and both of these are things that we frequently work with.
+
+Participant 23:  yeah. The launch tools?
+
+Participant 23: that's
+
+Participant 23: II mean, it's maybe like 1% of a privacy review was spent in the actual launch tool. It's much more diving into the documentation into data schemas, you know, proposed code changes things like that.
+
+Participant 23: And and then, you know. Also, like the bug tracking tools those are mostly just used to designate whose turn it is to do something on a privacy review. So you know, there will be a bug assigned for each privacy. Review and then we
+
+Participant 23: just assign the bug to whoever's turned it is to do the next thing
+
+Nikita: makes sense. I know you mentioned that you know your role requires a fair deal requires different deliverables, and maybe we can like talk a bit more about sort of the value or the importance that you assign to those deliverables.
+
+Can you tell me more about why you feel those Dover goals are important in your role.
+
+Participant 23: The.
+
+Participant 23: I would say, the most common deliverables that I work on are documents describing privacy, considerations, and potential mitigations. Those are used for, like the highest sensitivity,
+
+Participant 23: changes or launches or process things that we're gonna work on. And I
+
+Participant 23: I often insist on writing those, because it's a chance to get everybody involved like II don't treat escalations like that as
+
+Participant 23: this is me against the team. It's like all of us are gonna put all of the information from every perspective that we can come up with here. And then it's someone's decision to make that final call. We want them to have that all in one place. And so that's a very important thing. Like. As an example, there was a pretty much like 6 month back and forth with a team about a change that I
+
+Participant 23: was very concerned about. I have maybe 2 or 3 times a year that I have a thing where it's like line in the sand. This is my saying, this is not up to the standard that I can approve it. So this needs either like
+
+Participant 23: you know, someone to accept the risk or or that we need to
+
+Participant 23: say we're not doing it or we're not doing it now. And yeah, so there, you know, that was getting input from legal. It was getting input from the team that would have to build it. Input from some of the downstream teams that would need to use the data that was coming in. As well as one of the executive sponsors for that project. So yeah, those docs are extremely important, because for
+
+Participant 23: the biggest decisions that I'm weighing in on, that's how we get
+
+Participant 23:  someone to say, yes, I approve this or no, we're not gonna do it, or often we'll do this part. But we'll put in this mitigation. Then there are docs that are really to me. They feel like vanity docs, but it is a part of like
+
+Participant 23: demonstrating come performance, evaluation time that you have done like sufficient work compared to what they would expect. And so some of that is just
+
+Participant 23: having emails that you know, summarize things that I've done or writing documents that. Say, you know, here's how much time I spent on this thing. And here's what the tier was, and for the risk and and things like that.
+
+Participant 23: Yeah. And then the the slides that I contribute to decks or training decks that I put together.
+
+Participant 23: those, I would say, are
+
+Participant 23: those are things that I intend to be like durable and and kind of live on past the single decision that we're making and so those tend to get a lot of editing and a lot of off team review. So yeah, those also get a lot of work put into them.
+
+Nikita: Yeah. And that was interesting. How you mentioned that there are those vanity docs, as you said? And I guess that kind of leads to my next question about how your this deliverables are evaluated by your manager. Do you feel that it's kind of the same logic that you would apply, or something else?
+
+Participant 23: I've had 5 managers in the last 14 months.
+
+Participant 23: so I honestly can't tell you. My new manager, like my manager, has been my manager for about 2 weeks, so I can't tell you how my current manager would would view those. I will say
+
+Participant 23: the fact that I have
+
+Participant 23: documents seems to matter a lot to my managers, especially for context across multiple managers in one performance cycle.
+
+Participant 23: I think they care about the
+
+Participant 23: I think they. The thing that they care about the most is like, how reasonable do we sound like, do we sound like we're being too demanding? Do we sound like we're trying to
+
+Participant 23: the oppositional slow people down, you know, like we're mad at them like that does feel like it. It's mostly about how professionally do we get across the recommendations?
+
+Participant 23: If there is something like, you know, a formal sign off from an important person or
+
+Participant 23: a decision that was effected by
+
+Participant 23: by that dock. You know, being part of the decision making process that I kind of almost have to include as extra context outside of the dock itself.
+
+Participant 23: So yeah, it does just feel like a lot of it is kind of tone.
+
+Nikita:  makes sense. And I just have one last question here. The developers that you were talking about? Would you say those are typical or not typical for someone in your profession?
+
+Participant 23: I write more of those privacy considerations, docs, than most of my peers do?
+
+Participant 23:  And part of that is because the part of privacy that I work in
+
+Participant 23: has less
+
+Participant 23: policy. Currently so they
+
+Participant 23: do. You need to rely more on me to build the patterns.
+
+Participant 23: And so those docs have been very helpful for me to use this precedent for
+
+Participant 23: the next time that
+
+Participant 23: this particular type of thing comes up. slide decks are very common. Docs that describe, you know. Here's what we think should be in this policy are very common training decks are very common.
+
+Participant 23: Yeah, I think the privacy consideration stocks that's more idiosyncratic to
+
+Participant 23: to me. And what I figured out from working with these people on things like this.
+
+Nikita: Great. Yeah, let's move on to the next topic here. So I'd like to ask you, you know, thinking about your day to day work. If there are any tools, techniques or standards that create challenges for you.
+
+Participant 23:  hmm. tools, techniques or standards.
+
+Nikita: you can maybe also broadly, if you want to just talk about like just generally challenges that you experience. That's also fine. Maybe we can. You know, we'll find a way. I'll say privacy tooling at my company is
+
+Participant 23: completely stalled out like it is under invested in.
+
+Participant 23: And despite the fact that there are company level objectives that rely on our ability to improve those tools.
+
+Participant 23: we just th. They continue to deprioritize changes to shut off like intake for feature requests. Even bugs don't get acted on for a very long time.
+
+Participant 23: It's a and by very long time I mean.
+
+Participant 23: like 6 months to a year is very common. There are bugs that have been there for years.
+
+Participant 23:  not a lot of techniques. Standards, I would just say, like the
+
+Participant 23: the pace of the pace, but also non-specificity of regulations related to privacy recently, but also like competition, things like Dma
+
+Participant 23: This, the the halting, like the stop and start of like Dma is coming, and then, you know, we need to have everything in place by such and such date. And then, you know, if it's like.
+
+Participant 23: Cpr, then it's like, Okay, well, it's gonna get delayed and implementation twice a. And then, you know, so it's a bunch of false starts. And then people at the company just end up in kind of a security, fatigue, warning, fatigue, sort of place. So
+
+Participant 23: you know, I know that it's challenging to write these things right the first time and get them out the door. And
+
+Participant 23: you know.
+
+Participant 23: make sure that it's gonna be meaningful and not have a bunch of unintended effects.
+
+Participant 23: but everyone and my company is really tired of working on
+
+Participant 23: these mandates. They're unfunded mandates whenever it's from privacy pretty much so we're constantly having to make cases to organizations that don't want to have to care about this stuff like that. Here's the deadline that you cannot ignore. You must have this figured out by now
+
+Participant 23: and then. We come back a couple of months later and say, like, Oh, that deadline didn't actually happen. It got pushed back 6 months.
+
+Participant 23: But also there's additional work that you need to do now. And so yeah, we're losing trust with with a lot of the
+
+Participant 23: the big product teams. And and we
+
+Participant 23: we don't have an easy way to
+
+Participant 23: prove the value of the work that we do, because the only thing that we can say is like, we've prevented hypothetical harm. We've prevented hypothetical fines.
+
+Participant 23: And yeah, like. in the absence of more carrots.
+
+Participant 23: You know the the same stick that never actually gets used to hit anyone loses all of its power.
+
+Nikita: And do you think this challenges are typical or not typical for your profession
+
+Participant 23: in my company. It is very typical. I have a
+
+Participant 23: I have a strong network in my previous role at other companies, my network in my current role is pretty much just like a few people at different companies. So I couldn't say typical for the field. I can say typical for the field at my company.
+
+Nikita: Got it? Got it? Thanks. I think we spoke about this a bit before. But are there any challenges related to your organizational or reporting structures.
+
+Participant 23: Yes, privacy has been moved around several times. It used to be part of
+
+Participant 23: technical infrastructure, and then it was part of security, and then safety got lumped in.
+
+Participant 23: And now it's like separate from the trust org. But also trust is doing a lot of the big development work that affects privacy.
+
+Participant 23: And so what used to be a centralized privacy organization. That was, you know, the way that we make sure
+
+Participant 23: to be blunt, that we're not [COMPANY]
+
+Participant 23: that we don't have, like a different privacy stance. For
+
+Participant 23: like a
+
+Participant 23: 3 different boxes on the same page.
+
+Participant 23: you know, that doesn't exist anymore, like it's just it flat out does not exist. We? We are moving to a place where privacy is fragmented
+
+Participant 23: across every experience, and there's no coordination mechanism between each of the groups doing that. So
+
+Participant 23: yeah, like the
+
+Participant 23: the lay offs, I think, are also the other big elephant in the room that
+
+Participant 23: as
+
+Participant 23: head count is getting tighter, and as teams are having to justify their existing
+
+Participant 23: portfolio of projects. And and the people that are working on them. It is moving more towards, how do we prove
+
+Participant 23: like financial value to the company? And so it is just focusing on fewer and fewer efforts. Those are mostly related to AI and Llms
+
+Participant 23: and occasionally children's data or something else, makes the list. But it's really AI and Llms. And if you are not like in a role that pushes that work forward. That either proves you have improved the speed of a product team in a way that has measurable financial value, or that you are
+
+Participant 23: reducing our exposure to whatever the lawyers say are the biggest fines that the company currently cares about. Then you should expect that your work is going to be de prioritized. You should expect that your team is likely to experience layoffs.
+
+Participant 23: and yeah, just leadership overall feels extremely panicked.
+
+Participant 23: if you like. They are just hoping
+
+Participant 23: that we don't keep
+
+Participant 23: bleeding people, and that they can keep people caring about Dma and the EU AI act.
+
+Participant 23: yeah. that they that they can keep wielding these
+
+Participant 23: huge fines as like justification in every situation where there's a threat to them. And this happened with Gdpr. And people stopped caring about like Gdpr. Became business as usual. And so, you know, all of this is happening again. All of this will happen again. Except this time, at least, in my company.
+
+Participant 23: we've gotten rid of all of our
+
+Participant 23: like actual ability to coordinate strategy across the company.
+
+Nikita: Umhm. I imagine you'd say that this is a typical challenge for your company. But do you have any insight about your profession? More broadly speaking, do you feel? That's something that others might also experience?
+
+Participant 23: The push towards a I privacy is definitely across the field.
+
+Nikita:  yeah, II was also curious about you mentioned in the beginning, about how, in your conflicts the privacy is more decentralized, right? Or that's gonna like the move towards more decentralized I know if you have any insight about that in other organizations.
+
+Participant 23: I I've seen a couple of organizations that I know people at
+
+Participant 23: try to set up central, like, you know, privacy, data, protection office kind of thing.
+
+Participant 23: one of those efforts got like immediately shut down. And they like, let everyone go and then try to re hire them again like
+
+Participant 23: th. There's just weird stuff going on right now. It II don't get the sense that anybody is really setting up a centralized privacy team and keeping it that way.
+
+Nikita: Got it? Got it
+
+Nikita: great. So we spoke about challenges. Do you face you mentioned how privacy might be not prioritized enough. You also mentioned how it's very hard to get this by end. Given that privacy is very much spread around, and that maybe some of the topics are more framed in terms of compliance as opposed to actually substantive change. So could you tell me, maybe, about the challenges that you use to overcome
+
+Participant 23: this challenges? They're the strategies that you use to overcome these challenges. Yeah. One of those was getting promoted.
+
+Participant 23: I
+
+Participant 23: had always said that you know I work life balance was very important to me. I did not want to get promoted into a role that I couldn't handle. I cared more about being good at my job than about
+
+Participant 23: getting a job and constantly pushing and all that. That's just not my personality, but that if there was something I wanted to do that I cared about, and I couldn't do it on my current role. That's when I would consider promotion. And I did see that more of those strategy roles were starting to be for Senior level and up. And I did want user focused privacy, like user centered design database decisions. I wanted those to be foundations of how we made privacy strategy
+
+Participant 23: in my org. And so
+
+Participant 23: going for a promotion was one way that I
+
+Participant 23:  you know. Yeah, they they say the level doesn't matter, but it definitely does. And a as soon as I was promoted I was immediately put in charge of scoping like the 2024 strategy for this topic area that I work in. So
+
+Participant 23: that's one big strategy. The other one is having allies across
+
+Participant 23: like cross functionally. So you know, I have very good relationships with folks in legal, and if you have legal and privacy, both telling you the same thing, you know, with different bad things that could happen if you don't listen, and that gets listened to more
+
+Participant 23: but also, you know, I try really hard to
+
+Participant 23: show people the value of working with me early on and of, you know, taking these things seriously when it comes to overall strategy and roadmap rather than
+
+Participant 23: we're gonna block you right when you're just about to launch So yeah, like.
+
+Participant 23: kind of training teams on how to work well with privacy. That's worked very well for me, like literally putting together slide decks, presenting it to the leads of teams and saying, like everyone on your team should know you've got these office hours. You can file consultations with us. You know you can share any docus with us, and we'll we'll comment it up. And this is how you get us to like. Have a 5Â s privacy review at the end of the project.
+
+Participant 23: and those have been really helpful. The other big one is data.
+
+Participant 23: You know, having metrics on how many reviews we're conducting? How long each one takes, having different, like categories of review and
+
+Participant 23: I will say II keep trying to throw in more like actual risk modeling. And
+
+Participant 23: the only thing that's really stuck is just a return on investment framing like for every dollar that we put into implementing, you know, a changed access control here, and this is going to reduce over the next, you know, 10 years, like.
+
+Participant 23: basically, how many more software, engineers, can you hire if you do this thing now like
+
+Participant 23: yeah
+
+Nikita: sounds like, yeah, broadly speaking, some of the strategies you have is, as you said, getting promoted, increasing the voice. Right? Make making yourself heard, but also having Allies cross functionally, and also sort of like using deep in metrics to guide your decision making. Is there anything else? Maybe I'm missing something here. Yeah. 2 things that I'd say, one is the relationships with user researchers is especially important because
+
+Participant 23: they're the ones collecting most of the data on user needs. And if they care about privacy when they're putting together their study, then we're gonna get great data back on what are the actual privacy concerns here. And so like, user acceptance testing doesn't just become about. You know how slow is the interface or how blue is this button? But it's also like.
+
+Participant 23: did the terms and conditions, you know, lead people to just be staring there for for longer than we're comfortable with.
+
+Participant 23: yeah. So that working with user research both as stakeholders and as consumers of their research. The other one is
+
+Participant 23: framing
+
+Participant 23: like the soft skills kinda negotiation sort of things.
+
+Participant 23: Every team that works on something has some kind of aspirational goal. There's something they're trying to do to help people to build something useful and knowing what that goal is and being able to appeal to like the aspirational identity of the team. You know.
+
+Participant 23: you are a team that is working on photos. You're doing this because you want people to like, have those treasured memories and and trust that you know those are only going to be shared with who they wanted to, you know, anytime you can frame things in that way that just like kind of tugs at heart strings a little bit. It's an easier way to get the user needs in the picture. Because, yeah, it ties it back to
+
+Participant 23: yeah. Oh, and and kind of one way that those last 2 come together is critical user journeys.
+
+Participant 23: So instrumental critical user journeys where we can say, here's the user goal. Here's the privacy component of it. And here's how we measure whether we are successful in meeting that need or achieving that goal. Measure progress towards it. Yeah.
+
+Nikita: Gotcha, are there any strategies that you find not to be very effective or least effective out of the ones that you mentioned. I know you mentioned risk modeling something you want to introduce. But maybe that's kind of something that doesn't really stick right now. But maybe there's anything else
+
+Participant 23: saying, no
+
+Participant 23: signal is not effective. Or or would you mean? Yeah, saying, no is is not effective.
+
+Participant 23: If you tell people no.
+
+Participant 23: they will go around you.
+
+Participant 23: You know, every time that I get asked, is this a launch blocker?
+
+Participant 23: Something has gone wrong in this process that they're trying to view? They're viewing me as the obstacle to them, getting their thing out into the world instead of like, Hey, I am here to help you prevent all the rework, all of the bad. You know. New York Times articles. You know you can prevent all of that with like
+
+Participant 23: a day of extra work right now.
+
+Participant 23:  yeah. So anytime, you say, no, anytime, you say, this is a launch block, or you are putting yourself in an oppositional place to that team and they are never gonna want to come to you unless they have to.
+
+Participant 23: Yeah, that's just the number one don't do the other thing would be
+
+Participant 23: taking on the burden of covering for deficiencies and tooling. Because I do think part of why the tooling
+
+Participant 23: issues in our company have not been addressed is that people just paper over them by walking people through workarounds. You know it is. It has not been damaging enough to the company yet to invest in it.
+
+Participant 23: And that takes a lot of time away from other things that we
+
+Participant 23: should be doing.
+
+Participant 23: And yeah, it just it
+
+Participant 23: ends up with the tools being deprioritized. So yeah.
+
+Nikita: makes sense. Yeah, thanks for sharing. That's very insightful. We have a almost at the end of the interview. You just have a few questions here, so we just wanted to have extra time. If if
+
+Nikita: great. Yeah, just wanted to make sure, we also respect your time. But yeah, we want to talk about also the impact of your work. Broadly speaking, so, yeah, how would you define success in the work that you do? And what do you think the overarching goal is
+
+Participant 23:  I have. I have a very real answer, and I have a very cynical answer, and I'll give you both of them. The very real answer is,
+
+Participant 23: people to
+
+Participant 23: have their boundaries respected.
+
+Participant 23: to be empowered, to make decisions about their data.
+
+Participant 23: to feel
+
+Participant 23: respected, and to feel empowered. And I think those 2 are very different. There are times when
+
+Participant 23: our company does a really good job of protecting people, and a really bad job of making them feel safe.
+
+Participant 23: and vice versa. There are times where all we care about is looking like we are keeping people safe, and I don't think we are
+
+Participant 23:  the the other. There is this kind of gut sense of
+
+Participant 23: are we winning more than we're losing
+
+Participant 23: and
+
+Participant 23: if I had to operationalize that, it's like. Am I spending more of my time
+
+Participant 23: just in that reactive mode of like, how do I? How do I keep the worst things from happening here? Because they're going to happen if we don't make a change.
+
+Participant 23: And some of it's changing hearts and minds. Some of it is, you know, hearing things that I've said about privacy
+
+Participant 23: quoted back to me in a different meeting not attributed to me just like, oh, that that thing that I said, you know, seemed to make a difference in that or
+
+Participant 23: yeah, those are those are things I consider
+
+Participant 23: the real successes. Yeah, it's like, Do I feel like people are protected and respected, and that they feel both of those things too.
+
+Participant 23: The cynical answer is,
+
+Participant 23: I really think that the challenges with AI and privacy
+
+Participant 23: are
+
+Participant 23: so not covered sufficiently by regulation, so not covered sufficiently by ethics.
+
+Participant 23: Groups that companies are setting up, you know. within themselves. You know, at their own volition and touting, but not actually running a lot of things through
+
+Participant 23: and so sometimes it does feel like success, for my role is slowing down
+
+Participant 23: the bad things that our company is going to inflict upon the world. Until
+
+Participant 23: we've got a better plan. We've got a better strategy. We've got a better policy. We have a policy.
+
+Participant 23: The more policy work I do. It's just like
+
+Participant 23: success is getting things into policy. But success is also like recognizing the things. We're never going to get into policy and figuring out, okay, how do we still handle this? If it's not going to be in a policy.
+
+Nikita: don't you think potters evaluate the impact on your work?
+
+Participant 23: Sorry? How do I think others evaluate the impact of their work? Yeah,
+
+Participant 23: I know how non managers have evaluated the impact of my work, which I think is very similar
+
+Participant 23: to
+
+Participant 23: how to the success things that I mentioned.
+
+Participant 23:  You know, people that I work directly with my peers. Care a lot about setting good precedent.
+
+Participant 23: and when they hear that you have a really good privacy outcome with a team, it's as much about like. Oh, that's great that they're gonna handle that in a better way, as it is like. Oh, my gosh! The next 3 things we have like that will be able to like, actually point to it and say, this team did it. We can rely on that as precedent like that's huge for them.
+
+Participant 23: So I do think the more that my work sets good precedent for them.
+
+Participant 23: and helps them kind of reach their aspirational identities for what they want to do in privacy. Then that's the big part of how my peers evaluate it. Managers!
+
+Participant 23: I do think it's strictly about. What are the listed like objectives for our organization? And did we meet those 100%?
+
+Nikita: Hmm.
+
+Nikita: do you think there are any other? Maybe metrics that managers use to evaluate the impact of your work.
+
+Participant 23: If I give them a metric, it does seem like they
+
+Participant 23: share it.
+
+Participant 23: So if I show them this is how many reviews we did for this organization, or you know, this is the number of escalations that we had where we, you know, got to a privacy. Happy outcome.
+
+Participant 23: that gets shared around.
+
+Participant 23:  The other thing they care about is our company has peer bonuses and manager bonuses, and those are usually sent out as kind of acknowledge official acknowledgment that your work was valuable to someone outside your team, and I do rely on those pretty heavily as like
+
+Participant 23: our internal.
+
+Participant 23: like, the centralized privacy group is really just so focused on
+
+Participant 23: like, the one problem of Dma and incoming regulations. So, yeah, being able to show that like
+
+Participant 23: important people elsewhere in the company.
+
+Participant 23: found my work to help their work.
+
+Participant 23: Yeah, that that is also a thing they've used in evaluating me.
+
+Nikita: Great! Well, that was the last question I had so thanks so much for your time, and as we close I'd like to ask if there is anything else that you haven't had a chance to mention, or you would like to share with us, or you think we should know.
+
+Participant 23: Yeah, I think privacy engineer is kind of a
+
+Participant 23: a dying field.
+
+Participant 23: I like this. This is just this is my fear. It's my worry. Really, it's not that I think that, or that I believe it. I worry that privacy. Engineering is a dying field because
+
+Participant 23: privacy was the big thing. When you know the buzz, consent decree. Cambridge analytica you know, like all of these things were, were every privacy engineer. Everyone who worked adjacent to privacy was told, privacy is the safe job, because, you know, these consent decrees mean the companies have to take it seriously for X number of years.
+
+Participant 23: and what we've seen over and over is that like
+
+Participant 23: governments don't have insight into what companies are actually doing beyond whatever like the official audit says, and the companies are
+
+Participant 23: so worried about losing AI velocity
+
+Participant 23: that they will accept unlimited risk in order to
+
+Participant 23: stay competitive in this new Llm based world. So yeah, my.
+
+Participant 23: that. That's my fear for privacy. Engineering as a profession is that it's, you know.
+
+Participant 23: they're always gonna need lawyers. They're always gonna need. Whatever's the new hotness. But privacy is not that anymore? Compliance matters. But
+
+Participant 23: yeah, I would not advise someone to get into privacy engineering right now. if if they want to drop security. I would say an AI based field is going to give them more of that
+
+Participant 23:  and if if they like the type of work that it is, I would advise them to look more at program manager roles because it's a much more transferable set of skills than privacy engineering specifically.
+
+Participant 23: And that makes me really sad.
+
+Nikita: Yeah. I see that Do you have any questions to ask? Maybe as we wrap up?
+
+Participant 23: Hmm!
+
+Participant 23: II guess just overall. Is. yeah, what's the intention? Like, what's the what's the path forward for this research?
+
+Nikita: Umhm, yeah, that's a good question. So we're currently still recruiting people to talk. And II mean, the main goal here is to really demystify the wall
+
+Nikita: of a privacy engineer by trying to understand basically the topics that we were talking about, such as what is actually the role entails? What are the real challenges the professionals face? What are ways that they try to approach it. And what is successful on that. We're trying to kinda get a nice and you know, diverse glimpse into the people who
+
+Nikita: consider themselves to be privacy engineers. And what is their day to day reality. So let's say, yeah. And I guess after we're done with the interviews, we'll analyze the transcripts. We'll put everything down into a paper and a wide report, and then we're obviously gonna share all the insights with everyone so that we can also share with the community and learn about this
+
+Participant 23: awesome
+
+Nikita: yeah, I would definitely love to see anything you're able to share from the results. So of course, yeah. And and just one last thing, if if you could share this information about the society with others who you feel might be a good fit. We would really appreciate that, as in December, so recruiting people I can
+
+Nikita: share this link to this screening survey that you filled out as well before. And I think that's like the easiest way to just to share information with someone just having them fill out the screening survey.
+
+Participant 23: Yeah. Happy to do that. I was given this link by
+
+Participant 23: I actually, I don't know if it was someone who participated, or just somebody who knew with it. But yes, recruiting seems to be working great. I'll stop recording that.

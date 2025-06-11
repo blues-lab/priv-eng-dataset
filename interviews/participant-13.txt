@@ -1,0 +1,875 @@
+Liam: Alright, now that the recorders on, could you please repeat that you consent being recorded?
+
+Participant 13: Yes, I do consent to your recording.
+
+Liam: Perfect again your identity, and anything you share with us will become confidential, and will only be heard and read by the researchers in our study. Please know that this interview is designed to be a conversation, so of course, there are no right or wrong answers, and you can skip any question or pause the interview at any time.
+
+Liam: Do you have any questions before we begin?
+
+Participant 13: No, no question. Just I tried to see you know how I can help you with the the answer in your research
+
+Liam: perfect. I appreciate that. So firstly, we, we'll start with a brief sort of
+
+Liam: set of introductory questions, and I'd like to ask. Firstly, can you tell me briefly about what you do in your job?
+
+Participant 13: I'm a privacy engineer manager, at [BIG TECH COMPANY]. And I do lead a team of privacy engineers and also technical program managers that are
+
+Participant 13: designing and building infrastructure for the safe processing of data at [BIG TECH COMPANY]
+
+Liam: got it. And can you also define the term privacy, as you normally would use it in your work context?
+
+Participant 13: I would. I usually define privacy, you know, as my ability
+
+Participant 13: to have full control and ownership. That's my personal information, personal data.
+
+Liam: Okay?
+
+Liam: And how would you describe the roles in industry related to privacy? Engineering?
+
+How would describe it, or how perceive it?
+
+Liam:  Well, maybe you can answer both if you believe there's a distinction.
+
+Participant 13: Okay? So I think the way I would describe it is the role itself is
+
+Participant 13: to ensure that privacy by design principles are big thing into other development of product features and also services.
+
+Participant 13: But the way this perceive is more still today, I think, is specific, more as a compliance check box.
+
+Liam: Got it. And then how would you sort of codify that perception into a definition of a privacy engineer?
+
+Participant 13: I would like qualify it. You mean, in the definition.
+
+Liam: yeah, how would you define a privacy engineer?
+
+Participant 13: from the perception standpoint?
+
+Liam: Sure. Yeah.
+
+Participant 13: Yeah. So I would define it, you know from the perception standpoint,
+
+Participant 13:  writer as a mechanism or tool that companies may use to
+
+Participant 13:  kind of polish
+
+Participant 13: their privacy posture.
+
+Participant 13: And that's why I think the perception is more on a compliance standpoint, instead of
+
+Participant 13: actually trying to
+
+Participant 13: do all that necessary to protect the data.
+
+Participant 13: That's one of the perceptions of them. Yeah.
+
+Liam: got it.
+
+Liam: And now the second task we'd like to talk about is your career journey to a privacy engineer?
+
+Participant 13: And so, firstly, I'd I'd be interested to hear how you became interested in privacy engineering as a career.
+
+Participant 13: So I have a military background. And this serving US army and
+
+Participant 13: my very first job in the military was very connected to even there was not information, security, information, privacy, it was connected to more secrecy.
+
+Participant 13: So that's when I kind of found bridge between secrecy and also information, security and information privacy, especially when dealing with sensitive
+
+Participant 13: military information.
+
+Participant 13: So right after my military service, I decided to to continue to learn more about
+
+cybersecurity, and also
+
+Participant 13: how that connects with geopolitical
+
+Participant 13: or the geopolitical landscape that we were living at a time and conflict in Afghanistan, in Iraq.
+
+Participant 13: And that's when I started my career at cyber security.
+
+Participant 13: I had strong interest into data, ethics and also morale in cyber. And that's how transition into into privacy, initially, more
+
+incident response.
+
+Participant 13: field, and then merge from his service both into the privacy, compliance, and and this wasn't a government
+
+Participant 13: where privacy still heavy on the compliance side. Outside here, to several privacy laws and
+
+Participant 13: from privacy go blind. I, you know, learn more about how
+
+before we get to the compliance standpoint, there are some initial things that needs to be done
+
+Participant 13: to actually ensure that we have privacy protections. You know it doesn't matter. It doesn't make sense to have compliance paperwork, and when at the beginning we could have already found privacy service and mitigating them as program or products are being built.
+
+Participant 13: And that's when I pivoted from our privacy compliance into privacy architecture
+
+Participant 13: and for privacy architects, and people that
+
+into privacy engineering. And then by that time I was
+
+Participant 13: close to finishing
+
+Participant 13: my Phd in research and cyber security, but was also mainly focused into privacy engineering especially in smart homes.
+
+Liam: Got it. So you've touched on it a bit. But your specific career journey. How? How did you transition from sort of military? Then? You've stated you've completed a [ACADEMIC PROGRAM]. And then now at [BIG TECH COMPANY], what we're sort of the exact career roles that you bounce from in.
+
+Sure in career roles I [REDACTED]. But then I when I started some of role
+
+Participant 13: in a government. It was a very general role as the [REDACTED] intern.
+
+and then peeled it from sooner intern into a regular analyst.
+
+Participant 13: from analysts, from junior analyst to a Senior, to security specialist.
+
+Participant 13: within the [US GOV DEPARTMENT].
+
+Participant 13: and then from Senior IT, especially as I returned back to the department online security where I work, then ask the privacy, training, outreach officer
+
+and also how it was a mixed capacity, doing privacy, architecture, and also privacy compliance.
+
+Participant 13: But and then, after that role of privacy training, outreach officer, I was then transitioned to a privacy to chief
+
+Participant 13: our privacy goal lines.
+
+Participant 13: So the single role capacity there. Before moving to [BIG TECH COMPANY]. Now, in this also, senior management
+
+Liam: got it. And what motivates you to continue to pursue privacy engineering as a part of your profession.
+
+Participant 13: That's a good question. What's motivated? What motivated me? I would say
+
+Participant 13: curiosity is what motivated me, because when I was
+
+Participant 13: doing a lot of privacy in compliance, especially in the Government. I said he only was more paperwork related. You know, we need to complete a privacy, impact assessment, or what's called to the Gpia.
+
+Participant 13: But that thing is only done at the end. And it doesn't help me to come out of hand and just document. The privacy, flaws, or protection that will be put in place. I'm not. I wasn't present. I wasn't present. I wasn't being a room
+
+Participant 13: when the product was built, or when the program was built, that I would like to be there and document the initial thoughts and then mitigate, identify the risk early on, and document the mitigation of the risk that could serve me in the future. If a similar product or similar program has to be built. And that's why motivated me the most to be there at the beginning. Identifying risk. Put my, put my
+
+Participant 13: myself in the foot in the shoe of of a person that may have malicious intent, or who may want to use or abuse of the data that we have?
+
+Participant 13: So at that time actually, had decided to change
+
+Participant 13:  the name of my program, which was called Privacy, compliance. I had decided not to call be calling for privacy, compliance, analyst, because
+
+Participant 13: for me at a time privacy, compliance, sounded more like the term compliance. The person that is there to enforce something that enforce either setup or as a procedures or regulatory requirements and that kind of that created a bad perception within the agency, where.
+
+Participant 13: at in every offices, every office were stepped in. They said, oh, the privacy! Guy's there! The privacy guy's there, and
+
+Participant 13: it. It can create a conflict between privacy team and the product teams or the program team. So instead, I decide to really name my position as the privacy enabler.
+
+Participant 13: you know, to to to bridge the gap there, and also to be very close to engineering and product teams. To say
+
+Participant 13: I'm not there to tell you should not be double Xyz. I'm here to help you achieve what you want to do with the least amount of privacy as possible. So engage with me early on engagement. I mean ideation phase. Even before you request budgeting. And then we gonna figure it out. We're gonna find a way to get this done the pro the proper way, instead of having to find out issues at the end and go back into code and make costly changes.
+
+Liam: Got it. So you mentioned sort of
+
+Liam: this proactive approach as being maybe a goal of yours. But are there any other personal goals that you have in this role?
+
+Participant 13: Actually, I did not have personal goals there. It was just the passion for the feel and the passion.
+
+Participant 13:  curiosity.
+
+Participant 13: Yeah, I don't think I had a personal goal, though. This is what I want to achieve. And the the the privacy engineering
+
+Participant 13: as a as a job function at the time was not really as it is today. And I've he works. That's something I personally wanted to do but
+
+Participant 13: in terms of implementing it, that's what I wanted
+
+Liam: got it.
+
+Liam: And now I'm going to ask you a question about the future
+
+Liam: a year from now. Do you see yourself in the same position? More specifically, do you see? Doing what you're currently doing
+
+Participant 13: a year from now.
+
+Liam: Yeah.
+
+Participant 13: yes, yes.
+
+Liam: Okay. And can you tell me why? Why? Yes.
+
+Participant 13: because I think that.
+
+Participant 13: in my company or in any other company. I think they still a lot of work that needs to be done. And I don't think that in the next 5 years we are going to be anywhere close to have engineering and product teams understandable privacy.
+
+Participant 13: So we are. I think we are. We are just at the beginning of it.
+
+Participant 13: and within a year I do see myself still within this role.
+
+Participant 13: and continuing to evangelize
+
+Participant 13: The importance of the of the field
+
+Liam: got it? That's great. So the next topic we want to talk about is your day to day responsibilities.
+
+Participant 13: The first question I have is, could you give me an idea of what a typical day at work looks like for you?
+
+Participant 13: We're not getting to the details. As an engineer manager for privacy, especially more specifically within my area.
+
+Participant 13: My day to day is full of escalation meetings.
+
+Participant 13: so my engineers that are deeply involved into  assessing conduct, the privacy impact assessment on product or product features.
+
+Participant 13: They may find critical
+
+Participant 13: they may find they may find
+
+Participant 13: critical risk. That needs that need my my visibility, and also to see if I can help them unlock certain
+
+Participant 13: priorities that have a privacy risk.
+
+Participant 13:  even recently that developed a
+
+Participant 13: like a decision. Metrics for my team to
+
+Participant 13: like a 2 axis thing where on the y, on the on the X axis. I have the business impact, and on the Y axis I had to have the privacy, risk of privacy, sensitivity.
+
+Participant 13: and oftentimes they wouldn't come to me with certain problems to kind of help them identify where they should put more effort on.
+
+Participant 13: Where, for me as a manager, I also look at a business risk. I look at a business impact as well. And at the same time I'm also looking at the on the on the axis where
+
+Participant 13: I want to make sure that we not that we can contain the privacy service to enable that is acceptable for business.
+
+Participant 13: So my day to day. As for activities are mostly around escalations around touching things that engineers cannot when not able to resolve.
+
+Participant 13: I'm reading through a proto requirement documentation and also collaborating
+
+Participant 13: With all of the product councils and privacy accounts, teams that I have already
+
+Liam: got it. And then what responsibilities does your employer expect you to take at work.
+
+Participant 13: My employer. I can't see. So in in broad picture my responsibility is as the privacy need
+
+is to
+
+Participant 13:  is to guide the privacy direction of the entire program. I'm the privacy that [BIG TECH COMPANY] payments.
+
+Participant 13: And for me, it's so set a strategy
+
+Participant 13: for privacy of [BIG TECH COMPANY] image
+
+and to make sure that our strategy also aligns with our business needs.
+
+Liam: Okay? And do you feel that your day to day responsibilities are in line within those expectations. Yes, yes, yes, absolutely. Yes, they are.
+
+Participant 13: Which is, that's why I need that's why I'm the escalation point, for of those
+
+Participant 13: high-risk carriers
+
+Liam: got it?
+
+Liam: And so then in the next question, we're trying to differentiate between what you do for work and the things you do outside of your work. So are there any additional responsibilities you feel you're expected to take on in your role, such as to society, others in the organization or yourself.
+
+Participant 13: you mean outside of my profession.
+
+Liam: Correct? Yeah. But in regards to privacy, engineer.
+
+Participant 13: or that's a privacy.  yes, I do. A lot of mentorship in privacy and also cyber security, governance missing compliance.
+
+Participant 13:  I do a lot of training at [INSTITUTION], and where I
+
+Participant 13: I bring more awareness on data protection general, not just privacy, but data protection in general.
+
+Participant 13: Also working very closely with
+
+nonprofits, organizations such as [CYBER ORG]
+
+Participant 13: in which we bring awareness. Well, the the goal of the organization is support.
+
+Participant 13:  the service security field within minorities, women and also veterans but I use that also as a platform to kind of promote information, security, and privacy.
+
+Liam: Got it
+
+Liam: and now. I'd love to learn about sort of the more specific skill sets that were demanded of you.
+
+Liam: So, firstly, what skills were demanded when you started your current role.
+
+Participant 13: Huh?
+
+Participant 13: Why would my current role right? That's what you meant. Yeah, I think,
+
+Participant 13: I didn't even know that I don't even know they have so share with me what skill said they actually require for me. But I think, the skill set that is highly needed. my current role is the ability
+
+Participant 13: first. So
+
+synthesized problems
+
+Participant 13: to look at in the model problems, to look at a series of problems within one big problem
+
+Participant 13: and synthesize that and identify what needs to be solved first and conducting a risk assessment.
+
+Participant 13: Okay? I think that's and so.
+
+Participant 13: And in addition to that,
+
+Participant 13: for my role specifically, and you may not be applicable with other organization, even within [BIG TECH COMPANY], outside of [BIG TECH COMPANY].
+
+Participant 13: is a skill set is that was highly needed for stability
+
+Participant 13: to understand.
+
+Participant 13: the legal and regulatory landscape.
+
+Participant 13: I'm up payments. And of course, you know, payment data is one of the most regulated data. They're just in the US.
+
+Participant 13: So, understanding, having this ability
+
+Participant 13: to understand legal and regulatory landscape as it applies to payment data was it was something that was that is highly valuable. And I think it will be different in order organization and also in different in different privacy engineering teams.
+
+Liam: got it. And so now, I'm also curious to know
+
+Liam: are what the skills you currently using your job. And if you sort of maybe the skills you alluded to in the previous question are the skills you're currently using? But I'm just curious. If there was a difference between what skills were required upon start. And then what you're actually using now.
+
+Participant 13: yeah, I think the some of the skills that I'm using right now.
+
+That are very beneficial
+
+Participant 13: is to I will say personal skill is to is the ability to remain calm. Because privacy engineering, from what I've seen so far
+
+Participant 13: is a field that requires to constantly take a step back
+
+Participant 13: and look at a picture again.
+
+Participant 13: I've noticed for the year last 2 years that I've been at [BIG TECH COMPANY]
+
+Participant 13: that certain risks that I have not been able to identify the day before. The next day open my eye to see additional risk or additional mitigation that I was not thinking about so the skills is then, you know, patients
+
+Participant 13: the digging through things and not being afraid of asking questions, and and again it ties to that curiosity
+
+Participant 13: aspect of it. Even if I already know the answer. Often times I still wanna double check and
+
+Participant 13: ask the same question over again, and for the years it has been very beneficial, because there's there were additional piece of data that I received that helped me understand the risk, and also the reason why I wanna understand the risk is, I want to see why is the mitigation that I can apply here that can further the business.
+
+Liam: Got it. So
+
+Liam: is there a difference or not between the skills you were expected to demonstrate during the the interviewing process and those required of you now in the role.
+
+Participant 13: Yes, yes, there's a difference. And I think that difference comes with the exposure to this series and different problems that you face.
+
+I don't remember a single, even though we may have blueprints, even though we may have
+
+Participant 13: precedence on how we solve problems. Each is different. Each one is different. Oftentimes a product teams comes to me and say, Hey, we? But we need the yesterday for Xyz on our product. Why can't we replicate the same analogy?
+
+But it may be the same type of data, but
+
+Participant 13: it may be that same type of data may have different injection points.
+
+Participant 13: Right? It will be the same data, same data flow, everything similar. But the way the data is ingested into a system may be different.
+
+Participant 13: and that may pose a big difference. in terms of race analysis, and also the mitigation that can be applied to it. So I would say that over time the skills I've changed. So you there's a huge difference. But it comes with the exposure to different sets. Problems.
+
+Liam: Got it another next topic we'd like to move on to is reporting and deliverables. So the first question I have is, who do you report to?
+
+Participant 13: I report on the range and manager.
+
+Liam: Okay?
+
+Liam: And then, does anyone report to you?
+
+Participant 13: Yes, I do have engineers that report to me. Even though the person I report to has no visibility over the entire portfolio. So
+
+Participant 13: I am the highest to make this this decisions on the technical implementation
+
+Participant 13: of privacy within my product area.
+
+Participant 13: gotcha. And what are the? And I do have engineers that also.
+
+Liam: And what are the the typical reporting structures that you see in this profession.
+
+Participant 13: It's it varies a lot I've seen
+
+colleagues in a similar role as mine, not being previous engineers, but the technical program managers.
+
+Participant 13:  I've I don't think I've ever seen a product manager, and that will even surprise me, because there will be a big conflict of interest to be a product manager, but also at the same time and privacy engineering manager, and have the ability to make privacy decision when you also have product, a product?
+
+Participant 13: especially because I the way I teach my team is that we must remain free of proto pressure.
+
+Participant 13: So I have seen also over the teams, some senior UX designer that could be in my role.
+
+Participant 13:  That was the question. Right? What what kind of structure to have I seen right on the recording
+
+Liam: and what methods do you use to to report to others?
+
+Participant 13: What do you mean, for example, meetings is is our stand up set that typical emails project management platforms mostly meetings. It's easier to get things solved for meetings.
+
+Participant 13: well, I have. My 2 favorites are the meetings or documents.
+
+Participant 13: I don't like the I will receive a lot of emails. And each person my team has to different style of communication. And we do adapt to each. Everyone because of style is meetings
+
+Participant 13: or document documents that are can. Again, I'm a person I like. I'm analytical. I like to step back, think through. So I prefer that to be in the document. If we do me in a meeting, I will also use the time to kind of rehash what I read in the document, and have the ability to provide some comments.
+
+Participant 13: But I do also use a lot of dashboard. They have a technical program management team that is really good at building dashboards for to help me understand?
+
+Participant 13: When the team is heading, what issues we have and how the team can be restructured to meet certain goals. Pretty much analyze the data that we have and make a meaningful use of the data.
+
+Liam: And then what about the actual organizational structure? Would you determine it to be very flat or hierarchical.
+
+Participant 13:  it's both.
+
+Participant 13: It's hierarchical but also flat in terms of levels
+
+Participant 13: in terms of labels. Any has changed a lot on the last
+
+Participant 13: over the last the last 2 years. So we have had a lot of reorganization. but it's also primarily, because, at many organizations, not just the [BIG TECH COMPANY] privacy engineers,
+
+Participant 13: are not yet. There's no there's no perfect fit into the job family
+
+Participant 13: at [BIG TECH COMPANY]. Privacy engineers fit under the software engineering family. But you may see privacy engineering team that are under a direct of engineering. But you may also see that our, you know, program management.
+
+Participant 13: or there are on their strategic organization.
+
+Participant 13: even to the engineers. So it doesn't, really. It's hard to see where they fit and depending where they are. The structure can be very hard
+
+Participant 13: where we may have a lot of reports
+
+Participant 13: of the way to at least a director level and also at engineering level. It may be flat in terms of label, because you may also have senior engineers that are all at the same level. So it will be flat on the label side, and it will have a lot of managers when you go. Then, vertically, because of the structure of organization.
+
+Liam: Okay? And then the last 2 years you mentioned a lot of change has is that change been toward this more mixed approach from previously a very flat organizational structure, or previously the change has been
+
+Participant 13: toward increasing the ladders increasing the ladder on the vertical side and because of the hiring, consider the hiring phrases admin organization.
+
+Participant 13: The flattening has also increased because juniors are getting promoted, but there's no room for to hire new ones to continue to expand the team so vertically is is stretched vertically because the organizations want to strings this way
+
+Participant 13: right so it stretches vertically. But then the juniors that are trying to plan the ladder also are blocked
+
+Participant 13: because there's no hiring, and there's no new incoming from the bottom. So it remains flat in terms of living.
+
+Liam: Gotcha. Okay, I see. And now next, I'd be curious to hear what deliverables are required from you in your role.
+
+Liam: For example, you mentioned documentation previously. But are you writing code? Research reports? Is it purely advice? What are what are those deliverables?
+
+I don't write code. I don't like codes.
+
+Participant 13: in fact, I'm not a software developer.
+
+Participant 13: But some members of my team are a SWE some of the deliverables will be.
+
+Participant 13: I don't like to write as well. I when I was doing [ACADEMIC PROGRAM], I was like, you know, this. I don't like to spend too much time trying to write. So I like this scrappy way of just taking a piece of paper drawing something that makes sense and then explaining it right. I think that's how I'll run more efficiently instead of
+
+Participant 13: try to draft something that's very clean and concise.
+
+Participant 13: some of the variables that I love are writing them around, and I will do that for For projects or for initiatives that are
+
+Participant 13: then need a real good attention, and also all that need to be escalated further. And that's when I finally need this needs to be recorded. Memorialize in the in the menu.
+
+Participant 13:  order deliverables could be pop could be slides slide that I mean that I put in place or just interpretation of the data that, I have to kind of submit to my
+
+to my executives. Yeah.
+
+Liam: okay. And can you tell me more about why, for example, the slides you present are important for your role.
+
+Participant 13: They are important because, many people don't understand the job that we do. So you don't wanna send a privacy impact assessment to people who can read it, understand? And it's often easier to synthesize this in a Powerpoint presentation for
+
+Participant 13: some leaders to understand. Why, message I'm trying to convey. In fact, one of the feedback that I received personally was that I was so technical even that tried to to explain it in a most plain language possible
+
+so
+
+Participant 13: Powerpoint slides that are very effective and using
+
+Participant 13: illustration in a power slide
+
+Participant 13: are very effective to communicate what privacy engineers are thinking the risk that we have identified, and also how we plan on mitigating those risks. The slides are really good. To put a message to executives that may not be technical or that are technical, but don't understand. And the privacy risk.
+
+Liam: Gotcha. And do you think these deliverables are typical
+
+Liam: or not typical for someone in your role.
+
+Participant 13: They're typical for some row. Very typical.
+
+Liam:  and then how are how are those deliverables evaluated by your manager.
+
+Participant 13: allowing it.
+
+Participant 13: What time you mean, how how they are! You ask how they are value, or
+
+Liam: how they're evaluated by your manager.
+
+Participant 13: I don't even think there, you mean if they appreciate it if they like it. Is that what the question is?
+
+Liam: Yeah, or if there's metrics that go along with like
+
+Liam: your deliverables.
+
+Participant 13: So it would depend.
+
+Participant 13: I would think about what other privacy organization I've seen, not just [BIG TECH COMPANY], but also [OTHER BIG TECH COMPANIES]
+
+Participant 13: some of the deliverables will be a lot on matrix
+
+Participant 13: right?
+
+Participant 13: for my organization. I do deliver metrics, probably only in a quarterly basis for every half a year. because it does to shorten the health
+
+Participant 13: of the program. Only me myself. I'll check on a matrix on a regular basis. But when in terms of deliverables. I only do that on a quarterly basis. Because it's just for my specific program. It's just about 25% of the work that we do
+
+Participant 13: because we're trying to shift away from being from doing a program management manner?
+
+Participant 13: Or do we compliance work to actually be invaded into product. So my privacy engineers are invented with product teams. So in the deliverables, it will be mostly on the update, on higher sensitive projects.
+
+Participant 13: And it will, it will be more on a quality side than on the quant one side.
+
+Liam: Okay, but along the the sort of quarterly deliverables, how are those evaluated to
+
+Liam: determine if they're of sufficient quality?
+
+Participant 13: Okay, that's a good question. Because and
+
+Participant 13: a question where I have strong, very strong opinion on in terms of measuring.
+
+Let's say.
+
+Participant 13: how many reviewers have been conducted right? How many reviewers has the team conducted over the last month, or and then how fast would those will be conducted often times leaders that don't understand privacy. I'm gonna look at these deliverables and say.
+
+Participant 13: how comes that?
+
+Participant 13: It took us last month 2 days more to complete the reviews than the previous month, even though you had more resources and personnel, or or how comes that
+
+Participant 13: We see the curve in terms in terms of slos going up
+
+Participant 13: the for for those reviews. I have very short opinion, because I believe privacy engineers should not be pressure
+
+on completing things
+
+Participant 13: so quickly, because that's where we miss privacy, risk and
+
+Participant 13: So I have always pushed back against. Looking at those metrics in terms of time and measure against time. And I do not report time how long it takes us as a success metric for me. Success matrix is about the privacy outcome, even if it took us about 6 months to complete it. How am I gonna be able to show you on those metrics that
+
+Participant 13: it took us 6 months. But this was the privacy outcome. This was the complexity of the problem. And, in fact, starting January, I started having some type of label of engagement in which I have cold, let's say, green and yellow, slight red and dark red to show the complexity of the prom that was there. So that when I'm showing the matrix, I'm not measuring on the time. But I'm miserable on the privacy outcome
+
+comments
+
+Participant 13: and it's also something that I it's also deliverable that I
+
+Participant 13: oftentimes also argue during, you know, a promotion meetings, or
+
+or during pro performance. Evaluation right? Oftentimes on the product side or engineer side, or even program management side there. or even software engineering side
+
+Participant 13: software engineers is always about what product or what project they will land
+
+Participant 13: right? What? What did we launch? It's measure on launches, or landing, or getting something done to the end, and privacy is very privacy. Engineers are very unique there, because if I am, if me or my team on those deliverables are incentivized by landing by launching. Then we will launch everything, and we're going to miss the risk.
+
+Participant 13: So I draw a line there. I don't want to be measured there, but iterables are very tied to the privacy outcome, and if a product does, did not land, or if a project did not land, then the way I can measure it, or the way I can quantify it is, what is the potential? What will have been the potential fine that the company could have faced if we had landed it with the privacy that we have.
+
+Participant 13: so that quanta, that quantification is not necessary about the business gain. It can also be about, how do we protect a potential business loss?
+
+Liam: Got it? So in summary you, you've sort of emphasized the quality metrics versus emphasizing some sort of quantity metric.
+
+Participant 13: That's correct. That's correct.
+
+Participant 13: I think it would be bad, very bad practices for our field to be focused on quant. What we can focus on quant more is, you know,
+
+Participant 13: could be
+
+Participant 13: how we achieve higher.
+
+Participant 13: if we build an infrastructure for privacy, privacy, preserving infrastructure, we can be measure of quantity to identify. For example,
+
+Participant 13: on how many experiments have we been able to retain a good data quality, but also significant reducing the privacy service.
+
+Participant 13: That's the metric that I can, that that that would that I love to see, but only than that I prefer to remain on the quality and focus on the privacy outcome.
+
+Liam: Gotcha. Okay? Now we transition to a new topic focused on the challenges you face, and then the strategies you you implement to circumvent these challenges. And the first question I have for you, are there any tools, techniques, or standards that create challenges for you in your role?
+
+Participant 13: You mean things that create challenges or how I overcome, challenge, overcame challenges.
+
+Liam: What? Tools, techniques, or standards within [BIG TECH COMPANY] create challenges for you.
+
+Participant 13: So I will say, not doing everything [BIG TECH COMPANY] in general. Cause. I want to make sure that the interviews not just for [BIG TECH COMPANY], but in general.  it is the the biggest challenge, and that is across the board
+
+Participant 13: is the misunderstanding of what privacy actually
+
+Participant 13: is, and that creates a challenge of not being able
+
+Participant 13: to hire and retain talent.
+
+Participant 13: And do you feel the
+
+Liam: I'll continue, please?
+
+No, go ahead.
+
+Liam: Do you feel those challenges are typical?
+
+Participant 13: We're not typical. Yeah, typical. Yeah. Typical across all
+
+Participant 13: companies and government agencies have been
+
+Participant 13: so got it.
+
+Liam: And then more regarding the organizational structure reporting structure, are there any challenges that are propagated?
+
+Participant 13: Yes, I mentioned that earlier. If you have
+
+Participant 13: a privacy engineer reporting to
+
+Participant 13: a a person that is. Let's say, product manager.
+
+Alright, it's a coffee computer. It's that part of manager wants to launch.
+
+Participant 13: There's a clear conflict of interest there.
+
+Participant 13: If you have a privacy engineer engineering team that is reporting, let's say to
+
+Participant 13:  The chief information officer
+
+Participant 13: was your from a security officer.
+
+Participant 13: There's also clear conflict of interest between security and privacy there.
+
+Participant 13: That creates a huge challenge. in auto reporting structure where you may have a privacy engine team teams that don't understand engineering work at all.
+
+Participant 13: They will not be able to even grab, understand the problem that we are briefing them, regardless of how elaborate or how playing the language is in those pop or slides that are pulling together
+
+Participant 13: right? And that creates a big challenge.
+
+Liam: And of those challenges you mentioned, what are what's the most common.
+
+Participant 13: the most common is
+
+Participant 13:  hiring and retaining
+
+Participant 13: privacy, feel privacy. Teams are the most for what I'm saying for the most on the staff.
+
+Liam: And again, these,
+
+Liam: do you think that challenge is typical.
+
+Participant 13: Yeah, it's typical.
+
+Participant 13: They are the most understaffed. They are the most overworked.
+
+Participant 13: And paradoxically, they are also the one that are tied to the job emotionally.
+
+Unless, you see, I've I've read a few surveys already
+
+Participant 13: where privacy engineers are known to
+
+to always want to complete our work
+
+Participant 13: because they think that they're doing that for humanity.
+
+Participant 13: whereas in any other field they don't care. I'm gonna come today. But I'm gonna code
+
+Participant 13: and finish my code tomorrow, you know where, as a private engineer, because of that curiosity aspect, or in the field, or we want to dig deep to the problem. And then we want to be able to tell part of teams or program teams. I don't think you should be doing this, and if the program team, the program decides to do it. Then we feel offended because we are so tied to that mission that we have to protect people's data.
+
+yeah.
+
+Liam: So in summary
+
+Liam: many challenges come from this sort of conflict of interest, from these privacy engineering teams and these more product centered teams. And then, lastly, a big challenge comes from just a fundamental misunderstanding of what privacy engineering is
+
+Participant 13: correct, correct. And and that also relates it's ready to  the lack of staffing.
+
+Liam: Gotcha
+
+Liam: can you tell me more about now the strategies you use to overcome the challenges you mentioned?
+
+Participant 13: Yeah.
+
+Participant 13: any other job that I have a privacy. I always try to to recruit some privacy champions in actually any agency that I've been
+
+Participant 13: privacy champions are. They'll need to be privacy experts. They don't need to be privacy professionals. and my aspiration is that one day they become
+
+Participant 13: so to overcome the challenge of staffing I have, in, continue to increase the pool of privacy point of contact. When I was in the government [BIG TECH COMPANY], we have a different name. Call them
+
+Participant 13: call in privacy privacy advocates. We also have organization that have privacy advocates for privacy, delegates, privacy champions. However, whatever term they're using.
+
+Participant 13: So
+
+Participant 13: the the ratio right now is one engineering my team.
+
+I have about
+
+Participant 13:  4.5
+
+champions.
+
+Participant 13: So if I have 5 engineers I will have a minimum of four five, but it's actually more of a minimum. Well, I have about more than almost 40 champions.
+
+Participant 13: and I have only 5 engineers in my team.
+
+Participant 13: So to follow the 5 champions. The way I have them is they are also embedded within a product of areas. They can be. Most of them are software engineers. If they are within apporal areas, I train them
+
+Participant 13: on how to assist me.
+
+And they work for me. 20% of the time. And they're they're uptaking. And
+
+Participant 13: almost 60% of well, 50 something percent
+
+Participant 13: of the regular the regular low for sensitivity privacy work
+
+Participant 13: to allow my team to then be focused in the product design product development for high sensitive projects. And the way of structure is that you know, having
+
+Participant 13: experienced privacy engineers that are embedded into into product engineering helps them have a full visibility into each product that's been built and each product has been developed.
+
+Participant 13: The privacy features are built into the product at a very early stage, and when it's time for launch, all and most of the privacy service have already been mitigated, and now it is a time for the least experienced champions to take on the final review
+
+Participant 13: and approve the launch. So the most experienced have already been there for granted.
+
+Participant 13: Build a feature, and that's how I'm able to balance the workload and making sure that we can still achieve all the reviews that we have
+
+Participant 13:  in terms of
+
+Participant 13: strategies to
+
+Participant 13:  to promote more awareness and listen what privacy engineering is
+
+Participant 13: for my background being how we work as a privacy officer, privacy, outreach and training officer.
+
+Participant 13: the most important piece of privacy, not just a privacy engineering, but also privacy. Compliance is outreach.
+
+Participant 13: If you win an outreach you win the entire, your entire privacy program will win. and the outreach means that having
+
+Participant 13:  a huge picture, a huge map of engagement with different stakeholders.
+
+Participant 13: Right? That engagement is what creates visibility. That engagement is what makes you
+
+Participant 13: reachable, and an engagement also. What makes you likable
+
+Participant 13: again. I want to move away from seeing privacy as a roller block, but more as a as a helper to get to the finish line. so I build an engagement model in which I have. I'm very well connected to several executives within the program
+
+Participant 13: then receive the briefing about the background of privacy.
+
+Participant 13: [BIG TECH COMPANY], what a team is there for? Why, the team cannot be bypassed.
+
+Participant 13: [BIG TECH COMPANY]. I think many of organizations privacy cannot be bypassed before any any part of lounge is, privacy must be, they must approve the launch of the
+
+Participant 13: of the product. Just to set the tone already.
+
+Participant 13:  so create a few few briefing slides for them, but also make it very short so that they can. They can digest it.
+
+Participant 13: also, I've also certain myself in in several order of strategic areas within, within a product
+
+Participant 13: where I constantly have meetings with with our security team. We have. We have join joint reviews. We have joint office hours, so that if there's if seek the security team
+
+Participant 13: he's walking on something
+
+Participant 13: they will already know that privacy needs to be aware. But so we kind of double tap on that awareness. At the same time, I also have joint office hours with our privacy legal team.
+
+Participant 13: So the privacy legal team is a team of highly professional lawyers that are being consulted by other by by other other lawyers. So myself and the main privacy team, we have joined office hours for which other lawyers come in with our systems. So it kind of help on that on that awareness and the outreach
+
+Participant 13: At the same time also built a service metric, a risk matrix which we already know that if we achieve this type of risk. Nobody should be
+
+Participant 13: approving it unless it's getting routed to the privacy, privacy to look at, to look at the risk. And it comes with constantly building that awareness and outreach having a tech talks, for example, why, we have monthly tech talks that my engineers can also program managers for leading, and I've had that also when I was a homeland security to constantly put that word privacy in the years without making it redundant. Same time, I've always had a privacy day, which was last week, January 28.
+
+Participant 13: Also.
+
+Participant 13: Use every avenue possible to event to continue to evangelize.
+
+Participant 13: It has helped. I think, because
+
+Participant 13: he has help, because II could see
+
+Participant 13: the metrics in terms of privacy reviews things that may have gone under the red error and then discover the end for launch now are being discovered, and they'll discover at the very beginning, and we are plugged in.
+
+Participant 13: There's a reverse side of that from outreach program, because the more outreach you do, the more work you're gonna have to do at the same time. So and also it will come back to you, to me, as how can I
+
+Participant 13: prioritize? And and the privatize? And that's where I look again at that X and y axis to see if this project has lower privacy, risk, and lower business impact. It may not be worth investing my time there, because the the team is spread very thin. But if I'm a high on an X on the Y axis, or high privacy risk, then that's where I want to focus my resources on. If I'm also high on privacy and high on business impact, I know that that's also where the business can make
+
+Participant 13: to have a higher business impact was, but also higher privacy risk. That's why I want the most
+
+Participant 13: senior engineer to be focused on this
+
+Liam: gotcha. That's great. And now we're  transitioning to the last topic we have, which is, success metrics. So I first like to ask you.
+
+Liam: how would you define success in the work that you do.
+
+Participant 13: Hmm! How will I define success?
+
+Participant 13: The work that I do?
+
+Participant 13: I succeed when I am able
+
+Participant 13: to gets product teams to the end goal with the least amount of privacy risk possible.
+
+That's when I succeeded.
+
+Participant 13: But I don't need to get to the final goal. I don't need. But if I do. Yes.
+
+Participant 13: and also succeed is, can success can also be. We did not get to the final goal.
+
+Participant 13: But we have averted a potential New York post article. That's also success to me.
+
+Participant 13: And again, that's all in time
+
+Participant 13: to the privacy outcome.
+
+Liam: Gotcha. So what is
+
+Liam: the the overarching goal here?
+
+Participant 13: The overarching goal is to provide the best protection possible to our users and consumers.
+
+That's what I care about.
+
+Participant 13: I always read, and I think, as a regular user
+
+Participant 13: as a regular customer, and every time I do reviews of the product that my engineers bring to me the the question that I asked of can be very mundane. Because I asked this question as a person, as a person, as a member of the public.
+
+Participant 13: as a user
+
+Liam: got it? And how do you think others evaluate the impact of your work?
+
+Participant 13: The the impact on my work by seeing how complex issues
+
+Participant 13: that we're actually pulling a parking lot for a long time against us for the business. That's how they're they're they about it. In fact, they were
+
+Participant 13: a number of the of issues that we're want to talk about could not be done by those produce before me.
+
+Participant 13: But then, again, my approach is always to come. Look at a problem dissected. Take a step back and see how that can be solved.
+
+Participant 13: Oftentimes I may not be the most technical person, but I know how to find people that can crack it?
+
+Liam: Gotcha.
+
+Participant 13: yeah. And that's very important, though, in privacy engineering. Because the field of privacy is like I will say 10 miles wide.
+
+Participant 13: right? Especially as a manager. But you may only have expertise into 2 Arrow. Within that wide space you may only have 2 Arrow with deep expertise.
+
+Participant 13: or the errors may not. You may not have the deep expertise, but it will be. It's very critical to at least understand what
+
+Participant 13: potential solution can be applied to any given problem as you move for the of the ring and then identify what what team, member, or what team or the team can help you solve that problem as quickly as possible.
+
+Liam: Alright and that, concludes the the interview. We have just a couple of minutes left.
+
+Liam: So as we close, I'd like to ask if if there is anything else that you haven't had a chance to mention, or anything you'd like to share with us. So you think we should know?
+
+Participant 13:  no, I'm just excited to see how how to feel evolves over the next
+
+Participant 13: what the next year's
+
+Participant 13: but also interested to know how
+
+Participant 13: courts
+
+Participant 13: how course, will adapt to the profession and understand that
+
+Participant 13: privacy engineers are assigned can be scientists, and they can provide  they can provide solution that can be valuable in court and be used as evidence.
+
+Participant 13: right? And not just seen as compliance individually, because that compliance can be very great, the more important in terms of privacy. Engineering is more about science.
+
+and I think I hope in the future.
+
+Participant 13: If a privacy engineer, if priv privacy engineers that have applied and knowledge the technical knowledge.
+
+Participant 13: so let's say, say, Hey, we apply these data. This data is fully anonymized. Now, what is the standard? For example, one optimization
+
+Participant 13: can courts actually accept a general standard, or will it be which will still remain in a wide grey area where lawyers have to fight back and forth to determine if it truly meet meets anonymization standards? If so, what is the standard? So I think I'm looking forward to that. And there are still a lot of unsettled unanswered questions there.
+
+Liam: Gotcha. And then, lastly, do you have any questions for us?
+
+Participant 13: Just interested in the study? I would like to hear more just quickly. You know what what what is it? What? What is the study goals?
+
+And when are you gonna be done?
+
+Liam: Well, our. We're still deep in the process of interviews.
+
+Liam: and in regards to the actual study, we're we're you brought up many things that I think we share in thought. It seems privacy engineering is as you mentioned, 10 miles wide, so that we're really looking at sort of hopefully defining what? Maybe the 10 miles encompasses and more of a guidebook into what our privacy engineers really doing.
+
+Participant 13: Yeah, it's very interesting, because this a lot that is expected for privacy in this understanding works. You should understand how the user thinks English. You understand, regulation, misunderstand information of security. This is an even a geopolitical landscape. We need to understand competition.
+
+Participant 13: Is it just even more than the tools those 10 mile wide? And and that's what makes the feeling of more interesting. By knowing that
+
+Participant 13: you can all you can target individuals that only meet 2 square footage of that 10 miles wide, and still be able to acquire the person and train a person to continue to expand the knowledge, so at least cover a half of that surface.
+
+Liam: Got it. I'm going to cut the recording here.

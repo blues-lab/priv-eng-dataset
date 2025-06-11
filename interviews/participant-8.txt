@@ -1,0 +1,991 @@
+Liam: Now that the recorder is on, could you repeat that you consent to being recorded.
+
+Participant 8: Yeah, I. I give my consent.
+
+Liam: Okay. And again, your identity and anything you share with us will be kept confidential, and will only be heard read by researchers in our study. Please know that this interview is, of course, designed to be a conversation. So there, no right or wrong answers. And again, you can skip any question or pause the interview at any time. Now again, I'll offer you a chance to ask any other questions before we jump into it.
+
+Participant 8: No, I think I have a good idea of what
+
+Participant 8: we are looking.
+
+Liam: Perfect. So the interview is broken up into 6 topics, the first being a brief introductory topic.
+
+Liam: And the first question I have for you is, can you briefly tell me about what you do in your job?
+
+Participant 8: Yeah. So right now, I, I recently started a new privacy engineering role. Right now, I'm at [COMPANY] in their cloud, AI privacy team. And it has just been a month.
+
+Participant 8: So right now, I'm focused more on data, governance and
+
+Participant 8: yeah, understanding
+
+Participant 8: data workflows and kind of
+
+Participant 8: suggesting
+
+Participant 8: privacy, safe mitigations and understanding the gaps or threats that exist from a privacy point of view in the current
+
+Participant 8: offerings, especially the generator AI offerings. And then.
+
+Participant 8: yeah, what could be the possible mitigations and things we could work on.
+
+Liam: Got it. And could you define the term privacy as you'd normally use it in your work context?
+
+Participant 8: Privacy.
+
+Participant 8: Okay, that's a loaded question. I mean.
+
+Participant 8: in in the context of work, it's
+
+Participant 8: or in general, I mean, I would look at privacy.
+
+Participant 8: my definition of
+
+Participant 8: privacy would be
+
+Participant 8: anything safeguarding.
+
+Participant 8: users!
+
+Participant 8: Anyone's choice of
+
+Participant 8: sharing or not sharing their
+
+Participant 8: data.
+
+Participant 8: having choice transparency and control over there
+
+Participant 8: personal data
+
+Participant 8: over their data.
+
+Liam: Got it.
+
+Liam: Oh, cut
+
+Liam: and
+
+Liam: follow up question about how would you describe the roles and industry related to privacy, engineering.
+
+Participant 8: Roles. What do you mean by roles related to privacy, engineering.
+
+Liam: Sort of what's the the archetypal
+
+Liam: role that you see defined to be a privacy engineer.
+
+Participant 8: Yeah, I don't think there's one like it varies a lot across companies.
+
+Participant 8: even in one organization
+
+Participant 8: it varies a lot.
+
+Participant 8: For example, my previous company, or in general, I think there are
+
+Participant 8: different components to privacy engineering, and then you could find
+
+Participant 8: privacy engineers working on any of those. So the First thing that probably comes to mind is kind of privacy, reviews and analysis. So
+
+Participant 8: launch of new features and products. So
+
+Participant 8: a privacy engineer would be someone who analyzes the new feature or launch and understands the data, flows the privacy risks
+
+Participant 8: and
+
+Participant 8: kind of suggest recommends mitigations for any
+
+Participant 8: risks or attacks
+
+Participant 8: and
+
+Participant 8: that has been
+
+Participant 8: I feel one of the main components of a privacy engineering role the way it has kind of emerged. But other than that, you know, there are privacy
+
+Participant 8: software engineers who are engineers who build
+
+Participant 8: tools or systems that are private. So it could be tooling for
+
+Participant 8: the reviews infrastructure itself, or it could be tools for data, governance, deletion, retention or data mapping classification. All of that building software work, which is still
+
+Participant 8: you know, tied to privacy. Then there are privacy engineers who work on long term engagements and building privacy.
+
+Participant 8: focused products such as pets. Maybe it's
+
+Participant 8: confidential compute product or Mpc or differential privacy. So
+
+Participant 8: that's another more technical
+
+Participant 8: privacy. Or I mean, all of these are technical skills, of course, but something like this would require
+
+Participant 8: up
+
+Participant 8: software engineering plus privacy domain expertise. The first one that I said reviews is more on the privacy analysis. You need require privacy, domain knowledge, but don't necessarily require SWE knowledge. The second one is mostly SWE knowledge. You may not need privacy domain knowledge that much you can
+
+Participant 8: learn what you need. So those are some things. Then there are more
+
+Participant 8: privacy engineering roles which
+
+Participant 8: maybe lean
+
+Participant 8: towards
+
+Participant 8: little bit towards product management or program management, where you think about how it is integrated into the product, or also work on the roadmap or planning for those privacy features.
+
+Participant 8: and sometimes there's a legal component a although usually the legal department is different from what I've seen a and I mean, you always need lawyers or
+
+Participant 8: a product counsel as well. But there could be privacy engineers who
+
+Participant 8: have more legal knowledge and come from different backgrounds.
+
+Participant 8: So yeah, those are kind of different.
+
+Participant 8: things that I've seen. So
+
+Participant 8: yeah, not one architect.
+
+Liam: Got it great. That was A fantastic like breakdown of some of the generalizations you've seen, and a follow up to that question would be. How would you like to define a privacy, engineer, if you were to be the one to to write the definitive definition? What would you write.
+
+Participant 8: I don't know. I'll have to think about it. I don't feel one definition could do justice but at a high level I would say.
+
+Participant 8: any individual working towards
+
+Participant 8: preserving
+
+Participant 8: or upholding privacy commitments
+
+Participant 8: up
+
+Participant 8: to the company's users
+
+Participant 8: from a technical standpoint.
+
+Participant 8: But yeah, I'm not sure it covers everything, though so
+
+Participant 8: oh.
+
+Liam: Okay.
+
+Participant 8: Yeah.
+
+Participant 8: I mean, yeah, what? I said probably covers more a privacy professional. I'm
+
+Participant 8: thinking how I could incorporate the engineering component would be, yeah, from a technical standpoint. So
+
+Participant 8: yeah, I guess.
+
+Liam: Got it so notably
+
+Liam: if you tack on the engineer, there has to be the the technical know how or component to to the person doing that role.
+
+Participant 8: Yeah, because that's what a privacy engineer brings. In my opinion, I mean, not necessarily, SWE skills or but kind of domain knowledge from a technical perspective. So privacy engineer.
+
+Participant 8: in my mind, is in between
+
+Participant 8: plays. This very important liaison role between legal ends in terms of the edge that will implement and product
+
+Participant 8: sometimes policy
+
+Participant 8: or other teams. But the privacy engineers role is to understand the privacy concerns from
+
+Participant 8: a legal or policy point of view.
+
+Participant 8: come up with more issues from a privacy attack perspective.
+
+Participant 8: understand the product requirements
+
+Participant 8: and then kind of use this
+
+Participant 8: problem space to find good solutions that would work. And these solutions require domain knowledge or technical privacy expertise. That's where that is the technical aspect. In my opinion that you know how privacy attacks work and what are the ways you would mitigate them? What are some standard techniques
+
+Participant 8: of of anonymization, for example, or what are some
+
+Participant 8: privacy technologies that could be useful. How do you mitigate this?
+
+Participant 8: And then the next step is to work closely with engineering to see what is feasible and how you actually build.
+
+Participant 8: build out those protections into the product. So
+
+Participant 8: that's how a privacy engineer.
+
+Participant 8: That's the role I would
+
+Participant 8: the
+
+Participant 8: care.
+
+Participant 8: Yeah, that's what I would say. A privacy engineer should do.
+
+Liam: Got it. Okay, now, shifting gears to
+
+Liam: talking more about your career journey. How did you first become interested in privacy engineering as a career.
+
+Participant 8: Yeah, it was. It's
+
+Participant 8: funny story. I mean, I did [ACADEMIC PROGRAM] in cryptography.
+
+Participant 8: actually.
+
+Participant 8: So I was
+
+Participant 8: in a related field, I would say, or I mean, I always liked research and cryptography was
+
+Participant 8: a fascinating subject for me from childhood, so I did more projects on it, and then I did [ACADEMIC PROGRAM] In cryptography and in my
+
+Participant 8: when I was graduating, I was thinking of what are my options? What should I
+
+Participant 8: not transition to, and there were a couple of [REDACTED] options I was looking at that was also looking at industry options, and then think there was a
+
+Participant 8: conference that I attended called [CRYPTOGRAPHY CONFERENCE], and
+
+Participant 8: that's where I heard a talk from my
+
+Participant 8: future manager at [COMPANY].
+
+Participant 8: and that talk was
+
+Participant 8: really very interesting, and it was kind of new for me that oh, cryptography can be used in such a context in the context of
+
+Participant 8: user data. And that's how it can be applied in
+
+Participant 8: tech companies. So
+
+Participant 8: that was
+
+Participant 8: kind of for a very small introduction to privacy engineering for me. And just that's something that got me interested.
+
+Participant 8: And I had this conversation with I connected with my future manager then and then.
+
+Participant 8: yeah, when it was time to actually
+
+Participant 8: job search, I
+
+Participant 8: you know, reconnected. And then they also were looking to hire. And they immediately set up
+
+Participant 8: interviews, and so on.
+
+Participant 8: So yeah, that's how I got into privacy engineering. I didn't know
+
+Participant 8: such a thing existed. And it has to be a yeah really good fit for what I was looking for.
+
+Liam: That's awesome.
+
+Liam: Now you've kind of touched on it, or alluded briefly to components of it. But could you share your like specific career journey.
+
+Liam: Did you go from [ACADEMIC CAREER]. Was there a gap in between? Then, following [ACADEMIC PROGRAM], you went to [COMPANY]? And then, what were the steps now to [COMPANY]?
+
+Liam: Yeah.
+
+Participant 8: Yeah, I mean, my, I did my undergrad. I had 2 major math and computer science and then
+
+Participant 8: in my undergrad program. We had an option to do an external.
+
+Participant 8: a research internship 2 of them. Actually. So I did one research internship at [INSTITUTION], where I worked more on cryptography. So actually, in my undergrad, I did an elective course in cryptography which really got me interested
+
+Participant 8: into that in in that field even before that, I think in
+
+Participant 8: my school days are.
+
+Participant 8: you know, high school, and so on. I used to solve those
+
+Participant 8: code puzzles and things like that. So I I used to like that. So I was kind of interested in. You know, cryptography in a very shallow way, I would say at that time, but
+
+Participant 8: that
+
+Participant 8: that kind of pushed me to do this elective course which I really enjoyed. And then decided that I want to do more projects, research and cryptography. So then I was at [INSTITUTION], where I did my first internship.
+
+Participant 8: It was
+
+Participant 8: more on the formal verification side, but it had some cryptography aspects to it. Then I was at [INSTITUTION]
+
+Participant 8: for my second internship, and that's where I think I got introduced to the crypto that I went ahead and
+
+Participant 8: studied or went ahead. And you know, continued my research in [ACADEMIC PROGRAM], because a lot of that community was
+
+Participant 8: in those labs. Lot of those researchers
+
+Participant 8: and co-authors were potentially there.
+
+Participant 8: So then, I applied based on my
+
+Participant 8: research projects and then
+
+Participant 8: got some good admits. And yeah, then I directly went for [ACADEMIC PROGRAM].
+
+Participant 8: And
+
+Participant 8: yeah, I I think first,
+
+Participant 8: first 1, one and a half years were more general courses. Of course I did
+
+Participant 8: a lot of
+
+Participant 8: cryptography and related courses as well. And then started research
+
+Participant 8: reading papers and
+
+Participant 8: yeah, just getting into research.
+
+Participant 8: So yeah, then it was [ACADEMIC PROGRAM], and then, and the last couple of years of [ACADEMIC PROGRAM]. I was at [INSTITUTION], and I had 2 advisors over my 1. One of my advisors was at [INSTITUTION].
+
+Participant 8: And again, there I was able to collaborate with some really good folks. And yeah, it was a really good atmosphere lot of talks and lot of visitors. So it's always new ideas coming in.
+
+Participant 8: and then, yeah. After graduation, as I said, I was exploring both academic and industry options and kind of leaning more towards industry options. So then I got connected with
+
+Participant 8: the team at [COMPANY] and my manager there
+
+Participant 8: and the whole team there, [COMPANY] has an amazing privacy engineering team.
+
+Participant 8: Most people have a Phd in you know, in a privacy specialization, either cryptography or differential privacy. Or.
+
+Participant 8: you know, privacy preserving. Ml, so it was. I felt like, this is a good place. Lot of similar minded people are here.
+
+Participant 8: and yes, as and
+
+Participant 8: given the size of [COMPANY]. My first job
+
+Participant 8: experience was really
+
+Participant 8: a great introduction to privacy engineering. [COMPANY] has this
+
+Participant 8: small team privacy engineering team which has visibility into the entire
+
+Participant 8: you know, entire product array of at [COMPANY]. So I got to see this entire breadth
+
+Participant 8: off
+
+Participant 8: features. And you know questions that arise. Privacy issues that come up in different areas. Of a social media app could be maps. It could be advertising. It could be chat. It could be you know, friending, So
+
+Participant 8: yeah, just having that wide
+
+Participant 8: perspective was great and then I specialized. I worked a lot on add privacy
+
+Participant 8: and then there was a natural opportunity to apply a lot of cryptography there, because in add
+
+Participant 8: in the add tech world there were some platform changes due to [COMPANY] a few years back, which kind of made it necessary to build some privacy preserving solutions. So it was good timing. I. This happened a few months after I joined, so I was able to
+
+Participant 8: contribute, and later on lead some cryptographic products
+
+Participant 8: from concept
+
+Participant 8: to kind of Mvp with
+
+Participant 8: our partners.
+
+Liam: Taking a step back, what motivates you to to continue to pursue privacy
+
+Liam: privacy, engineering?
+
+Liam: or what motivates you to continue to pursue privacy, engineering.
+
+Participant 8: Yeah, I mean, I like the work. It is interesting questions, interesting problems and stewards.
+
+Participant 8: noble goal to ensure
+
+Participant 8: privacy. And in turn kind of
+
+Participant 8: I don't
+
+Participant 8: make sure we have democracy. Democracy has its strong foundations
+
+Participant 8: enabled, even through digital forums. So.
+
+Liam: Got it.
+
+Liam: And now a question about the future. A year from now, do you see yourself
+
+Liam: in the same position?
+
+Liam: More specifically doing what you're doing now.
+
+Participant 8: Yeah, I mean, the specifics could change. But yeah, I think it would be privacy engineering. So yeah, as I was completing earlier I was in
+
+Participant 8: add privacy. And that was a really impactful space to kind of add privacy to right? Because ads, people always feel
+
+Participant 8: people
+
+Participant 8: typically feel creeped out by the ads that they are seeing, and they did. There is
+
+Participant 8: very less visibility or transparency for users that how are? Why am I, seeing this, add, how what kind of data do they have on me? Though there are such tools now. But
+
+Participant 8: yeah, so that was a very impactful area and I felt good about contributing there and making a positive change and then, after a [several] years of doing that, I now, with the recent
+
+Participant 8: revolution. I wanted to
+
+Participant 8: kind of change gears and look at generate AI privacy, and there are some big challenging questions there so contributing there.
+
+Participant 8: So that I feel is what motivates me. Kind of looking at open privacy questions use my research skills and background to address them
+
+Participant 8: in a way that
+
+Participant 8: you know, helps the society.
+
+Liam: Yeah. Now, shifting gears to talking more about your current day to day responsibilities. Could you give me an idea of what your typical day at work. Looks like currently.
+
+Participant 8: Yeah, I I I'll probably tell you more about my typical day at [COMPANY], because, right have a typical day at [COMPANY] yet it's
+
+Participant 8: too soon. At [COMPANY], I mean, I would say my typical
+
+Participant 8: day or week would be.
+
+Participant 8: you know, 20 to 30% time would be on the reviews kind of looking at new features. That are going to be launched attending
+
+Participant 8: meetings about them.
+
+Participant 8: understanding the requirements discussing with legal. How
+
+Participant 8: what are their concerns? And just having that discussion and kind of working on those reviews and analysis
+
+Participant 8: that was one component then the other component was working on these long term engagements or products. So that could be, you know, wherever it is in the life cycle, either design docs, or if we have something more mature than you know, talking to customers, or.
+
+Participant 8: you know, taking that feedback, solving
+
+Participant 8: how far more things.
+
+Participant 8: That's another thing. Other things.
+
+Participant 8: Just kind of team meetings to
+
+Participant 8: go through all reviews and giving your feedback. We also used to have general talks and brown bags.
+
+Participant 8: where people would go through
+
+Participant 8: some, you know, tricky reviews their analysis, or sometimes also discuss latest
+
+Participant 8: privacy papers, or
+
+Participant 8: something
+
+Participant 8: pertaining to privacy. So
+
+Participant 8: yeah, I think those were the aspects
+
+Participant 8: off my
+
+Participant 8: work.
+
+Liam: Got it, and then
+
+Liam: What were the responsibilities your employer expected you to take on at work? Were they well prescribed?
+
+Participant 8: Yeah. Yeah. So for example, on the review side, yes, and even on projects like on the review side.
+
+Participant 8: Typically, we would own we would be responsible for a couple of teams. So all those reviews would be automatically assigned to that person. That person would be added to the relevant meeting. So that person is the
+
+Participant 8: point of contact for those reviews, and is expected to handle that and then also, everyone is expected to work on a project which is a more long term engagement, and then the product contribution is
+
+Participant 8: kind of not completely well defined, because the project evolves. But it's up to the person to kind of
+
+Participant 8: drive it, and,
+
+Participant 8: you know, make it possible to some extent help partner teams and build something with them. So that is where things are more open ended. But still you have clarity on. Okay, this is the project I'm working on. And
+
+Participant 8: let's see what we can do here.
+
+Liam: Got it. So you would agree with the statement that the sort of responsibilities or expectations your employer had. Where, then, in alignment with the actual day to day work you were doing.
+
+Participant 8: Yup, yeah, yeah, definitely.
+
+Liam: Up.
+
+Liam: got it? And then the next question in the next question, we're trying to differentiate between what you do for work and the things you do outside of of your work. Are there any additional responsibilities you feel you're expected to take on in your role.
+
+Liam: such as to to society or other organizations, or even yourself.
+
+Participant 8: I mean towards privacy itself. Right?
+
+Liam: Yeah.
+
+Participant 8: I mean not something that the employer
+
+Participant 8: explicitly mentions, but it's always good to give talks, and I'll have external visibility. I think that's more of an expectation in my current role, because we want to be more
+
+Participant 8: public on some of the things and kind of
+
+Participant 8: yeah, perhaps submit and talk at
+
+Participant 8: some of the, you know.
+
+Participant 8: privacy engineering conferences or workshops. So, yeah, that's something I would see.
+
+Liam: Gotcha. And now,
+
+Liam: talking about your skill set, what skills were demanded of you when you started your current role.
+
+Liam: Take care.
+
+Participant 8: Demanded.
+
+Participant 8: I don't think anything was demanded.
+
+Participant 8: So I I mean, it's it's just a learning curve, right? So
+
+Participant 8: you learn the skills
+
+Participant 8: you have a background.
+
+Participant 8: I mean, folks in our team had a privacy issue, I mean, either cryptography or different privacy background. So we had a good
+
+Participant 8: sense of
+
+Participant 8: what solutions might work then the other things we
+
+Participant 8: it was expected that we learn on the job.
+
+Participant 8: So.
+
+Liam: Okay. So for both
+
+Liam: your current role at [COMPANY] and
+
+Liam: the role previously at [COMPANY], would you say there wasn't clear defined skills that were necessary, but just more experience or prerequisite background that like allowed you to to be fit for the role.
+
+Participant 8: Yeah. And and I don't think that you necessarily need
+
+Participant 8: strong. Phd, or I mean, that's not the only way to be successful in this role.
+
+Participant 8: Yeah.
+
+Liam: Okay.
+
+Participant 8: But yeah, I think an ability to learn
+
+Participant 8: a passion for privacy that I mean, you should feel that
+
+Participant 8: pinch. Or if you hear something. Okay, this is recording users data without consent. Or this is this, feature is tracking someone's live location without notifying the user.
+
+Participant 8: You should have that gut feeling. That's not okay. So I think that gut feeling is important. Rest of the things
+
+Participant 8: can be learned because that that is your first line of defense that you have that gut check. Okay, this is not okay. And then you can.
+
+Participant 8: Then you can learn how to
+
+Participant 8: mitigated, or those are things I think you could learn.
+
+Participant 8: But if that.
+
+Liam: Like out of it.
+
+Participant 8: I don't know if that gut can be.
+
+Participant 8: learn, maybe it can be, and I don't know how it can. I mean that's what is checked in interviews, I I think, typically.
+
+Participant 8: do you have? Do you have that gut check?
+
+Participant 8: That is what typically I've seen, and
+
+Participant 8: privacy engineering interviews that they'll describe and feature or send.
+
+Participant 8: Do you spot the right issues?
+
+Participant 8: So that's it.
+
+Liam: Gotcha.
+
+Liam: Yeah, that's super interesting.
+
+Liam: And are there any additional skills that you currently are using.
+
+Participant 8: I mean general skills. Right? I I feel this is a very collaborative role. So you have to be able to communicate. Well.
+
+Participant 8: express your idea as well.
+
+Participant 8: And
+
+Participant 8: how you handle conflicts, or disagreements, because
+
+Participant 8: it's not always a clear path so, being collaborative.
+
+Participant 8: but also putting your foot down when it's needed. So those people skills, communication skills are also pretty important, especially in a role such as reviewing. And if you're talking to other teams. If you are more on the SWE side breeding privacy systems.
+
+Participant 8: maybe, and that's less relevant but
+
+Participant 8: I would say this more for the review role or
+
+Participant 8: yeah product facing roles.
+
+Liam: Got it. Now, shifting to talking about reporting and deliverables in your work.
+
+Liam: And again feel free to to answer this in the context of your previous role, Asap or [COMPANY], just given, things might not be as well defined. Currently. The first question I have, though, is, who do you report to, or who did you report to.
+
+Participant 8: yeah, so at [COMPANY], it was like earlier, when I started it.
+
+Participant 8: I, mean.
+
+Participant 8: who do you
+
+Participant 8: meaning like.
+
+Liam: What role? Not specifically their name.
+
+Participant 8: Yes. What do are you looking for?
+
+Liam: The role that that person was in, that you were reporting to.
+
+Participant 8: Yeah, I mean, I see. I mean, I guess you wanna know where it the arc sits right like
+
+Liam: Exactly.
+
+Participant 8: It is in within INFOSEC the broader security organization.
+
+Liam: But 7.
+
+Participant 8: Not
+
+Participant 8: so. Yeah. My manager, my director reported to the CSO.
+
+Participant 8: Of
+
+Participant 8: so. And even at right now at [COMPANY], it's similar. My manager reports.
+
+Participant 8: I mean to
+
+Participant 8: a VP that we we reports to the CSO of cloud. So it's kind of the CSO.
+
+Participant 8: Functional function at both places.
+
+Liam: Got it.
+
+Participant 8: I know there's a lot of various variants here
+
+Participant 8: in some places privacy engineering reports to the chief product council on the legal side at [COMPANY]. I know that the privacy engineering org reports into the product.
+
+Participant 8: So yeah, it's
+
+Participant 8: kind of ladies.
+
+Liam: Got it?
+
+Liam: And what deliverables are required from you and your role.
+
+Liam: for example, do you write code research reports? Review.
+
+Participant 8: Yeah, so.
+
+Liam: And.
+
+Participant 8: At [COMPANY]. It was, yeah. A lot of documentation for reviews.
+
+Participant 8: Their analysis.
+
+Participant 8: and kind of
+
+Participant 8: of
+
+Participant 8: yeah notes. So that was for the reviews, then for the projects. Sometimes code more of pseudo code kind of helping the engineers not production code, though some people in our team do enjoy that and do production code as well
+
+Participant 8: at [COMPANY]. I didn't. I? I did some pseudo code so that was deliverable. And
+
+Participant 8: yeah, I would say documentation and maybe
+
+Participant 8: pseudocode and then documentation in itself is a huge
+
+Participant 8: thing. I mean, there's documentation for
+
+Participant 8: just closing out reviews for internal purposes, sometimes documentation for
+
+Participant 8: more externally for product teams, especially if if
+
+Participant 8: there are issues that you want to point out for a broader audience and then the other
+
+Participant 8: more technical would be design docs
+
+Participant 8: view right with the engineering teams.
+
+Participant 8: So yeah, within docs as well, there's multiple things.
+
+Participant 8: And yeah, I think that here in my role at [COMPANY] also, it would be similar.
+
+Liam: Got it? Okay? And how were those deliverables evaluated by your manager?
+
+Liam: What kind of metrics were they using, if or was it qualitative.
+
+Participant 8: Hmm, evaluated.
+
+Participant 8: Yeah. So on the review side.
+
+Participant 8: basically, if there's something tricky.
+
+Participant 8: Then.
+
+Participant 8: yeah, first, yeah, is that is the document well written in terms of, does it identify all the issues correctly? And are the mitigations well thought out?
+
+Participant 8: So
+
+Participant 8: that's
+
+Participant 8: one metric of evaluation. How well written it is. But then
+
+Participant 8: is it
+
+Participant 8: getting
+
+Participant 8: good comments? Feedback from
+
+Participant 8: the our partners who we intend to engage?
+
+Participant 8: yeah. And then for projects the tech technical. The design docs are evaluated on
+
+Participant 8: their technical depth. How?
+
+Participant 8: how technically deep is your solution? And
+
+Participant 8: have you considered all the cases thoroughly? Do you understand the system
+
+Participant 8: that you're solving thoroughly?
+
+Participant 8: so those would be.
+
+Participant 8: yeah. Those would be some metrics.
+
+Liam: Okay? And now moving on to a topic regarding challenges and strategies.
+
+Liam: the first question I have
+
+Liam: is, are there any tools, techniques, or standards. That create challenges for you.
+
+Participant 8: Create challenges.
+
+Participant 8: Not really. I. I can't.
+
+Participant 8: Yeah. I mean, sometimes the review load gets higher and then
+
+Participant 8: but I don't think that's
+
+Participant 8: a specific tool, or anything that is to be blamed.
+
+Liam: Ok.
+
+Participant 8: Yeah, so.
+
+Liam: Are there any challenges related to your organizational or reporting structure that create that you face?
+
+Participant 8: Sometimes I mean, yeah. I mean.
+
+Participant 8: sometimes what happens is
+
+Participant 8: the High Level
+
+Participant 8: company policy changes. How you want to
+
+Participant 8: view privacy. So that could affect, and that could be a big change for you.
+
+Participant 8: Especially in an area such as add privacy, because it's directly related to revenue of the company. So then, it's it's a very executive decision on
+
+Participant 8: sometimes it can be on, you know,
+
+Participant 8: how to use those levers and then
+
+Participant 8: Now, that could affect the power or the say that privacy has that
+
+Participant 8: an organizational challenge sometimes.
+
+Liam: Got it. And are there any explicit
+
+Liam: strategies or tools that you
+
+Liam: used yourself, or saw your sort of
+
+Liam: overall team use to to sort of
+
+Liam: correct some of that maybe goal misalignment.
+
+Liam: or overcome some of the challenge that that imposed.
+
+Participant 8: Yeah, I mean, at such a point you need some higher up alignment to see where we are going. And then.
+
+Participant 8: yeah, and sometimes could require you to be more
+
+Participant 8: on a compromising role.
+
+Participant 8: sometimes, because that's what the business needs. Sometimes. So
+
+Participant 8: yeah, that could be an option and that could be hard for a privacy engineer, if kind of, you know, you sometimes know that
+
+Participant 8: there are these issues. But if you know, the business decides that it's not something we can give priority right now.
+
+Participant 8: So
+
+Participant 8: yeah. But kind of finding that support.
+
+Participant 8: if not in the short term, then, in the long term that okay, if you're not able to address this right now, then, maybe we can have a plan for it.
+
+Participant 8: Oh.
+
+Participant 8: or just communicating better sometimes. You know. Maybe you've not highlighted the risks enough for your
+
+Participant 8: management team to understand the risks. So
+
+Participant 8: is that something you could do better. So yeah, things like that.
+
+Liam: Got it. Okay. Now, moving on to the last topic regarding success metrics and the impact of your work.
+
+Liam: Broadly speaking, how would you define success in the work that you do.
+
+Participant 8: yeah, success
+
+Participant 8: I think long term success would be when
+
+Participant 8: you know, product teams themselves preemptively, you know, start seeing privacy issues. And they don't even come to you.
+
+Participant 8: Like, okay, this is a problem. We will add this fix and maybe just let you know. So that's when I think you've been really successful in a specific
+
+Participant 8: product domain, that you have educated them enough, that they themselves are privacy ambassadors, and your job is done
+
+Participant 8: there. So if you could do that
+
+Participant 8: slowly for the entire org then that has 2 benefits. First of all, like the smaller.
+
+Participant 8: easier reviews will won't come to you. You won't have to spend much time on that.
+
+Participant 8: And then
+
+Participant 8: for the bigger not trickier issues, you will have good partners from the product team. And
+
+Participant 8: yeah, everyone understands
+
+Participant 8: that we are working together towards a solution that's good for the company.
+
+Participant 8: So that's long term success
+
+Participant 8: in my eyes. Okay?
+
+Liam: and it seems like you've alluded to it. But I I just wanna confirm understanding is the overarching goal. Then to distill this awareness of privacy within these product teams? Or what is the the overarching goal.
+
+Participant 8: Awareness and kind of just
+
+Participant 8: having that established in the org at all levels, that
+
+Participant 8: privacy is an important pillar of our product offering.
+
+Participant 8: And it's something that more and more users care about and
+
+Participant 8: something that is important to our offering. So just having that understanding and validation at all levels of the organization.
+
+Participant 8: That's that's success for me.
+
+Liam: Got it. And how do you think others evaluate the impact of your work?
+
+Participant 8: yeah, I think it's similar metrics. And then.
+
+Liam: Okay.
+
+Participant 8: Kind of yeah, sometimes the speed is also important, of course, because some things are urgent. And so are you able to
+
+Participant 8: get those accomplished in in the timeframes needed.
+
+Liam: Got it. Okay?
+
+Liam: Well, perfect. That was all the questions we have as as we close. I'd like to ask if there's anything else you haven't gotten a chance to mention, and you'd like to share with us.
+
+Liam: or you think we should know.
+
+Participant 8: Yeah, I don't know. I mean.
+
+Participant 8: I think one thing is
+
+Participant 8: the challenge that has that
+
+Participant 8: there have been regulations around privacy
+
+Participant 8: which you know, have resulted in
+
+Participant 8: fines for tech companies which
+
+Participant 8: until recently, or even until now.
+
+Participant 8: many companies take it like.
+
+Participant 8: it's okay, kind of, I mean, most companies I have heavily invested in their privacy engineering programs, but
+
+Participant 8: the repercussions
+
+Participant 8: are questionable compared to. If you have a security incident.
+
+Participant 8: it's
+
+Participant 8: much more severe.
+
+Participant 8: The CSO can
+
+Participant 8: land up in prison that has happened.
+
+Participant 8: So.
+
+Participant 8: So in a. In that sense, I feel
+
+Participant 8: security is taken still more seriously than privacy.
+
+Participant 8: Yeah, and security is more clearly defined as well. Privacy is more subjective, can be a little bit.
+
+Participant 8: But
+
+Participant 8: yeah, I think this trend is changing. The fines are going
+
+Participant 8: up and up
+
+Participant 8: in a way that
+
+Participant 8: companies cannot have that policy, that okay, we'll just pay up the fine and see what happens. So that's good.
+
+Participant 8: hopefully, the customer or the user awareness
+
+Participant 8: improves even further.
+
+Participant 8: So yeah, I mean, those are, I think, some challenges I feel for the field overall.
+
+Participant 8: which?
+
+Participant 8: Yeah, which I think are getting better. Yeah.
+
+Liam: Okay. And now, finally, of course, give you time to ask any questions that you may have.
+
+Participant 8: Yeah, I mean, I would love to hear what's your eventual
+
+Participant 8: goal or the output you would have after this research. And
+
+Participant 8: what are the kinds of people you are interviewing.
+
+Liam: Yeah. The end goal is to definitely have a
+
+Liam: a written, deliverable, a report, a compilation of kind of all these interviews that we've done
+
+Liam: and extract some some findings from the interviews.
+
+Liam: Nikita probably has more input on, possibly submitting the the paper to the conference. Or how it's gonna be shared. Of course it'll be shared with you when when we're done with it.
+
+Liam: But yeah, do you have anything to add to that, Nikita.
+
+Nikita: Yeah, I just yeah, just want to follow up. And basically take the long as you were saying so.
+
+Nikita: the big deliverable we're hoping to produce is a research research article so hopefully. But then, within the year.
+
+Participant 8: The.
+
+Nikita: It's gonna be it's gonna be available. And of course, once we have public results available, we'll share that with you as well, and yeah, we kind of want to. And you were asking what kind of people were participating. So we, of course, cannot name specific names. But basically, we shared this
+
+Nikita: service screen survey the one that you filled out previously with our networks. And people who consider themselves to be privacy engineers were the ones who responded right. And then we had the same conversation for them. So that was, I feel, quite a nice range of views that we've been getting so far.
+
+Participant 8: I see
+
+Participant 8: nice, and so are you also covering privacy engineers from different stages of their career?
+
+Nikita: Any stage. Yeah. So there's there are some restrictions. For example, if someone never had any industry experience, we're less interested in talking to them even though we acknowledge that you know privacy could be considered so broad that maybe the goods individuals who work only for the government, or only in academia. So that's one of the kind of filters that we had, but otherwise we were pretty open about.
+
+Nikita: You know your seniority, your level and company, or even as long as they consider themselves to be doing privacy and work. We were very happy to talk to them, to see why is that the case? Why are they saying that? And can they add something useful to the conversation?
+
+Participant 8: Got it. And how many interviews are you hoping to? Kind of cover before your
+
+Nikita: Yeah.
+
+Nikita: we yeah. So actually, we had a goal of about 20 tributes. But I'm happy to say that we're ready on our 20 fifth. So we're kind of over over achieving our kind of state of goal there. Mainly because, we have, we had quite a lot of feedback, and just sort of up for support from members of the community who wanted to talk to us. And and I think it's it's great like I'm I'm only happy to
+
+Nikita: talk to more people to see we're missing some of the views. And so but I think we're at the point where we're slowly finishing up, racking up with the interviews and do more of the analysis side of things right now.
+
+Participant 8: Got it. Yeah, best wishes for your, you know, remaining interviews and as well as your analysis. I look forward to seeing the report. And yeah, let me know if I can help more.
+
+Nikita: Of course. Yeah. As you as you mentioned that. And we actually have this. Well, the link to the screen survey. If you happen to know anyone who might be a good fit for the study, feel free to send them this link. You know, of course, no pressure. But we are trying to also solicit some kind of like invitations from people who are in the community because we might be missing someone, and maybe their opinion is also very important for us to hear. So that's one thing and otherwise. Yeah.
+
+Nikita: if you at any point have any questions or just want to check in. Yeah, just feel free to send me an email, and I'll let you know what's the status of the study.
+
+Participant 8: Definitely. Thank you. Thank you, Nikita. Thank you.
+
+Participant 8: pressed.

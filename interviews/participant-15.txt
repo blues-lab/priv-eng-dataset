@@ -1,0 +1,777 @@
+Nikita: And now that the record is on, could you please consent that, could you please repeat that you consent to being recorded.
+
+Participant 15: I consent to be recorded.
+
+Nikita: Awesome, and I'm also obliged to tell you that your identity and anything you share with us will be kept confidential, and will only be heard and read by the researchers in our study.
+
+Nikita: Of course, please know that this interview is designed to be a conversation, and so there are no right or wrong answers, and, as I said, you can skip any question or pause the interview at any time. Do you have any questions before we begin.
+
+Participant 15: No no questions right now.
+
+Nikita: Awesome. Okay? Well, we're gonna touch upon 6 different topics. And I'd like to start with just some general questions about your work. So could you tell me briefly about what you do in your job?
+
+Participant 15: Yeah, so I am a senior privacy engineer, and I work on the offensive privacy team.
+
+Participant 15: going to keep the company name out but I work on if it's a privacy team. So I work on a reactive investigations, which is, if there is a privacy incident. I will be a responder to determine the root cause of that privacy incident. So that means looking at code and looking at code. Looking at web traffic kind of figuring out how
+
+Participant 15: something may have gone wrong from a external point of view. And then, when I'm not acting reactive, I we do like really a proactive investigation. So we'll pick a product
+
+Participant 15: from this company, and then we'll review that product for any kind of privacy violations. Some security, violate some security vulnerabilities. But we're mostly
+
+Participant 15: look for any privacy vulnerabilities and forms in forms of data, collection, purpose, limitation. We look at the data flow. We look at how other users use that use that feature. And yeah, that's what I do.
+
+Nikita: Very exciting. You mentioned multiple times, the word privacy. Could you also define this term as you normally use it in your work context.
+
+Participant 15: Yeah. I feel like privacy for me is more about.
+
+Participant 15: Well, I I like I always like to.
+
+Participant 15: Compare it to security while security like
+
+Participant 15: secures an environment for data privacy is more concentrated on the management. And like the discoverability
+
+Participant 15: of of data. So and I guess discoverability. Let's see management of data.
+
+Participant 15: Well, I'm forgetting something else. But I I'm I'm gonna stick with those 2.
+
+Nikita: Yeah, yeah. And that sounds good. And if it comes back to you, feel free to mention that as well. And so you mentioned that you're a privacy engineer. Maybe you could describe the roles in the industry that are related to privacy engineering.
+
+Participant 15: Like different jobs that are under privacy engineering.
+
+Nikita: Or just generally. What would you say? Are roles that exist that, you know, are kind of adjacent or related to privacy, engineering.
+
+Participant 15: Yeah.
+
+Nikita: And so.
+
+Participant 15: I think I've seen a couple of roles. That privacy engineers can take like there's like one role which is more of like a on the privacy reviewing side. Which comes before a product is launched. And so you'll have a privacy. Engineer. Review maybe the design of a product
+
+Participant 15: to inform privacy, choices or design before that product is launched. So I've seen like that subset of privacy engineers. And then I've seen other subset privacy engineers where their software engineers that happen to do privacy. And so those folks will work on
+
+Participant 15: yeah, privacy software.
+
+Participant 15: but from purely from just like a building standpoint. So not the reviewing standpoint. More of like, I'm gonna build this tool, this product. And then there's some people like kind of in the middle where it's like they have the skill set of being a security engineer, but they happen to be just working on privacy, and so I feel like I fit into that one.
+
+Nikita: very insightful. And kind of like, you know, picking up on that how would you define, a privacy, engineer.
+
+Participant 15: that's a good question. I think I define a privacy engineer as someone who's just
+
+Participant 15: whose primarily interest is in
+
+Participant 15: kind of improving privacy posture, no matter where where it is in the like software development cycle. So I think because privacy engineer doesn't.
+
+Participant 15: it's not just in like one part of the cycle, like, I feel like there's like a software engineer that focuses on like maybe like the back end on the front end in the same way as a privacy engineer can work on the back end or the front end. And there's like so many different types of engineers. So. I guess I would define someone who uses their current skill set to improve privacy posture wherever that may be. And yeah, I think that's how I would define it. I never got that question, so I was like, Oh.
+
+Nikita: You know we we tried to ask kinda insightful questions here, but now, thanks for your answer there. So I'd like to move on and talk a bit more about your career journey. And so I'd be curious to ask you, how did you become interested in privacy engineering as a career.
+
+Participant 15: It started off when I did a fellowship at the [INSTITUTION]. There was a they were implementing some kind of federated learning
+
+Participant 15: Federally learning on like 2 different data sets and from a security standpoint, everyone was like, Wow, this is really exciting technology like we should continue using this. But then,
+
+Participant 15: while I thought it was impressive, I was like, also concerned about the 2 different types of data sets that they were trying to correlate and not correlate at the same time. And so
+
+Participant 15: I think. And then that's like where it kind of started is just like I started questioning this, and then I had, like an advisor who was like, Oh, my God, yes, you're totally right like this. This
+
+Participant 15: this kind of violates privacy of like X amount of Americans da da, da, and so like, it became like a little passion project, although, like my primary project had to do with something completely different. And yeah, I never got over that feeling. And so then I applied for internships in the same field like privacy. Engineer. I ended up finding one. And then, yeah, that's the rest is history. From there.
+
+Nikita: Makes sense. And so that's kind of more. Are you got to your current position? But what motivates you to continue pursuing privacy? Engineering as part of your profession.
+
+Participant 15: Well, I think it's concerning, I think, one of the things about privacy, or like a slogan that like I like to keep in mind is that like when it comes to privacy, the main concern is like just not being creepy like. Just don't be creepy, and like oftentimes we find like that, technology is creepy, like in terms of surveillance in terms of data collection and things like that. And
+
+Participant 15: the more that I'm in the industry, the more I'm realizing, like these problems never really go away. But people sentiment towards the creepiness does go away, and that scares me right? So like, while the implement, like a pixel on a page that collects your social security number. Some people be like, Oh, yeah, that's fine. It's for analytics, for ads, and it's like, Well, that's still creepy, and you shouldn't be doing that anyways.
+
+Participant 15: And I'm realizing that like there, there are very few people who will have this type of anxiety?
+
+Participant 15: just to question this type of behavior. So I think it's like, still very important for privacy engineers to be around and question
+
+Participant 15: the the reason why we track the reason why we do this. The reason, you know, question privacy and continuing to question it. Yeah, that makes sense.
+
+Nikita: No, no, it makes total sense. Yeah, it sounds like one of the goals you have for the position you have is sort of like, you know, reducing this creepiness factor. If I could say that right by sort of like being proactive and and analyzing for any privacy violations, could you also speak? Maybe? What do you you enjoy about the work that you do?
+
+Participant 15: Yeah, I'm
+
+Participant 15: I I really enjoy
+
+Participant 15: how versatile my role is to be honest. There's so many different ways that people try to be creepy. And I'm I'm gonna say, being creepy as in like a privacy
+
+Participant 15: vulnerability as describing us finding privacy vulnerability cause that really is so there's like so many different ways that people want to be creepy. And I feel like the landscape always changes like we build something new that's supposed to be priority preserving. And then someone finds a loophole. And so the problem is never the same. And so every day when I come into work it's always different. And I, I find that like really motivating is just like knowing that like.
+
+Participant 15: I'm always growing and educating myself because it's like, I never know what the new creepy thing is. And I find that exciting, so I feel like it never gets boring.
+
+Nikita: Makes sense. Do you feel like there are any other personal? Goals? You have for this job, or not really.
+
+Participant 15: Personal goals for this job. Well, we definitely wanna go more public. So that's like one of the goals. That we're trying to do so hopefully, you'll see me at a conference soon, or something. So we're working on. We're working on kind of publishing what it means
+
+Participant 15: to be to be. I don't know if that's a privacy team. I know there's a there's like another company, [COMPANY], that has like a privacy red team. But I think
+
+Participant 15: the way that our team functions is so different.
+
+Participant 15: and yeah, hopefully, that'll be released soon.
+
+Nikita: yeah, I hope so, too. So let me ask you a question, about, the future so let's say, a year from, now, do you see yourself in the same position? And what I'm asking here is more about the responsibilities you have as opposed to a new specific job title. Let's say.
+
+Participant 15: A year from now, I think from a year from now, I'm like, maybe but hopefully, part of my job will be automated. So I think I think like in some ways like I think the job will still exist, because if there's no way that like
+
+Participant 15: anyone can keep up with, like the amount of creepiness like at each company. There's about like
+
+Participant 15: 4, like a team of 4 or 5 people looking for creepiness. And so like
+
+Participant 15: that scale versus the 7 million people trying to be creepy is never going to be balanced right? There's only so much like tools. We can build to try to check all these things. But because technology changes because the landscape changes, it's always going to be there. So in the year. I can imagine myself doing the same job.
+
+Participant 15: just probably just different techniques. I'll learn along the way, and maybe.
+
+Participant 15: Hopefully some kind of automation. But
+
+Participant 15: yeah, it hasn't been done before, so we'll we'll see if it can be done. Now.
+
+Nikita: Yeah, yeah. Makes sense. So like to move on and talk about your day to day responsibilities. So could you give me an idea what a typical day a job looks like for you.
+
+Participant 15: Yeah. So
+
+Participant 15: wow, typical day.
+
+Participant 15: Looks like,
+
+Participant 15: I don't know. Maybe I should give you a crazy day. Maybe I should give you today, which is also crazy. So typical day for me, it looks like, I typically have like a project that I'm always that I'm
+
+Participant 15: assigned to per quarter, or that I created for the quarter. And that's like my proactive investigation. So what that looks like is like it's like I spin up an environment that imitates the real, the real feature, the real world. And then I try to perform some attacks or or I read up on our current external commitments or policies and try to make tests out of that and create
+
+Participant 15: and create edge cases from those so like. If the policy says
+
+Participant 15: on the privacy policy. It says something like
+
+Participant 15: for young users. We won't allow X. I'll note that down, test it, and then try to see if I can bypass X, or if there's edge cases where I can do X, and so that's kind of what my organizational
+
+Participant 15: day to day looks like and then on a day like today, where it's reactive, a lawyer may reach out and say, Hey.
+
+Participant 15: got this? P. 0 0 incident that just came in. I need some technical
+
+Participant 15: technical evidence or proof that this has actually been happening. We've got it from an external person. Can you validate it. So I'll spend
+
+Participant 15: part of my day kind of
+
+Participant 15: reviewing this incident.
+
+Participant 15: and work with like an analytics team to find out the impact analysis and things like that. But my main goal is just to figure out like, Okay.
+
+Participant 15: some external person did something creepy. Can I do it again, and how fast can I do it? And also can I do it? How many different ways can I do the creepy thing?
+
+Participant 15: and yeah, that'll take me until for no, that'll take me until the end of the day. Until I find this creepy thing, and then I'll re-engage with legal. And Pr, to make sure that we're communicating like the the most accurate information.
+
+Participant 15: I hope that makes sense. I feel like my days are always a little bit crazy.
+
+Nikita: Makes all sense it kind of goes back to what you were seeing in the beginning about the 2 sides of your work, with the proactive side right with the privacy red teaming, and then the reactive side which you just described with working with the legal team? I guess. Is there anything else? Or is that my a correct understanding that I have.
+
+Participant 15: Yeah, yeah, that's I think those would be 2 parts of my day another part of my day. So I do manage a team. So I do go through like my rounds with, like my other reports. I also research a lot. So I'll spend part of my day.
+
+Participant 15: not today, but like another day kind of researching like, oh, what are some new tools out there? I know. [CONFERENCE] just or like. Look at the [CONFERENCE] conferences. Look at the different conferences and see like you know, what's been out there their new technology and try to bring that back to the team
+
+Participant 15: to see if we can find new vulnerabilities.
+
+Nikita: Great. Yeah. So would you say, or I guess, what responsibilities would you say your employer expects you to take on at work.
+
+Participant 15: expects me to take on for work.
+
+Participant 15: yeah, I guess this.
+
+Nikita: Yeah. And I, I just just just to clarify the intention here. I think what we're trying to see is whether there's anything that maybe you're expected
+
+Nikita: to do. But you know, maybe it's either not really what you end up doing. Or maybe there's like some disconnect. Let's say, between what you actually do on your job, and what's like the expectation but maybe not. So maybe you could say a few things about that.
+
+Participant 15: hmm.
+
+Participant 15: I guess. Okay, yeah. So like, I guess
+
+Participant 15: I mix.
+
+Participant 15: I guess there's a okay. I I want to answer this in 2 ways. And then so one of the ways is that I think there's 2 perspective. I think my direct employer, like organizational lead
+
+Participant 15: in terms of the scope of my work is exactly what I should be doing. Like I should be disrupting business. I should be finding privacy, vulnerabilities. From a legal perspective. They would like me to stop doing that on a proactive basis, because the more privacy vulnerabilities I find, the more they have to report, the more they the more unexpected things happen. In terms of like there's a court hearing
+
+Participant 15: that they're, you know, engaged in. But then I end up finding more vulnerabilities. So they're now like, the
+
+Participant 15: technical evidence needs to change. And so, like
+
+Participant 15: all this stuff happens too quickly.
+
+Participant 15: So I think in terms of legal. They would like me to stop
+
+Participant 15: unless they need me and then from an organization, and then from like a department standpoint. I think
+
+Participant 15: the scope of my job.
+
+Participant 15: they would like me to do this and continue to do this. But there's like a constant battle between
+
+Participant 15: what the business
+
+Participant 15: what the business wants in the business, what the business needs, and so like.
+
+Participant 15: like for my department.
+
+Participant 15: It's more of like, oh, the business needs this. And then, for, like the legal departments like, oh, we would want this, but it needs to be controlled.
+
+Participant 15: And so it doesn't.
+
+Participant 15: The nature of my job doesn't really work on the basis of someone. W wanting to put limitations on us. And so that makes it difficult. I hope that makes sense.
+
+Nikita: No, it makes sense. Yeah, yeah. And I mean, you know, I think your initial reaction was that maybe there isn't even that much of a difference which is also fine.
+
+Participant 15: Yeah.
+
+Nikita: But let me ask you something for this next question. We're trying to differentiate between what you do directly for work. The things you mentioned, and also the things that you do outside of your work. So would you say there are any additional responsibilities you feel you're expected to take in your role such as to society or others in the organization, or maybe even to yourself.
+
+Participant 15: [REDACTED].
+
+Participant 15: Oh, I guess like an an unexpected role that's outside of like, what I do is just like just like a education privacy, education, or advocacy towards the company, so it becomes really difficult to communicate privacy, vulnerabilities or priorities to other engineers.
+
+Participant 15: cause. They just don't see it that way. They're just like, Oh, whatever I don't, I don't really get this. It's not really a high priority, but for privacy. It's very high priority. That whatever we find needs to get fixed. So in a way, it's like creating trainings
+
+Participant 15: becoming like a privacy champion, and making sure that everyone's lived in, and agrees that this is important, not just like for my team, but for
+
+Participant 15: all all the users that we have
+
+Participant 15: and then outside of work.
+
+Participant 15: Well, I've taken a step back from outside of work, so don't have much to conclude here.
+
+Nikita: Yeah.
+
+Participant 15: To to talk about here, but I've tried to just concentrate everything. I work at the moment. I've been slowly getting back into the community. And so what that means is just like educating people on like what offensive privacy is because a lot of people don't know what that is
+
+Participant 15: And then
+
+Participant 15: it's like describing how it could be beneficial to a company or to a function. And so I feel like as I'm slowly getting back into the community. These conversations happen because they're like, Oh, what? What is offensive privacy is that like just security? And I'm like.
+
+Participant 15: no. And then I didn't like describe everything about it, but I think that's my extent right now.
+
+Nikita: And those discussions usually happen within the company, or is it kind of more broader than that.
+
+Participant 15: No broader like so like I've been going to a few [EVENTS]. In [CITY] for like privacy and privacy engineering. There's one with like [EVENT], or something like that, and, like most of the conversations, were like, Hey, I do this as in me. It's like, Hey, I do offensive privacy and a lot of people being like, Oh, so you do security. And I'm like, Yeah, no, no, I I do. Privacy, full time privacy, and it was like really hard to
+
+Participant 15: it was really hard, for, like these other people who are privacy legal or privacy reviewers or
+
+Participant 15: they work in a space like ads. But on privacy issues. To understand that like, oh, there's someone actually
+
+Participant 15: like an engineer that's not building the product. But an engineer that's finding vulnerabilities exist.
+
+Nikita: Name.
+
+Participant 15: And educating them on that. And it's just like, no, it's not security. It's fully privacy like. That's what we work on all the time.
+
+Nikita: that makes a lot of sense. Yeah, thanks for sharing that so i'd like to also talk about your skill set actually and could you tell me what skills word demanded of you when you started your current role.
+
+Participant 15: a bit of like
+
+Participant 15: coding readability skills. So that was like something that was needed.
+
+Participant 15: I guess, like basic communication skills was needed. and I say basic, just because it's like a most of the job. Once you find a vulnerability is trying to communicate to everyone that it's important. Especially people like lawyers,
+
+Participant 15: and sorry, especially to people like engineers, that it's important.
+
+Participant 15: let's see,
+
+Participant 15: I guess some basic security knowledge just to understand, like, how can you leverage a tool to get what you need? Because I think that I don't think there aren't really like a lot of privacy tooling that you can use to discover
+
+Participant 15: vulnerabilities or understand. Data flows or understand
+
+Participant 15: how
+
+Participant 15: privacy safeguards are implemented. So like, it's very hard like there isn't like
+
+Participant 15: there isn't like a dynamic analyzer tool for privacy or anything like that. And so it's like really trying to leverage these security tools to then get your privacy vulnerability, not necessarily
+
+Participant 15: knowing
+
+Participant 15: knowing a SQL. Injection, but understanding how it would happen. And if it would, if it may be possible, or like knowing what an id door is, and how that could implicate our privacy.
+
+Participant 15: so kind of like these smaller details. So nothing too advanced.
+
+Participant 15: and
+
+Participant 15: Oh, and understanding of like privacy law, I think that was so important.
+
+Participant 15: because, like a law regulation,
+
+Participant 15: those things.
+
+Participant 15: A lot of people don't know about those they just like. I don't know. I've been interviewing a lot, and I'm realize, like a lot of people just don't know about like privacy regulations, or they just think
+
+Participant 15: one regulation exists for like every country. And so that that was really interesting to find out, so yeah, I think those are like the main skills that I needed.
+
+Nikita: Yeah, that's fascinating. So yeah, you mentioned reading code, the communication skills kind of knowing security concepts and the privacy regulations. Would you say there is any sort of like any other skills that you currently use in your job that maybe you didn't use when you just started your current role.
+
+Nikita: or that you didn't think would be needed, basically.
+
+Participant 15: I don't think
+
+Participant 15: Oh, I guess kind of like
+
+Participant 15: I like threat modeling wasn't something that like I used before.
+
+Participant 15: but I needed to. That was something interesting. That was something I learned like in the past, like year
+
+Participant 15: had to have.
+
+Participant 15: or something like that. Yeah, so that was interesting. That was like a new thing that I learned and while talking to like other industry, people around with the same, with the same title, they are also looking for folks doing that.
+
+Participant 15: also.
+
+Participant 15: my God! What does it call a prompt engineering? I think that's literally like a new thing for privacy now. And so that's something that we're working on. I'm working on like a
+
+Participant 15: AI project. So that was like a new skill that I had to learn about
+
+Participant 15: and then.
+
+Participant 15: huh!
+
+Participant 15: Oh, I can't remember. Oh, and like just a little bit about like how machine learning works.
+
+Participant 15: how Ml works in term, and then
+
+Participant 15: for me, specifically, in terms of like what kind of like attacks or attack chain. So we can perform on machine learning models. That was interesting. I didn't like know that beforehand. And
+
+Participant 15: yeah. So those are like, kind of like, the 3 new skills that I'm learn learning and have learned.
+
+Participant 15: Yeah.
+
+Nikita: That's interesting. And would you say, speaking about the interviewing process for this role? Was there any difference or not between the skills you were expected to demonstrate at the interview as opposed to the skills that you know you were just discussing right now.
+
+Participant 15: Sorry. Were there any differences.
+
+Nikita: Yeah, were you expected to demonstrate? Maybe some of the skills that now that you feel like you're not really using anymore. But they were sort of required for you as part of the interview process.
+
+Participant 15: what I'm so sorry. So I guess, like from like the first skill sets. There isn't really much a difference when I did interview. So those first skill sets. I think those were like kind of the baseline but like, if
+
+Participant 15: and then the skills I learned now, weren't really introduced into like my like when I was interviewing. So there wasn't like any delta like it was just like those didn't exist at the time.
+
+Nikita: That makes sense. Yeah, I guess sometimes some, you know, participants would mention how. Maybe they were asked to demonstrate proficient coding skills. But then they actually don't have to do that on the job, or vice versa. So, but it sounds.
+
+Participant 15: Oh! Oh!
+
+Nikita: In in in that sense. Yeah, maybe maybe maybe you recall something from your experience, or maybe there was a good fit, and then you don't see the difference which is also fine.
+
+Participant 15: Yeah, so I so like coding like,
+
+Participant 15: I guess. Hmm.
+
+Participant 15: no. Actually, I think most of the interviews are actually pretty pretty good. Actually, now that I think about it,
+
+Nikita: Perfect. Yeah, yeah.
+
+Participant 15: Yeah, they're they were pretty aligned. They're very specific. So like, it was like,
+
+Participant 15: very scenario based as in like they would give you something like a scenario, and it'd be like, Okay, write a script for this. And so you would write the script for it. Which is still something that like I do today.
+
+Nikita: makes sense. Yeah, thanks for sharing that. Let's move on talking about reporting and deliverables in your work. So i'd like to ask, you? Would you report to, and does anyone report to you.
+
+Participant 15: Yeah, I report to the
+
+Participant 15: it's a flat work. So I'm I think, like 2 people.
+
+Participant 15: Sorry. 3 people removed from the CEO. So and so I report directly to the director of my organization, and then
+
+Participant 15: I have 4 people reporting to me.
+
+Nikita: Gotcha. And what are would you say? This is a typical reporting structure that you see in your profession or not really.
+
+Participant 15: yeah, I think, yeah, I think it's pretty typical.
+
+Participant 15: Oh, recording structure.
+
+Participant 15: yeah.
+
+Nikita: Yeah. And you mentioned, it's fairly flat as opposed to a hierarchical is that correct?
+
+Participant 15: Yeah. So we are actually a flat organization. So while I have direct reporting it doesn't show that in
+
+Participant 15: the actual org chart, we don't actually have an org chart also. So that's another thing.
+
+Participant 15: so I guess it may be different from like the way that, like other companies, do it.
+
+Nikita: Yeah, makes sense. And
+
+Nikita: could you also talk about the methods you use to
+
+Nikita: report to others? And we mean things like, you know meetings, emails, maybe some project management tools, maybe anything else here.
+
+Participant 15: So we just have like a weekly sync
+
+Participant 15: and then we have a project tracker. And so, like the
+
+Participant 15: my manager, could look at that. And also any relevant stakeholders can look at that. And we don't use any project management. Tools. It's just like this one project.
+
+Participant 15: Well, the company I work for also builds its own project management tools.
+
+Participant 15: so. But like there, there isn't like. But we don't really use a tool. It's more of like a talk that has like very complex. I can't describe it. There's very complex integrations. And so one of the integrations actually like project tracking, and so it syncs directly into
+
+Participant 15: the portal. Have you all used [TOOL]?
+
+Participant 15: Do you know what [TOOL] is? Alright? It's like a it's like a.
+
+Participant 15: It's like a [TOOL]
+
+Participant 15: but like with way, more integration. So like your calendar, your meetings, your docs, your tasks, your everything is integrated into [TOOL].
+
+Participant 15: into the into the platform, and so, like for project tracking, we have a tracker on a dock, and so whenever we want to ping someone it like sends a direct message into that person's DM, about that, doc.
+
+Participant 15: I don't know how to describe it, but it comes up as like another another notification. So, and then we have, like, just like weekly syncs,
+
+Participant 15: weekly syncs with the manager, and then weekly syncs with the reports. But we all kind of like
+
+Participant 15: like all the communications on mark and we all have group traps so like
+
+Participant 15: nothing's ever lost. And then there's we have a really good Pm, who is like the organizational Pm, which
+
+Participant 15: which is interesting because my one manager, the percentage I report to manages also like 5 different other teams. So this Pm. Will collect information from all the teams, collate it
+
+Participant 15: into another tracker.
+
+Participant 15: And that's how that works.
+
+Participant 15: I hope.
+
+Nikita: Yeah, the big that makes sense. Yeah, thank you for sharing that. You mentioned. Yeah, you mentioned that your 3 people removed from the CEO is there anything else about the team you work in, and the composition of reporting that you can talk about kind of like, you know what is sort of like who reports to whom kind of like situation.
+
+Participant 15: Who reports to whom?
+
+Participant 15: sorry can you give me like an example of this.
+
+Nikita: Yeah. So like, sometimes, for example, in some cases, you know, privacy, professionals might report to the legal, for example, and that might create some issues, or they might report directly to, you know, like, maybe the engineering team. And I'm just like curious, like how it is like in your case, if that's like something you could share.
+
+Participant 15: So this org?
+
+Participant 15: Hmm.
+
+Participant 15: so this org reports directly to the engineering office.
+
+Participant 15: yes.
+
+Participant 15: Legal is a partner, or is a dotted line into this into our function. And so is
+
+Participant 15: he.
+
+Participant 15: I think that's it. Yeah, that's what I can share.
+
+Nikita: Yeah, that that's that's great. Yeah, that don't worry about that. And let me. So let me ask you about the deliverables. So what deliverables are required are required from you in your role. So, for example, do you write code research reports, privacy by design, advice, or and so on. I know you mentioned some of them already, but if you could talk about it, that would be great.
+
+Participant 15: Yeah, deliverables is
+
+Participant 15: vulnerabilities. So the amount of vulnerabilities I find group calls root cause analysis reports. So like, for that's for the incidence detection, ideas. So how if I found the vulnerability from one how can we recommend detections to be built so that we we can detect them and remediate them better privacy guidelines. So as we're doing the
+
+Participant 15: as we find vulnerabilities. We draft a guidelines for a for the privacy
+
+Participant 15: for a privacy technical review team to then.
+
+Participant 15: when they when a new feature product comes out, they'll use our guidelines for them to influence. Their review to make sure that, like nothing goes
+
+Participant 15: nothing goes unchecked.
+
+Participant 15: alright so vulnerabilities. Detections. Oh, and
+
+Participant 15: re remediation recommendation so like privacy by design. So when we find a vulnerability, we think of ways of like how to make it better.
+
+Participant 15: And we partner with like the teams and legal about like how we'll change the infrastructure and everything else.
+
+Participant 15: I think that's it. So we have like kind of $5, both like guidelines, bugs.
+
+Participant 15: and
+
+Participant 15: recommendations in terms of detection and infrastructure. Change.
+
+Nikita: Yeah. And can you tell me more about why this deliverables are important? Your role.
+
+Participant 15: Yeah, so finding vulnerabilities is just like the nature of our job. But like, we don't wanna stop there. And so we also have like a sister team which is like our detection team. And so we wanna make sure that like, while we find the vulnerabilities that they never happen again, or a low chance of it happening again. So it's important for the detection team to have like, it's a privacy detection team. So they look for these detection
+
+Participant 15: and make sure that, like there's a low, like a hooded bit happening. We also want to improve the review process. So
+
+Participant 15: one of the things that we had found was like during a review process. A lot of things can go unchecked because it's like no one really knows
+
+Participant 15: like you have your checklist. But you're not really looking for those edge cases. And so my team does a really good job of finding those edge cases. So then we can check them during the review process. And so
+
+Participant 15: that's important for that. And so like
+
+Participant 15: So whatever new feature or product.
+
+Participant 15: you know they'll also check off the edge cases and then remediation recommendation for, like the actual infrastructure is important because
+
+Participant 15: I don't know if it's like this other companies. But most of the engineers have at my company. They only think of like a short term solution, and not the long term solution. And so like, while the short term solution may get them promoted, or whatever it is. The long term solution is like what my team cares about. And so we've built like a whole
+
+Participant 15: different remediation team to work on those long term issues. That come from the vulnerabilities, because sometimes the vulnerabilities we find are actually deeply embedded into into the infrastructure. And it's gonna take like, one or 2 years to actually get it fixed. And so
+
+Participant 15: we wanna make sure that, like everyone gets recognized for that like, it's important and that it gets fixed, and that like privacy is improved. So yeah, that's how I think it's important.
+
+Nikita: Yeah, yeah, no, that sounds very important. And do you think this deliverables are typical or not typical for someone in your profession.
+
+Participant 15: They're kind of not. Well, the detection ones are non typical. So there aren't a lot of privacy detection teams. In the industry. Not that I've heard of, but feel free to correct me if I'm wrong, but
+
+Participant 15: I I haven't heard of many party detection teams, and and so like that is something like uncommon in the industry, which I think is amazing from our team. Also i in terms of like long term remediation, like staying for the long haul. Is also something a little bit uncommon. It's like engineers will just like Barter with you to get like the short term solution. And they're like, Okay, great, that's that's the one. But like having a dedicated team to finish that project.
+
+Participant 15: I feel like this is pretty uncommon. But then everything else is pretty common, like finding vulnerabilities responding to legal when they ask you for something that's pretty common.
+
+Participant 15: Yeah.
+
+Nikita: Makes sense. Yeah, thanks for sharing that. So going back to the deliverables, you do so, let's say you know, the vulnerability vulnerabilities of writing reports providing remedy, remediation recommendations. Would. How would you say your manager evaluates this deliverables.
+
+Participant 15: Yeah, I would say. My manager evaluates his deliverables by
+
+Participant 15: how much like a business impact it would have.
+
+Participant 15: the company is pretty public facing, and so we try to avoid any
+
+Participant 15: public articles about about it. So
+
+Participant 15: if the future product, where we found the vulnerability is a public facing product. And when we did an impact analysis, it could impact X amount of users. Then that is valued way more. And so like. That is
+
+Participant 15: valid way more than if I found internally that something was mislabeled or miscategorized. Well, that's an important issue, and it could be caught. The thing that ultimately what hurt us would be like that Pr statement about how we didn't commit to privacy in this way, and so like. That is what my manager considers a high value. And so we have, like a different metric.
+
+Participant 15: We have, like a couple of like scoring metrics to determine like, what's a high value finding and it's based on like region type of user, count of user
+
+Participant 15: rep sorry availability or discoverability.
+
+Participant 15: and a couple of other things. I can explain it, but I feel like it'll be like unrelated to like this conversation. But yeah.
+
+Nikita: Yeah, no. We can always touch. You know. Bring it back again. Talk about later. But now I'd like to actually talk about the challenges that you face in your role. And I'd like you to tell me if there any tools, techniques, or standards that create challenges for you in your job.
+
+Participant 15: Sorry. What was the what was the last part I need.
+
+Nikita: Techniques or standards. And I guess, just like as an example. Sometimes, you know, people might say, Oh, like no idea how to apply in this privacy framework to the problems they have like that could be like one example. But of course, you know, maybe in your role, it's a different set of
+
+Nikita: techniques or tools that create challenges for your standards.
+
+Participant 15: Okay. Sorry. Can I get one more example?
+
+Nikita: Course. Yeah.
+
+Nikita: let's let's you know, I think to make it easier. Maybe you could just talk about.
+
+Nikita: you know, are there any challenges that you face in your role and like, what are those challenges.
+
+Participant 15: I guess the challenges I face in my role would mostly just come from understanding
+
+Participant 15: what regional regulation is impacting us. At what moment.
+
+Participant 15: and
+
+Participant 15: yeah, I think
+
+Participant 15: I think that's it. Because, like, we're such a like a global company that
+
+Participant 15: some things may be longer term like Gdpr is gonna be there? But the problem isn't that Gdpr. Is going to be there, and that Gdpr. Is a problem we don't understand it. It's the amount of
+
+Participant 15: extra regulations that now different countries want to apply, and then.
+
+Participant 15: and that changes every quarter. So every quarter. I feel like, at least in my company. There is a new country asking for more
+
+Participant 15: for more of us.
+
+Participant 15: And so like,
+
+Participant 15: that means we're building super fast. But that also means with building fast. There's gonna be like a hundred more vulnerabilities that we need to discover or make sure that like when this new thing gets deployed, but it doesn't get into the media or something like that or like.
+
+Participant 15: because it's being deployed fast, that something doesn't get missed.
+
+Participant 15: And so I feel like the scale at which
+
+Participant 15: my company gets targeted and the skill at which we build is very problematic. And I don't know.
+
+Participant 15: Yeah, it's just hard from like a privacy perspective. It's like, we understand that this needs to get built. But we
+
+Participant 15: it's like hard to guarantee one privacy if no one's looked at it. And so that's the problem that we're having. It's just like, Oh, yeah, you're shipping things. But you need someone to like really, really deep dive. Look at this from a privacy perspective.
+
+Participant 15: Let me think of. And then, are there any tools or techniques
+
+Participant 15: and.
+
+Nikita: And yeah, and yeah, go ahead.
+
+Participant 15: Yeah, I mean at the moment. No, I just wish there was more automation towards all this. But everything is pretty manual on our end like,
+
+Participant 15: yeah, like, I can't think of anything right now.
+
+Nikita: What about org like challenges related to your organizational or reporting structures? Is there anything there that causes, you know some challenges friction, or do you think it works out well.
+
+Participant 15: honestly.
+
+Nikita: It's okay to say, no.
+
+Participant 15: Yeah, I'm like trying to think, can you give me like an example?
+
+Nikita: Yeah, yeah, no. I I think it goes back to like what I was saying, how? Let's say, in some cases
+
+Nikita: privacy, engineers might have to report to legal and then, you know, the legal teams might not understand exactly what engineers need or what engineer, how engineers work, and that might create some sort of like reporting frictions, or you might feel like privacy is not being prioritized in organization that could be like one example, you know, in some organizations where that is like how they report. But you know, maybe I don't know if if anything like that resonates with you
+
+Nikita: or if you feel like, you know, maybe there's like a problem with like, buy in or getting resources that you need. Anything like that.
+
+Nikita: And and again again, it's okay for yeah, it's okay for yeah.
+
+Participant 15: Yeah, I was. Gonna say honestly, no, there's like, I'm really happy about like the culture when it comes to privacy.
+
+Participant 15: that there is plenty of buy in the reporting, although we report to engineering isn't. And then we have a dotted line for legal like it isn't. There really isn't an issue.
+
+Participant 15: and
+
+Participant 15: the only thing I would say is just like we just need more resources
+
+Participant 15: for the type of work that we're doing. But
+
+Participant 15: we're working on that. So it's like, I don't think it'll be that bad. But yeah, no, I actually, I'm actually really surprised that, like
+
+Participant 15: how privacy forward.
+
+Participant 15: My experience has been. Also like, there's like a privacy innovation lab. And so like, there are biggest. They're like a a like a
+
+Participant 15: a group of researchers, and that we partner with all the time. And so
+
+Participant 15: I think, having this privacy innovation lab, just experiment and do things and try to figure out like, what's the best privacy.
+
+Participant 15: method is like a good what's it called? A good signal that, like the privacy organization, is healthy because it's like we can afford to make mistakes. And because with research, there's gonna be mistakes. It's not 100 gonna be like
+
+Participant 15: fine all the time. Right? And so like knowing that, like the organization or company has invested in
+
+Participant 15: no like unknown money sink. In a way, it's like, Okay, great like, they actually care. And also like, when we talk to legal when we talk to engineers like
+
+Participant 15: the only pushback is that they don't understand
+
+Participant 15: what the urgency is. But once we explain the urgency, then it becomes clear and things can move forward, so I don't find lots of pushback of engineers being like, Oh, I won't do this. It's more of like, does it have to be today?
+
+Nikita: I understand. Yeah, that makes sense. Well, let's go back to what you were saying about navigating the regulatory landscape and dealing with scale. Those sound like the challenges that you do experience, I guess. Let me first ask you if you feel like those are typical or not typical challenges for someone in your profession.
+
+Participant 15: being a Us. Person, I feel like
+
+Participant 15: in my previous role when I was a privacy engineer
+
+Participant 15: like we. Only
+
+Participant 15: I feel like there was like a
+
+Participant 15: a standard of privacy regulations. And so we always chose like, what was the higher standard and then that's that's all we cared about. So there wasn't like it was changing every so often. Even though it was also just as a global company. But it was just like
+
+Participant 15: that global company followed one standard across the board. The difference between this company is that they're a global company, and they don't follow the same standard across the board, and so like the regulations and and thing and policies are all different in different regions. So it's like kind of.
+
+Participant 15: And it's like I I I'm not really sure why, it's not like one policy across the board, right? And I think that's out of my scope. But it's now then, diving deeper into each regulation and policy, and demand from each country. That makes it difficult. So that for me in my head, that's like.
+
+Participant 15: if it's 5 different countries. And it's 5 different threat models. It's 5 different vulnerabilities, and they all don't look the same.
+
+Participant 15: And so that is the biggest challenge.
+
+Nikita: Gotcha. And yeah, going back to your experience and the challenges this mentioned, can you tell me about strategies that you use to overcome or navigate this this challenge.
+
+Participant 15: Well, I used to have like a universal threat model to be like, Hey, like this is like my check, like my basic checklist of like what I should be looking for. And so I'm managing to build one of those for at least a couple of countries. So then, like it becomes easier. And so like
+
+Participant 15: the leg work of trying to figure out what is legal saying, what is this country saying?
+
+Participant 15: becomes less grey, and it becomes like more of a a definitive technical action that we can take, because sometimes things are communicated from a country, then legal, interprets it. And then legal, has there another interpretation of it? And so then, like extracting, like all of this into like, okay, technically, what can we test like, what's the technical evidence we can get?
+
+Participant 15: is something that I tried to work on and try to make easier for everyone. So that
+
+Participant 15: yeah, so that we can find vulnerabilities, and that focus on like, the the different, communicate the different languages across the board.
+
+Nikita: It's yeah. I guess it sounds like this is a fairly effective strategy. Would you say so? Or or not? Really.
+
+Participant 15: I think so. I think it does take a lot of time, though, like it does take like a quarter or 2 to like
+
+Participant 15: figure, and then like, I don't. And sometimes it changes like overnight. So it's like it. It does require, like this whole separate person to to accomplish this.
+
+Participant 15: but I think it is useful once you have your baseline because then things become less gray. And so yeah.
+
+Nikita: Okay, got it. So now we're at our last topic. So i'd like to talk about the impact of your work very broadly speaking, and so could you please define success in the work that you do.
+
+Participant 15: Success is probably not being in the media.
+
+Participant 15: success is probably the CEO, and whoever goes to the court hearing, saying something accurate and complete. And making sure they say it correctly.
+
+Participant 15: success is probably getting a privacy vulnerability fixed, patch fixed, and then have the plan to overdo, like overdue the system, to improve its privacy. Posture? So
+
+Participant 15: maybe like having a design doc, for like the next 2 years, while they get it fixed, or something like that.
+
+Participant 15: and success also looks like partnerships with like researchers. So making sure, like
+
+Participant 15: they know who to go to instead of cnn or vice, or things like that.
+
+Participant 15: I think that's like success for our team.
+
+Participant 15: So.
+
+Nikita: For for you personally is that aligned with that.
+
+Participant 15: That's pretty aligned in my terms of success, too. Like, if
+
+Participant 15: the less media articles are written about things that I can control the better it is for me and my.
+
+Nikita: And what would you say? What do you think is the overarching goal for your work?
+
+Participant 15: Oh.
+
+Participant 15: the goal!
+
+Participant 15: I
+
+Participant 15: find 0 days in privacy. That's like, that's my goal for my work. Every day. It's like, find something before someone else reports it.
+
+Nikita: got it?
+
+Participant 15: Yeah, and build some privacy tooling that's like.
+
+Participant 15: that's like, the goal is like, build something. So we don't have to look for it.
+
+Nikita: we spoke before a bit about how your manager, evaluates your deliverables, what do you think broadly, speaking, how do you think others evaluate the impact of your work.
+
+Participant 15: oh, I guess, for legal they evaluate like the
+
+Participant 15: in depth, technical analysis.
+
+Participant 15: like the more details we can give them about
+
+Participant 15: whatever they're in crying about.
+
+Participant 15: And the more definitive answers we can get them. I think that's lots of value for them. Or they express. That's also value because their main job is being in those courts being in those hearings or drafting policy. And they wanna make sure that 100 accurate and so that's public facing for our engineers.
+
+Participant 15: I guess.
+
+Participant 15: yeah, I I
+
+Participant 15: yeah. So her like a biggest thing. Engineers or product owners.
+
+Participant 15: I think they really value
+
+Participant 15: improving their privacy posture because it's like they don't have a team before doing that. And a software engineer, although know some privacy or may know, some privacy doesn't cover the full scope.
+
+Participant 15: And
+
+Participant 15: in the pro and like the product development process, there really isn't like a privacy expert right now, from what I understand. So they really value having that privacy perspective so they can improve the product so that then themselves
+
+Participant 15: are not afraid of being in the media also. So it's it's like we help protect like a lot of people. From this like one goal, just like, Hey, let's avoid not being in the media. Let's avoid like.
+
+Participant 15: let's let's just be really good at privacy.
+
+Participant 15: and then, for
+
+Participant 15: yeah, I think those 2 are like my biggest partners, engineer, engineers, and lawyers.
+
+Nikita: Yeah, and sounds like very like qualitative as well. Do you think there are any metrics associated with this evaluation?
+
+Participant 15: Oh.
+
+Participant 15: yeah, metrics. We're working on that. Actually. The metrics are a little bit different. Cause. while I think, like some people we've been measuring, based on, like how many vulnerabilities we find. But that doesn't quite make sense, because we can look at one product, and you can have one vulnerability, but it is the worst vulnerability
+
+Participant 15: as opposed to going to a product, finding a thousand vulnerabilities. But they're all low and low in terms of like. It doesn't really have that much of an impact, and we can get it fixed. But it's not a high priority. So
+
+Participant 15: sorry.
+
+Participant 15: And so our metrics have mostly been like
+
+Participant 15: kind of like
+
+Participant 15: Our metrics have been focused on what regions
+
+Participant 15: we're targeting and how much like privacy volume, vulnerabilities we have found, and in correlation to how many privacy and then incidents there are, and trying to correlate the 2, the 2 types of incidents versus vulnerabilities and seeing if there's a delta between them. So it's like, if we find the privacy vulnerabilities and there's less privacy incidents that means we're doing our job really well. Means like, there are less privacy incidents about this issue because we looked at it because we told engineers to fix it beforehand. And so that has been our main message
+
+Participant 15: trick so far.
+
+Nikita: awesome. So that's actually the end of the interview so as we close i'd like to ask you, if there is anything else that you haven't had the chance to mention, or would like to share with us where you think we should know.
+
+Participant 15: no, I think I think I'm good actually.
+
+Nikita: Alright. And then do you have any? Maybe questions to us? And we can also stop the recording so that we can talk off the record, as well.
+
+Participant 15: I don't have any questions right now. No.

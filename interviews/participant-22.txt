@@ -1,0 +1,653 @@
+Liam: Okay. now that the recorder is on, can you repeat that, you, being you are consenting to being recorded?
+
+Participant 22: Yes, I consent to being recorded, and, as I had noted. Some stuff will be very difficult to de-identify, just because I'm very likely one of the few or only like researchers who are publicly associated with particular projects, and I'm still consenting to participate, knowing that
+
+Liam: Okay, your identity, identity and anything you share with us will be kept confidential, and will only be heard and read by the researchers in our study. Please know. This interview is, of course, designed to be a conversation, so there, of course, no right or wrong answers, and you can again skip any questions or pause interview at any time. So yeah. Do you have any questions before we begin?
+
+Participant 22: Nope.
+
+Liam: okay, just high level, the interviews sort of broken up into 6 topics, the first one being very introductory. And I'd like to start by
+
+Liam: asking a few general questions about your work. Firstly, can you tell me briefly about what you do in your job?
+
+Participant 22: Yeah, so I'm currently the primary privacy architect for a [PRODUCT].
+
+Participant 22: it's
+
+Participant 22: officially within sort of the realms of privacy engineering. But some of the work falls under a bit more of the like software engineering sort of category, depending upon how companies, sort of differentiate that.
+
+Liam: Okay? And could you also define the term privacy as you normally use it in your work context?
+
+Participant 22: This is a complicated question. Within what I see at
+
+Participant 22: and we'll say in the industry, including in my company, people talk about privacy.
+
+Participant 22: mostly related to compliance with GDPR and others. And so there's a heavy emphasis on data, accumulation and server.
+
+Participant 22: I do not talk about privacy that way. My background has been working with journalists working with marginalized communities and others within human rights, digital rights, civil society space. And I think about
+
+Participant 22: privacy within the context of consent. And I
+
+Participant 22: I add a big asterisk here, where? I don't mean legal consent. I don't mean consent is defined by Gdpr, but consent as in
+
+Participant 22: I guess notions of like radical consent more similar to the consent framework presented by like planned parenthood. I think that's like the freeze model.
+
+Participant 22: where you understand what data you're sort of providing you understand the protections in place. You understand how it's gonna be used, and you're able to both give that consent, revoke that consent. And really be in control of how that data is used. And so that's a lot deeper than just service at accumulation and because I work at an operating system. Most of the most of the privacy discussions happen about happen at a
+
+Participant 22: let's say, device level. And so there are like privacy questions, even around, like as the user of a device.
+
+Participant 22: What you're sharing with the operating system. Maybe you don't want to share with every single piece of software that's installed on the operating system. And so the even that level of consent where it's those technical controls to protect against
+
+Participant 22: data about you, or that could be used about you, which is most data because of how identifiable certain things are, or the ability to fingerprint and similar
+
+Participant 22:  having that shared and having the control over that. Sorry. That was a very long definition.
+
+Liam: Oh, that was excellent! And how would you describe the roles in industry related to privacy. Engineer, you mentioned, maybe a huge emphasis on compliance. But could you further expand on that?
+
+Participant 22: II think in the past. privacy was a.
+
+Participant 22: let's say, a broader field in the in the sense that it was often based under security. And so often times when you think about like encryption or like data protection, it would
+
+Participant 22: be technical controls. And you think about, or actually, I think about things like pets like privacy, enhancing technologies and that sort of engineering work.
+
+Participant 22: What I have seen these days is, that's not what people mean when they hire a privacy engineer anymore. Privacy engineer really focuses on data governance, compliance with laws like Gdpr, like, you know, workforce privacy laws and similar and is based around.
+
+Participant 22: primarily policy and human controls. I'll say so that data governance side is very important. I'd even joined a company at 1 point time to build out their privacy program. And they'd conflated privacy with data governance. As a just, for example.
+
+Participant 22:  So
+
+Participant 22: I'm a little pessimistic about what we'll say. Privacy means in the industry, and in part, as terms like, you know, trust and safety have also popped up, which coincide with privacy in some ways. When you think about oh, actually, when I when I think about things like.
+
+Participant 22: you know, dating apps I've since I've done a lot of work on dating apps. And you know, things like verification. That's a trust and safety issue. But there's also, like privacy implications, and the privacy implications end up being based around who has access to some of that raw data. And oftentimes companies will focus on, let's say, third party contracts or sorry third parties to do that verification contracts and other non technical controls to protect that data or to show that they have like privacy without the user, perhaps even being aware or no.
+
+Participant 22: And so you get into these conversations, or I should. I can get into these conversations with folks where privacy can be seen in opposition to like trust and safety because of some of that. And that's a newer issue. And I think it's happened because of the proliferation of these different terms, such as security, privacy, and safety. We're oftentimes I really see them as going hand in hand in together.
+
+Liam: Gotcha, yeah. And then
+
+Liam: no, yeah. And how would you then define a privacy engineer?
+
+Participant 22: When most people talk about privacy engineering? I think they mean a compliance role. Can you help us build
+
+Participant 22: systems and tools and processes to comply with Gdpr and others. I keep on focusing on Gdpr, because Gdpr really was like the initial privacy law. And you're seeing other places. Brazil. India is working on one right now, too, and they are all very similar. One of the reasons that I think that privacy. Engineers are sort of needed in that context. All of the regulations themselves are different. So you would work with, let's say, the lawyers who would define
+
+Participant 22: how a company interprets or understands those regulatory contexts, and you know what compliance means and looks like to develop like policies and controls and systems that allow you to sort of adhere to that
+
+Liam: gotcha. And so this sort of
+
+Liam: industry propagated definition is that in line with your sort of personal definition, or how you would want to define a privacy engineer.
+
+Participant 22: No, that's not at all how I would define, or how I would want to define a privacy engineer and some of that industry definition comes from places like IAPP, which is like the International Association of Privacy Practitioners. And if I remember correctly, IAPP actually came from like accountants and accountant privacy. And so you know. And I just sort of note that because that's a very different approach.
+
+Participant 22: then I have with privacy which includes thinking about some of the like deep protocols that happen within technology. We've designed, for example, the cellular systems, or even Dns to leak certain information. And that's
+
+Participant 22: Maybe some of the limitations that existed when certain technology was built.
+
+Participant 22: or because other needs are prioritized with cellular systems that's most often linked to, let's say, interoperability with other networks, things like roaming things like billing, and that that leads to a lot of data that's exposed. And you know we can talk about that as like metadata
+
+Participant 22: and the same thing with Dns. Where? Even with something like https or Tls transport layer security which encrypts the data as it's being sent between a computer and the server. Dns will often still leak the hostname so someone might know that you're going to Google.com. They might not know what you're searching for. And if you are going to a
+
+Participant 22: a website whose domain name is something like
+
+Participant 22: you know, sketchy thing that can get me in trouble.com. Then someone knows that you're going to sketchy thing that might get me in trouble.com. And so II think deeply about not just sort of the regulatory environment, which I think is important, because we have this sort of situation where we need regulations and others to help define and shift. Let's say, tech. You know, technology companies and technology developers and designers. But about
+
+Participant 22: what are the actual technical controls to ensure?
+
+Participant 22: we'll say, like technology users don't need to become security privacy. You know, information, technology, experts in order to understand what data is being exposed, and to really control that.
+
+Participant 22: And I would go so far as to say that we're often
+
+Participant 22: designing in ways that shift the blame on to the user. And I see this very commonly. And we'll say, like, you know, guides that talk about privacy where people are like if you don't want to.
+
+Participant 22: if you don't want, you know Wi-fi to leak your data when and I'm noting Wi-fi because it's very commonly used. It just happens to be one of these protocols that's very noisy. There's a lot of information that you can find out about someone. From just the information that a device sends out related to wireless communication, and Wi-fi in particular, people will often say, just turn off Wi-fi, which isn't practical for people, and so to me, a privacy engineer should be helping solve those problems as well. Not just the regulatory and compliance problems.
+
+Liam: Got it? Okay? Now, I would like to talk more about your career journey. And the first question I have for you is, how did you become interested in privacy engineering as a career?
+
+Participant 22: You can say, sort of fell into this. As a as a kid, I had access to technology. I was very lucky, and I rem in that sense like, I remember playing around with things like Linux before, even like Uganda was developed, you had to build everything, and it sucked but I say this because this is like a really cool and fun time on the Internet, where you could like
+
+Participant 22: host, your own website, you had to think about things like security had to. You know, people weren't trying to. There wasn't a lot of money on, you know, financial systems and services hadn't come up online. So you know, we're really talking about Pre Web 2.
+
+Participant 22: And so I learned, like some of these low level protocols. And then, as things start to shift and change.
+
+Participant 22: including the social context. I started to think more about what information is identifiable, like, what information you can find from both technology and other things. My, my real exposure to privacy. As you know, when I was younger happen not because of technology, but because of social.
+
+Participant 22: And you can think about things like the US War on Terror. You can think about you know, laws, and even per prior to the Us. War on terror, how people in society perceived some people treated them. You know some ways based upon you know what information where they go. And these things you similar conversations can happen with. Think about going to gay bars or others. And so all of this is linked to, you know, discussions of privacy even prior to technology.
+
+Participant 22: And then I don't wanna say, I forgot about that all of that sort of stuff. But my, my, formal education was not in technology and it, or like computer science and then but I was still continuously doing it.
+
+Participant 22: II started to help and like, get interested and working with things like Tor and understanding how these things work. Probably in
+
+Participant 22:  graduate school. The same time I was doing some of the natural language, processing, thinking about things like no sorry that started even an undergraduate when I was doing computational linguistics prior to even like talking about natural language processing and thinking about like
+
+Participant 22: how technology can be used to identify, you know. an individual style. And so in graduate school, I was working on from the classics in your recent studies department working with the ancient lives program. And so I was helping think about, like how to design algorithms to
+
+Participant 22: to do like scans of poetry from like papyri that were found. But then also, can we start to identify the text, and we start to identify some nuances or idiosyncrasies of this author. Right like, are they writing things in a very particular way? So again, while not directly being talked about as privacy, it's very much linked to these sort of how technology can be used for privacy to identify an individual. Even, you know later, without knowing who this person is, they could just be, you know, author a.
+
+Participant 22: And then when I decided academia, and that route was no longer for me, I went and started working in the
+
+Participant 22: like global development, human rights, digital rights sort of field and space. And a lot of my focus, there was on data protection, on building out information systems and that that sort of combined with sort of that like security and sort of privacy
+
+Participant 22: side of things. my choice to start looking at, we can say explicit, like privacy. Engineer sort of roles comes from
+
+Participant 22: how security as a field has become formalized, and I don't always like the
+
+Participant 22: CIA try ad so like the confidentiality, integrity, availability, discussion within security. And I can find some of the methodologies and the ways that
+
+Participant 22: folks within the information security field work to be.
+
+Participant 22: Let's see, not a good cultural fit, very militaristic, very sort of authoritarian and just things that make me sort of slightly uncomfortable
+
+Participant 22: working in privacy. Engineering has given me a lot more ability to focus on. Let's say, the user and to focus on, let's say, marginalized folks. And some of these areas of differences and how to protect people in that way.
+
+Participant 22: then the security, you know, industry and sort of field has.
+
+Participant 22: Theoretically, this probably could also happen within safety and trust. But I find safety and trust to be a bit more.
+
+Participant 22: Let's say, community management sort of related or focus on things like community management as opposed to some of the. Again, some of the technical controls and things like that.
+
+Participant 22: I don't know. However, if I'm still will say, interested in privacy engineering. It all depends on like what the role is. Where my interest really is, as I, as I, you know, was saying, with my definition of what I think privacy engineering is is on like building out those technical controls, doing that systemic sort of change. For we could say, like marginalized folks, and probably these other
+
+Participant 22: these other groups that are typically less represented.
+
+Participant 22: And maybe I should just add one other quick note here the
+
+Participant 22: prior to some of the work I had done with gay dating apps. I think a lot more of my focus was directly on user education and advocacy and sort of within the typical route of the, you know the way that nonprofits and digital rights and human rights organizations work. But that project where we were able to
+
+Participant 22: sort of pioneer what I talked about then is a harm reduction approach.
+
+Participant 22: And you know there's different names for it now.
+
+Participant 22: the the lead researcher. Asana, who was looking at a lot of the digital evidence, has talked about this now, is like designed from the margins. That sort of approach where we're thinking about again, these used cases, and like ways that that are again usually in the margins, and usually ignored, or ways that, like security, privacy, safety, aren't always
+
+Participant 22:  perfect. And in this case we were thinking about issues like if you are gay and using a day dating app, and you're stopped by the police in places where
+
+Participant 22: that is not legal or less socially acceptable, and they'll use it as an excuse to, you know. Try and perpetuate sort of other harms, or in places where it's just not so acceptable. And someone sees something like, you know, a gay dating app, and that enough can be enough to associate you with being gay, and leads, like, you know, harm, abuse and sort of similar hence that harm reduction approach again, which really comes from that, you know, activist sort of
+
+Participant 22: context that I that I come from
+
+Participant 22:  that work and getting grinder to implement some of the things. Well, I shouldn't just say grinder, but Grinder and other tech companies to implement some of our recommendations, and the impact that that had was a major shift in my thinking also, and where I was. You know where I was willing to work. So II note that that was probably the moment that I moved from doing
+
+Participant 22: the the more generalized work in the way that I was doing in that nonprofit sector. So I guess privacy engineering as that sort of field within the tech industry, knowing that there's different. There's divides just between some of these industries because of.
+
+Participant 22: you know, the the reality, I guess, of how they've developed.
+
+Liam: And then the next question I have for you is what motivates you to continue pursuing privacy engineering as a part of your profession. And note.
+
+Liam: like as you've mentioned, sort of the industry, standard privacy, engineering is not something quite of interest to you, but it's actually more a holistic view on privacy and building that and so maybe that is part of your motivation like trying to get industry to shift in that direction. But if you could expand upon that, that'd be great.
+
+Participant 22: Yeah, II guess some of this is, we can say, very like real politics, or like very pragmatist as much as I love. You know, open source projects and others. We can look at something like mastodon, you know. As a, for example, I love the ideas of distributed, you know, sort of networks, and these things for different ways, for people to talk that isn't under corporate control. That's not the reality that we live in within technology.
+
+Participant 22: Most of my work.
+
+Participant 22: has been, and most of my work life has been spent working with people outside the Us. And again, marginalized folks. And you can say, this is me just trying to help give them some representation in the absence of that in these companies, in these spaces, and help like advocate for them within tech companies, and you can say that's what drives me. But, like ideally my, I would, I would like to see some of this be.
+
+Participant 22: I don't quite wanna say unnecessary, but in a very different sort of state or form. Right now, so much of privacy engineering work is based around what I think about like trust silos like where you trust the company or you trust someone, and that trust is based upon, like human or reputational. These things, and getting away from that is like you can say a huge you know, motivator, because that
+
+Participant 22: get getting and building out these tools so that way, we don't have to rely on humans which are, which you know.
+
+Participant 22: can hand information over to law enforcement. Or you know other such things, even if that's within their privacy policies. And even if they're not doing anything horrible because or anything else bad, because that's just the reality of needing to operate within, let's say the Us. And other countries, whether they're authoritarian regimes or not.
+
+Participant 22: that's the sort of stuff that motivates and drives me. And I've heard a lot of people talk about. Let's say.
+
+Participant 22:  The state of privacy is privacy dead? Is it not dead? And like how they advocate for this? And I hear so few people talk about the impact and the influence of like anti terrorism laws, the Us. War on terror and other things. And one of the reasons I keep on coming back to that is
+
+Participant 22: the reason that that's so important is because you had a social shift, and that social shift meant all of this data is now available in that. Now this, all this data is now available. But that's being used in these bad ways. I would essentially like to make it so that way that data isn't even available, even if someone was trying to do that. And again, this is a double edged sword. Some people will say we need to have ways of stopping terrorism. We need to have ways of stopping like child sexual abuse material.
+
+Participant 22: See? Sam's horrible. I want to be clear, you know, about these things, and there's very good reasons to like
+
+Participant 22: have certain checks and balances in place. But we've seen so much of these contexts being used, such as you know, terrorism, for example, being used to target Arab and Muslims, and even the Us. Creating new forms of torture, waterboarding, you know, to target folks. You see, things like sexual abuse material being used to target queer folks, queer communities, trans folks, sex workers and others who are not doing any of this, and so
+
+Participant 22: I guess I'm I'm just there on, we'll say the other side, as opposed to sort of fitting within that sort of typical like law enforcement or other narrative to again just ensure protections for the folks who don't typically have that
+
+Participant 22: sorry again, a lot. But does that help
+
+Liam: definitely and super interesting? So I appreciate the responses. Did that. And the next question I'm gonna ask is about the future year from now. Do you see yourself in the same position, more specifically doing? What what it is that you currently do in your role?
+
+Participant 22: That is such a complicated question in an ideal world. I would see myself continuing to do the work that I'm doing again, which is privacy, architect for [PRODUCT].
+
+Participant 22: The reality is, who knows what tech companies are going to be doing? Who knows how they're gonna be supporting some of these things? And the fact that we're sort of like liable and subject to having to be at the whims of, let's say, corporate interest, instead of trying to build out some of these things?
+
+Participant 22: without having to worry about like, does this
+
+Participant 22: give value to shareholders? Does this give value to a particular like capitalist structure? The answer is almost always No, when it comes like privacy. But
+
+Participant 22: that makes it difficult for me to know sort of any of that.
+
+Participant 22: The other difficulty is, even if I wanted to. Let's say, you know, leave or go to a different job. And I might always look for jobs. I'm always sort of applying and hearing and talking to people oftentimes within the privacy engineering space. A lot of companies are hiring privacy engineers because they're going up for IPO, or sort of similar. And so they're trying to get, you know again that compliance or regulatory, you know, box check so that way they can again appease shareholders and these sorts of things, and have, like a successful Ipo or similar launch.
+
+Participant 22: and that's again not my interest. So I would like to be in the same role, whether I am or not varies and even if I will say switch
+
+Participant 22: titles from, let's say, privacy engineer to software engineer or whatever I don't care like in that sense. That privacy architect for [PRODUCT] is definitely what I would will say like to be doing. But
+
+Participant 22: we'll say human and economic and social hierarchies all lead to
+
+Liam: different decisions, maybe in reality. Yeah, yeah. Alright. Now, we're moving on to the next topic, and we'd like to talk more about your day to day responsibilities.
+
+Liam: Could you give me an idea of what a typical day at work looks like for you.
+
+Participant 22:  so I'm I'm the tech lead.
+
+Participant 22: And again, in the primary privacy architect, a lot of what I do is review design. Well, let me, I'll I'll do this in 2 different ways. What I would like to be doing, or what I should ideally be doing is reviewing design documents, helping, supporting engineering teams, design privacy or privacy thinking into their products. Again, we're [PRODUCT].
+
+Participant 22: We don't W, and we're quite low level. So we don't really
+
+Participant 22: collect
+
+Participant 22: user data will say, or like, products are built on top of us, like we're like, we're more similar to the Linux kernel, right? You have, like ubuntu, which is a user facing product. But the Linux kernel is more of a developer facing product. So you know, thinking about like, how do we help define
+
+Participant 22: Good privacy choices for products? And how do we help products do better with privacy? You know that's sort of what I should be doing on my day to day basis, whether that's like in meetings, you know, helping with, like, you know, product managers define some of those privacy requirements, whether it's like working with the engineering teams to review designs and similar whether that's like helping support and build out methodologies for other privacy reviewers to be able to
+
+Participant 22: do this sort of work as well. So it's not just relying on like one person or multiple people. You know technical documentation similar that that should be my day to day job. What I find out a lot of my day to day. Job is is dealing with internal politics. And you know, some in I'm in meetings. I'm helping like wrangle a team. I'm helping, you know.
+
+Participant 22: doing a lot that is not actually linked directly to that. And that's just the will say the reality of working within a a company. That in an industry that since 2023, or maybe, since we'll say mid 2022 has decided that shareholder values are more valuable than
+
+Participant 22: engineering hours and similar.
+
+Participant 22: II see it as similar to maybe the discussions that I've been that have been publicly happening about Boeing, where it seems like within tech, there is a desire to put on and, you know, shareholder value as opposed to engineering culture. There was a very public sort of discussion about that with Boeing, which is obviously led to these horrific issues like the fuselage door, you know, like opening, you know, that those sorts of things.
+
+Participant 22: so yeah, I I don't mean to focus too much on like the the negatives of working in sort of the tech industry and tech companies, but this is just sort of
+
+Participant 22: we'll say, like the the reality, especially when you get beyond, let's say, a certain level within
+
+Participant 22: just doing some of the reviews and starting to work on some of the designs and similar, you're having to work a lot more on. You're doing a lot more. That sort of soft skills work and working on like, how do we help justify things? How do we help like measure and show? How do we help write a and construct a narrative, all of which is really really important. But it's difficult to do everything all at once, which is the limited resources that privacy teams are often given cause. They're seen as overhead, where it sort of, you know, fits in
+
+Liam: Gotcha. Now, the the next question I have for you is, what responsibilities does your employer expect you to take on at work, and you sort of alluded to what you feel you should already be doing? Maybe you can mention, if those, if what you feel you should be doing is in line with the expectations, because really, with this series of questions, we were trying to probe the expectations versus reality. Why is there a difference? Or if there is a difference? And you kind of already were fishing that out.
+
+Participant 22: expand upon that, that'd be great.
+
+Participant 22: So
+
+Participant 22: my my employer, I think, expects me to not block launches, and to just say, Well, I should say that, say, but to like give them a check mark that everything's good from a privacy, compliance, perspective.
+
+Participant 22: I think the reason I have such a difficult job is because the work that I'm doing as a privacy engineer, and my, the pro. The again, privacy for an operating system is so different than how the company and others think about privacy that the expect that we're actually hindered by the company expectations.
+
+Participant 22: My, my product leadership supports the work that I'm doing. But we have. We're fighting against
+
+Participant 22: the larger company
+
+Participant 22: like policies as well, you know, and like how we do that work. So
+
+Participant 22: I think that the product expectations are actually what I am doing or what I'm trying to do. And you know again, a lot of that, a lot of those soft skills are part of
+
+Participant 22: part of that.
+
+Participant 22: I'm just noting the the politics side we are still successfully implementing.
+
+Participant 22: Excuse me.
+
+Participant 22: the privacy, sort of design and sort of similar within the work that we do. The politics part is just a lot of it. And that's just because
+
+Participant 22: part of us fighting against the company expectations that we're sort of.
+
+Participant 22: I don't quite wanna say redefining privacy. We're forcing people to think about privacy in a different way. And so all of that work around awareness building, you know, sort of trainings like how we work and communicate with people. How we sell. You know how we sell this narrative and others is because the company. Expectations are so based around server side, so based around compliance and others. So
+
+Participant 22: II like, I said, I actually think we're
+
+Participant 22: we're fighting against that. And that's causing. That's really what's causing the problems. So if we were at a different company, or if the product was like independent without having to rely on a larger tech company, it might be very different.
+
+Liam: Gotcha. That's super interesting.
+
+Liam: Now, in the next question, we're trying to differentiate between what you do for work and the things you do outside of work. So are there any additional responsibilities you feel expected to take on in your role, such as to society, other organizations, or even to yourself.
+
+Participant 22:  I mean
+
+Participant 22: any obligation that I feel happens from outside of a work context. One of the things that has been you know. I I'm you can say I'm Comp, I I'm being critical about tech companies and sort of similar. And it sucks working at them in a lot of ways. But it's also some of the healthiest
+
+Participant 22:  it's it's, I think, the healthiest work environment. I've been in terms of things like work-life balance and others. And so from like a work perspective.
+
+Participant 22: I could probably even just work, let's say, 30Â HA week and just be like, call it done. If I really wanted to like. There are
+
+Participant 22: no expectations coming from, you know the company, I would say
+
+Participant 22:  But
+
+Participant 22: coming from the let's say, like marginalized, you know, like folks, and that other work that I've been doing. I think there is a very strong obligation to
+
+Participant 22: share and talk about some of these things, and to incorporate. And you know other people's viewpoints, you know, in that sense. And
+
+Participant 22: my my academic background is really a lot more in sort of social science, and you know, sort of systems, thinking and identity and sort of similar. And II think that has helped
+
+Participant 22: drive better outcomes, because it means I've built empathy outside of a let's say, a ux design or ux research sort of perspective where empathy is sort of a weaponized term within this sort of capitalist sort of framing or lens, and doesn't necessarily really mean empathy and understanding of the of the users. And
+
+Participant 22: I'm always engaging with sort of different cultures, different people, different ideas. And oftentimes
+
+Participant 22: not not like online on social media. I hate the way that social media is gone. I think it's a problem that cause it erases this complexity. But like in like, you know, reading. And these other things. You know, Media, I consume whether it's like movies and stuff like that.
+
+Participant 22: but I but that's an obligation that's being drawn from me. And that would be true, I would say, regardless of the company or the privacy work, if that makes sense.
+
+Liam: Okay, got it. And is there any additional sort of mentoring or public speaking that you take a part of
+
+Participant 22: I
+
+Participant 22: I have lots of conversations with lots of people. So I'm on the advisory committee for [ORGANIZATION].
+
+Participant 22: I spend a lot of time
+
+Participant 22: talking with folks there and like helping
+
+Participant 22: helping with that. I'm on the board of directors for like a [ORGANIZATION]. And I work to try to help them get funding and other things.
+
+Participant 22: and so I do a lot of like mentoring in different ways in different capacities. And part of this is because. prior to like
+
+Participant 22: the job that I have. Now, I've been
+
+Participant 22: an independent consultant, doing lots of different types of work, including like technical assessments from like security. Oftentimes that was focused on like mobile and IoT organizational development assessments. For like, how do you develop and build like security and privacy policies, and that capacity or management within your company, usually for nonprofits. Things like Internet response, and like, you know, forensics, things like helping like build and design sort of systems and tools
+
+Participant 22: to things like trainings and these other things. And so I'm mentoring both within the company and external to the company. You know different folks that will say that I get along with
+
+Participant 22: on all of these different things. So some of the internal conversations I have are a lot less technical, focused and like a lot more like, how do you understand the internal politics? That have come from this organizational structure? The way that policies happen. You know how decisions are made in real time. So that way you can be more effective. And you can have that like separation from like a work life balance. You know, as a for example. And all of that I see, just because I think it's the
+
+Participant 22: right thing to do. For, like, you know people, and to support each other. Because and I'm sorry that I'm like, you know, we'll say a broken record. Corporations will not save us. You know, like my, my politics in that sense are very clear. And like, I think it's really important to build those sort of you know, communities of support. And you know for each other, because I think that that's how we really make the change. Not necessarily through
+
+Participant 22:  these fucked up systems that try to like, disempower, dehumanize, and sort of destroy our will.
+
+Liam: Gotcha. Now moving on to talking about your skill set what skills of you were demanded when you started your role.
+
+Participant 22: When I started my like, my current role, I think I was.
+
+Participant 22: I think the only skills that I was demanded was like.
+
+Participant 22: do you know how to think about basic privacy? You know things? Can you do basic privacy design? I I'll be honest, though I think the interview process was completely fucked up for how I was hired and I don't think it actually assessed skills or the skills that were needed. And a big part of that was because the interview process and the questions that were asked focus on things like, Do you understand? Differential privacy, you know, like, talk about how you would do it in these ways, or like they, they would ask
+
+Participant 22: I don't know if I'm allowed to say this, but I'm going to, anyways, because I don't give a fuck like. One of the questions I was asked was about like sharing data with a local government, and my, my immediate response went to things that were less technical like, can you trust the local government right like, what is our obligations, these other things, and like trying to think about like these different factors before even starting to talk about the technical. And they didn't. Even they didn't really like that is the impression I get. And
+
+Participant 22: then when I joined the company, a lot of my sort of software skills that weren't even assessed around again, organizational development and these other things. How do you do program building? And that stuff is really the work that I've been doing?
+
+Participant 22: But that's not what I was assessed for
+
+Participant 22: and so II don't think there's
+
+Participant 22: I don't think there's a good job of like hiring, but I would say, the skills that are probably needed are
+
+Participant 22: frankly sort of
+
+Participant 22: empathy, and I mean real empathy, not like the commodified version that's within ux research, but the ability to actually understand. See? Marginalized perspectives
+
+Participant 22: to want to do that research. Be curious about them. So that way you can incorporate them into sort of designs. And you're not falling into this
+
+Participant 22: We've ignored these people. Oh, my goodness, we didn't think about these privacy risks issues like that's a big one. The resilience to stand up to shitty organizational politics, that view privacy as a negative, including even within privacy leadership. That doesn't do a good job of like advocating for you the type of work that you do, and fighting against people that you might see as theoretically supposed to be supporting you.
+
+Participant 22: And then how all this applies to technical systems.
+
+Participant 22: And some of that, I would say, like that last piece is really the part of it. Oh, sorry! I guess I should add another one. After that I'll get to that in a second. But that technical piece, that part of that is
+
+Participant 22: really important, maybe, for determining the level like, if you haven't worked with a lot of technical systems, you might not be effective. And you might be like sort of lower level. But then, as you get up, you can get more in depth and like sort of apply it.
+
+Participant 22: because not everyone needs to come in being like a super expert on all of these things, and, like new issues, emerge, such as like generative AI or these other topics
+
+Participant 22: that, like not everyone's expected to be, you know, already know or master. So I guess you know part of that. Curiosity with like an empathy, includes, like generally like learning, and that willing to learn, and that ability to learn and taking new information and listen, and all of that.
+
+Participant 22: But the one other piece, I would add, is. the ability to effectively communicate and to think strategically within. The context of
+
+Participant 22: privacy and engineering. And and what I what I mean by that.
+
+Participant 22: I think
+
+Participant 22: II think privacy engineering has failed at doing a good job of not putting privacy and opposition to other things. And a lot of that comes down to communication. You know. And again, those soft skills, how do you sell a story? How do you think about like trade offs. How do you do like these sort of risk assessments and other things in a way that you can have the best privacy outcome? Well, also letting people do
+
+Participant 22: to to get things done. And as a quick aside, I've done a lot of work with like Pgp or Gpg, and I can say it might be really great for certain privacy problems, but if no one uses it, then it doesn't do anything right. And so that's part of what drives that if you can't think about designing a product that people will use and meet their needs. It didn't have the best privacy.
+
+Participant 22: but no one will use it. So what does it matter, you know, and so that ability to to be able to make those trade offs and talk about those trade offs, document those trade offs and think through. That is also critical
+
+Participant 22: and out of what was assessed.
+
+Participant 22: I think it was really just those technical system design skills. Maybe I don't think that curiosity was really assessed. And that listening piece, you know, they obviously do behavioral interviews. But those behavioral interviews are can be gained. We'll say, you know, they definitely didn't assess the like ability to communicate in like the trade offs or at least not well in my mind if they were trying to.
+
+Participant 22: They definitely didn't. They definitely hire a bunch of, we'll say, like white men who've come from like relatively privileged backgrounds, and don't think about like other perspectives. So like, even that is like, clear that they're not doing good job. So yeah, sorry. That was a little bit, ranty. I'm gonna like scale back. But hopefully that that help answer answer what I was expected coming in
+
+Liam: no, definitely. And it's clear there's there's large difference in what was expected. And now, the actual skills you're using in reality, enlarge that differentiation is between those soft skills that just were not sort of tested on at all.
+
+Liam: Curiosity, the empathy, the ability to communicate. So my! My question would be, why do you think they're not sort of assessing what you really need in in the role.
+
+Participant 22: A couple of reasons. One, I think tech companies are either full of really shitty engineers or people who are not engineers, and I mean that as in if you go to a bridge
+
+Participant 22: you know, the engineer needs to make sure that. Say that safety and other things are met at, let's say, like, you know, 99.9 9 9 9% assurance, you know, right? Like all of these things, and it's not like you. Only do that for one population or do it. For you know other population, you know, for everyone, because, you know, you're building it for everyone and needs to be safe.
+
+Participant 22: Tech companies definitely. Do not do this. Hey? You know, like 100. They don't do this. It's not part of like how they think. And so they either aren't. And real engineers as in. They're not doing this because they intention aren't thinking about this or these things, or they're shitty engineers, as in. They know this, and they choose not to think about it.
+
+Participant 22: I think there was like a
+
+Participant 22: some report that came out within the past 4 years, or whatever talking about like biases, or something with an AI or something like that that said, like the threshold of where they would launch was like 80%. Right like to me. That means you're a really shitty engineer. If your threshold for like safety or whatever. Let's say, 80% instead of that, like higher percentage. Maybe you shouldn't have fucking launch that product.
+
+Participant 22: So you know. So like, why, II just think like  there's that issue. There's the issue of like within, especially big tech companies.
+
+Participant 22: there's the desire to like, parcel out what people do in such a way that like people don't think outside of their bubble, whether that's actually what's like their job responsibility role with whether that's what's needed or not. Startups have the exact opposite problem where they don't have enough people. They hire people, maybe from like within a particular perspective, but they need them to do so much more. And so there's like, you know, again, a hiring mismatch at these different levels. And if these different layers that align with like corporate or company
+
+Participant 22: incentives that don't really allow for easier good hiring in that in that sense.
+
+Participant 22:  And if I if I just say that I think like tech companies are like often run by like privileged people who don't seem to give a shit about anything other than shareholder interests. I would probably also add that, and not necessarily the hiring managers, but, like the incentives of the of the company structure and others, sort of lead and trickle down, and then terms of how they define these things that way. They're not sued, or other things within their hiring processes, all like sort of
+
+Participant 22: comes together. So I guess you can just say sort of like, either ignorant stupidity, malice. You know, we can put in within that one from that perspective.
+
+Liam: Okay, now, that wraps up that topic, and the next one we move on to is talking about your reporting and deliverables in your work. So the first question I have. Who do you report to?
+
+Participant 22: II report. My my manager is the like engineering manager for security and privacy, and my my manager reports directly to like the  head of engineering for the product I have. So like we'll say, like my reporting chain is quite small, you know, in that sense, which is good. Yeah.
+
+Liam: And then, does anyone report to you?
+
+Participant 22: Not directly. And that's a good thing, because I think, like I do not want to be in a management position at the company that I have and like. I don't want those responsibilities, however, as a tech lead, you know. And again, the primary privacy architect, you know, I'm gonna just keep on using those terms, and perhaps interchangeably a little bit because the tech lead will say is more linked to
+
+Participant 22: my role within the team. But it's obviously linked to like the prime, the primary privacy architect, because that's sort of like linked to how I interact with people. And again, and my role. But like, at that larger sort of deliverables, perspective.
+
+Participant 22: so as the tech lead, I'm often sort of like mentoring or working with people on my team to help ensure we're getting the right
+
+Participant 22: degree of technical review and these things. And so I'm often doing that sort of mentorship. I'm usually working very closely with our manager to like help
+
+Participant 22: like, talk about how people are doing where, like, you know, professional development and similar is needed. So I'm always thinking about some of these things. But I'm not in a direct management role, which I said, I think, for me at least, is a good thing.
+
+Liam: Gotcha. And then what are the typical reporting structures you see in in privacy. Engineer
+
+Participant 22:  so there's 2 different types. We'll say.
+
+Participant 22: privacy is usually
+
+Participant 22: separated out from the software engineering teams as in like, there's a separate again, privacy, or like privacy and security, or like
+
+Participant 22: privacy, security, safety sort of like vibe. And they're in their own like reporting chain. Typically and that's usually for the people who are doing
+
+Participant 22: as the company would see it, the typical privacy engineering work which would include like reviews, consultations, these things. But like really focused on
+
+Participant 22: data accumulation and similar. the folks who do
+
+Participant 22: excuse me, the software engineering work, they usually report up through software engineering management. So again they still might all go to like within within the
+
+Participant 22: product. They might all report up to like
+
+Participant 22: ahead of engineering, but they might come up through different routes. And so
+
+Participant 22: there's not always good communication between
+
+Participant 22: the privacy and or or security. It's not just a privacy issue, you know. And the the software engineering teams were actually writing and designing those features. Or, you know, parts of the product.
+
+Participant 22: And what's even worse, is, I've seen situations where the privacy and security teams are separate like are in a different organization than the product teams themselves. And I think this ends up being really ineffective, because there's very little or no incentive to talk to the privacy engineering teams or the security teams until it comes like launch, or you're forced to. And so it creates this sort of situation like massive amounts of bureaucracy in order to try and force that sort of reporting that leads to, I think very negative or bad outcomes.
+
+Participant 22: And I've seen that structure within
+
+Participant 22: multiple companies. the company that I sat in that was doing
+
+Participant 22: where they wanted me to do where they circumlayed the privacy, engineering, and data governance, and I worked with for a very short amount of time that that was sitting under the the information security team that was separate from the application security team and was focused on in the in the team that I was sitting on was like the more the governance. What's the term? I'm forgetting the term.
+
+Participant 22: But there's like the whole, like, you know, governance sort of side of things. The compliance realm within sort of security consulting it would have been that team as opposed like a technical team that's doing the actual application security work, working with the the engineers. And so
+
+Participant 22: I, unfortunately, that seems to be a common sort of structure. I've also seen some situations where
+
+Participant 22: privacy engineers or privacy teams have, like dotted line reporting up to legal, and so they might not be. F sitting officially under legal but, like legal, is sort of an unofficial reporting structure. And again, I've also seen somewhere they're sitting under legal. And again, I don't always think that's the the correct route, because legal has a different analysis than privacy engineering or they can have a different analysis of privacy engineering
+
+Liam: Gotcha. So in quick summary, there's quite a few different scenarios. But you feel the best fit is when the privacy engineer is embedded in the product team as well.
+
+Participant 22: Yeah. And I would say, like, with good interaction, with, like the product managers and the software engineering teams, it's usually those 2 that are like, really like needed. Because,
+
+Participant 22: you know, to put it a different way, like, I think, I think, like security, privacy. And these other things are not overhead, right? Like they're positives. And we're seeing this this reality where people are starting to choose products on the basis of a perception of privacy. I heard someone recently say, for example, like the solve email, privacy, use proton mail.
+
+Participant 22: hey? That's stupid for so many reasons. I don't even wanna like necessarily like, explain like going off. But like what it? What it's saying is that, like proton mail, has presented themselves as privacy as a feature, and people are using. Apple has also done this very successfully, and Apple's definition of privacy where it's like this, you know, it's private, because it all happens or stay on. The device is not true. When you look at like
+
+Participant 22: some of the ways that they've. You know that the information is handled on device. You know, especially like the C. Sam, you know, and sort of client side, scanning around images and sort of other things that we're that they were talking about. Are you familiar with that instance with Apple? Or that that discussion with apple.
+
+Participant 22: Yeah.
+
+Participant 22: And so you know. And so I just say all that, because, like people like companies are presenting privacy as a selling point. And so that that comes usually from like the product manager, the product managers usually want to think about that. How can we sell privacy or these other things? And then it's a software engineering teams that implement it. So that's the reason I'm focusing on those 2.
+
+Participant 22: But oftentimes companies are not thinking about privacy as a feature. And that's part of that problem.
+
+Liam: Gotcha. Okay? And now the next question I have is, what deliverables are required from you in your role, for example, is it? These compliance reports? Are you actually writing any code? Is it just purely advice?
+
+Participant 22: I I do. Code reviews. I don't usually write code and that's
+
+Participant 22: good. We have people who can write code better than me, and we want them writing code better than me. I can write like II can do like scripting or tools as needed. I can prototype, you know, like write up prototypes as needed. But again.
+
+Participant 22: that, you know, like the I'm I'm more of that sort of design and architecture level in general, anyways. So like even within the software engineering world, most of what I do is sort of design oriented. Again, design oriented code review, making sure, like certain logic and things are being like, fulfilled and followed
+
+Participant 22: and and so, like, you know, even within software engineering, I'm probably a
+
+Participant 22: at that point where I wouldn't really be expected to be writing code already. But to to go back to that point. You do not want me to be writing production level code, typically because again, at least at the company I work at. We're big enough that you have that and you. We are able to rely on people who can write code better, faster and meet other needs. You know much better than I could. And so, I get a really focus on the privacy side of things.
+
+Participant 22: We do privacy reviews and privacy reviews here, I mean broader than just compliance, I mean broader than just
+
+Participant 22: server side data collection and a big part of that is, we've been pushing and driving to get better, like reporting explanations, or others about, like what our reviews cover, what our findings are more similar to like a security assessment like a network security assessment or application security assessment. Where you have like, you know, findings. You have like recommendations. You have these other things, and part of the reason for that is this will become technical documentation.
+
+Participant 22: So like, I review things that get put out publicly, as like Rfc, so request for comments, I put out things that become publicly part of, like the technical documentation to say, here's how like privacy is built into this this feature.
+
+Participant 22: so those are like some of the deliverables, and then, like internally within, like our the management, you know how we do it. We, you know, I help create, like highlight. You know, all the different work I do. So I typically could create like an internal deliverable. Oh, I also like write up documentation in general, I create
+
+Participant 22: sort of like trainings, or like privacy, awareness, sort of you know things as well. There's there's a lot in that sense, but none of my deliverables are linked to compliance, the privacy sort of stuff.
+
+Participant 22:  again. And that's intentional, because I get to drive what I wanna do in this sense what I wanna do and like. And I'm just happen to be in a good product that allows me to do that where I do not imagine me
+
+Participant 22: having the freedom to run things and do things the way that I do. If I were on a different team within my company.
+
+Liam: Gotcha, okay? And then how are those deliverables evaluated by your manager?
+
+Participant 22:  so we have. We do have a whole like.
+
+Participant 22: I guess, like Job Ladder, or whatever they call it like, you know, that's supposed to be for the progression. That's really fucked for for me. It just doesn't align closely with the work that I do. And again, part of that's like all these things that we've talked about like the the missteps and hiring and things like that. And so
+
+Participant 22:  I don't wanna say it's subjective other than saying all sort of like performance hiring, you know, promo and other decisions are always subjective, and there's always biases but I like I talked to my manager on a regular basis. We like help keep up on like what's going on. There's a lot of like interface around like what's going? Well, what's not going well again in terms of what I'm doing, where I can improve on a regular basis. And so
+
+Participant 22: it's there's a theoretical area of like am I meeting, you know, sort of these, this level of work?
+
+Participant 22: which again, is theoretically linked to the to the job ladder. But in actuality is
+
+Participant 22: not necessarily. And I think I did. I'm just gonna be like.
+
+Participant 22: I'm not speaking for my company. And so I haven't like named them, but I'll at least name them because I can't remember if I included it in the initial piece. But you certainly know, based upon my email. I do work at [BIG TECH COMPANY]. And the way that [BIG TECH COMPANY] works is they try to like
+
+Participant 22: separate out bias by having these committees and others sort of like evaluate things, and I find it completely fucked. And it doesn't really always like work. Well, when it comes to some of these things.
+
+Participant 22: because people just don't have like sort of awareness or knowledge of something, since up to your then, your manager to do this like advocacy, and just like the way that they pull things that's being driven by internal politics, or like budgets, or these things, it can end up with these like hefty misalignments.
+
+Participant 22: and so maybe that's what like, that's what I'll say, like, I feel like. I don't wanna say like, I'm above evaluation at this point in time. But like.
+
+Participant 22: It's not really my manager that's doing the evaluating. And what's really being evaluated in some ways is, do we have the budget or the money that we want to be able to like, you know, reward certain, you know certain behaviors or not. And if we don't.
+
+Participant 22: who gives a fuck, that's sort of how [BIG TECH COMPANY] sort of operating right now.
+
+Participant 22: and it's bad something that's bad. But that again, that misalignment has been pretty true from the very beginning. And that's just because, again, what I do from a privacy side is very different.
+
+Participant 22: And so I'm I'm sort of in this in between job ladders sort of place. I don't really easily align in any of these job ladders, and that's again.
+
+Participant 22: It's it's sort of a fucked up situation, but it is, it is what it is.
+
+Liam: gotcha. And the next question I have, is there any challenges related to your reporting structure or tools, techniques, standards that that are required of you to use in your role.
+
+Participant 22: To. I mean the the tool techniques. I mean that that probably thing I've like covered directly by just being like things aren't even designed for us. Like, I'm having to build and design all that stuff like, I'm not gonna talk about that because I think you have enough there from the other stuff.
+
+Participant 22: but from the reporting structure,
+
+Participant 22: the Tpms and the So which are the the program managers, the technical program managers and the product managers are in different reporting chains. And the software engineers. So they report up to like a different, you know, like head of, you know, like, you know, program management, or whatever I think that that's a little bit of a of an issue, because
+
+Participant 22: we have like, it becomes more difficult to do some of that interfacing with the product managers or the program manager. We don't always have as good communication or visibility there. We've worked really hard to like, improve some of these things
+
+Participant 22: and then like. And it might make sense for some areas not to be embedded within
+
+Participant 22: like our team will say. But since security and privacy are like horizontals as opposed to like, you know, verticals, we're not only focused on specific area. We tend to need a bit more sort of support, and it makes it difficult to get some of those resources.
+
+Participant 22: The other thing I would say,
+
+Participant 22: there's this unofficial route of what privacy is means does, etc., that makes my life really fucking difficult and really, really hellish. And that's so like, I get pulled into a lot of discussions that I
+
+Participant 22: that don't really matter, because, the way that [BIG TECH COMPANY] is sort of like, internally structured and organized around like privacy, reporting that is more linked to the like company perspective as opposed to the product perspective. And so I do have some of these like unofficial duties or obligations because of my role, that I usually sit in meetings. And I say, that's not relevant to us, or like, you know again that comes back like those tools that you know the practices, those parts of things, and then we end up having to do all of that in conjunction with the work that we have to do, which sort of takes away from it.
+
+Liam: Gotcha. And do you think these challenges are typical?
+
+Participant 22: I II would imagine so. And I say that because
+
+Participant 22: again, like I'm I'm prim. I'm really based. My, so the security and privacy team all of the security folks are like software engineers. So like, we really are a much more like technical and embedded team within sort of the product. And the projects, you know, like the way that we, we work like the technical design. And these things
+
+Participant 22: but
+
+Participant 22: the everything that I've
+
+Participant 22: with maybe with the exception, like some smaller companies or things like that, like II think I've interviewed at some places where they will do like coding assessments for like privacy, engineers right like, and I have seen that, whereas, like I didn't have like a a coding or technical assessment. You know, going into it.
+
+Participant 22: or sorry I shouldn't say technical. I didn't have a coding assessment like I. There were other types of technical assessments that were done.
+
+Participant 22: and
+
+Participant 22: II do think some of the you know, just based upon like that. That reporting structure I talked about where, like some folks can be sitting outside of the product team and others are barriers to
+
+Participant 22: doing what I guess I consider the important or the real types of privacy engineering work.
+
+Participant 22: It's probably not a problem. If your goal is to again meet, you know, check boxes for compliance and other things which
+
+Participant 22: again, if you're going for an Ipo great, you know, maybe that's actually what you need. Instead of trying to think about the real like
+
+Participant 22: privacy design.
+
+Liam: gotcha, okay? And now, moving on to the last topic regarding success, the question I have for you is, how would you define success in the work you do? And what in large is the overarching goal?
+
+Participant 22: So the [PRODUCT]I'm on that I'm working on is open source. It's called [PRODUCT NAME]
+
+Participant 22: and for me success is regardless of whether [PRODUCT NAME] succeeds or fails. And I don't wanna say I don't care. I mean that, as in creating a new [PRODUCT] is really fucking hard and like, if if it doesn't go outside of like if it's not used outside of [BIG TECH COMPANY].
+
+Participant 22: I think maybe from like the future perspective, that'd be a failure. I don't care what I care about is getting that privacy analysis out there and in the public. And to me, that's a success. Because
+
+Participant 22: we're we're probably some of the.
+
+Participant 22: I think I think the the number of people who do this sort of like kernel level, privacy, like kernel level privacy work, is extremely limited. And so the more information that we get out there. So that way people coming at this again have a starting point
+
+Participant 22: is to me success and making sure that we're like, clear about like what? What it is that we're thinking about our assumptions, our biases, what privacy problems we're solving, how we're thinking about privacy. All of that to me is a success, because it forces these conversations in other ways.
+
+Participant 22: and like. I even see that internally, by talking about things, the way that I do, I get to say like, this is our scope. This is what we do. You all get to make the privacy decisions. But here's what we can give you, so like as tools to help you make the privacy decisions like. And they can. You can then start to see and differentiate between the different privacy analysis, but which is like again, data collection on the server versus like what's happening on device.
+
+Participant 22: but I don't think it's sustainable for like to expect that like, or I don't think it's like, II don't think I'm gonna imagine that future can solve all the privacy problems or anything like that. Like, I'm really pessimistic in some ways. That you know, maybe we can say success is really just
+
+Participant 22: preventing worse shit from happening, you know, in some ways.
+
+Liam:  and then the last question I have for you is, how do you think others evaluate the impact of your work.
+
+Participant 22: I don't know if anyone does and like, and I mean that like really and genuinely
+
+Participant 22: because. you know, like internal, of the company you think about like the number of users or this or that. but, like
+
+Participant 22: again, like, I think about us within the open source context, I think about us where we don't really own the privacy. You know, stance of products built on top of [PRODUCT NAME]. All of this stuff like there's product privacy teams that do that, whether internal to [BIG TECH COMPANY] or not.
+
+Participant 22: So I don't know if anyone's really thinking about like the success from like a privacy embedded in future perspective or the impact of that. I mean my my manager and my team. We are but
+
+Participant 22: I don't know if anyone cares. and maybe that's not a bad thing.
+
+Liam: Gotcha. Alright well, as as we close, I'd like to ask if there's anything else that you haven't had a chance to mention, or you would like to share with us or anything you think we should know
+
+Participant 22: the maybe, like I'll I'll just note, like I do think the and this is going back to the question about, like, you know, giving talks and mentorship. And these things II tend to think there, there's not really good places to have these conversations that I'm having, and I'm bringing up. I know there's places like pepper, like privacy, engineering.
+
+Participant 22: privacy, respect, or whatever you know like. And I find that I found that, like submitting certain talks, and these things that move too far away from the technical and start to talk about like trade offs or other things aren't really accepted. And so like, I don't think that that's always a good space to talk like in a very concrete example is like I did work on
+
+Participant 22: the the [PROJECT] like assessing. And how do you guide and help.
+
+Participant 22: you know, community based organizations that we're trying to put up census response. You know, kiosks and others understand the risks and like design their systems to be safer. and because we sort of raise skepticism around sort of things like differential privacy and like who has access to it and the census department. And these other things like.
+
+Participant 22: you know, this wasn't really seen as like fitting within there, because, like, well, you know, like my my interpretations, that, like, just based upon the other talks that they'd selected. If we were within the you know, the [REDACTED]. And we were talking about this, it'd be seen as different. But since we're outside of that team, we're promoting this sort of skepticism which really the skepticism is like.
+
+Participant 22: you know, what can we do within this face of skepticism, knowing that this data can be abused and you lose access to it. That whole discussion. There's not really a good place to sort of put that. And again, I haven't seen Pepper really get better at that.
+
+Participant 22: The Security conferences often misunderstand privacy, and get very, very blamey towards the users
+
+Participant 22: and so like, I do think there's a larger like
+
+Participant 22: issue or question of like, how can we improve privacy the way we think and talk about privacy if we don't really have good places to talk about this again, this particular type of privacy meeting that I'm talking about, and we're getting further and further away from that. So yeah, really optimistic. Here is what I'm is what I'm saying.
+
+Liam: Gotcha. And then, lastly, if you have any questions for us feel free to shoot them. And yeah.
+
+Participant 22: the only the only thing I would sort of add with that I don't think I have any specific questions. Again, knowing that it's gonna be very difficult to anonymize some of these things which is fine and even to de-identify away from like me. It's gonna be, you know, again, some of that might be difficult. But if there's any
+
+Participant 22: follow ups that are needed, I can't remember or not any folks that are needed, but like any follow ups that could come up. I can't remember if that was part of that initial intake. You know that I had sort of filled out. But yeah, I guess. What? What are the are there any sort of follow ups to this or anything like that just for me to need to be aware of.
+
+Liam: No, no. Additional follow ups in regards to to additional interviews. But if you have any follow ups for us. Nikita can drop his email just so you have it. But then, lastly, additionally, we do have the the intake screening form that if you have anyone else you can share it to that you think would be fit. That would be most appreciated. And I'm also going to stop the recording.

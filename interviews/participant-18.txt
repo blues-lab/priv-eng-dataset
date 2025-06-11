@@ -1,0 +1,879 @@
+Nandita: Now that we are...
+
+Nandita: the recorder is on, could you please repeat your consent to being recorded?
+
+Participant 18: Yes, I consent to the recording.
+
+Nandita: thanks so much your identity, and anything you shared with us will be kept confidential, and will only be heard and read by the researchers in our study. Please know that this interview is designed to be a conversation. There are no right or wrong answers. You can skip any question or pause the interview at any time. Do you have any questions before we begin?
+
+Participant 18: When you said, only shared with researchers in the study? Are you expecting
+
+Participant 18: sharing of
+
+Participant 18: aggregate data results, publication, etc. afterwards.
+
+Nandita: Nikita, do you wanna take this one?
+
+Nikita: Yeah, of course. So we do expect you know, we are trying to dictate the collection so that we can eventually you know. Do some analysis. See the thrones trans. And publish that as an information. So in any of the publication, a word that we do. We're gonna be working with the identified transcripts. So those will be retained by us indefinitely. But they will not contain any personally identifiable information. And we'll be also releasing
+
+Nikita: a white paper and a publication academic publication that will contain insights that we gather from the analysis. But of course, there's not gonna be any attribution to specific individuals or any specific companies. It's gonna be all de identified.
+
+Nandita: [PARTICIPANT NAME], does that answer your question
+
+Participant 18: probably sufficiently for these purposes. Yes. 
+
+Nandita: are there any concerns? 
+
+Participant 18: Well, the initial survey had asked for salary and compensation data?
+
+Participant 18:  as you can imagine, if if it is merely de-identified
+
+Participant 18: and not aggregated with a minimum threshold, or subject to other protections. reporting that for like peer, review and rep, and and things like that
+
+Participant 18: could be highly identifying of individuals within the survey. So yeah.
+
+Nikita: just clarified that information is only going to be reported into aggregate. There's not going to be any individual sort of like this. We have like a participant with this characteristics that's not gonna be happening. It's only gonna be reported in aggregate form. Yeah. So we we do want to really take care not to de-identify anyone. And given that we are talking to as professionals, we want to take extra cautious. There, be extra cautious there.
+
+Nandita: I just wanna make sure that I offer this up. If if you would like to redact something. Or if you if you want to like make sure that it's fine, we can do that.
+
+Participant 18: Thank you. Understand the environment in which
+
+Participant 18: discussion and and so on. So
+
+Participant 18: we're good so far
+
+Nandita: sounds good. So we'll conduct this. I'll go through the script of the questions we have, and we have 6 sections will be done with the first section, which is, mostly an introductions. We'll try to get to know a few general questions about you and work. So we'll start with. Can you tell me briefly about what do you do in your job?
+
+Participant 18:  broadly.
+
+Participant 18: I deal with privacy, risk management. and
+
+Participant 18: strategies. both
+
+Participant 18: through technical mechanisms
+
+Participant 18: as well as policy mechanisms.
+
+Participant 18:  to reduce privacy, risk
+
+Participant 18: in data sets at my employer.
+
+Nandita: Okay, how do you define privacy in your work at in at your employer?
+
+Participant 18: There's not a definition that I'm satisfied with at work.
+
+Nandita:  so what would be? What's your follow up question, I guess, like we, we start with it. What is the what is the general understanding of the word privacy in your at your employer?
+
+Participant 18: I mean, this is really kind of one of the fundamental
+
+Participant 18: challenges for this industry and and for
+
+Participant 18: those of us that are practitioners. I think
+
+Participant 18: many folks use privacy as a shorthand
+
+Participant 18: but it doesn't, to my mind.
+
+Participant 18: have a great
+
+Participant 18: definition globally.
+
+Participant 18: it. You know. And when we look at things like even basically like with GDPR. People say, Oh, it's a privacy regulation. Well, it's a data protection regulation.
+
+Participant 18: And so
+
+how we bridge that gap between data, protection
+
+Participant 18: and privacy.
+
+Participant 18: And you know whether you can actually use those things interchangeably or fungibly.
+
+Participant 18: is one of the big challenges. And and certainly I see in in my business.
+
+Participant 18:  that it depends a lot. If I ask a person in India what their expectations of privacy are, I very likely will get a different explanation than someone in Brazil or someone in the Us.
+
+Participant 18: Or someone in Russia. And so
+
+Participant 18: we have to adapt
+
+Participant 18: our products to the environments in which they're being used. So
+
+Participant 18: yes, I have privacy engineer on my title. But
+
+Participant 18: data protection engineering is probably a
+
+Participant 18: more precise definition.
+
+Nandita: and when we talk about in general like, how would you describe the roles in industry related to privacy? Engineering?
+
+Participant 18:  How would I describe the roles related to privacy. What could like the potential like titles, or or what in industry? What are people doing in privacy? Privacy engineer? Commonly in our environment, you see.
+
+Participant 18: oh, what's what's one of the other ones?
+
+Participant 18: product, compliance lead?
+
+Participant 18: You see. privacy program manager.
+
+Participant 18: see data protection engineer.
+
+Nandita: Those are kind of the most common ones.
+
+Nandita: And you made an earlier, like a good distinction between data protection engineer and and privacy engineer, could you? Could you explain a little bit about like, what is the difference between the 2?
+
+Participant 18:  there are lots of regulations on how data should be controlled.
+
+Participant 18: and they're not none of these, you know. These are all to me, then, overlapping parts of the big Venn diagram. Right? So there's privacy, which to me is, you know, my individual shorthand I will use is like, does an individual have transparency and control over their data?
+
+Participant 18: And can they restrict the way data is used to learn things about them as an individual.
+
+Participant 18: So for me, that's kind of
+
+Participant 18: how I think about embodying privacy per se.
+
+Participant 18:  But S, there's lots of security components to it, too. I've I've heard in industry contexts, and and you know, in conferences and things, people talking about security
+
+Participant 18: and who are kind of naive to the privacy. Space will often say, well, I don't understand. We've encrypted the data.
+
+Participant 18: It's private now.
+
+Nandita: and
+
+Participant 18: you know, if you're in this space. You understand the long conversation that you have to follow up on with that right. But but for many people they think of
+
+Participant 18: data security as as a part of this, too. And then their safety right, which is starting to really come into the privacy space, or has been for a long time. But
+
+Participant 18: you know, and I don't know how useful it is to draw distinctions between use of information
+
+Participant 18: for individual privacy versus
+
+Participant 18: accuracy of data, or protecting data
+
+Participant 18: from manipulation and misuse on a broader scale, which is oftentimes gets lumped into the security category. But the mechanisms that we use to deal with it
+
+Participant 18: are often some similar mechanisms.
+
+Participant 18: and so there's sometimes a bifurcation there that I don't know is entirely helpful.
+
+Participant 18:  And then
+
+Participant 18: in the AI space. We hardly even know
+
+Participant 18: what it means
+
+Participant 18: to have information. That's private when it's information about an individual. But it's inaccurate.
+
+Participant 18: hallucinated. It's made up. It appears to be personal data. It appears to be information about an individual.
+
+Participant 18: but we know that it's construction wasn't from collecting
+
+Participant 18: any information about that individual, right? So a lot of the things you might do in collection to mitigate collecting unnecessary information don't protect you
+
+Participant 18: from what is at least a perceived privacy violation, but if it's not an actual
+
+Participant 18: like collection, and use violations also.
+
+Nandita: You've answered a part of this question already. But is there anything you would want to add in what you think is a privacy engineer, how you define a privacy engineer.
+
+Participant 18: I think it's a topic that's kind of perennially
+
+Participant 18: a challenge, because it it depends on the way technology changes and so there, there's definitely, I would say, a concept of a privacy practitioner
+
+Participant 18: that is broader than
+
+Participant 18: what I would call classical privacy engineering.
+
+Participant 18: And and there's
+
+Participant 18:  You can debate over whether
+
+Participant 18: all of the privacy practitioners who
+
+Participant 18: are involved in making information safe and private are
+
+Participant 18: privacy practitioners or privacy engineers. Some people would say, if you're a policy writer and you're writing policies for data handling, you're not a privacy engineer.
+
+Participant 18: You're a privacy practitioner, because you're still trying to achieve the same goal. You're still trying to keep people's private information safe. But you're not
+
+Participant 18: directly composing
+
+Participant 18: the technical mechanism by which that happens.
+
+Participant 18: But you could go the other way and make it too narrow, and say, well.
+
+Participant 18: only people who are implementing privacy features by writing code.
+
+Participant 18: our privacy engineers. And that's probably too narrow.
+
+Participant 18:  because there's also a lot of people in my company who are
+
+Participant 18: carrying a SWE title.
+
+Participant 18: who are absolutely involved in engineering privacy into the the product.
+
+Participant 18: so the edges of that definition are very fuzzy.
+
+Nandita: Thanks so much. Thank you for like talking about the spectrum of privacy engineering from like
+
+Nandita: explaining that coding is not always like a mandatory thing that you you're supposed to do as a privacy engineer. So that's helpful for us.
+
+Nandita: Moving on to the second part, which is the motivation we like to little know a little bit more about your career journey. How did you become interested in privacy engineering as a career
+
+Participant 18: by accident?
+
+Participant 18:  I will have at various points in my career.
+
+Participant 18: Then a software developer.
+
+Participant 18: I have been a lawyer. I have been a technologist.  and I was
+
+Participant 18: came into privacy engineering via
+
+Participant 18: trying to bridge the gap between legal requirements and technical requirements
+
+Participant 18: for Gdpr compliance.
+
+Participant 18: and basically found myself in privacy engineering before I would have used that as a label to describe myself.
+
+Participant 18: So it looks like the Gdpr. Was like inflection point in which, like, that's after Gdpr like you, the preparation for right? So that 2016,
+
+Participant 18: I went.
+
+Nandita: I mean, you can dig a little bit deeper. You mentioned, like pretty much all the professions like the adjacent professions we could think of could you share your career journey on how you arrived at your career position? Okay, I will give you a short version, and if you want details on other bits of it, then then let me show so, coming out of undergraduate university years and years and years ago
+
+Participant 18: I had a [Humanities program] degree. So it was not engineer and business. It was not engineering. It was not legal, anything like that. But I got started self started in technology and wound up doing software development
+
+Participant 18: and so
+
+Participant 18: that brought in the the technical side of things.
+
+Participant 18: After doing that for a number of years. I started to start up with a friend of mine in the legal space
+
+Participant 18: and got interested in the law side of things. decided it was interesting enough that I went back to law school, got a law degree, and then started representing clients
+
+Participant 18: in a lot of the intellectual property lawsuits around. This dates me. But but with the napster era and the sharing and things, and it occurred to me that
+
+Participant 18: a lot of the things I was fighting about that the judges and and folks were less knowledgeable about was actually data privacy. It was, when can you discover someone's IP address because you have a suspicion
+
+Participant 18: about their behavior. And is that sufficient
+
+Participant 18: to disclose that kind of information? And how identifying is that IP address, and that has changed over time as well. So that kind of got me onto the legal side. And then, as that business grew I worked with clients, and and some of them were trying to figure out how to be compliant with
+
+Participant 18: newly proposed privacy regulations.
+
+Participant 18: And then went back into working on that, and then wound up working for a company. That needed more of the engineering side. They had the lawyers to tell them what they thought that they needed, but had nobody that really could help design changes to their processes and their infrastructure to implement those sort of things. And so
+
+Participant 18: I built the Gdpr program at [Software Company]
+
+Participant 18: and then lined up. going into privacy engineering in my current role full time.
+
+Nandita: So you mentioned that you became a privacy engineer accidentally. Trying to be the bridge between the legal and the technical teams. What motivates you to continue being in privacy engineering?
+
+Participant 18: I have kids and
+
+want them to grow up in a world
+
+Participant 18: where they have some control over their identity.
+
+Participant 18: and that it's not decided for them where they have some agency, to decide how the world perceives them for themselves.
+
+Participant 18:  so that's the motivation.
+
+Nandita: So that's like an excellent definition like to what your personal goal is. And I'm also wondering, like, what do you enjoy about privacy engineering?
+
+Participant 18: I think it's that the decisions are so difficult.
+
+Participant 18: And there are very seldom clear answers.
+
+Participant 18: It's a space where
+
+Participant 18: doing the right thing isn't even always clear what the right thing is, because you're balancing so many different trade offs. And you know the
+
+Participant 18: the the typical trade-offs come across those those sort of disciplines that I mentioned earlier, you know, if you go too far on
+
+Participant 18: privacy, Axis, you can wind up actually making people less safe because you can't detect and stop bad actors as easily in security and and safety spaces.
+
+Participant 18: But, on the other hand, if you say I want to
+
+optimize my environment, to be the safest.
+
+Participant 18: most
+
+Participant 18: you know, most protective
+
+Participant 18: in a sort of a paternalistic sense. Then you wind up, stripping away individuals agency to define how they work with your platform.  so it seems like everything I deal with
+
+Participant 18: is constantly managing these trade offs. But that's to me. That's what makes it fun.
+
+Nandita: That's good. So you enjoy like the difficulty of the work, and and that it's a constant balancing act between trade offs and utility for data.
+
+Nandita: Now, I'm gonna ask you a question about the future a year from now. Do you see yourself in the same position? Meaning like, do you see yourself in privacy engineering
+
+Nandita: more specifically doing what you're currently doing in your position?
+
+Participant 18: No, why would that be?
+
+Participant 18: I think there's a few parts of it.
+
+Participant 18: part of it is, I think, that organizations respond to what they perceive as external pressures. risks, and imperatives. And so
+
+Participant 18: Gdpr. And the other regulations throughout the world that are are similar, including CCPA and Cpr. Here, and LGBT and Brazil and the the Indian regulations.
+
+Participant 18: caused companies to need to understand those make changes and it and and alter the way their products work. In some cases. And
+
+Participant 18: big public
+
+Participant 18: incidents like Cambridge Analytics put a lot of focus on how that information was used. But the press cycles move on.
+
+Participant 18: and
+
+Participant 18: the things that leadership is are worrying about now
+
+Participant 18: are not those things those are II don't want to say that they were perceived as solved problems, because II don't think that would completely categorize it. But
+
+Participant 18: when
+
+Participant 18: the tech leads and corporate leads are trying to figure out what are the things they need to worry about next?
+
+Participant 18:  it is things in the AI space. It is things in
+
+large scale automation. And and so
+
+Participant 18: I think privacy needs to involve, evolve, to be broader and to include data protection more specifically.
+
+Participant 18:  because that is something I think is durable. I, putting a privacy person label on myself.
+
+Participant 18: probably has a limited lifespan unless you really want to just go into like. And you're the guy that people talk to for Gdpr stuff.
+
+Participant 18: and you'll always be that person. But that pushes you more back into the compliance space
+
+Participant 18: and the engineering space.
+
+Nandita: Okay, now we move to the the third topic, which is more focused on responsibilities and skill sets. Could you give me an idea of what a typical day at work looks like for you?
+
+Participant 18: There are. There are. There's a pretty consistent  engagement with
+
+Participant 18: the software engineering teams that build our products and that build our infrastructure. That's very
+
+Participant 18: consistent over time.
+
+Participant 18: I think a lot of privacy engineers are not in a place where they have resources, unlimited resources to go build things on their own.
+
+Participant 18: So you really are building things in a partnership model with other teams within your company.
+
+Participant 18: Where you have to convince them to make an investment in privacy.
+
+Participant 18: You have to work with them on what that should look like
+
+Participant 18: and how to manage all those trade offs. You're also working with legal, almost on a daily basis.
+
+Participant 18:  and also with all of the compliance and controls and risk
+
+Participant 18:  specialists as well.
+
+Participant 18: Because privacy, risk and privacy compliance. If you're a risk management professional
+
+Participant 18: in the company. That's just one element of the risks that you're
+
+Participant 18: you're thinking about and and trying to deal with
+
+Nandita: sounds good, and maybe like, just doing a look back of when you joined this role? What were your what were the responsibility that that were expected that you would do at work?
+
+Nandita: Was there a clear
+
+Nandita: communication of these are your responsibilities, or like the job description that says, this is what you would be doing.
+
+Participant 18: So II think there is a answer I could give you if I was hired to do the
+
+Participant 18: Median
+
+Participant 18: privacy engineering work of the company.
+
+Participant 18: That will. That answer would be different from
+
+Participant 18: what I individually, was hired to do and so
+
+Participant 18: I was hired to work on a team. handling and addressing these big strategic risks and and big strategic threats and challenges.
+
+Participant 18:  so
+
+Participant 18: the things I work on
+
+Participant 18: are usually done in coordination with the other privacy engineers and software engineers at the company.
+
+Participant 18: But my specific challenge is
+
+Participant 18: tend to be a little bit different.
+
+Nandita: And when you spoke about like the median, like the vanilla privacy engineers, what would what would be the expectations for them.
+
+Participant 18: It's to understand how systems work
+
+Participant 18: and to
+
+Participant 18: work with peers in software, engineering, and and elsewhere to design
+
+Participant 18: and improve systems and the privacy protective measures of those systems. And I'm saying privacy again, here is that shorthand for like
+
+Participant 18: data protection more broadly.
+
+Participant 18: right? So sometimes it's a discussion of.
+
+Participant 18: should we implement differential privacy in this particular
+
+Participant 18: product? Feature? And if not, why? If so, what are the right levels?
+
+Participant 18: You know of of noise that the business can still get utility out of what it needs to do.
+
+Participant 18: Sometimes it is. There's a new regulation that has come in, and we have to make
+
+Participant 18: systemic change across a bunch of legacy systems, none of which were designed to handle
+
+Participant 18: the data protection requirements of of
+
+Participant 18: the new regulation. And so we have to go. You know. You may not be the owner of the particular system, but you are expected to be able to help them understand what they need to do
+
+Participant 18: and design a plan for getting there in a particular period of time.
+
+Nandita: And
+
+Nandita: speaking specifically for you. On what you were hired to do, which was that large, complex risk management projects?
+
+Nandita:  and what you're doing right now, is there any difference between the expectation and reality.
+
+Participant 18: Good question.
+
+Participant 18:  no, I think I knew what I was getting into, and and that's one of the reasons why I took the job is because it was
+
+Participant 18: kind of gnarly and difficult wasn't totally clear on what it, you know, specifically. But II think there's also a lot of changes, right? So I've been in my role now for [many] years.
+
+Participant 18: and the role itself has changed over those years.
+
+Nandita: and it surprised me.
+
+Participant 18: I certainly expected this to evolve over time. but it has changed from like day. One
+
+Nandita: sounds good. And in the next question we want to try to differentiate between what you do at work and the things that you do outside of work. Maybe in the privacy engineering space.
+
+Nandita: Do you feel like they have some responsibilities that, you're expected to take on your role which are
+
+Nandita: like such as to the society or to some professional organization, or for yourself, outside of the work.
+
+Participant 18: Yes, I don't think it is an expectation.
+
+Participant 18: Umhm, but but yes, I mean
+
+Participant 18: I'm involved in. and
+
+Participant 18: and IAPP and USENIX, and
+
+Participant 18: regularly go to and contribute to conferences and speaking engagements. I do that more for my own professional development.
+
+Participant 18: Then, from a
+
+Participant 18: expectation from the company, or something that I go do those things
+
+Nandita: right? Now we talk about skill set. What skills were demanded of you when you started your role. So years ago when you were hired.
+
+Nandita:  what? What were those skills? Specific skills that you know? Maybe the organization was looking for?
+
+Participant 18: There's a technical component, which is the ability to understand and analyze data processing systems and be able to understand how to mitigate risks in those systems.
+
+Participant 18: There is an expectation to be familiar with applicable regulations, not not to the degree of of rendering legal advice, but
+
+Participant 18: to to at least be able to understand the requirements, and
+
+Participant 18: be able to reason about what is necessary. To meet those requirements.
+
+Participant 18: Risk management is is part of it as well. Right, which is the the trade-offs and understanding the impact to the business.
+
+Participant 18: It helps. I don't think this was really, I would say, like a part of the role knowledge necessary. But I think understanding, product development.
+
+Participant 18: overall and understanding technical product development
+
+Participant 18: is a huge
+
+Participant 18: benefit right? And so an engineer who comes in and unders has that product understanding. It's going to be better situated than someone
+
+Participant 18: who's looking at it on a more
+
+Participant 18: abstract or sort of mechanical approach to to engineering.
+
+Nandita: And
+
+Nandita: what are the skills that you currently use in your job? And if you know trying to understand, if there's a difference.
+
+Participant 18: it's all the same.
+
+So so far, I mean, I think
+
+also kind of talking about that. Like broad generalist approach, it's useful
+
+Participant 18: for many privacy engineers to understand the basics of of ui and ux development
+
+Participant 18: very much. What we do touches the way users interact with the product.
+
+Participant 18: So having some Ux background is is definitely helpful.
+
+Participant 18:  the other thing that I don't think I needed initially, or II probably did need. But it wasn't like written in the job description anywhere.
+
+Participant 18:  is that a communication ability and executive communications?
+
+Participant 18: so
+
+Participant 18: oftentimes you're dealing with people who are decision makers who don't have
+
+Participant 18: the depth of understanding in your specific area. And so you can be a fantastic privacy engineer. But if you can't explain to people why it's important and how they should think about it, so that it matters to them.
+
+Participant 18: You'll be limited in the ability to actually get people to do the things that you need to get them to do.
+
+Participant 18: So that that's definitely a soft skill. I think that's
+
+Participant 18: now I put it in that in the must have category. It was
+
+Participant 18: maybe a little bit more nice to have before
+
+Nandita: I see
+
+Nandita: we move to the the the fourth topic, which is reporting and deliverables like what is produced at work.
+
+Nandita: Who do you report to?
+
+Participant 18: It's funny that I have to pause for that one. Because it is. It has changed a bunch of times. But I have at times reported to the CISO.
+
+Participant 18: I have it. Time was reported to the Dpo. The Data Protection Officer
+
+Participant 18: have at times reported to the
+
+Participant 18:  Vp for the engineering team.  and there are a lot of peers. I have now that report
+
+Participant 18: directly into the vps of their individual business units.
+
+Participant 18:  so someone who's neither an engineering lead nor a data protection lead?
+
+Nandita: And does anyone report to you?
+
+Participant 18: Yes, privacy engineers.
+
+Nandita: What are the typical reporting structures do you see in in the profession?
+
+Participant 18: If I was going to assemble a team?
+
+Participant 18:  I would want privacy engineers.
+
+Participant 18: I would also want program managers. If they're a privacy centric program manager, that's even better.
+
+Participant 18: And I think there's a
+
+Participant 18: possible career path for people who want to follow that
+
+Participant 18: some teams will need compliance
+
+Participant 18: specialists.  but you don't always need that on your team. Sometimes you can get that from outside
+
+Participant 18: and actually having a a good core
+
+Participant 18: set of SWEs and and software engineers who are not necessarily privacy engineers.
+
+Also lets you move faster.
+
+Nandita: And I'll just take out some of the follow on questions for this.
+
+Nandita: what are the teams and their composition of reporting? Meaning like? Are there other roles that they are reporting to like just generally in the profession, not not specifically for your organization.
+
+Participant 18: Well, I mean, I think it's some of the same answers, right? Like a lot of privacy teams will report to a CISO or or security
+
+Participant 18: executive  It's not unheard of for privacy engineering teams to report
+
+Participant 18: to compliance officers or legal officers.
+
+Participant 18: I would say. That's less of a good idea, but it it does happen.
+
+Participant 18:  And some of the best places are for them to live
+
+Participant 18: within the product teams
+
+Participant 18: that are delivering the the products. And and when I say product, and that can mean like a user facing product, or that can mean an engineering product.
+
+Nandita: Okay?
+
+Nandita: And a similar question on when we when when we talk about reporting
+
+Nandita: what methods to use to report, is it meetings, emails.
+
+Nandita: some jira type.
+
+Nandita: tools to report on the work that's being done.
+
+Participant 18: Yes, all of the above. So we we
+
+Participant 18: well, okay. So let me ask you a question when you say to report on the work, and when you talk about for reporting, what what do you mean by that? Do you mean
+
+Nandita: communicating about the deliverables to the stakeholders. You mean reporting to your direct supervisor about the work that you're doing on a day to day basis. Yeah, so that was a previous question on like, who do you report to when you mentioned? You know the the range of people. But now you specifically talking about. How do you report like what mechanism is used for recording
+
+Nandita: to those supervisors? Yes, yes.
+
+Participant 18:  meetings, emails.
+
+Participant 18: bugs.
+
+Participant 18: workflow tools? of. We have a proprietary tool. but it would be like the what's a good example?
+
+Participant 18:  it's been too long like in a [tool] type thing.
+
+Nandita: And
+
+Participant 18: when you think about your organization? Would you consider it a very hierarchical or a flat organization?
+
+Participant 18: Very non hierarchical?
+
+Nandita: That's helpful. Let me talk about deliverables. So what do you produce? What deliverables are required from you in the role? For example, like, do you write code? Do you do research?
+
+Nandita: Or do you provide some advice on privacy by design. What? What is the outcome? That you?
+
+Participant 18: I would say, review and editorial?
+
+Participant 18: So
+
+Participant 18: for many people it is the writing of a design, Doc, and and actually setting up the design.
+
+Participant 18: It is less likely. But but there are definitely a number of folks I can think of even on my team, who
+
+Participant 18: are actually doing code commits and and designing the software and and implementing it. But most of its design work, I would say
+
+Participant 18: And then for me, a lot of it is editorial, which is somebody else has created the design, and they're looking for
+
+Participant 18: review and and feasibility, and determining whether or not it so
+
+Participant 18: has the privacy, protective features that they think that they
+
+Participant 18: are achieving.
+
+Nandita: And when you talk about these deliverables, this, you know, review and editorial that you produce. How are they evaluated by your manager.
+
+Nandita: for for example? Yeah, I understand. I understand the question.
+
+Participant 18:  mostly
+
+Participant 18: they're looking for evidence of impact and evidence of risk reduction. And so for me, it's a bit of a challenge, because there's not.
+
+Participant 18: There's usually not anything that's great, you know, graded per se, like, oh, this was a good example or a bad example. It's like. did we actually meet an objective? Did we reduce the risk
+
+Participant 18: to users? Did we reduce
+
+Participant 18: the risk to the company from adverse regulatory actions is, you know, have we made
+
+Participant 18: an impact on systems where we feel that we can say that these systems are safe for and better protected than they were before. Our our engagement
+
+Nandita: sounds good.
+
+Nandita: Thanks for sharing that. And we'll move on to the next section on challenges and strategies. I think you've mentioned a few challenges already before, but just try to like, dig a little bit deeper.
+
+Nandita: Are there any tools, techniques or standards that create challenges for you
+
+Participant 18: that create challenges
+
+Participant 18: or the oh
+
+Participant 18: problems?
+
+Nandita: Maybe we we'll take a broader view on what? What are the challenges as a privacy engineer in your role.
+
+Nandita: you you mentioned like matrix organization and having this ability to to sort of
+
+Nandita: understand the legal components, the technical, like just a lot of things. So so, taking that view, what are some of the challenges that you face.
+
+Nandita: Is this a question you ask everybody. Yes.
+
+Nandita: Do you read it back for me one more time? Yeah. Are there any tools, techniques, or standards that create challenges for you.
+
+Nandita: And we have some prompts here, which is what are the most common challenges that you encounter. Do you think these challenges are typical or not typical for your pro profession.
+
+Participant 18: Okay?
+
+Participant 18: the biggest challenges are the probably the privacy versus utility trade offs.
+
+Participant 18: And so it can be things that are seemingly clear at a high level. But when you actually get to implementation.
+
+Participant 18: you realize that there's a lot of unknowns so a a simple example is.
+
+Participant 18: data in certain cases should be anonymous.
+
+Participant 18: What do we actually mean by anonymous? Is it mathematically. provably anonymous to
+
+Participant 18: you? Know the heat, death of the universe. I can show you to an infinite number of decimal places that this is anonymous, or is it that this is something that is probabilistically anonymous.
+
+Participant 18: and that the effort to reidentify something would not be
+
+Participant 18: trivial.
+
+Participant 18:  And how resistant do we think that something is to the technologies that come in the future. So
+
+Participant 18: it's a lot of those nuanced trade offs and and determinations
+
+Participant 18: that somebody's got a
+
+Participant 18: come up with an answer for, and at least in our group. It usually winds up, being the privacy. Engineers ask for the first passes and add an answer for that.
+
+Nandita: So you mentioned the data. Utility, trade, off challenge, and maybe
+
+Nandita: like, follow on following on, on, on additional challenges. Are there any challenges related to the org organizational or reporting structures that you face
+
+Participant 18: always
+
+Participant 18: different companies have different levels of legal risk, tolerance. But wherever your legal risk tolerance is set
+
+Participant 18: that can be a different place.
+
+Participant 18: then what the optimal privacy solution might be.
+
+Participant 18: And so there's often a lot of wrangling with legal. There's also
+
+Participant 18:  the fact that most of the business is not trying to solve privacy problems as their top line problem.
+
+Participant 18: They have a business problem. They want to see an outcome. And if the thing that you need to introduce
+
+Participant 18: isn't aligned with that business outcome.  you need to do a significant amount of persuasion.
+
+Participant 18: And it's interesting because there's there's a lot of like. Very seldom our formal ethics. Part of what I would say we have to do. but a lot of the times
+
+Participant 18: that is actually kind of the influence that if you communicate well
+
+Participant 18: can actually move people. Because everybody in the business, everybody in the technology
+
+Participant 18: world are actually human beings. And so if you can make it real for them, and show how a decision might actually tie back to their life and their decisions.
+
+Participant 18: you can have an ethical conversation without like wrapping it in
+
+the ethics label.
+
+Nandita: How do you overcome or like manage these challenges like the 2 challenges that you you mentioned the alignment challenge. And then the data utility challenge.
+
+Participant 18: So I think privacy engineers
+
+have to do more work
+
+Participant 18: on credibility and trust. Then
+
+Participant 18: standard software engineer or lawyer or anyone else in the business would have to do. I think there's a
+
+Participant 18: element when I walk into a meeting with a new set of people where I need to very quickly demonstrate to them that
+
+Participant 18: there is a basis for the recommendations that we're making.
+
+Participant 18: that they are rational and have been proven effective over time.
+
+Participant 18: and that they make a meaningful improvement
+
+Participant 18: for users and outside stakeholders that aren't necessarily immediately obvious to the business. So it's definitely a set of soft skills.
+
+Participant 18: But I think they're important.
+
+Nandita: Okay.
+
+Nandita: and then we'll move on to some of the success metrics. We wanna talk about the impact of your work. Broadly speaking, how do you define success at what you do at work?
+
+Participant 18: Primarily through risk reduction?
+
+Participant 18: So we have a surface. There's some property of that system or surface that makes it risky
+
+a privacy or data protection
+
+Participant 18: perspective.
+
+Participant 18: And the specific suggested changes
+
+Participant 18: that we introduce
+
+Participant 18: will measurably reduce that risk.
+
+Participant 18: It can be something that reduces the risk in terms of quantitative like number of of users impacted
+
+Participant 18: right? So you can think of like you do data minimization work.
+
+Participant 18: you can concretely show that the amount of data at risk and or the number of users at risk has been decreased.
+
+Participant 18: But then there are other things where you're talking probabilities. And you're saying that across this population the probability of a risk
+
+Participant 18: materializing
+
+Participant 18: is now significantly lower than it was before we made these changes.
+
+Nandita: Then what do you think is the overarching goal for for the impact of the work? So I mean, when you say, risk reduction like, what would be the North Star metric?
+
+Participant 18: There's probably not
+
+Participant 18: one
+
+Participant 18: you could answer.
+
+Participant 18: based on Csat. And you could answer, based on user perception of of trust.
+
+Participant 18: but those are difficult to quantify. They ha! You have to re measure them constantly.
+
+So that they're not easy to index off of
+
+Participant 18: there's the the quantitative metrics which you can actually go back to, and say, you know, that this particular
+
+Participant 18: we had X petabytes that were in this storage system that was risky. And now we do not
+
+Participant 18: but it's it's oftentimes contextual, which is what makes it so hard.
+
+Nandita: And how do you think other people evaluate your work? We've talked about like how your manager would evaluate your work. But maybe, like others in the organization.
+
+Hmm, hmm!
+
+Participant 18: II think partly, I answered, that in the the trust question,
+
+Participant 18: which is. do people trust that we have
+
+Participant 18: made their product better or safer? Or.
+
+Participant 18: you know, made an improvement that that they can detect.
+
+Nandita: I think the next question you've already talked about this. Do you think there are any metrics associated with the evaluation criteria you mentioned that it's hard to quantify.
+
+Nandita: But
+
+Nandita: if if there's anything else you can talk about beyond like the difficulty in getting csat scores or perception on trust?
+
+Participant 18: Ask me the question again.
+
+Nandita: do you think there are any metrics associated with these evaluation criteria on? How do others perceive your work.
+
+Participant 18: If you're talking on a system by system basis, you can. You can bring in things like reidentification risk.
+
+Participant 18: You know, you can bring in  performance metrics?
+
+Participant 18: In some cases where
+
+Participant 18: different techniques have different performance impacts. So
+
+Participant 18: one choice over another choice might
+
+Participant 18: have similar
+
+Participant 18: privacy outcomes within, you know, some fraction of a percent, but
+
+Participant 18: the difficulty of implementing them, the the number of sui hours
+
+Participant 18: that it costs to to do that thing may be significantly different between different technologies. And so that's something that you can use to support your work as well.
+
+Nandita: Think we, this is our conclusion. So as we close. I'd like to ask
+
+Nandita: if there's anything else you would if you haven't had a chance to mention, or you would like to share with us. or you think we should know
+
+Participant 18: I didn't talk
+
+Participant 18: that much about design review and I think you probably are going to get privacy, review, and design review
+
+Participant 18: from a lot of your other interviewees.
+
+Participant 18: So that's important work. There's a lot of it that goes on, especially in larger organizations.
+
+Participant 18:  but it's less a part of my individual day to day.
+
+Nandita: I see so more broadly. And then the profession, privacy, design reviews are are more common.
+
+Nandita: deliverable.
+
+Nandita: They are, yeah, okay, cool and do you have any questions for us? I mean, because I think we can stop recording just to make sure this is an open.

@@ -1,0 +1,967 @@
+Nikita: Great. And now that the recorder is on, could you please confirm that you consent to being recorded?
+
+Participant 14: I consent to being recorded.
+
+Nikita: awesome, and I'm also obliged to tell you that your identity and anything you share with us will be kept confidential, and will only be heard and read by the researchers in our study. Please know that this interview is designed to be a conversation, and so there are no right or wrong answers. You can skip any question or cause the interview at any point you feel like. Do you have any questions to us before we begin the interview?
+
+Participant 14: No, I don't.
+
+Nikita: alright perfect. So let's start by talking just generally about your work. I'd like to ask you if you could tell me briefly about what you do in your job.
+
+Participant 14: So a lot of what I do these days is basically
+
+Participant 14: getting teams unstuck whenever they have a privacy problem. I think that's probably the broadest way to
+
+Participant 14: describe it.
+
+Participant 14: The team I'm on, and the role I'm on in some ways were very Swiss army knife in that we adapt to the particular problem at hand. So right now, my big project is DMA.
+
+Participant 14: Just
+
+Participant 14: how how do we, you know, figure out how to meet our Dma, compliance in the past. It's been stuff like
+
+Participant 14:  a team wants to launch a product or feature that is pretty novel, or we've never done before. So how do we launch it? In a way that is, you know, privacy, respectful balances against, you know, business needs and all that kind of stuff.
+
+Participant 14: I've done everything from like
+
+Participant 14: writing policies to like sitting in like technical reviews and brainstorming with engineers. Yeah.
+
+Nikita: that's awesome. Yeah, very well said. And I know you mentioned multiple times that you know your role is kind of helping people get unstuck with their privacy problems. Would you also define the term privacy as you normally use it in your work context?
+
+Participant 14:  yeah, I mean that there's a classic answer. Privacy means something different for everybody.
+
+Participant 14: privacy. The way I see, privacy is
+
+Participant 14: the
+
+Participant 14: ability or desire to keep something
+
+Participant 14: hidden or secret or unseen.
+
+Participant 14: like obscured
+
+Nikita:  nice that's the kind of definition, you use in your sort of for context, I guess that sounds good. And so you know, we're, kind of talking about privacy, engineering. And I would be curious to ask you. How would you describe the roles in the industry related to privacy engineering?
+
+Participant 14: If I was describing privacy engineering to someone who had no idea what it was, I would have to say, it is
+
+Participant 14: someone who
+
+Participant 14: is at the intersection between
+
+Participant 14: privacy and technology. someone who helps.
+
+Participant 14: It's in. In a way, it's a two-way street right? Because oftentimes, I think you hear people say things like, Oh, the privacy engineer translates policy and regulations into engineering terms. But I also think
+
+Participant 14: privacy. Engineers have a role in going the other way in helping regulators and policy writers understand like engineering limitations because it's like
+
+Participant 14: engineering is engineering. It's not yet magic like I can't II don't have a magic wand. I really wish I did some days, but I think privacy engineers are kind of like
+
+Participant 14: that linchpin, that middle ground. That 2 way. Street between. you know the words and the code in a way
+
+Nikita: that makes a lot of sense and I know if you have sort of experience or knowledge about what sort of titles people like that usually holding companies
+
+Participant 14: privacy, engineer privacy, analyst privacy, software engineers, privacy.
+
+Participant 14: I've seen a lot of different titles.
+
+Participant 14: cyber security, like privacy, expert cyber security data management, like data governance. I find there's the titles. And then sometimes you have to look at the description to actually find out like what the role entails
+
+Participant 14: so
+
+Nikita: yeah completely agree yeah what? Very well, said II guess, just to also clarify you mentioned what privacy engineering means to you, and I guess, would you say that the work that you do falls under privacy engineering as well.
+
+Participant 14: Yes, yeah.
+
+Nikita: Good, perfect, great. Well, let's talk more about your career journey and how you end up in your current position. So how did you become interested in privacy engineering as a career?
+
+So I'm
+
+Participant 14: compared to some other folks. I feel like I'm a little late to the game. And it's kind of interesting because I don't
+
+Participant 14: have formal training in
+
+Participant 14: privacy or computer science or software. So I did my undergrad and masters in [ACADEMIC DISCIPLINE].
+
+Participant 14: And then I pivoted and went to law school.
+
+Participant 14: And then
+
+Participant 14: I had the very fun experience of graduate like going into law school and try to find work like just shortly after, like the 2008 recession and all that fun stuff.
+
+Participant 14:  And
+
+Participant 14: I ended up
+
+Participant 14: getting a job at a [COMPANY] doing audit responses.
+
+Participant 14: right? So I started getting exposure to kind of like regulations and business operations and all that kind of stuff.
+
+Participant 14: I worked there for a few years, and then
+
+Participant 14: my partner is actually at the company that I'm at right now, and he told me, oh, there's a role opening up for someone who knows about like
+
+Participant 14: health and science.  and it's a privacy role. But I think you'd be really great at it like you know how to think about stuff.
+
+Participant 14: I'm sure you could learn the privacy stuff like on on the job or whatever. So you should just apply. So I just applied
+
+Participant 14: it was actually a privacy program manager role.
+
+Participant 14: So I was hired initially as a program manager. I did the program manager job for about [several] years, and what was interesting at the time was
+
+Participant 14: a lot of the folks in privacy. It was
+
+Participant 14: they were program managers, or they were software engineers, and there was a very, very small group
+
+Participant 14: that were actually titled privacy engineers. It was a pretty new role at my company.
+
+Participant 14: I was doing this job and the job entailed a lot of
+
+Participant 14: product reviews. So teams would give me their design documents and say, What are the privacy, Gotchas? What do I have to look out for? What are the internal privacy policies that I should be aware of? How do I meet them like? What do I do, and I would read the documents. I would work with the teams. I would
+
+Participant 14: help them get their products launched and over the finish line.
+
+Participant 14: About [several] years in my manager at the time, said, Hey, I think you should become a privacy engineer to a different role at the company, and I was like, oh, I don't think so. I'm not technical enough like I don't.
+
+Participant 14:  I don't code like I'll be frank. I can. I can look at Code and Sus through the logic, right? But I don't have any formal training and coding.
+
+Participant 14: And he said, Well.
+
+Participant 14: when
+
+Participant 14: let me ask you this, when was the last time you made a gantt chart for a project, and I said, Oh, I've never made a gantt chart.
+
+Participant 14: he said, Okay, well.
+
+Participant 14: project managers and program managers make get charts. You don't right. He's like, I don't think II don't think you're like a a program manager. I think you're a privacy engineer, and so I made the the conversion in 2020.
+
+Participant 14: I've been a privacy engineer since, but it's interesting, because the work I had been doing since I started at the company
+
+Participant 14: was very like analysis-heavy, like engineering analysis, privacy, analysis, heavy. It wasn't just like managing a program or a project, or or that kind of work.
+
+Participant 14: So I kind of, in a way, like accidentally stumbled myself into privacy.
+
+Participant 14: Yeah, I mean, that's very fascinating. So even though you had the product manager role you were doing tasks that were maybe more relevant to privacy engineering. Is that correct? Yeah. And I think what was happening was at the time like that was just how things were kind of set up like if you managed so I was managing a portfolio of project that was primarily kind of like in the science research.
+
+Participant 14: health and fitness field. And so it was like, here's your program. And as part of the program, it was like, read these documents these team sent you the documents the team sent me were
+
+Participant 14: like, and else like, Please analyze our product
+
+Participant 14: right? And I think over time. People started going. Hey, there's a mismatch between, like how we define the responsibility for program managers and how we're defining and and like what these people are doing, we should put them into the correct role. A lot of people actually in the span of that kind of
+
+Participant 14: period
+
+Participant 14: began making the the conversion over to privacy, engineer, and I think a lot of it was also reflected in our external hiring, too. It became very clear like, are we hiring you to manage
+
+Participant 14: a program? Or are we hiring you to
+
+Participant 14:  like do the the technical analysis
+
+Nikita: that makes that makes sense, yeah, thanks for sharing your story. That's very fascinating. So we spoke about what you kind of how you came to your current position. But one more to me to continue pursuing privacy engineering as part of your profession.
+
+Participant 14: I think it's fun.
+
+Participant 14: I read.
+
+Participant 14: I'll be break. I think it's fun. I think the problems are fascinating.
+
+Participant 14:  I think it's it's interesting in a way, to be on
+
+Participant 14: like that cutting edge, as people are kind of like
+
+Participant 14: realizing more and more like, Oh, privacy! It's a thing it's a thing that matters is the thing II actually care about, right, like the Internet used to just be for cats, you know, pictures of cats. And now it's like, Oh, the Internet can like redefine our democracy. Well, gosh! Maybe I should care.
+
+Participant 14: And so it's interesting to see how the thinking around this has evolved over time.
+
+Participant 14: It's interesting to see
+
+Participant 14:  how people, on one hand, are getting more savvy about their data. But then, on the other hand, like.
+
+Participant 14: how much of it is still
+
+Participant 14: not very well understood.
+
+Participant 14: Right?
+
+Nikita:  yeah, it's just it's just a fascinating problem. Yeah. Yeah. Well, it sounds like you enjoy the sort of the fun and the open problem space aspect of privacy engineering. Do you have any personal goals for this type of work.
+
+Participant 14:  I think
+
+Participant 14: I think for me as long as it always remains
+
+Participant 14: like engaging and interesting.
+
+Participant 14: You know I'm happy to continue like doing it.
+
+Participant 14: I think it's kind of interesting, and I know, like a lot of folks have been kind of talking about it, because, like mass tech layoffs everywhere. Blah blah blah, and you know, like people in privacy on at my company have been affected
+
+Participant 14: right? And so you you do get it to thinking, like. you know, is this something I want to do forever? It's something that I love to do.
+
+Participant 14: But you know, needs must. And if it's like one of those things. If I were to get like fired next week.
+
+Participant 14: I'd probably, you know, have to reconsider like.
+
+Participant 14: you know. Do I continue to stay in this role like the reality is, I have a mortgage. I have to pay a mortgage. I have bills, you know, and if there are no privacy opportunities for me.
+
+Participant 14:  that are right for me. Like, i'm not going to bend over backwards to stay in it.
+
+Nikita: yeah, that I completely understand that that makes a lot of sense. They're definitely the Prag pragmatic Considerations as well. And and that's actually great, Segway, because I wanted to also ask you something about the future. So a year from now, do you see yourself in the same position? And I guess, more specifically doing what it is you're currently doing in your position as opposed to just distinct title. Let's say
+
+Participant 14: I can see myself doing more compliance work.
+
+Participant 14: Just given. How many
+
+Participant 14: laws and regulations are are rolling out. I can see there being more of like a compliance back to my work like in the past. It's
+
+Participant 14:  mostly.
+
+Participant 14: you know, engineering focus or
+
+Participant 14: internal policy focused, or, you know, very user centric. But I think we're coming on a world now where
+
+Participant 14: regulators are very slowly, becoming kind of like an outsize stakeholder. And I think the world is changing in that regard.
+
+Participant 14: I think there's lots of challenges there, because, like every country wants. Every country wants to do their regulations a little differently, just to be able to say, like, Look at us. We're so innovative.
+
+Participant 14: you know? So I think there's some interesting challenges there. So I wouldn't be surprised if if I ended up in a more kind of
+
+Participant 14: compliance oriented role
+
+Nikita: to maybe like transitioning from more technical analysis to more compliance, right?
+
+Participant 14: Possibly, or like helping, you know, helping engineering teams with  like understanding their their regulatory obligations and working with legal and a regulatory folks on like, okay, how does that? Like
+
+Participant 14: the Regulators say some words, how do we actually make that? Sorry my dog is coming into the interview.
+
+Participant 14: how do?
+
+Participant 14: Okay, how do we?
+
+Participant 14: how do we actually make that like a technical reality? Right? And and you know.
+
+Participant 14: like, if
+
+Participant 14: if a regulation says like, I don't know.
+
+Participant 14: here's here's a dumb example, like all user data
+
+Participant 14: will be will show up as yellow?
+
+Participant 14: Right? Okay? But what does that actually mean?
+
+Participant 14: Like, how how do we take that and and and make it real in our system while balancing against like what our business needs while also balancing against what the user wants. Right?
+
+Participant 14: It's kind of interesting, too, because I know
+
+Participant 14: I know different companies have different structures, for, like where the privacy team sits, some teams sit within like compliance. Some teams sit within legal, some, you know our privacy team at least the one I'm on sits very squarely within engineering.
+
+Participant 14: So I know sometimes I can also kind of influence like the work you do on on a day-to-day basis, and and like kind of your yearly goals and whatnot.  I also know. Sometimes it can be
+
+Participant 14: interesting, and I hear this a lot from privacy engineers where they're like, oh, I'm not compliance. like I think, about the user.
+
+Participant 14: I'm I'm an engineer. I'm not a compliance person. I don't do audits or whatever. and I think to a certain extent
+
+Participant 14: there might need to be a shift in some of that thinking to, you know, regulations are going to play more and more of a role, you know, and I think perhaps it's debatable as to whether or not that means like privacy has won in a sense of like look. The Regulators are caring about it. They're regulating it
+
+Participant 14: right?
+
+Participant 14: we
+
+Participant 14: as like an industry as a whole.
+
+Participant 14: maybe didn't do the greatest job of self regulating ourselves like in other industry regulations are written in blood. Right? You get regulated because you're screwed up somewhere along the way
+
+Participant 14: right? And maybe that's kind of like the direction some of the stuff in tech is is headed towards right. But now there's external oversight. Now, Regulators are caring. Does that mean we won
+
+Participant 14: in the in the privacy sense of like, hey, people care.
+
+Participant 14: Maybe maybe the jury's still out on that one.  does it mean, it's gonna be better for a user. I also think the jury still out on that one.
+
+Participant 14: but
+
+Participant 14: yeah, I think
+
+Participant 14: I think it's interesting.
+
+Nikita: yeah, quite few open questions that remain there. But that's that's a very insightful thanks for sharing and I think that's a great segue also to switch to talking more about your day to day responsibilities, and I just wanted to ask you if you could give me an idea of what a typical day at work. Looks like for you.
+
+Participant 14: Sure
+
+Participant 14:  emails. So many emails the questions that come in E in via email can
+
+Participant 14: range from. hey? I have a team that wants to do this
+
+Participant 14: like
+
+Participant 14: seems risky or seems new. Can I pick your brain? What do you think like? What are, what are some of the gotchas, or what are some of the gaps, do you see? And their design? And then, you know, set up a meeting or read their documents, drop in comments that kind of stuff.
+
+Participant 14: It can be a team coming to us and saying like.
+
+Participant 14:
+
+Participant 14: I also have, like certain approval powers. So teams will say, Hey, team wants to do this. Here's what they're doing. Please approve
+
+Participant 14: the thing that they're they're doing right. So I have like like advisory or consult roles, but I also have like approval roles as well.
+
+Participant 14:  There's a lot of.
+
+Participant 14: There's a lot of kind of like. you know.
+
+Participant 14: I get a lot of questions around either
+
+Participant 14:  interpretations or  almost like risk management decisions where it's like
+
+Participant 14: the team has 2 path forwards for this particular design. They each carry with it different
+
+Participant 14: user business privacy, risk. What do you think? Where? Where should we go? Right? And I will often work with the team to kind of lay out like the pros and the cons.
+
+I do a lot of
+
+Participant 14:  escalation type work. So where it's just like, okay, we've got option A and option B, they're really great. We need to bring this to our leadership to decide. Like, are we doing A or B, so all oftentimes I'll work with teams to craft the the argument. The deck kind of that executive communication type. Stuff.
+
+Participant 14:  trying to think like, what else?
+
+Participant 14: Yeah, there are some weeks where it's just like answering random questions. I think a part of it is like.
+
+Participant 14: I'm senior enough at my company. I've been there
+
+Participant 14: long enough that like, there's this weird default of like, II don't know the answer to this. Let's just ping her
+
+Participant 14: like, oh, okay, right? yeah. It's it's a lot of answering questions and interpretations and and and that kind of analysis. I try to do a lot of mentoring, too.
+
+Participant 14: I think that is actually quite important.
+
+Participant 14:  given that. It is such a nascent kind of industry.
+
+Participant 14: And you know
+
+Participant 14: we do hire like a lot of new grads.
+
+Participant 14: people who have just finished their degrees. This could be their first, maybe their second jobs. They're still navigating. All of this not made easier by the whole hybrid thing. People getting hired during Covid. Right? That's not easy.
+
+Participant 14: So I try to do a lot of mentoring. I try to do a lot of like
+
+Participant 14: kind of those like career or coaching conversations. I find a lot of time what ends up happening
+
+Participant 14: in privacy and security in in some of these very empathetic customer user focused roles
+
+Participant 14: is people start to
+
+Participant 14: don't necessarily say make it a part of their identity.
+
+Participant 14: But they start to take an oversized responsibility for stuff
+
+Participant 14: right where it's just like.
+
+Participant 14: if I don't fight to the death over this one decision
+
+Participant 14: like I can't sleep. I can't eat. It's like, well, okay, let's take a deep breath. Let's take a step back.
+
+Participant 14: Let's look at this like.
+
+Participant 14: you know. Let's let's work through the problem. And I think a part of that is, I want this field to be something that people can do long term and don't burn out.
+
+Participant 14: And I think if
+
+Participant 14: for, especially for some of the new folks like, you know, there they may not be necessarily calibrated to business decisions or to negotiations or to trade offs and stuff like that. And so everything becomes the hill they want to die on
+
+Participant 14: right. And so I think there's a level of helping people get calibrated helping people understand the broader context in society in which
+
+Participant 14: they're working in order to give them that longevity.
+
+Nikita: Umhm.
+
+Nikita: yeah, yeah, it sounds like II was like taking some notes down. But you start by talking how you know there's that this aspect of people coming you for advice, you providing the privacy advice you mentioned how in some cases you might have to do some risk management in order to kind of decide between different options. And and finally, you were talking about mentoring and sort of like helping
+
+Maybe new cars to this field be more comfortable and not burn out? Is my understanding correct in terms of like, overall?
+
+Nikita: Yeah. Yeah. And and so I want to actually ask you this question. So that's your responsibilities. Would you say that your employer has similar expectation in terms of what responsibilities you have to take on at work or not.
+
+Participant 14:  yeah, I think so. I think at work. You know we've gone through a few refinements of the job roles and responsibility. But I know one thing traditionally, they've always tried to maintain is
+
+Participant 14: kind of that sense of versatility and flexibility.
+
+Participant 14:  we have privacy engineers who work very frontline with
+
+Participant 14: our product team sit with them.
+
+Participant 14: you know, help them to join things, work with them every day on products. We have other privacy engineers who are very
+
+Participant 14: like internal tools, focus
+
+Participant 14: working on like implementing compliance controls. Like all of that kind of stuff, first line, defense, second defense line of defense, all that kind of stuff.  we have
+
+Participant 14: other other privacy engineers who work almost exclusively on policy and standards drafting
+
+Participant 14: right? And so
+
+Participant 14: what's really interesting is that
+
+Participant 14: there's such a breath of work at the company, and I'm fortunate to work at a company that is, that is large. And so we do have that
+
+Participant 14: that kind of breadth of opportunities that like.
+
+Participant 14: if you really wanted to focus on like
+
+Participant 14: one thing and become an expert in that, you can, or you can go around and dabble and like, Oh, I want to do a little bit of like this type of work. And then, you know, I want to do a little bit of that type of work. So there's there's lots of opportunities in that sense
+
+Nikita: that makes sense. Yeah. And with mentoring, would you say, that's something that your management expects of you? Or is that something that you just do kind of of your own volition?
+
+Participant 14: I think there is, an expectation, especially as you get more senior to do more mentoring, I think.
+
+Participant 14: and and it is actually a part of our job description of like working with more junior people, because that is
+
+Participant 14: in a very real way how you scale your impact like I'm one person, right. But if I'm you know, able to mentor like, however, many people
+
+Participant 14: right and and help them stand on their own 2 feet and become independent to help them become confident.
+
+Participant 14: Right? Then we've just
+
+Participant 14: like grown the team
+
+Participant 14: by those many people, you know, make them effective. Employees. So
+
+Nikita: yeah, yeah, I understand that. Do you feel there are any additional responsibilities that you're expected to take on at your in your role. Such as to society or art as an organization, or maybe even to yourself.
+
+Participant 14: We do have opportunities to do like speaking engagement
+
+Participant 14: which is where [NAME] and I met at an iapp speaking thing. So
+
+Participant 14: Public speaking's not for everybody. There's some people who love doing it, and they're like at every single conference. And there are other people who are like, I wouldn't be caught dead in front of a crowd right so. But they they do provide those opportunities. They do provide opportunities to write like white papers and and do that kind of stuff and do research and present research.
+
+Participant 14: you know a
+
+Participant 14: we do have like
+
+Participant 14: privacy, Orient.
+
+Participant 14: research oriented like privacy engineers as well. I know we also have,
+
+Participant 14: external collaborations.
+
+Participant 14: in like the academic field.
+
+Participant 14: Yeah, in privacy, maybe not necessarily privacy engineering, but like in privacy and privacy, technology and stuff like that.
+
+Participant 14: These. These are all options, I think. you know. And it's definitely one of those things where it never hurts to do
+
+Participant 14: right? So
+
+Nikita: yeah, yeah, yeah, agree. I agree with that. Let's all start about your skill set. So when you started your current role, what skills were demanded of you?
+
+Participant 14: When I when you say current role, do you mean like the privacy engineering run? Or when I started at the company as a program manager?
+
+Nikita: So your current. Well, I guess your role in privacy engineering, although you did mention how your previous role was basically in tailing also, kind of privacy gene works. So I think you can speak to either of those, too.
+
+Participant 14: Yeah, I think I can generalize across the 2. I think so
+
+Participant 14: in terms of like
+
+Participant 14: the hard skills it's very much like, can you look at?
+
+Participant 14: You know, technical design docs.
+
+Participant 14: boxes and arrows. Look at a data flow
+
+Participant 14: and say, see like that complete like end to end kind of data life cycle and be able to say, Okay, like this looks good. And oh, have you considered like
+
+Participant 14: over here. You say you keep the data forever. Is that a good idea? Right like like, are you able to look at that and find the gaps?
+
+Participant 14: Point out weaknesses, point out strengths for the teams, you know. Do more of this, do less of that.
+
+Participant 14:  And so I think
+
+Participant 14: that's that's like
+
+Participant 14: one of the
+
+Participant 14: you know the technical skills that I have  Truthfully these days.
+
+Participant 14: I find it's a lot more soft skills. And I don't know if that's because of kind of the more senior role
+
+Participant 14: that I have. But it's a lot more in terms of like
+
+Participant 14: negotiation, executive communication.
+
+Participant 14: how to tell a good story or crafted narrative. Right? So like I said, team comes to me and they're like we have options A and B. Well, how do we tell the story of option? A. How do we tell the story of option? B in 20Â min? Cause that's all we have
+
+Participant 14: right?
+
+Participant 14: What's the salient point you want to get across to this. Executives like you don't have to tell me the full history of how this project came into being. We don't need to know that we just need to know option. A gives us this option like so helping teams work through that.
+
+Participant 14:  I think there's a lot of
+
+Participant 14: kind of
+
+Participant 14: managing, of expectations as well.  like.
+
+Participant 14: I think in.
+
+Participant 14: It's kind of interesting, with all like the regulations
+
+Participant 14: coming out and all the obligations coming out.
+
+Participant 14:  that.
+
+Participant 14: you know, products or teams that were very used to operating with like a longer leash or opt used to operating very quickly, are suddenly faced with all of these like
+
+Participant 14: regulatory headwinds or new
+
+Participant 14: process. They were like, why, why are you here? Why are you doing this like, you know I could. I used to be able to do whatever I want. And it's like, well, that's not the world anymore. Unfortunately.
+
+Participant 14: right?
+
+Participant 14: yeah, I find. I find these days it's a lot more of that
+
+Participant 14: like soft people skills in order to advance a privacy. Agenda.
+
+Participant 14: I guess, is the best way to put it.
+
+Nikita: Yeah, that's very well set. So it sounds like when you start. It was more so. I say, textbooks sort of tasks they had to do such as you know, data reading about data life cycle. And now, as you progress in your role, it sounds that you've turned more focus towards soft skills and working with other people managing expectations. But is that a correct characterization? Yeah, I think so. I think
+
+Participant 14: what's kind of interesting. And and I don't know if this is what this is like at other companies, but like as you become kind of more senior.
+
+Participant 14: you end up, like.
+
+Participant 14: you know, doing less of like the day-to-day operational coding right? And you end up doing more of the okay, you know.
+
+Participant 14: bigger decision making or architectural like design work, like, you know. like it would be a bad day if someone were to say, Hey, let's jump in the code, and we can get you coding something.
+
+Participant 14: but you know
+
+Participant 14: it would be fully in line with my expectations that someone would say, Hey, here's how I'm thinking of designing this data flow. Here are my boxes and arrows. Here's how I'm going to set up like the access list. What do you think?
+
+Participant 14: Umhm? Right?
+
+Yeah.
+
+Nikita: Makes sense. And when you were interviewing for this role? Were there any other skills that you had to demonstrate that maybe you haven't mentioned now?
+
+Participant 14:  I think
+
+Participant 14: this might sound funny, but the ability to make a decision.
+
+Participant 14: I think a lot of times people are plagued with
+
+Participant 14: just
+
+Participant 14: hundreds of pages of analysis, thousands of meetings to discuss
+
+Participant 14: the analysis. and at some point somebody has to make a decision. Somebody has to make that call
+
+Participant 14: alright.
+
+Participant 14: and I think the the ability to be opinionated
+
+Participant 14: right cause at some point.
+
+Participant 14: So we're gonna have to make a decision.
+
+Participant 14: Alright. And I think that's something. And that's a skill. I'll say, too, that I'm I'm learning to try to be better at, because I think my natural inclination is to like, try to make everybody happy, and try to negotiate. And can everybody get what they want? And I think the reality is no, that that's not necessarily true.
+
+Participant 14: Right? So so how do we
+
+Participant 14:  get the data? We need make a decision, move forward, understand what the opportunity costs are not making that other decision, making sure we've taken all the alternatives, considered them, you know, and then have a reason why for wh, why we're rejecting them.
+
+Nikita: Hmm, hmm.
+
+Nikita: yeah. Yeah.
+
+Nikita: Makes sense. Let's move on to our next topic. I wanted to talk a bit about reporting and deliverables that you have in your role. So who do you report to? And does anyone report to you?
+
+Participant 14: I report to a
+
+Participant 14: director on the in the Central Privacy team.
+
+Participant 14: He's very experienced. He's been doing privacy like
+
+Participant 14: for a long, long time. Like external to the company. Worked at a lot of like other like organizations and stuff before coming to my company.
+
+Participant 14: So I report to him.
+
+Nikita: and I do not have any reports. I have no interest in being a manager whatsoever. And what are the typical reporting structures that you see in your profession.
+
+Participant 14: [REDACTED].
+
+Participant 14:  so teams these days
+
+Participant 14: tend to be actually an interesting mix like it used to be. If you were like
+
+Participant 14: a privacy engineer, a software engineer, a program manager, you would have to report to like a program manager like as a program manager or privacy engineer as a privacy engineer. These days it tends to be. The reporting structure tends to be a little more like.
+
+Participant 14: what is the team you're on so
+
+Participant 14: although I will say
+
+Participant 14: on my team, I think on my team. We're only privacy engineers, but we used to have a program manager on my team as well. But there are other privacy teams where it is a nice mix of software engineers, privacy engineers, you know, program managers all reporting to one.
+
+One manager.
+
+Participant 14: I think there can be challenges there if
+
+Participant 14: the manager doesn't take time to understand, like what
+
+Participant 14: that different people do and what their responsibilities are.
+
+Participant 14: I've heard this from privacy engineers who report to software engineer managers who are like, I don't know what you do. I don't understand this privacy engineering thing like, where's your code like? Well, I don't necessarily code right? Or it's like, you know, where's your project plan? Well, you know I'm I'm not a project manager.
+
+Participant 14: So there can be some some challenges with that. I find
+
+Nikita: Hmm and what about sort of like, legal teams or compliance teams, how does that kind of all play into privacy engineering. They tend to be our partners and our stakeholders.
+
+Participant 14: legal is legal. They have their own little like reporting structure. I don't think
+
+Participant 14: at in our organization we have any engineering person reporting up to anybody in legal, I think legal is very much their own branch of work.
+
+Nikita: Yeah, makes sense. And what methods do you use to report to others? Is that just meetings, emails? Any tools?
+
+Nikita: Sorry. Can you repeat that? Oh, what methods do you use to report to others? With your deliverables and princes, emails or meetings or things like that?
+
+Participant 14:  Ah. it's a mix. It really depends on like
+
+Participant 14:  you know what my my manager or director, whoever I'm like sending the report out to really wants likes, you know, like
+
+Participant 14: a lot of times my manager is cool with, Hey, you want to grab lunch, talk 30Â min over lunch, you know. Make some notes. We're good to go. Other people are very formal like. I need you to make me a deck. We'll schedule out 2 weeks in advance, you know. Please send out the pre read, blah blah blah, I think,
+
+Participant 14: it ends up being very much. I try to adapt my communication style to to whoever is is asking for it. So
+
+Participant 14:  makes sense. You mentioned some of the deliverables that you know in some cases, maybe the reports advise that you give maybe sometimes formal or not so formal. Could you maybe tell me more about what deliverables are required from you in your role? And may yeah, give you some examples that would be very useful. So if I'm running a formal escalation where we're asking leadership to sign off on a decision or something like that. There's a very formal deck that will create
+
+Participant 14: do a little, very formal presentation. We'll do a write up that summarizes the meeting notes.
+
+Participant 14: So it's all very formal, and at the end there's like a place where they can like kind of
+
+Participant 14: digitally rubber stamp right? It tends to be more formal for the bigger the risk or the higher you go
+
+Participant 14: right?
+
+Participant 14: if it's a pretty minor decision point.
+
+Participant 14: or it's something that really doesn't affect a lot of people, or whatever like it can be a very informal email of, you know, like.
+
+Participant 14: Hey, boss, this problem came up. This is what we're doing. This is why we're doing it. If you want to read more I've created like a one or 2 pager over here. Have a look. If you want to talk about it. Let me know other than that.
+
+Participant 14: you know. Proceed.
+
+Participant 14:  a lot of
+
+Participant 14: decisions and discussions also get done over bugs. So we have a very formal like ticketing system, where that tends to be, where engineers like to work is in in the bug ticketing system. So it's there you get tagged about it, you know you can keep track of conversations. Legal tends to prefer things in docs.
+
+Participant 14:  There's always a funny joke of like. Don't don't ping your lawyer and a bug, they'll never look at it.
+
+Participant 14: So they like their docs. So create your documents.
+
+Participant 14: yeah, that that tends to be the the kind of trend of it.
+
+Nikita: And would you say, the deliverables that you have to present are those typical or not typical. For someone in your position.
+
+Participant 14: I think it's pretty typical.
+
+Participant 14: Umhm, yeah.
+
+Participant 14: it also tends to be like, if there is, for example.
+
+Participant 14: a program that is very formally managed by a program manager. They might have like used this template.
+
+Participant 14: Put your information in this template, email it to this, alias. Right? If it's
+
+Participant 14:  a situation where it's not a formal program or not is formally managed, you know. That's where things might get a little more casual, or it's just like, all right, I'm just gonna make up my own document. Or I'm just gonna write an email. I'm not gonna use a template because there is none or whatever.
+
+Participant 14: Yeah, so it sometimes it will depend on what process these are already formally established
+
+Nikita: makes sense and when you, you know, provide the deliverable to your manager. How would you say those are being evaluated by the manager?
+
+Participant 14:  My!
+
+Participant 14: My manager tends to redeliverables. In terms of their
+
+Participant 14: like. Okay, did did we miss anything like in my analysis? Was there any gaps that he spotted
+
+Participant 14: that I did not?
+
+Participant 14: In their kind of like
+
+Participant 14: punchiness or impact, like. you know, if I made it deliverable that's supposed to go to like a Vp
+
+Participant 14: right? And oftentimes my manager will want to get eyes on it first, he'll read it to be like, will the Vp. Take away what is meant to be taken away from this like?
+
+Participant 14: Is my document too long. Right? Or did I bury the lead, or am I telling the story in an extremely convoluted way? So my manager tends to look for one like the the substantive content like, did I miss anything? Is my analysis good?
+
+Participant 14: And to kind of the more a narrative point of view like, does the communication communicate
+
+Nikita:  with, yeah, let's let's also talk about challenges and strategies for dealing those challenges that you have in your role, so you know, we spoke about your responsibility. Is that how you report to your manager? Would you say there any tools, techniques, or maybe standards that create challenges for you when you're working in your role.
+
+Participant 14:  I think
+
+Participant 14: probably one of the biggest challenge of my role is
+
+Participant 14: the left hand doesn't always know what the right hand is doing right, and no matter how many tools, newsletters.
+
+Participant 14: friendly pings.
+
+Participant 14: updates we get, it is so easy to fall behind. It's so easy to feel like you have a sense of like Fomo, where it's just like. you know, I have to read every email cause they might be announcing something that is tangently related to a thing I am working on
+
+Participant 14: right, and so I think
+
+Participant 14: it can feel sometimes overwhelming to feel like I like, I can't. I feel like, some days I can't skip an email
+
+Participant 14: like email comes through. They're talking about some obscure tools somewhere that's updating something. And I'm like, well, I must understand this.
+
+Participant 14: because I don't know if it's gonna come up, because my, you know, a lot of the my day to day can feel very random, because I'm just getting pinged all over the place or emailed all over the place for, Hey, I need your opinion on this. And I'm like.
+
+Participant 14: Okay, I guess I have to have an opinion. And I think I didn't think I had an opinion on before right? And and I have to go learn about it or read up about it, or something like that. I think just the sheer amount of volume of information could be really challenging, and how to consume that information in a way that is meaningful, and how to keep it all straight in your head.
+
+Participant 14:  I find these days one strategy just to kind of help manage. That is like
+
+Participant 14: alright team sends out, and a newsletter with lots of details about a new tool. I have to just summarize it and say, there's a new tool that does X. If I need to actually know how that tool works or or actually use that tool, I'll come back to this email. I just now know there's a tool that does X. And I just have to move on with my day.
+
+Participant 14: Right? So I think, yeah, a level of summarization that is happening now that I think sometimes like when you're so used to being a person that has formally
+
+Participant 14: gotten like deep diving into topics. I think there's there's a point where you're just like, I just cannot. I do not have the hours like, I just cannot.
+
+Nikita: Yeah, that sounds like a challenge with especially acquiring information. What about applying it? Do you feel there are any challenges with that aspect as well?
+
+Participant 14:  sometimes I find the application of information, the application of things to be challenging. Mostly in the
+
+Participant 14: technical
+
+Participant 14: aspects. There are so many new kind of like privacy, enhancing techniques or experimental techniques or new teams that are like, I think I figured out a way to truly do anonymization right?
+
+Participant 14: And it all sounds very exciting. I think the challenge is
+
+Participant 14: looking at what they're selling and being like, what are you like? Does it actually work? Does it actually work for what I need. Right?
+
+Participant 14: I think there's there's a little bit of you know, and some of that is developing and trusting your relationship with your engineering teams, so that when they come to you and say, Hey, there's a new pipeline that does magical stuff
+
+Participant 14: right working with them to understand just enough to be like, oh, it actually does do the magic or being like, Hey.
+
+Participant 14: yeah, it only does the magic. If you're in an English speaking country
+
+Participant 14: right? And and and understanding that. So I think the challenge with the application is like
+
+Participant 14: shifting through all of the options to find what actually works for your particular
+
+Participant 14: situation.
+
+Participant 14: Yeah. And some of it is experimental, or some of it is very expensive. right? Either from an implementation perspective or a computing perspective where it's just like, yes, our tool can do this marvelous privacy thing. It just means that every time a user clicks a button it takes 3Â s for the tool to respond.
+
+Participant 14: And you're just like users are. Never gonna wait 3Â s for a thing to like, populate, or generate right like that's great. You can do magic. But it takes too long.
+
+Participant 14: Yeah, yeah.
+
+Nikita: Umhm, would you say you have any challenges related to your organizational or reporting structures?
+
+Participant 14:  yes, insofar, as like, you know it has been a year of layoffs. And so it's really hard to find stability when, like the teams around, you are always getting cut or shifted, or change
+
+Participant 14: where, you know, like everybody shifted to AI last year. I can't believe this is first time I'm saying the word AI in this meeting, but like everybody's doing AI so suddenly. Everything, all the focus, you know, has been shifting. Teams are getting reprioritized. Projects are getting reprioritized so it can be
+
+Participant 14: challenging, because, like, you never know who's gonna be there tomorrow like I might not be there tomorrow. Right?
+
+Participant 14: That uncertainty and that anxiety can be really hard it could be hard to really focus on like long term wins.
+
+Participant 14: And I think the nature of privacy is that some of these projects.
+
+Participant 14: some of these wins. Some of these things we want to do will take multiple quarters.
+
+Participant 14: but it's feels like we don't have multiple quarters anymore. So then you're like II can't do this big project that will deliver these awesome goals. I just gotta focus on like some low hanging fruit now.
+
+Participant 14: because I don't know if I'm going to have a job. I don't know if my team is going to be here in 2 months.
+
+Participant 14: right? And so I think
+
+Participant 14: there's and II don't think this is necessarily just within privacy, I think, like within the broader tech and finance community, too. There's there's a lot of that like every day you hear about like those
+
+Participant 14: rolling layoffs and stuff like that.
+
+Participant 14:  so I think
+
+Participant 14: I think that's been part of the challenge, like in the past year I have been reorg, I think, like 3 or 4 times, and every time you go through reorg, it's a new leader. So you're like, Okay, who's this person like
+
+Participant 14: I have to go introduce myself. I have to go talk about what my team does. Right? Oh, are we doing new. Are we doing new projects? Okay, what are our new priorities? And you want to be thoughtful about setting up those new goals and priorities. But by the time you set up the new goals and priority, you're like, well, half the team got laid off, and we've been moved under a new director.
+
+Participant 14: Restart the process. Right?
+
+Participant 14: So I think that's been that's been challenging.
+
+Participant 14: I don't know. Things will get better. And in 2024 I think people are are trying to adapt and and trying to work in the kind of like these
+
+Participant 14: these new, unprecedented, unprecedented times.
+
+Nikita: Yeah, is is there any way, you're trying to deal with this uncertainty or not. Really.
+
+Participant 14:  yeah, II don't know if it's like terribly nihilistic of me.
+
+Participant 14: But
+
+Participant 14: I have very mind you. but maybe it's not entirely new. But my, my strategy for this is basically to understand what it is I can control
+
+Participant 14: and what it is that I cannot. I cannot control. My leadership's like whims.
+
+Participant 14: a prioritizations necessarily. You know, like layoffs, all that kind of stuff. I can't control that
+
+Participant 14: right? What I can control are
+
+Participant 14: like things outside of work. So
+
+Participant 14: you know, it's kind of grim. But we've basically have started
+
+Participant 14: a document. My partner and I and some friends, and we call it Schrodinger's layoffs.
+
+Participant 14: We don't know if we're going to be laid off or not. So what are the things we need to do now, while we have a job in order to have a soft landing
+
+Participant 14: right? And it's stuff like.
+
+Participant 14: update your resume. If you have 401 K. Matching front load now, so that you're not leaving money on the table. Get all your medical appointments done like it's all of those things that we're we're trying, you know. Start
+
+Participant 14: start building up your professional presence outside of work. right? Like, do you have a website that lists, your accomplishments, accomplishments, or the papers that you've written, or the conferences you've spoken at like update that kind of stuff.
+
+Participant 14:  yeah.
+
+Participant 14: so that's and and and look for opportunities for like professional certification. So I'm writing the cipt in the next month or so right like
+
+Participant 14: like look for opportunities to kind of show your professional skills outside of. like the current role, or the current job or company where, you know like.
+
+Participant 14:  there can be some kind of like external benchmark, or something like that.
+
+Participant 14: And then, in terms of like internal like.
+
+Participant 14: I think it kind of goes back to my philosophy around like longevity. It's like I am not tying my sense of worth
+
+Participant 14: or well-being to any one project.
+
+Participant 14: Right? It's not like I'm looking at a project I'm working on and going like this is, gonna be my magnum opus like, it's like, Nope, this is a project I'm working on until they decide. I'm not working on this anymore, right? And and try to do the best I can within those constraints. And within that context.
+
+Participant 14: right? And then.
+
+Participant 14: yeah.
+
+Nikita: nice. Nice. Very well, said, yeah. So we're actually coming up on our last topic here in our interview. And in this topic, I want to talk to you about the impact of your work. Broadly speaking, so how would you define success in the work that you do?
+
+Participant 14: I often think of privacy's as kind of having like
+
+Participant 14: like certain pillars. Right? So it's like.
+
+Participant 14: are we giving our users control? Are we giving them like. what's our consent story. What's the transparency story?
+
+Participant 14: And I think it's one of those things where you know. like those those different pieces all kind of
+
+Participant 14: interplay with each other. So an example with that is
+
+Participant 14: with a lot of health studies or health research
+
+Participant 14: participants don't have the ability to request deletion of their data. Right. So if you participate in a health study that you, you can withdraw from a study, you can say, Yeah, I don't want to do this anymore, right. But once that data is handed over to the researcher, they de-identified it. They publish their paper. They've rolled out their drug based on it. You can't suddenly turn around and say, actually, II don't want to be in your database. I'm going to claw back that data. They have no control.
+
+Participant 14: So instead, what we've done is we've increased the transparency
+
+Participant 14: like. If you've ever participated in like a medical study, there's like 10 pages of stuff where they tell you what they're doing, what they're collecting, how they're collecting it. What's your, you know, Bill, like your participants, Bill of rights, or whatever it is like? It's it's on the transparency. So for me, I feel like I've done a good job
+
+Participant 14: when. to the best of my ability, I have upheld
+
+Participant 14: like elements of that kind of like privacy pillar.
+
+Participant 14: right? With the understanding that sometimes, like one leg of the stool, might be a little higher than the other leg. But have we counter balanced that like. If you don't have control, then let's increase the level of transparency, you know.
+
+Participant 14: yeah.
+
+Nikita: would be fair to say it seems like. The success for you in this case, is kind of being able to empower users either through transparency or control. Would that be a correct characterization?
+
+Participant 14: Yeah, I believe in
+
+Participant 14: agency, and I know that can be a little loaded, because, like, do you truly have agency? If you can't read a privacy, notice and understand what it means. Right? That's not true agency. But I do
+
+Participant 14: believe that people should be able to decide what they want to do with their data as much as possible. And I think for me the one thing that kind of annoys me sometimes. With the privacy professionals is, they take on a very
+
+Participant 14: patronizing view of users right where they're just like, I'm gonna make all the decisions on behalf of users on what the user can do with their data, or I'm gonna like over protect them or or whatever. And it's like, well.
+
+Participant 14: you know. And I see this a lot like working in some of the health fields where
+
+Participant 14:  you know, we had a project that was looking at depression. and everyone was freaking out about it being like.
+
+Participant 14: like, how could we do this? And it's like, and then, when we rolled it out, we rolled out the study. It had a waiting list. People could not like, wait to get into the study cause from the patient perspective. They're like.
+
+Participant 14: I want to feel better. I want to get better if this is my chance to participate in something that can help me. My condition, my disease, the people I love I'm gonna do it
+
+Participant 14: right.
+
+Participant 14: But had we listened to the very kind of more conservative privacy people. We would have never launched it because everyone is freaking out because they're like, yeah, it's mental health stuff like. But there's a way to do it safely, like we spent so much time on the consent form.
+
+Participant 14: and it wasn't just like legal googly cook, like we took time to be like, okay, this is actually what it means when we say this like, this is actually what we're doing like, think the consent form was like well, over a dozen pages, and people were reading it, and they wanted to be part of the study right? But like
+
+Participant 14: we gave the people the agency to make that choice, and and made it so that it was truly an informed choice. Right?
+
+Participant 14: I want
+
+Participant 14: privacy and and like agency, or like I don't know like the right to self-determination, or whatever to kind of be able to go hand in hand.
+
+Nikita: But,
+
+Participant 14: you know, some people might call me a really bad privacy person, because, like, I post social media stuff all the time, right? Like
+
+Participant 14: I'm out there. But that's my choice, right? Because I know, like, Oh, on this social media thing like this is how I delete the data, I know, like, you know, all all that kind of stuff like. But that's my choice. I want to post there, and some other people are like, oh, no, I have secret emails for all of my accounts like that's great. But that is also your choice.
+
+Nikita: Yeah, yeah. And and speaking of what is, how do you think others evaluate the impact of your work?
+
+Participant 14: I mean, I hope I'm valued. I currently still have a job. So that's great.
+
+Participant 14: I think
+
+Participant 14: I think I do provide an alternative viewpoint in a lot of that situation. Right of
+
+Participant 14: like
+
+Participant 14: not everything is on fire, not everything is awful.
+
+Participant 14: Our users have some degree of intelligence, and they can make decisions for themselves.
+
+Participant 14: Right?
+
+Participant 14: this risk you're highlighting is like
+
+Participant 14: so
+
+Participant 14: like you would need 500 things to go wrong before, like we would ever, you know, like.
+
+Participant 14: but the value we give to our users are so great like.
+
+Participant 14: you know. Should we go ahead and and make this decision? Because I think everything you do in life. There's like risk to it, like if I step outside the door.
+
+Participant 14: you know there's a risk to it, right? And I think
+
+Participant 14: part of what I can bring to the table in the conversation. Are those kinds of like
+
+Participant 14: that? That other view
+
+Nikita: I see. So you're saying how like artists maybe they feel that, you know, there may be a bit too conservative when it comes to risk. And you're trying to sort of like show how it's possible to do this safely and bring the value. Is that correct? I think that those different counterbalancing viewpoints?
+
+Nikita: Okay, great. And II guess just last question here. Do you think that there any metrics that maybe could be used for evaluating this impact or success?
+
+Participant 14: I mean, people always try to do like centiped analysis, and, like, you know, do market surveys of like? Do you trust this company? Yes, no, and stuff like that? I don't know.
+
+Participant 14: Privacy. Metrics are always one of those things where
+
+Participant 14: people have struggled with
+
+Participant 14: there's always this weird tendency to measure effort and not impact.
+
+Participant 14: Right? It's like, how many emails did you read? It's like, that's who cares? Right? What's the impact like like answering those questions like, did they actually have impact? II think privacy metrics are so hard to
+
+Participant 14: to do. I don't have a good answer for that one. If you ever find out what's a good piracy metric closed, though, because the other thing is like, we'll joke about like, how do you ex? How do you explain to someone?
+
+Participant 14: I saved you from getting a fine, but I have no idea what the size of the fine was gonna be
+
+Participant 14: like. I saved you from this nebulous danger. Maybe I don't know, because I don't know if the regulator would have even looked at us.
+
+Participant 14: Right?
+
+Participant 14: So it's always that challenge
+
+Participant 14: where it's like. you know, I think sometimes privacy looks like an opportunity cost. It looks like a cost center.
+
+Participant 14: you know, and then it only really the metrics sometimes only comes in when you screw up, cause then you're like up. There's the line, or Oh, there's the consent decree
+
+Participant 14: like, but how do you measure the wind? I don't know.
+
+Nikita: I think that's a very insightful place to finish our interview. Thanks. So much for speaking to us. So as we close, I'd like to ask you if there's anything else that you feel. You haven't had a chance to mention, or you feel you should share with us, or you think we should know.
+
+Participant 14:  I don't think so if I think of anything. I I'm happy to reach back out. But
+
+Participant 14: I can't think of anything right now.

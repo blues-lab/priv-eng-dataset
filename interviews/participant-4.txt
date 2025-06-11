@@ -1,0 +1,187 @@
+Nandita: Now that the recorder is on, could you repeat that? You consent to being recorded?
+
+Participant 4: I consent.
+
+Nandita: your identity and anything you share with us will be kept confidential and will only be heard and read by the researchers in our study. Please know that this interview is designed to be a conversation, so there are no right or wrong answers. You can skip any question or pause the interview at any time. Do you have any questions before we begin? 
+
+Participant 4: No question 
+
+Nandita: sounds good. We go over six topic areas and the first one is some background information. We'd like to start by asking a few general questions about your work. Can you tell me briefly, what do you do in your job? 
+
+Participant 4: Sure. I'll speak about my role but also my team's role. Because this is, I guess, mostly about privacy engineering. I lead the privacy team at [TECH COMPANY]. What Privacy Engineering does is we work with product and engineering orgs across the company to make sure that our products are built in a privacy conscious way. We minimize compliance risks, any regulatory risks. When it comes to the topic of data privacy for the company, could you define the term privacy as you normally use in the work context? Sure. The way we think of privacy at [TECH COMPANY] is the expectation of our users when it comes to the personal data that they have provided to us. How they expect us as a company to use it, to protect it, to share it, and being transparent about that, All of that we think of as privacy. 
+
+Nandita: How would you describe the roles in industry related to privacy engineering in general? 
+
+Participant 4: The role of privacy engineering ation? 
+
+Nandita: Yeah. 
+
+Participant 4: Yeah, it's a good question. I think there's not a consistent term across every company on what a privacy engineer does. But in tech and in my company especially, privacy engineering team and new field that's helping identify and address novel challenges and privacy, whether it's about how data is used internally at [TECH COMPANY] or how we share data with external third parties. Privacy engineering is this multidisciplinary field, both combining software engineers that are building tooling and infrastructure, but also what we call a analysts that are able to understand product contests, engineering requirements and then advise on privacy risks. 
+
+Nandita: How would you define a privacy engineer? 
+
+Participant 4: We call it privacy analysts just for context, but I think the industry at large calls it privacy engineering. We define that role as somebody who is, again, multidisciplinary, can work cross functionally with both product as well as engineering to provide a holistic perspective on privacy risks in product launches. Whether it's what we are even building, if that's the right product to build, which might have some privacy concerns for a user. How we are building it, what data we collect or some of the technical implementation details of how the data is being stored and used. All of that, let me know if I'm going into much detail, but it's hard to define role. 
+
+Nandita: You sometimes have to give the context and the details to explain it, but you're doing great. The intent of the study is to uncover these nuances. Thanks for sharing that. 
+
+Nandita: We now move on to the second part of the questions, which are focused on understanding your motivation and like talking more about your career journey. We'll start with how did you become interested in privacy Engineering As a career? 
+
+Participant 4: Yeah, I've been involved in privacy for a while. It started a long time ago. I want to say 2011 or 12. I used to be in security consulting. Hippa had become a thing back then, and a lot of companies were trying to figure out how to show compliance when it comes to Hippa laws. Privacy is a big aspect of Hippa. I was involved in building up privacy programs in many healthcare companies around that time. Through my experience in consulting, that was my first experience with privacy. It was largely very compliance driven, especially in the context of healthcare. Highly regulated industry and Hipaa, very complex. That's how I initially got exposed and interested. But privacy engineering specifically, that's been more recent for me is when I started at [TECH COMPANY] in my current company. This is where privacy takes a little bit of a different turn. Where it has a lot of engineering nuance, a lot of product nuance, which is of course, compliance, but also a lot of things beyond compliance. That's what I've been focusing on and been interested in lately. You answered a little bit of this question already, but I'll ask it again in case there was something missed. Could you share your career journey and how you arrived at your current position? Yeah. Yeah. Like I said, I started in consulting. I spent a number of years doing security and privacy consulting across multiple industries, focusing on healthcare, financial services, telecom and tech. Basically, working with security teams and privacy teams to build up their security programs and internal processes, implementing tooling. After doing that for a number of years, I got interested in tech. I moved to an enterprise tech company from consulting, where I led the GRC, or Governance Risk and Compliance team and also helped them with GDPR compliance. That was my other stepping stone into privacy is getting more exposed to GDPR and the scope and scale of a GDPR implementation in a company. Yeah. Then after that, I moved to [TECH COMPANY] in 2019 where we build the privacy program from the ground up. 
+
+Nandita: And yeah, since managing that thing, maybe we'll talk a little bit more about what motivates you to continue in the privacy engineering profession. Why are you still working on privacy? 
+
+Participant 4: Yeah, Great question about that question. Yeah. Like I said, it was a long journey to get to where I am today. But the way I see it now, I see privacy as a fundamentally important part of the tech ecosystem. Especially when you work in a B2c company where you have a lot of scale, millions and millions of users, a ton of data that we collect. Privacy plays a very important part, not just in how the business is run, but also making the tech products actually work for people in society at large. And striking that balance, right? It's a very important voice in the room for a tech company to have somebody who's not just thinking about what's great for the business and what's great for the product, but what's great for the end user who's going to use the product the end of the day. Right. And I find that to be not only something that I care about, but also a very relatable thing. Like I care about my privacy when it comes to interacting with tech at large. I feel like that comes very naturally to me as I take on my job at [TECH COMPANY]. 
+
+Nandita: You mentioned that there is a personal component also that you care about, your privacy. Are there some other personal goals that you have for this work? 
+
+Participant 4: Yeah, I think my other goals when it comes to privacy, this sounds like really lofty and ambitious, but like just making the digital text space better for users, making the Internet a better place. It sounds like a super lofty thing to say, but I feel like it's really up to individual tech companies to not just do the right thing, but to bring thought leadership into how to do privacy right while managing business goals. This is something I really care about as a goal of mine is like how can we contribute not just to the company's goals but the industry at large? Because I feel like a lot of things that we do in privacy, shared problems across the industry. Yeah. 
+
+Nandita: What value do you get from being in privacy engineering? 
+
+Participant 4: Personally or professionally? Or both? Beyond getting paid. And it's a job, right? Like I said, I feel like it's doing good in the world, right. It's beyond just any other job in that sense, right? It's something that I personally care about. I like that I'm able to work in a space that I can connect with myself. Right? What else do I get out of it? Let me think. Um, I guess the other thing I get out of it, professionally speaking, is because it's such a broad and cross functional field by nature, like privacy touches almost every other parts of the business. It's also great from a professional learning and development perspective is you get a window seat into the entire company. And all kinds of business issues, legal issues, engineering issues. It's very multidisciplinary and I'm always trying to learn new areas outside my domain and privacy helps me to do that. 
+
+Nandita: What parts of work do you enjoy? 
+
+Participant 4: All of it. The parts that I enjoy the most, I'll say, is working on new products when we are trying to do something new for the company that's never been done before. Privacy is a big part of that conversation. I really enjoy a novel privacy challenges in new products that we're launching. Yeah, I know that sounds a little bit mysterious, but without getting into sort of the details of what we're doing that Right. But yeah, sure. 
+
+Nandita: But now let's talk about the future. A year from now, do you see yourself in the same position, more specifically, doing what you're currently doing in your position? 
+
+Participant 4: Yeah. Yeah. If you said a year from now, I see myself leading privacy at my company. Privacy is one of those things. I didn't ask for a short answer, but let me just give a little more context. One of those things, I feel like our job is never done. Things are constantly changing for us, both from a regulatory perspective and also as the company is trying different things and launching new products, entering new markets. Like I feel like my job is never done right. And that's really the answer. Like if I had felt like I had got into a point where I had done all the things I wanted to do at [TECH COMPANY], I might want to do something beyond that. But I feel like we still have a long road ahead of us in getting privacy. Right at [TECH COMPANY]? 
+
+Nandita: Yeah. Sounds good. So just trying to recap. Right. You answered it in this way. Because you're saying that you continue, you envision yourself in the similar role at [TECH COMPANY] leading privacy. And because the work will never be done there, there's could be so much evolving requirements and company growth that you expect a lot of work. Okay, Exactly. Yeah. 
+
+Nandita: We'll now talk about the responsibilities and skills. Digging a little bit deeper into what you do on a day to day basis. Could you give me an idea of what a typical day at work looks like for you? 
+
+Participant 4: And I'm managing a team or multiple teams. Right? So do you want me to focus on the people management aspect or mostly the privacy engineering analyst aspect? 
+
+Nandita: If you can give a broad overview of what you do in general because we're trying to focus on both like the IC component as well as the management component component. 
+
+Participant 4: Yeah, sure. I'm mostly doing management and leadership. My responsibilities are one, hiring for software engineers that can build privacy infrastructure, and engineering services that work with a text. It's a unique skill set even for an engineering perspective, right? You need someone who's a full stack engineer, but has a really good handle on back end engineering, has a really good handle on modern data stacks. Understanding how that works, then I do a lot of tactical people management, not just in terms of performance management and career, but also how do I unblock people? How do I put the right resources on the right projects? How do I build cross functional relationships across the company, with my teams and other partner teams? Yeah, and then of course, you managing people, right? Career conversations, performance conversations, feedback, all of that. Finally, I do a lot of what you would call more typical privacy engineering, IC work, which is working with product leaders and engineers and advising them on privacy risks, right? Some of that might be very tactical and very specific privacy issues, or some of it could be more. Broader that we need more resources to solve this particular problem, right? In our current capacity, in our current infrastructure, we may not be able to support a certain product project. In my job, I need to connect the dots with do we have the right resources, team members, budget to enable the business to do what they want to do, right? Yeah. 
+
+Nandita: What would you say is the split between your time and the leadership and people management role versus the advisory IC space? 
+
+Participant 4: Yeah. Depends on the week. But I want to say it's probably 70% leadership people management, 30% advisory. Yeah. 
+
+Nandita: Okay. And in terms of expectations, what responsibilities does your employer expect you to take on at work? 
+
+Participant 4: I hope the expectations are what I'm already doing. 
+
+Nandita: Okay. 
+
+Participant 4: Should align with the answer that I just gave. But yeah, I think, you know, the expectations are, um, hiring the right people, managing people's careers, having growth opportunities for individuals, making sure we are planning for our priorities and allocating resources properly. Yeah. And providing visibility to upper management. Right. That's the other thing I didn't mentioned before, but a big part of my job is escalating risks and concerns to our senior leadership team. 
+
+Nandita: Yeah, Okay, It looks like there's very close coupling between like what are you are expected to do at work and what do you already do? And is there a reason? Because that's not common in, in this role as a privacy engineer. So is there some more context on why you think? There there is like very close alignment on what is expected and what you do. 
+
+Participant 4: Yeah. I mean, honestly, when I say what is expected, it's not as if there's sort of a document that lays it out. You know, like here are the actual expectation because the role has evolved so much. I think senior management also recognizes that this is sort of an evolving role, right? So another way to answer your question is it's kind of up to me to even define the responsibilities, Okay. What the role is, you know. 
+
+Nandita: Yeah, Sounds good. 
+
+Participant 4: And that's valid, that because you're setting the expectation, or you're molding the role as things progress is, you have a better alignment, right? And this ties to the conversation so far, right? Like this is a relatively new field. It's evolving when senior management hires for privacy leaders. They're looking for someone to tell them what to do, right? The expectation is very broad way that we need someone to figure privacy out, but exactly what that means is changing all the time. 
+
+Nandita: In the next question, we will try to differentiate between what you do for work and things that you do outside of work. Let's talk about are there any additional responsibilities that you feel that you are expected to take on in your roles, such as to society, to the profession, or even to yourself? I can give you a instance, such a mentoring others in the community, speaking, volunteering in organizations. 
+
+Participant 4: Are you asking me what I'm interested in or what my expectations are? 
+
+Nandita: Yeah, there. Does your role have these additional expectations? 
+
+Participant 4: I see kind of work does my role. I wouldn't say not formally. I don't think formally there are any expectations of me doing anything outside of work, Right? Informally. I mean, there are some nice to haves which is being part of industry alliances, you know, having peer networks in the industry, learning from best practices, things like that. Right. But I wouldn't say sort of a formal expectation. Yeah. 
+
+Nandita: And are there things that you do outside of work that are related to privacy engineering? 
+
+Participant 4: Yeah. I try to attend conferences. I try to stay connected with the field more broadly. Connecting with peers like you, participating in things like this. Because like I said earlier, right. Because the space is changing so much. I feel like I always have a lot to learn from industry professionals in privacy. Yeah. I definitely try to make it a priority for myself when I spend my time outside of war to connect with various folks in the industry. Counsel. 
+
+Nandita: Good. Let's talk more about skill set next. So what skills were demanded of you when you started in your current role? 
+
+Participant 4: Yeah, Great question. First thing I'll say is, I don't think there was a clear understanding of what skill sets are required When I first started. Right. Privacy engineering was hired from multiple disciplines. We had people coming from software engineering, we had folks coming from security, from compliance and product management. Really like the whole sort of gamet of experiences. Personally what I've found and learned over the years is you do need technical skill sets. You need to understand how to read technical documents. Coding was not part of the job, but ability to read and understand code is definitely a benefit in the job. Being able to understand data analytics, writing queries, that's also very useful. Yeah, from a technical perspective, understanding basic architecture system design, data flows, these were important skill sets. Moving beyond that, the other aspects to it are soft skills, communication skills, requirements between multiple teams. Whether it's translating legal requirements to engineering or engineering constraints to lawyers. That is a key part of what we do, right? That entails not just communication skills but also an ability to go deep into complex topics. Being very comfortable with unstructured problems which doesn't have a template, right, where you don't have a run book. You don't know what questions to ask or how to even go about a particular project. But being comfortable with that and being confident to go deep technically and bring out the core issues and concerns that might be relevant to different teams. Right. Yeah, So I know I covered a lot of different things but happy to sort of go into any of that in more detail. 
+
+Nandita: Yeah, I just want to recap this. You mentioned that when you joined the rule there were no, like clear, like skill set requirements that were sort of defined. But you listed several which, like over the years you have come to realize that those are sort of needed. 
+
+Participant 4: Exactly, exactly. 
+
+Nandita: And would you say that the skills that you described, that all of those skills you sort of currently use in your job? 
+
+Participant 4: Yes, absolutely. And I think the most important sort of thing I would highlight in there is having an investigative mindset, of having curiosity, like deep curiosity about how things work and chasing that down. Right. I think that is, I don't know if you would call that skill set or a mindset, but that's a key part of what our role is. 
+
+Nandita: It looks like this might also ask this question anyway. Is there a difference or not between the skills you were expected to demonstrate during the interview process and those that are required of you in your role? 
+
+Participant 4: Yes, the interview process, it's been a while, but I think it's largely stayed the same, um, outside of the typical people management interviews. The privacy interviews for basically doing a privacy scenario where you think of like a mock product launch and think through privacy risks and concerns, whatever they might come to mind in how you're building the product, what you're building, how you collect consent data, all of it. Right. I found that to be a very valuable interview experience and it's very, very consistent with what we actually do in a day day jobs. Yeah, I hope that answered your question. 
+
+Nandita: It did. Thank you. Now, talk about like, the deliverables and reporting that you're expected to do in a privacy engineering role. So who do you report to is the first question
+
+Participant 4: I report to the Chief Information Security Officer. This? 
+
+Nandita: Okay. Does anyone report to you? 
+
+Participant 4: Yes. I have multiple people reporting to me and sort of What are their titles or roles. Yeah. So I have multiple different teams. I have a team of software engineers and their titles are SWEs Software Engineers, And then I have a privacy analysts Right. Which some companies call privacy engineers. Right. We call it privacy analyst, and then I have security analyst that also reports to me. 
+
+Nandita: Okay. What are the typical reporting structures you see in the profession? And like you mentioned that you report to the CISO. But in general, like what do you see in the industry? 
+
+Participant 4: Yeah. It depends on how you dissect the industry. Right. But in most companies, I have seen privacy to have a pretty big presence in engineering for the most part. Within security or in a shared or security. There's always a legal aspect to privacy in most tech companies. In our company, it's a very small theme, two people. But that said, I know a lot of other companies have a much bigger footprint on the legal side, and in some cases, privacy reports are legal altogether. Um, in many companies it's a doted line relationship. There are some people doing compliance and operations and privacy impact assessments on legal side and more engineering and things like that. On security side, honestly I feel like it's pretty mixed. But what's consistent is you always have one side on legal and then one closer to security and engineering. Yeah. 
+
+Nandita: When we talk about reporting, what methods do you use to report to others? Like is it meetings or like some project management tools, e mails. How is the reporting performed? 
+
+Participant 4: Right? When you say reporting, are you saying reporting on progress deliverables? 
+
+Nandita: Yeah. Yeah. 
+
+Participant 4: Okay. Yeah. We have weekly team meetings, we have sprint planning sessions, we have stand ups. We try to follow a lightweight Scram model depending on the team. The we do use Jira for internal project and task management. Yeah. And then we have a lot of collaboration tools like Slack where a lot of the day to day real time conversation happens. 
+
+Nandita: How would you describe the organizational structure in the sense like, would you say it's like a very flat or a hierarchical organization? 
+
+Participant 4: Yeah, absolutely it's very flat. I want to say relatively flatter than some of our peers and tech. Very collaborative. Yeah, I stop there, but happy to elaborate if you have specific questions. 
+
+Nandita: Sounds good. And just so that I'm summarizing this appropriately, you're reporting to the CISO, you have a team of various team members who reports to you. And it's a flat organization, you use a number of tools to report, mix of meetings, project management. Are there any issues or pain points with this reporting structure or like the reporting process that you see? 
+
+Participant 4: Yeah, there are several. One thing I would say is given this separate areas between legal and security and privacy, we do sometimes have this issue on should this be legal, should be privacy. Sometimes the area of ownership is not very clear. And that's one thing I'll point out. The second thing I'll say when it comes to specifically to reporting, I think we have had the hardest time is understanding how to report meaningful metrics for our privacy program. We do something called privacy reviews. Whenever we have a new product launch, we would review that product launch. From a privacy perspective, what exactly should you be measuring, Right? Should you measure the volume of product launches that you enabled? Do you measure risk? Do you measure SLAs of responsiveness? Those are the kind of issues that we have had when it comes to reporting, is while we have a lot of metrics and a lot of numbers, but how do you distill the essence of what you're trying to say? Yeah, And then we'll talk about deliverables. So what deliverables are required from, I think for the people management party already, like describe the performance review pieces and the mentorship advice, but like, is there other deliverables like like code or design reviews or like what would be some sort of like tangible deliverables that are expected to perform? Produce. Yeah, so the main one is what we call as a privacy review. This is sort of our System. It's our documentation of the entire process of conducting a privacy review with the considerations. What with the risks? What is a company doing to protect against those risks? What are the recommendations? Back to product teams. Back to engineering team. That document of record is called a privacy review. That's our main deliverable as a privacy team. Other than that, yeah, we have other internal deliverables that we hold ourselves accountable to. Compliance has multiple aspects to it. We do internal audits, internal measurements, validations on how our existing privacy infrastructure is working. And each of those have deliverables associated with them. The other thing I'll say is like our privacy policy deliverable to like we have a annual update to our privacy policy that we publish online. It's our team that manages all the behind the scenes work for that privacy policy. It's ultimately a legal deliverable, but we have an internal handoff to legal discovery and validation and all of that. Yeah. 
+
+Nandita: Do you think these deliverables are typical or not typical for someone in a privacy engineering role? 
+
+Participant 4: Privacy reviews are probably very typical. Different companies might call it differently, like some people might call it as Privacy Impact Assessments or DPAs. But I think that's fairly typical for the other things that I said are more internal. Like privacy policy of course, is also something that happens in every company. But whether it's a deliverable for the privacy team or legal depends on the company. The other stuff that I mentioned on our internal compliance deliverables and initiatives, I think that's for each company to define their own, you know, like privacy. Compliance is a pretty broad and vague topic and each company has to figure out how to measure itself, right? Like there are industry frameworks for measuring privacy compliance, but I haven't seen it being adopted too broadly. Things like a Nist framework. I think most companies just do their own thing. 
+
+Nandita: How do you think these deliverables are evaluated by your manager? Is there a rule break or is there a right? Right. 
+
+Participant 4: So starting with privacy reviews, I think it's evaluated by manager one for thoroughness and completeness, right? Like a big part of what we do is capture risk. Being thorough in turning over every dock and understanding product nuances is a big part of it, right. Another way to think about it is just quality. The quality of the work is something manager would review. Yeah, I think that's a consistent theme actually. Whether it's compliance work that I touched upon or privacy policy support quality of the work, product thoroughness, completeness is a big thing to measure for managers. 
+
+Nandita: Now we'll move on to a different topic on some of the challenges and strategies to overcome those challenges. In terms of reporting structure, you've already mentioned some pain points on ownership and metrics and how do you show value or progress. Are there any other tools or techniques, or even like standards that create challenges for you? 
+
+Participant 4: Say that again, very specific. Are you asking for any tools or techniques, or standards? 
+
+Nandita: For example, like a particular you mentioned the net standard or like technique, like differential privacy, or is there something very specific that creates challenges for you? 
+
+Participant 4: Oh gosh. So many things. Yeah, I'm not going to name tools necessarily, but in terms of technologies that have made things challenging for us in privacy. How do I say this briefly? In a nutshell, the entire At ecosystem, all the complexities of data sharing and managing consent in the context of tech is extremely complicated and challenging some of the things that are happening at a platform. Whether it's Apple and ATT Tracking transparency, or Google and all of that, right? It's not too specific, but that's what comes to mind, is managing all of that. As technology is changing, regulations are changing in the context of targeted ads. That is probably our main pain point or issue right now. 
+
+Nandita: So you mentioned like a tech ecosystem, like that's the biggest challenge that you encounter, like technical perspective. Do you think these challenges are typical or not typical in privacy engineering for other folks? 
+
+Participant 4: I think it's typical if you're in the Ads business. Right. Yeah. So I would say it should be typical. I think most tech companies when as component to it. The other thing that comes to mind, if I elaborate on that answer, right, The other thing that's always been the challenges, a deletion architecture, right? Like how do we do data deletion at scale across all our data stores? That's challenging mostly because of how technically, complex and costly that is. Yeah, That also I would say is probably a pretty consistent thing across the industry. Yeah. 
+
+Nandita: How would you say how would you solve these challenges or what are some strategies that you use? 
+
+Participant 4: Great question. Let me start with the deletion. The way we solve for it is just investing a lot of engineering resources and trying to build a solution that's scalable and is fully automated. But honestly, like if you ask me from an industry perspective, I would love to see more open source solutions. There are a few. Netflix has the data architecture called Apache Iceberg that they've had a lot of success with. But more open source solutions which are focused on deletion architecture, problems designed specifically for the modern data stacks of these companies. 
+
+Nandita: When you talked about the reporting related challenges with metrics and ownership, what are some strategies you used to manage those challenges? 
+
+Participant 4: Yeah, yeah, The challenge was basically like, we have a lot of metrics but we're not really sure is starting the full story of privacy and are really distilling what we care about. Right. The way we get around that is we try to add color to these metrics whenever we can, right? It's not just a dashboard of numbers that's being sent out to upper management. It's usually part of a larger puzzle, Right. Where we can add some color commentary, we can highlight an example of what a high risk looks like. Yeah, basically making it more high touch and giving context. 
+
+Nandita: Now we'll move to the last section, which is talking about success metrics. We'll talk about the impact of your work, broadly speaking, how would you define success in your work that you do? 
+
+Participant 4: You've saved the hardest questions for the end. It is hard to measure success. And this is connected to my last point on metrics, because quite often if we do our job right then it doesn't really show up in anything. You don't have a privacy issue, you don't have a data breach, you don't have a regulatory sort of scrutiny. If you've done your job right, it's hard to measure something that did not happen. Um, that said, the way we think of success is twofold. One is we have an internal star of what we think compliance looks like, which is what I was talking about earlier in terms of deliverables, right? We've defined our compliance goals for the year. As long as we can hit those goals, that's a sign of success. The other sign of success is we have to enable the business to launch products. Launch in new markets without privacy being a blocker, right? We want to make sure we minimize privacy risk to the company, But if we are able to enable the business to launch a new product, let's say as much of a privacy win and success as it's for the business, because we have considered and managed all kinds of privacy risks and scenarios in order for us to get to that point. 
+
+Nandita: For successfully launching, let's say, a product, what do you think is the overarching goal? You mentioned that there are some compliance goals that are created, maybe like an annual or H1h2 goals, but is there some overall goal or mission for the work that you do? 
+
+Participant 4: Yeah, we internally, our mission is to pioneer privacy excellence in the industry and to honor users trust. That's our mission statement. And breaking that down, right, so the first aspect, when we say pioneer privacy excellence, it basically means not just compliance, that's table stakes, but beyond that, like bringing leading engineering practices to novel privacy problems, right? We want to be leaders in this space. Then the second aspect, honor user trust, That's again, broader than just compliance, right? It's understanding how a user views our product, our company, and making sure we never surprised them. And we really honored the trust that they're giving us by giving their sensitive information and their data and using the product. We're pretty much at the tail end of this. 
+
+Nandita: How do you think others evaluate your work? And by others like cross functional partners or other functions within [TECH COMPANY] I o cross functional partners. 
+
+Participant 4: I think the evaluate, it depends on which partner, right? Like if it's the business we're talking about is the product and engineering. I think they evaluate us or they look at us in terms of efficiency. How quickly can we give them answers? How quickly can we unblock them? What is the kind of partnership we're bringing to the table, where we want to be adding value. We don't want to be just coming up with a checklist right then legal. The other cross functional partner that we work a lot with. Obviously the way they would look at us is are we being good partners to them for what they need, right? It's getting comfortable with the current state of operations, whether it's helping with a particular legal matter, Responsiveness, thoroughness, accuracy. Those are the traits I think they would measure on. 
+
+Nandita: Do you think that are there any specific metrics associated with this evaluation criteria by partners? 
+
+Participant 4: I would say no. I feel like this is pretty informal, right? And this is again, a sign, it's not a super mature feel just yet, right? Yeah, yeah, nothing comes to mind. 
+
+Nandita: So we'd like to conclude with, is there anything else that you hadn't had a chance to mention but you would like us to like to share with us. You think that we should know when it comes to privacy generally? 
+
+Participant 4: No. I think I've covered everything. Yeah. Nothing else comes to mind. 
+
+Nandita: And do you have any questions for us and maybe we can stop recording? Yeah. 
+
+Participant 4: I mean, I guess my questions were mostly like, exactly how are you guys using this data 

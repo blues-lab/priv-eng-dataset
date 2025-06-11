@@ -1,0 +1,947 @@
+Nikita: Great. And now that the Recorder is on, could you please repeat that you consent to being recorded? 
+
+Participant 6: Yeah, I consent to being recorded.
+
+Nikita: great. I'm also obliged to tell you that your identity and anything you share with us will be kept confidential, and will only be heard and read by the researchers in our study. Please know that this interview is designed to be a conversation, so of course, there are no right or wrong answers here. You can always skip any questions or pause the interview at any time. Do you have any questions before we begin? 
+
+Participant 6: No.
+
+Nikita: okay, sounds good. So I would like to start by asking you a few general questions about your work. Can you tell me briefly about what you do in your job?
+
+Participant 6: Yeah. Should I talk about only my present job? Or should I talk about a blend of my jobs?
+
+Nikita: You you the way you understand it? You could talk about it. Yeah.
+
+Participant 6: yeah. So you know, I have about, you know, [many] years of different privacy, engineering like experience and as well as some cyber security experience. Well, you know, as part of that. You know, I've
+
+Participant 6: my, my current, my current work is designing
+
+Participant 6: software solutions for privacy engineering to help privacy engineers as well as privacy lawyers.
+
+Participant 6: You know, share requirements, communicate, manage projects. We use
+
+Participant 6: AI and machine learning to help to.
+
+Participant 6: you know, really. You know, connect the privacy policy to the actual engineering requirements that are required for for an organization.
+
+Participant 6: Other roles, I've done, you know, really, really hands-on privacy engineering work where I've I've you know, taken
+
+Participant 6: privacy policies being, you know, written by privacy lawyers and then implemented those in process. And in technology.
+
+Participant 6: I've done, you know, privacy threats, you know, modeling
+
+Participant 6: you know, all kinds of different privacy work. I've also been a consultant. So I've done this work as a consultant for a number of different organizations.
+
+Nikita: And then you mentioned privacy multiple times. How would you define the term privacy, as you normally use it in your work context?
+
+Participant 6: yeah, to me, privacy is about
+
+Participant 6: protecting the rights of an individual
+
+Participant 6: from the use of technology in some regards. So to me, it's it's
+
+Participant 6: it's about ensuring that the company is doing the right thing. With the information that it
+
+Participant 6: it it needs to use in the course of its doing business.
+
+Participant 6: I personally have a more of a
+
+Participant 6: privacy protection mindset in the work that I do, and the work that I seek to do. So. I know there's other people out there that you know, just, you know, are looking for the paycheck, or looking for looking for
+
+Participant 6: the the prestige, or or something like that, you know, and and for me it's been much more about trying to work for companies that really are trying to do the right thing. and you know not not harming some people.
+
+Nikita: Nice. Nice. Very well said. And how would you describe the roles in the industry related to privacy engineering. What is your experience there?
+
+Participant 6: You know, I think it's a
+
+Participant 6: evolving and new field. I think that there are far fewer privacy engineers there should be.
+
+Participant 6: The profession is dominated by legal people and lawyers.
+
+Participant 6: and
+
+Participant 6: the lawyers tend to write policies and tell the business what is required, and the business has a very hard time understanding what to do.
+
+Participant 6: Traditional engineers also, then have a hard time understanding what the lawyers are telling them, you know, telling them to do.
+
+Participant 6: And you know, if you're lucky, you've got somebody that's in the middle
+
+Participant 6: that can really understand the legal requirements as well as understand how to implement them technically.
+
+Participant 6: so I think that's kind of what privacy engineering is to me. It's it's it's this combination of business skills, understanding of how to talk and work with lawyers as well as understanding of how to work in technology.
+
+Nikita: Right. So for you, a privacy engineer just to recap is someone who has those business skills. But it's also able to be in between sort of like the lawyers and the tech people. Is that correct? Right? Right.
+
+Nikita: Right? So for you, a privacy engineer, just to recap, is someone who has those business skills. But it's also able to be in between sort of like the lawyers and the tech people. Is that correct? [Right. Right.] Great, great. That's awesome. Very good. And would you say that the role that you have? Would you consider yourself to be a privacy engineer?
+
+Participant 6: I do now. Yes.
+
+Nikita: Umhm, awesome. Well, let's set up briefly about your career journey. I know you mentioned the previous roles that you held. But can you tell me, how did you become interested in privacy engineering as a career?
+
+Participant 6: Yeah, I when I was a you know university student? You know, I graduated with a degree in computer science. I did research on campus where you know, I discovered that the computer network wasn't nearly as secure as people thought it was. It was very easy to eavesdrop on the campus computer network and see what other people were doing. Reported those findings, you know, to the university faculty.
+
+Participant 6: You know. So that was kind of my first experience with, you know this concept of privacy as it existed. Then I then I went and entered the real world. Worked a number of different, you know, computer networking systems integration type type jobs for for large a large company.
+
+Participant 6: and that led into the privacy work.
+
+Participant 6: they were going to implement a a major ERP [enterprise resource planning] platform globally
+
+Participant 6: there would be transfer of European personal information to the United States that hadn't really been contemplated before. So I got involved on the on the privacy side of that, and we didn't call it privacy, you know, engineering at the time.
+
+Participant 6: but you know I worked. You know I was at your face. I worked with the outside counsel and the inside council and
+
+Participant 6: you know, service Provider, a consulting firm. And worked on, defining what those internal processes and guidelines were going to be as related to privacy, and then worked with the technology implementation to make sure that those were put in place.
+
+Participant 6: So that was really how I got started, and that was.
+
+Participant 6: you know, that was probably [many] years ago. When I really started working with privacy professionally and that just has led to these different roles that I've had over the years.
+
+Nikita: Great. Well, that that's very fascinating. And given this past trajectory, could you also tell me what motivates you to continue pursuing privacy engineering as part of your profession?
+
+Participant 6: Yeah, I mean, I still think I I've had this experience in every company that I've either worked for or have
+
+Participant 6: consulted for right? And that's probably 15 different organizations that
+
+Participant 6: there's a problem. There's a problem with engineers getting
+
+Participant 6: the right, either the right instruction or understanding the instructions.
+
+Participant 6: There's a problem with with follow through that a lot of times. A policy will be written, and then the actual implementation isn't very, very strong.
+
+Participant 6: Or there's a problem with the
+
+Participant 6: the culture of the organization is such that it doesn't really care. It is just going to.
+
+Participant 6: you know, sacrifice, you know, privacy for its bottom line.
+
+Participant 6: and there isn't much.
+
+Participant 6: There isn't much recourse for people in that organization to do anything about that, because they don't really have the business skill to push back against that, because they can't explain that: "Oh, if you do this in another way.
+
+Participant 6: you know. Maybe I will.
+
+Participant 6: You know we will. Maybe as a company we will have better goodwill, or better trust with our with our, with our customers, and therefore that will give us better results right?" They don't have the business skills business acumen to really, to really push back on that. And that isn't
+
+Participant 6: just a privacy engineering problem. I mean, that can be in the the privacy office with the privacy lawyers as well. Right? So that's tends to be able to see some of those, some of those problems systematically in companies.
+
+Nikita: And what do you enjoy about the work? This work that you do.
+
+Participant 6: Yeah, I mean, I think, with the companies that we are working with with my current company. You know, we're seeing that transformation. We're seeing
+
+Participant 6: the privacy lawyers being able to have those conversations much more effectively with their privacy engineers, their their implementation teams.
+
+Participant 6: We're seeing.
+
+Participant 6: you know, less uncertainty. Better documentation.
+
+Participant 6: Better, you know, ongoing results. And we're seeing you know those those stakeholders, those different privacy stakeholders in the organization having
+
+Participant 6: being more empowered to you know. Tell the story that they need to tell.
+
+Participant 6: So they do get their budget, or they do get the ability to treat personal data, you know, appropriately and not, you know, not in a completely Bendy manner, like.
+
+Participant 6: you know, may exist in some of their competitors.
+
+Nikita: Those sounds like some great goals for the organization. Would you say there are any other personal goals that you have for this work?
+
+Participant 6: You know, I mean, I think it's it's like all things you you want certain financial rewards. And
+
+Participant 6: you know to me it's
+
+Participant 6: you know some of it is just contentment, you know. It's like, if you know, if I?
+
+Participant 6: You know, if I feel like I'm making a difference. Well, that that has some personal meaning to me as well.
+
+Nikita: And would you... I guess that would also bring your value from the work that you do, right? Is there anything else that you feel brings you value in this case as well?
+
+Participant 6: You know. I guess my my career has been long, you know, been fairly long, and so
+
+Participant 6: you know I think it. It has just changed depending on where I've been in my career. You know, when I first started working out working with privacy, I had. you know, outside council that was, you know, a a partner in the UK law firm.
+
+Participant 6: I was working with
+
+Participant 6: consulting company. I was probably there. their most significant or the second most significant. You know, privacy program build.
+
+Participant 6: I was managing a couple of million dollars in, you know, in in spend on that that initial privacy program. Build
+
+Participant 6: over, you know, 18 to 24 months timeframe.
+
+Participant 6: You know. So that was that was fairly significant. I was.
+
+Participant 6: in a position where I started reviewing pretty huge contracts with service providers, not only for privacy privacy reasons, but for other reasons as well. For other cyber security reasons.
+
+Participant 6: I've been able to.
+
+Participant 6: you know, at at one point you visited data centers because
+
+Participant 6: you were using, you know, software as a service providers, and they would host the servers in their data in some data center somewhere. So you're re. You know, I was, I visited, you know, half dozen data centers in one year.
+
+Participant 6: I've worked for
+
+Participant 6: a Major cloud. You know, Cloud Service Provider. So I have.
+
+Participant 6: you know, had that experience of. you know, working for a company whose business really is
+
+Participant 6: running. you know. Business processes on the cloud.
+
+Participant 6: understanding and and getting an understanding of what that that is like, you know, as as a business, because it is different than
+
+Participant 6: than, when you're a consumer of, you know, cloud-based services, and so being able to work with that company and get in getting that perspective.
+
+Participant 6: Then, you know, going on and being a consultant.
+
+Participant 6: And then, you know, being asked by
+
+Participant 6: you know a person in the firm at 1 point. Oh, I've got this client they're using that
+
+Participant 6: company that you used to work for can come in and have a conversation with them about about what that is. And so then, being able to, you know, kind of reverse myself back in the role of Oh, but the consumer that's using that cloud service provider.
+
+Participant 6: And then, you know, as as my clients, you know, working in, I worked in the, you know, [LOCATION], and so my office were tended to be [LOCATION] tech companies.
+
+Participant 6: you know, being a privacy consultant in that industry.
+
+Participant 6: I'm getting the exposure of, you know.
+
+Participant 6: different types of, you know, tech companies.
+
+Participant 6: in [LOCATION].
+
+Participant 6: different cultures, different perspectives, different approaches. Let's say to to using a personal data
+
+Participant 6: and just getting an understanding and an experience of that. And then, you know, full circle working for one of my clients. So then, having the experience of going to work for one of your clients
+
+Participant 6: and
+
+Participant 6: and then later after that, then going back and working in the software business and trying to, you know, build software solutions for privacy. So you know, to me it's been the diversity of the career that I've been able to have.
+
+Participant 6: because I have been, you know, working on
+
+Participant 6: such a, you know, complicated yet important.
+
+Participant 6: You know, area and
+
+Participant 6: I doubt I would have had that that type of
+
+Participant 6: work experience and hadn't not been privacy that I was working on. If I had just said, Oh, I'm gonna you know, go. I'm gonna focus on. When I was working for this first company out of college.
+
+Participant 6: I could have said, well, I'm only gonna focus on systems administration like UNIX systems administration right?
+
+Participant 6: And that was one of my initial hats I had for a while, and that one lasted about 3 months. But but you know, if I had focused on that right? Well, eventually
+
+Participant 6: they would have stopped needing those people because would have gone to the cloud. And then, okay, am I gonna go now? Work for maybe a cloud service provider like maybe I go work for AWS, and I do something similar for AWS.
+
+Participant 6: I would have had a much. much less diverse
+
+Participant 6: set of work experiences that I've had because I've chosen to go down this path and work with privacy.
+
+Nikita: That that sounds amazing. It does sound like you had an ex wide range of experience in different roles, wearing different hats. That's very fascinating. And now I'd like to also ask you a question about the future. So from a year from now on, do you see yourself in the same position, and I guess, more specifically doing what it is that you currently doing your position?
+
+Participant 6: No, yeah.
+
+Nikita: Yeah. Can you tell me why?
+
+Participant 6: Yeah, well, we're for a startup, and a year from now I would expect that we're either acquired or well, let's say II would expect we're acquired. and I would expect my role will just change. and I will.
+
+Participant 6: yeah, I'll just it'll it'll be completely. It won't be completely different. But II would see my role being substantially different than it is today, because I work for such a small company, and I expect we'll be acquired.
+
+Participant 6: That my my role most likely would would get bigger
+
+Participant 6: and you know, my focus would just change, you know right now I right now in my my job, because we're, you know, such a small company. It is.
+
+Participant 6:  you know I do a little bit of everything, you know, and I would expect as we get bigger, and we get acquired, and and I work for a larger company.
+
+Participant 6: that I will be much more focused on on,
+
+Participant 6: probably more on leadership and management role.
+
+Participant 6: unless doing what I'm doing right now, I guess.
+
+Nikita: So, yeah, that makes all sense. And actually, that's a great segue into our next topic responsibilities and skills. So I would like to ask you if you could give me an idea of what a typical day at work looks like for you.
+
+Participant 6: Yeah. So because we have the software product. II you know, I'd lead like our customer success function.
+
+Participant 6: But I would be. I'm the technical person, right? So I'm the person that
+
+Participant 6: you know, gets brought on, you know, from a sales perspective. You know I'm I'm demonstrating our product or talking to prospective clients about how they can use our product to manage privacy.
+
+Participant 6: Once we sell to a client. I'm having regular meetings with our customers about how to use our product
+
+Participant 6: effectively.
+
+Participant 6: And then I'm also working on the product side.
+
+Participant 6: You know, based off of that feedback that I'm getting from both sales and post sales that I'm you know, helping the product team prioritize the direction of the product over time.
+
+Participant 6: You know. So I'm kind of doing those those 3 things.
+
+Participant 6: And so a lot of that can be, you know, very consultative like today. You know, we we have a customer, and they're having a hard time.
+
+Participant 6: The the customer is a lawyer, right? And so this person isn't
+
+Participant 6: necessarily
+
+Participant 6: you know, kind of
+
+Participant 6: just even aware of how much really should be
+
+Participant 6: should be done, you know, in their organization.
+
+Participant 6: So we're we have to try to lead them a little bit.
+
+Participant 6: You know, encourage them to. Oh, look at using our product to do the following things, because we know these things are important to your company, because we're reading the news.
+
+Participant 6: And we're, you know, we're more aware of what's going on in your company than than you probably are, you know, so we can't really say that to the say that to the customer, but we have to try to, you know, lead the customer. So the customer, you know, is getting more, more value out of out of the product. And all the software that we offer.
+
+you know. So that's kind of the the challenge that
+
+Participant 6: that we often have, and and a lot of that challenges because of the
+
+Participant 6: the nature of privacy and the nature of what we deal with. It's like you end up with somebody, that is.
+
+Participant 6: you know, legally trained. And so they're used to receiving a question from somebody in their organization, and then answering that question like they would answer any typical legal inquiry, right?
+
+Participant 6: Whereas in this case what they really need is somebody that can go, help, and and consult with the business, and actually go to the business. Say, Oh, your business objective is to.
+
+Participant 6: let's say, make your business process more efficient. I know, because you're gonna make your business process more efficient. That means that you're gonna be using data. Let's have a conversation about what data you need to use, and whether or not you actually have the permission to use that data.
+
+Participant 6: So that's what should be happening right?
+
+Participant 6: But what generally does happen in in. And this isn't. This isn't just this customer right? It's oh, we wait until somebody comes and reaches out to us and has a conversation with us once in a while. We get involved.
+
+Participant 6: you know, from a strategic planning perspective. And maybe, you know, we we get called into that meeting where we're talking about this new business strategy. But most of the time these these lawyers don't don't get engaged that way right?
+
+Participant 6: And so that's that's some of the things that we have to do, even in our in our sales processes help to explain.
+
+Participant 6: You know how you should be looking at your role? When it's when you're talking about when you're talking about privacy inside your company.
+
+Nikita: Yeah, that's very interesting. And one thing that is really interesting is what you mentioned about this sort of expectation that this is how you feel things should be. But here's the how they actually are, and you're required to provide the support. So let me ask you, with this emphasis here on this question. So what responsibilities do you feel your employer expects to take expect you to take off work.
+
+Participant 6: Probably what I've just been saying, you know, like, I guess
+
+Participant 6: you know, the situation is like, I
+
+Participant 6: I'm probably in
+
+Participant 6: almost entirely self directed. So
+
+Participant 6: so yeah, I mean, I'll have you know. I'll kind of. I'll I will discuss what I'm working on, you know with with with our CEO and I'll get feedback, you know, on approach, like, Oh, yeah, maybe approach it from this this angle, or
+
+Participant 6: have you talked to this person.
+
+Participant 6: I've had a conversation with this person. You should talk to them as well, so that tends to be kind of how how I'm working today.
+
+Participant 6: You know, it's it's very
+
+Participant 6: yeah. It's very different. Because of kind of where I am. Career wise. You know, and and the size of the organization.
+
+Participant 6: that I don't typically have a lot of that
+
+Participant 6: that kind of like direct supervision, you know.
+
+Nikita: I see. So in this role, to just clarify it, you're basically setting your yeah, you're being more self directed as opposed to having expectations set to you by, let's say, your manager, would that be correct.
+
+Participant 6: Yeah, you know. And and I've been.
+
+Participant 6: you know, my more recent experiences. You know my last, my, my last. You know, privacy, engineering role before this one
+
+Participant 6: it was. It was a [COMPANY] as a contract role.
+
+Participant 6: And you know, they basically told me we wanted you to do. We want you to do this right? And I'm like, Okay, well, do you have any other direction than that? And that was about it. We want you to do this right. And so then I was. You know, I did a threat model. So like, Okay, well.
+
+Participant 6: how do you do a privacy threat model? And so then, you know. I just, you know, did some did some readings? Did some investigation.
+
+Participant 6: Created a process to follow.
+
+Participant 6: That was, you know, basically adapted that company's existing process for security, threat modeling, and then laid in privacy, threat, modeling on top of the security threat, modeling process, and performed a privacy threat model of of something for this, for this, for this company.
+
+Participant 6: But you know it was kind of one of these things. Where? Well am I doing this right? I have no idea. Right? So am I doing this correctly. And so then, you know, we went through kind of a peer review process, and you know, peer reviewing with a very technical cyber security expert.
+
+Participant 6: And you know, I said it was like, II understand everything that's written here from a cyber security perspective. I don't have the creative ability to do all this stuff, because.
+
+Participant 6: you know, I'm not a
+
+Participant 6: I'm not electrical engineer. I'm not a you know. I'm not a I'm not a, you know. I'm not a computer engineer from a perspective of understanding like computer chips, right? So I don't necessarily have the technical.
+
+Participant 6: you know, engineering cyber security engineering experience to talk about the chip design right? But I can talk about the abstraction on top of that. Everything privacy related on top of that. And so we went through that. And it was. You know. What I had done was was comprehensive and and complete.
+
+Participant 6: and yet I was finding things that of course, this technical person wasn't thinking of that. That were more.
+
+Participant 6: You know that just because, you know, we come into a.
+
+Participant 6: you know, into anything. And you have a different set of skills and experiences. You're you're always thinking about things differently than than, you know, more technical cyber person does. So that's kind of from the cyber, from a
+
+Participant 6: from a technical perspective. A job before that.
+
+Participant 6: you know, I was in a role where somebody was trying to trying to control-manage me right.
+
+Participant 6: And
+
+Participant 6: and that person didn't understand privacy. So
+
+Participant 6: they were, you know, expecting I was doing certain things a certain way. And I'm like, Well, no.
+
+Participant 6: this organization needs to be doing things appropriately right. And that's why you hired me to have the organization do things appropriately, and if and it became clear that that wasn't what
+
+Participant 6: You know. They thought that they hired before. Right it it seemed to be it seemed to be a kind of a values conflict.
+
+Participant 6: And so I left. You know, I left that organization I was like, well, this isn't the right right position for me. So you know, II think
+
+Participant 6: you know that's one of the things about. Well, what II look for as I look for, you know, places that I'm going to add value right?
+
+Participant 6: And that [REDACTED] manufacturer, for example, I had a, you know, significant amount of value. I enumerated all kinds of different privacy, related risks that they had not thought about
+
+Participant 6: that. They then, you know, we're
+
+Participant 6: we're able to, you know, start to, you know, build counter measures for.
+
+Participant 6: and and that also then led me into the the work them do now because I you know, I know that I'm doing something that is valuable for companies that really do you know want to do the right thing with privacy
+
+Nikita: well, that's very insightful. And you mentioned some of the day to day responsibilities you have do you feel that you have any additional responsibilities that you're expected to take on in your role, such as maybe to society or art as an organization, or maybe even to yourself.
+
+Participant 6: Yeah, I mean, II you know II have some speaking engagements I had one last week. I have one coming up in [LOCATION].
+
+Participant 6: I've tried, you know, privacy. It's you know. It's it's kind of funny, because you know the privacy organization. There's this one privacy organization that you know tends to dominate. And I think there's other working groups and other other organizations that, you know, some people are more involved with. And
+
+Participant 6: and yeah, I just haven't been, you know, items not as
+
+Participant 6: personally involved with some of that stuff as I see some other people, and I
+
+Participant 6: you know I don't know. III see
+
+Participant 6: a lot of
+
+Participant 6: [SOCIAL MEDIA] activity that that certain people
+
+Participant 6: are doing. And and they they, you know, they have, fairly, you know, prominent permanent jobs. And I and I wonder, okay, how do you find time to do that. If
+
+Participant 6: if you know if your job would be as busy as I would expect it would be. So. II you know, sometimes, you know. Look at as like well, they must have.
+
+Participant 6: you know, they must be able to manage their internal stakeholders better than I was able to, if they're able to, you know, spend as much time as they appear to be spending.
+
+Participant 6: you know, as it make as they make it appear at [SOCIAL MEDIA]. So I mean II guess I'm answering like, no, II just am not. Probably as
+
+Participant 6: as II don't put as much value in this like social engagement or this.
+
+Participant 6: you know this, this, this involvement in the privacy area, and it. And maybe it's because where I am, you know, in my career, and
+
+Participant 6: I put more of a personal importance on
+
+Participant 6: like, you know, I don't know. Tangible community involvement that is not really in the field, you know, in my professional field
+
+Nikita: it makes a lot of sense. I completely understand you. Let's talk a bit about your skill set as well when you started in your current role, what skills were demanded of you?
+
+Participant 6: Yeah, I mean with with privacy. When I started working on privacy, it was really. you know, I was a technical person
+
+Participant 6: that has, you know. you know, a significant ability to understand technology and the application of technology and in in business process.
+
+Participant 6: You know. Then, combining that with. you know, being able to understand sometimes the difference between the letter of the law and the spirit of the law.
+
+Participant 6: and to help, you know, help organizations make the right decisions, like.
+
+Participant 6: you know. Originally it was. It was pre-GDPR, you know. So
+
+Participant 6: organizations were very bendy as it came to came to data protection. And so, you know we were. You know, I was able to say, Well, you know. Yes, this is the law. But this is about
+
+Participant 6: trying to do the right thing and
+
+Participant 6: really focusing on that as as the objective of you know the work that we were doing?
+
+Participant 6: you know, I think over time it's become.
+
+Participant 6: It's it's more of the same to some regards. It's like, Yeah, you you need to. You need to be able to understand a little bit of what the law is, but I guess your expectation is
+
+Participant 6: there's gonna be some lawyer that is interpreting that for you, right? And so there's gonna be less of that interpretation.
+
+Participant 6: So now, it's
+
+Participant 6: rightfully, I think, becoming more about okay, the the privacy engineers need to be people that you know are.
+
+Participant 6: you know, comfortable writing code, and can actually write the code or
+
+Participant 6: are familiar with, you know.
+
+Participant 6: reviewing code. There's code scanning tools.
+
+Participant 6: I think if you're using a code scanning tool and you can't write code. there's probably some some weaknesses in that approach.
+
+Participant 6: And there's a lot of.
+
+Participant 6: you know, I certainly did engineering work. That, you know, I don't have a significant data science background. It wasn't really a field when I was in college.
+
+Participant 6: So there's certainly a lot of data engineering work that's being done as well. So I think. you know, if I was a privacy engineer that had more of a data background it would be would be better. I haven't worked a lot with
+
+Participant 6: data tools like your big ID or your informatica, or you know, tools like libra tools like that I've done had some exposure but not significant exposure.
+
+Participant 6:  there's been.
+
+Participant 6: I mean, major advances in a I I think 3 major advances in AI with data tools and
+
+Participant 6: the big, the big gorilla on data tools in the privacy world is like, I think, based off of the first generation. AI, not the third generation. AI, so
+
+Participant 6: so I think a lot of the problem we have is that a lot of these privacy. You know, people, like not just privacy engineers, just don't have the data experience. So they don't understand that
+
+Participant 6: these data tools don't really work.
+
+Participant 6: So then they end up trying to, you know, implement a lot of this stuff and
+
+Participant 6: don't get good results and don't understand why they're not getting good results. And
+
+Participant 6: so I think that's one of the things that's kind of important, you know, nowadays is is having just a
+
+Participant 6: a lot more
+
+Participant 6: you know diverse backgrounds. So that you're able to, you know, bring all the technology,
+
+Participant 6: the the technology platforms together.
+
+Nikita: That makes sense. Sounds like in the beginning. The skill sets is more tailored towards being a generalist, I guess, as in being able to also understand law, as also a technology, whereas where you're saying that as time progressed.
+
+Nikita: you see this gonna shift towards more specialization that maybe the lawyer will be responsible for laws, whereas the privacy engineer will be specifically responsible for more technical aspects. Is that correct?
+
+Participant 6: Yeah, yeah, it's it's that it's that where company should be now. They should be. They should be going in deeper on the data that they actually have. And you know the project should be, how do we improve the quality of the data that we have?
+
+Participant 6: How do we, you know, get rid of information that we shouldn't have. So this should be data related projects. And II still think a lot of the privacy. You know what I would privacy engineers out there just don't have the data skills to to do those types of projects.
+
+Participant 6: They don't have the data skills to know that
+
+Participant 6: the companies are trying to sell solutions, don't necessarily have the solutions that they say they have.
+
+Participant 6: And you know some in some cases you have to piece together multiple solutions to
+
+Participant 6: you know. Get to the get to the result, or you gotta.
+
+Participant 6: You've got to have. You know your own software engineers that are, you know, data scientists to actually
+
+Participant 6: do the right things with data. So II think there's probably a huge opportunity for
+
+Participant 6: especially, I think, education of, you know, privacy, privacy, engineers
+
+Participant 6: or people that are performing privacy engineering roles that isn't occurring
+
+because the IAPP
+
+Participant 6: you know it's about, you know, selling certifications and conference attendance.
+
+Participant 6: So they're not really trying to educate privacy engineers on
+
+Participant 6: on the correct way. Or or you know, success, success, right? They're like they have a CIPT exam, which I have, CIPT certification, and it was very much a
+
+Participant 6: knowledge-based exercise.
+
+Participant 6: You know, understanding what cookies do you know.
+
+Participant 6: when I took it right? And so it should be much more about.
+
+Participant 6: You know, much more practical. Around data, in my my opinion.
+
+Nikita: Umhm. I can completely see that. Yeah, I understand. Let's shift gears here and talk about reporting and deliverables. I'd like to ask you, who do you report to? And does anyone report to you?
+
+Participant 6: Yeah, in the company I'm in right now. I report to the CEO. And and I don't have any direct right now. I don't have any direct reports.
+
+Nikita: And would you say, is that a typical structure that you see in your profession?
+
+Participant 6: No, just because we're a 5 person startup you know, in other roles in in consulting, you know. II you know I reported to a partner as a director and a consulting firm report to a partner. A matrix role with
+
+Participant 6: a multiple private multiple cyber screen privacy partners that are reported to
+
+Participant 6: my other industry positions I have reported to their chief privacy officer. I have been the de facto chief privacy officer or I've
+
+Participant 6: I reported to somebody in the data organization.
+
+Participant 6:  so it's it's been a kind of a hybrid of type of of people that are report to.
+
+Participant 6: I, you know, from an experience perspective, I see.
+
+Participant 6: I still see
+
+Participant 6: a lot of.
+
+Participant 6: you know, chief privacy officers trying to figure out how to do everything with privacy and not really respecting that, oh, you know, there really is a a privacy engineering need.
+
+Participant 6: And and if they do know that sometimes they
+
+Participant 6: they don't even know how to get how to begin, you know, dealing with that.
+
+Participant 6: So that's where I think our company helps to come in. We can explain.
+
+Participant 6: Okay, this is the type of activities your privacy engineering function will do so. So anyway. So it's kind of a long, long question like, like, know that the structure that I'm in right now is not typical. It's just because I work for the small company.
+
+Participant 6: But
+
+Participant 6: you know, the typical the typical role would be. I would be reporting either to this the CPO. Or some sort of data organization. And that's one intending tendency in the industry.
+
+Nikita: makes sense. And I assume that, given the small size, your organization structures free, flat as well?
+
+Participant 6: Yeah, I mean, I would have you know, if we have. If we're in a different place I would have. I would have you know. I would have a team, of course. But but right now we're we're, you know, we're operating very lean.
+
+Nikita: So that's that's understandable. And in your position, what sort of methods do you use to report to others? And here I'm gonna like to give it more lower level. What do you use things like meetings or emails, project management tools?
+
+Participant 6: Yeah. And you know, a lot of it has just been there hasn't been any real good, you know any good tools, right? So if you look at you know, if you look at you know II had a very process, you know, when I when I was at de facto CPO, I had a very process-oriented privacy program. So
+
+Participant 6: you know, if if
+
+Participant 6: you know privacy, consultation would be, I would consider that a process right? So I'd be measuring the amount of consultations that I received.
+
+Participant 6: I would be tracking metrics related to those consultations. You know it might be, you know, consulted on the same, you know, same previous lance or topic, and was able to, you know, provide, you know, the same advice. And we just, you know, very process-orientated
+
+Participant 6: you know, performing pricey impact assessments for the you know, consulting with the business on their PIA results. Those sorts of things.
+
+Participant 6: you know. And and so I guess it just depends on
+
+Participant 6: you know, the type of the type of organization. If it's process orientated other orgs I am working with are just, you know, sometimes there's privacy lawyers and all they do is they respond to emails. Right? So they
+
+Participant 6: they're not reporting anything to anybody about about privacy.
+
+Participant 6: what we're working on, you know, in our product is well, if you if you are.
+
+Participant 6: you know, if you are
+
+Participant 6: pulling together the requirements... So, for example, like, if you're going to implement
+
+Participant 6: like a technology to do to to respond to individual rights requests. So a consumer has a privacy right. And
+
+Participant 6: so the consumer sends in to your company a.
+
+Participant 6: you know, a portability report request to download a copy of their data. Well. you should be able to well, say, that's a business process. Maybe it's a self service capability. So every product in my company has to integrate to the self service capability so that
+
+Participant 6: the user can log onto the web portal and download a copy of all their personal data and all the products that we have.
+
+Participant 6: So in that case, then, you need to have
+
+Participant 6: a requirements repository that
+
+Participant 6: a new business or an acquisition can access so that it can easily integrate to your capability.
+
+Participant 6:  So if you you know, if you take our approach, then okay, you've got a place. You've stored your requirements. And now you can assign out those requirements, that new business area, that business area, then, can engineer those engineer their solution. And they can mark complete.
+
+Participant 6: And then, okay, now you can run a report. Now you can say, Oh, I've got 5 new.
+
+Participant 6: you know, customers right? Using my privacy, my privacy process this quarter.
+
+Participant 6: And because I have use my, you know, privacy code software. Well. I haven't had to add answer. You know I haven't had to go to. you know. Maybe it took 50Â hours to do that the first time, you know, for a business. Well, all of those discussions, all that.
+
+Participant 6: all that information that was necessary
+
+Participant 6: for that business to implement. Well, that's all been recorded right? So now it's I have a 2Â hour conversation. So 50Â hours of conversation. So it's a much more simplified and and automated, you know, implementation. And so that's what we're really providing is
+
+Participant 6: is the ability for companies to, you know, keep keep track of that privacy engineering activity in a in a centralized place, so that you can actually create those types of reports, and actually.
+
+Participant 6: you know, demonstrate some value to the business.
+
+Participant 6: you know, instead of having.
+
+Participant 6: you know, five five privacy lawyers getting engaged by different, you know areas of your business, all independently answering the same questions.
+
+Participant 6: mostly the same, but maybe a little bit different, depending on, you know, individual flair.
+
+Participant 6: Now you have one place where all those questions are being, you know, put into right. So they're getting the standard response. And people are using the same
+
+Participant 6: object to capture those responses. And because I'm
+
+Participant 6: using this product, then I can again report out, I know, how much engagement do we actually have in the business with with questions. And so having that software platform is providing and providing those companies that ability.
+
+Nikita: Wow, that's that's very insightful. And in terms of your specific deliverables. What is required of you in your role?
+
+Participant 6: Yeah, well, I mean, yeah, some of it is just.
+
+Participant 6: you know, day to day, you know, it's it's customer success meeting. So meetings with customers capturing feedback, you know, bugs.
+
+Participant 6: enhancement requests from customers putting those into, you know. Enter in, you know, internal tracking tools. So we track the bugs. We track enhancement requests. We prioritize those enhancement requests for bug reports.
+
+Participant 6: Communicate fixes, release notes, you know, from from product to our to our customers.
+
+Participant 6: Yeah, so it's that sort of thing, you know. It's it's typical product, related deliverable activity. [I guess what you know.] I'm not reporting my own activity, you know, to my own board of directors anything like that? Because it's not not, you know, being a software company. It's it's more about.
+
+Participant 6: you know more deliverables based off of, you know, delivery of
+
+Participant 6: of the next or next release of our product, for example, or.
+
+Participant 6: you know, delivering a bug fix, you know.
+
+Nikita: And why would you say these deliverables are important in your role? What would be the end goal of those deliverables?
+
+Participant 6: Well, I mean, it's it's customer renewals.
+
+Participant 6: So it's really about renewals and sales, right? So it's new sales and customer renewals.
+
+Participant 6: Those are the the 2 most important thing. You know, another roles I've had. It's really been about.
+
+Participant 6: It's been really data quality.
+
+Participant 6: I haven't worked in an organization that had really good measurement around their data. They may have had. They may have thought they had good data they would have had.
+
+Participant 6: Oh, we have this amount of data, and it's growing by this percentage each each month.
+
+Participant 6: But do they?
+
+Participant 6: I haven't worked for an organization that's that's gotten their handle around it right? Like, oh, we have all this data. But we also have a data quality score, like, you know, like I, I get to see that and done well.
+
+Participant 6: and that that to me was probably one of the
+
+Participant 6: more frustrating things in the last. You know, role outside of, you know, my current role is that
+
+Participant 6: people don't think about...
+
+Participant 6: people like to measure
+
+Participant 6: the easy thing right? So people will measure completion like, Oh, I've completed 100 PIAs, or I've
+
+Participant 6: I've responded to 25 privacy related inquiries. Right? And that's the metric they report
+
+Participant 6: like, what does that mean? It's like, did that lead to more sales to that reduce our customer churn did that increase the amount of the value of a of a customer renewal? You know it's it's tying the
+
+Participant 6: the operational work to real results. And so that's what's important to me. It's like, so we look at.
+
+Participant 6: you know, those bug reports like, Okay, is this bug significant enough that I think it's gonna create a risk of renewal.
+
+Participant 6: And so if that's the case, you know. And and you know, some cases, it's like, is it impacting multiple customers. Is it preventing the customer from actually being able to do something, you know. So like we, we rank those bugs right? And so I tie those to business results.
+
+Participant 6: whereas you know a lot of times our customers aren't experienced in doing that. They, you know, they just are, you know.
+
+Participant 6: at least, most companies we work with. They start. They've started out, really, when we start engaging with them. They've been
+
+Participant 6: really consultative organizations. You know. Then they learn like. Oh, we should be.
+
+Participant 6: you know, we should be thinking about the things that we do and how those actually impact the business. And when we start talking to them about that. They start.
+
+Participant 6: you know, having, you know, I think, more
+
+Participant 6: run up conversations with their business leaders about privacy.
+
+Nikita: Umhm and I thought it was insightful, how you mentioned about different metrics, and how some of them could be less helpful than others.
+
+Participant 6: It's, you know, like I saw it. I. I've seen it multiple times in organizations. They measure completion metrics. And
+
+Participant 6: then they they get all worked up about it like, Oh, we're gonna we're gonna increase our trust score right? And the trust score was just 15 different completion metrics, right? And so maybe the trust score is 80. We wanna increase that to 90%. It's like, okay. But all you're doing is
+
+Participant 6: pushing the business to complete an assessment.
+
+Participant 6: You're not pushing the business to take any action on the assessment right? And so the the measure was still so in, you know. So so
+
+Participant 6: non-consequential right? The measurement didn't really do anything. It was just a measurement of completion. Right? What really would be useful is like, okay, did did I help the business
+
+Participant 6: find more customers. reduce customer churn or increase the average sale.
+
+Participant 6: That's that's the that's what you need to be proving. And
+
+Participant 6: you know. And and
+
+Participant 6: and this isn't just a privacy problem. Sometimes it's a cybersecurity problem, too. Right? Cybersecurity can become.
+
+Participant 6: you know, a huge cost for an organization you can. You can spend, you know, every dollar you have in cybersecurity if you want to?
+
+Participant 6: You know it's still about effectiveness, right? And so am I doing the right things? Am I doing what I need to do? Am I doing enough? Those are the real questions in cyber. And and so it can be the same thing with privacy.
+
+Nikita: Yeah, II imagine. And in your current role. How would you say your manager? I guess the CEO in this case evaluates your deliverables. Is it in line with your expectations?
+
+Participant 6: Yeah, I mean, I think it's it's we do the best that we can do. Given the resources that we have.
+
+Participant 6: you know, it's
+
+Participant 6: no different than anywhere else, I think, in my other roles I've been. I probably pushed my manager.
+
+Participant 6: You know. I certainly know in the past I've pushed my manager
+
+Participant 6: to a point where it's been uncomfortable for them. And so then II leave the organization sometime. You know, I've left companies, because. like it's clear that I'm not going to.
+
+Participant 6: We're not gonna get a breakthrough, right? And so like, if
+
+Participant 6: you know, we we talked to. I'm not gonna say who it is. But we talked to people that leave
+
+Participant 6: a major company.
+
+Participant 6: And it is.
+
+Participant 6: you know, we'll talk to people 3 months apart, right? They've left the same company, and it's a big company. They employ a lot of people. It's consistent like Yup, they
+
+Participant 6: they, you know. It's all about completion. Right? It's all about. Maybe it's like, let's say I'm gonna use the example of PIAs. It's about doing the PIAs. But if do the PIAs, then I find these findings, and then you can't get anybody in the business to actually take any imp, any
+
+Participant 6: action on the findings, because nobody's measuring that. And when you bring that up, you get resistance because
+
+Participant 6: you don't wanna start measuring something that people can't actually, you know, resolve. So they don't wanna measure it.
+
+Participant 6: So the people at this organization.
+
+Participant 6: They consistently talk about this like they, they're working a job. They're getting paid a huge salary
+
+Participant 6: to just, basically, you know, check boxes off a checklist.
+
+Participant 6: and they all know the same problems are there, and we hear it consistently what you know. Quarter after quarter, like I've done 4 people. I've had 4 conversations with people over 2 years. I work for the company. It's it's consistently the same across business areas across, you know, teams
+
+Participant 6: and that. And that's that's reality, you know. And and so
+
+Participant 6: you know, and at least our organization, you know, it's it's driven, I mean, as we're we're, you know, small, scrappy startup, you know. So it's about.
+
+Participant 6: you know, selling our product and making sure we get renewals, because otherwise we'll go out of business.
+
+Nikita: Umhm. I could understand that. Let's shift gears here and talk a bit about your challenges and strategies you have for recurring those challenges. So given your day to the responsibilities I'd like to ask you, are there any tools, techniques, or standards that create challenges for you in your work?
+
+Participant 6: You know, I don't think they? I mean, there's like from a standards perspective. I mean, there's multiple privacy standards now. And
+
+Participant 6: you know, NIST has NIST has privacy. you know, privacy framework. And
+
+Participant 6: then there's ISO and ISO likes to release its own, and there's some some independent crosswalks like secure controls framework and and whatnot. So there's all these industry frameworks. I
+
+Participant 6: II think the the you know the the challenges is that
+
+Participant 6: companies can
+
+Participant 6: can do. Can do a small amount
+
+Participant 6: and pass a lot of the certification type activities so they can get their stock to on privacy
+
+Participant 6: without really doing a whole lot. And
+
+Participant 6: they can get by the minimums in the software products that are out there. Let them do that.
+
+Participant 6: I think the biggest issue in the privacy area is really the
+
+Participant 6: the the regul, the the lack of regulation. Like, I mean, it's like lack of regulatory activity. It's like they go after the gorillas, right? So Facebook will get a billion dollar fine, right? But that's just cost of doing business
+
+Participant 6: for Facebook. They can afford a billion dollar fine. It's fine. And they just they litigate it. And eventually they pay it.
+
+Participant 6: And it's okay, because they make a hundred. II don't know the numbers right? They make a hundred 1 billion dollars. So it's it's just 1%. It's like a tax that they pay. They have other ways of avoiding the other taxes. So they end up paying their data protection tax. And that's what it is.
+
+Participant 6: Whereas other companies that you know aren't
+
+Participant 6: as obvious that they're making use of personal data.
+
+Participant 6: they get away with it because they just operate under the radar, and
+
+Participant 6: you know nobody's. Nobody complains about them, because nobody really knows about them, you know, if it's all B2B, and they're really quiet, and they don't, you know, don't raise their head very high.
+
+Participant 6: They just kind of operate, and we've got some of those, you know. We work with some of some companies like that, right? And they know they have a high risk because of what they're doing. So they're trying to put in place the right things, so that
+
+Participant 6: down the road, if they do get investigated, they've been doing the right thing. So so we do talk to companies like that. But there are very few companies that are really are active about it, you know, there
+
+Participant 6: the vast majority of but the businesses out there that are doing the wrong things. They're just operating quietly
+
+Participant 6: and getting away with it. And
+
+Participant 6: and and that's just the nature of this of this industry.
+
+Nikita: So would you say in your in your role. One of the challenges is getting that buy-in and convincing your customers of the importance. Would would you say that?
+
+Participant 6: Right. Because the lack of regulation, like lack of re regulatory enforcement and regulations, regulatory enforcement. It's the enforcement actions tend to still tend to go after gigantic gigantic players, and while there, you know, people could argue that against me. I know that there's tons of fines. II know there's tons of fines, but we still.
+
+Participant 6: you know, there's still a there. This is still a problem like.
+
+Participant 6: you know, we we rarely talk to you. Really, you really, I would rarely have a sales call. We're like, Oh, yeah, you know, we're really afraid of a an enforcement action like I've never heard that, you know, like
+
+Participant 6: you know. And and that should be. You know that if that was the reality
+
+Participant 6: we would have a lot of our customers, you know. We would have a lot more innovation as it came to privacy engineering
+
+Participant 6: because people would be
+
+Participant 6: you know, universally trying to do the good, trying to do the right thing, because if they don't, they know that eventually they're gonna get into that you know things are gonna get investigated and they're gonna get they're gonna get enforcement action.
+
+Nikita:  that's that's very interesting. Do you feel there's any other challenge that you gonna have to face in your role? Besides what you just mentioned.
+
+Participant 6: Yeah. We compete against we compete against spend. You know, it's
+
+Participant 6: nobody's given all the money they need to do anything right in a company.
+
+Participant 6: So we're competing against spend. So we're competing against spend for outside counsel, you know. So if if a if a CPO is buying from us.
+
+Participant 6: they were like, Well, I don't want to give up the.
+
+Participant 6: you know, $50,000 budget I have for outside counsel to go buy a product that
+
+Participant 6: you know might cost $50,000. That will eliminate the need for me to talk to outside counsel, because I still might need to talk to outside counsel, you know. So we deal with, you know
+
+Participant 6: the spend is really the competitor.
+
+Participant 6: you know, not
+
+Participant 6: not competitors. Right? We don't have a
+
+Participant 6: we don't really think that we have a competing product that's really trying to do the same thing that we're doing yet.
+
+Participant 6: There's companies out there that think they compete against us. But it's really about the spend that they're competing against. We don't sell because they went out and they bought another product. They've used up the budget.
+
+Participant 6: So that's that's really the biggest biggest issue I think we have.
+
+Nikita: Yeah, interesting. So with the spend, and I guess also a bit with like the buy-in as you were mentioned before for your clients. Could you tell me about some of the ways or strategies that you use to overcome these challenges?
+
+Participant 6: Oh, it's time, you know, it's just continuing to engage. And it's relationship. You know, it's a sales thing. It's really relationship and challenge sale, you know, just just sales, sales, sales, cycles very long.
+
+Participant 6: Sometimes we have to consult. Do some consultation. You know. Do consultive type services on top of what we're selling.
+
+Participant 6: which isn't, you know, isn't the best thing for our growth.
+
+Participant 6: I think you know, generatative AIs changing things a lot, a lot of things as well. So we you know, we we which you know, you know. process of trying to get a seed seed raise.
+
+Participant 6: Yeah. So
+
+Participant 6: you know, we we have this challenge of, do we get
+
+Participant 6: Does somebody run past us that has funding right? And so I think a lot of it is, are we going to be able to grow fast enough to keep up with.
+
+Participant 6: How fast. You know, technology is changing. But we have some some ideas of how we can make our products significantly better with with large language models.
+
+Participant 6: That we help to implement, and that that will help.
+
+Nikita: We would be fair to say that one of the strategies is basically innovating and trying to outcompete your...
+
+Participant 6: Yeah, absolutely. I mean, we, we approach things in a different way. So if we. you know, get more traction on agreement like, Oh, yeah, that is the problem. Then then things should be better when?
+
+Participant 6: you know, I know this from
+
+Participant 6: just personal experience. When
+
+Participant 6: people are more concerned about regulatory enforcement. There are more privacy jobs. There's more privacy spending right? And so some of it is
+
+Participant 6: cyclical with privacy enforcement, you know. And
+
+Participant 6: you know, maybe right now
+
+Participant 6: people are more paying attention to. Oh, AI is gonna get regulated. And what does AI mean? And LLMs and all that stuff. And GenAI. Paying a little bit less attention to privacy, and that's impacting us as well.
+
+Nikita: Ummh. Great thanks, so much so. We're on our last topic here in our interview, and just wants to talk a bit about your success metrics and how you kinda think about the impact of your work so could you tell me, please, how would you define success in the work that you do? And I guess personally for you?
+
+Participant 6: Yeah, I think it's just personal contentment, you know, like. you know, have I? Have I made a difference? You know my customers happy?
+
+Participant 6: You know, have a.
+
+Participant 6: you know, haven't made a difference with them, you know, and that's really
+
+Participant 6: you know, really the only way I really I see it.
+
+Participant 6: I'm I'm not as driven financially, as as I know some of my peers are.
+
+Participant 6: You know I work for, you know, work for a big 4 consulting firm. So I'm I mean. I've seen people that are very financially driven.
+
+Participant 6: That is your satisfaction. And you know for me it's been more about you know.
+
+Participant 6: servicing, you know service to my clients and and
+
+Participant 6: you know, solving problems, you know. Like, Am I able to help
+
+Participant 6: my customers solve some of their problems? And that's where I get that satisfaction from their success from.
+
+Nikita: Would you say that the overarching goal for you is being able to solve those problems for the customers that you have? [Yeah, I would say so. Yeah] Ummh. And how do you think others evaluate this impact of your work? And maybe in particular, how do also customers think about the impact of your work?
+
+Participant 6: Well, I think it's it's shown in renewables, right? So I mean, we haven't lost a customer, my business.
+
+Participant 6: So
+
+Participant 6: yeah. And so so it's that it was. It was.
+
+Participant 6: you know, when you're working for a cor corporation, it's like, Do I stay employed?
+
+Participant 6: When you're a consultant, do they? Do they come back and buy more services from me. Right? When you're a software company, are they renewing? You know, it's those types of measures?
+
+Nikita: Yeah, yeah, presumably because it does what it does. And so, yeah, customers are happy, interesting, and great. Well, I think we're at the end of our interview. So thank you so much for your time. I would like to, as we close would like to ask you if there's anything else that you haven't had a chance to mention, or would you like to share with us? Or maybe you think we should know?
+
+Participant 6: No, I think it was. I think it's good. Your research will get compiled into. Will it be like a dissertation or or
+
+Participant 6: well, what is what is the end result?
+
+Nikita: Yeah, we'll we'll have several durables. But I think ultimately we will have both more of a like academic publication, but also a more informal report or a white paper. So it should be accessible to all the stakeholders. And yeah, we'll be sharing them once it's complete.
+
+Participant 6: Okay, what's the timeframe for that?
+
+Nikita: So currently, we are conducting interviews. And we will be doing that until we stop seeing any new insights. So it's a bit hard to say by which time we will finish conducting interviews, but I mean our timeline. Of course we don't have unlimited resources, so we are expecting to be done within the few months with data collection analysis, and then mainly writing up and kind of yeah, disseminating our results.
+
+Participant 6: Okay, okay, well, great. Well, thanks for thanks for taking the time. Yeah. Do you have any other questions to us while we are on the call? No, that was it. Alright, I'll stop the recording. So if you want to see.

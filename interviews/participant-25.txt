@@ -1,0 +1,965 @@
+Daniel: So now the record is on. I just like you to repeat that you consent to being recorded.
+
+Participant 25: Yes, I consent to being recorded. 
+
+Daniel: Great. So your identity and anything you share with us will be kept confidential, and will only be heard and read by the researchers in the study, and you should know that the interview is designed to be a conversation. So there's no right or wrong answers. You can skip any question or pause the interview at any time. Do you have any questions before we get started?
+
+Participant 25: Not at this time.
+
+Daniel: Okay, sounds good. So I'd like to start by first, just asking a few general questions about your work in privacy engineering.
+
+Daniel: So can you tell me a little bit about what it is that you done in sort of a privacy engineering role.
+
+Participant 25: Yes. Now
+
+Participant 25: the focus of today's conversation is going to be in my privacy engineering role, working for a large organization. Sure.
+
+Participant 25: my background.
+
+Participant 25: You know, I've done software development for years and years and years.
+
+Participant 25: I went to
+
+Participant 25: law school, actually in finished that in 2009.
+
+Participant 25: My focus there was on intellectual property.
+
+Daniel: Okay, let's let's hold up on on your background because I do want to touch on that right. I do want to touch on what sort of got us to, you know
+
+Daniel: where we are today. But but first
+
+Daniel: if if you wouldn't mind. So thinking back to when you were working, and what you would consider like a privacy engineering role, what was it mainly that you were doing in that job? 
+
+Participant 25: I had 2 separate roles, one that was weird. Where did those balloons come from when I do this? It is that what causes I have no idea, anyway. Sorry.
+
+Participant 25: one was as a tool developer helping tools for use in a privacy function, and the other was as a
+
+Participant 25: person actually implementing, making.
+
+Participant 25: working with product developers to make sure that they were
+
+Participant 25: addressing privacy issues.
+
+Daniel: Okay, so so let me ask you a question about both of them. Then would you consider those privacy engineering? Yes, both correct.
+
+Participant 25: Yes, I mean, I mean, well, okay, I'll be. Let me put it in my mind developing the tools is much more along the privacy engineering.
+
+Participant 25: Yeah, axis meant, yeah, yeah, than the other. The other one
+
+Participant 25: is is, is, it's an implementation of
+
+Daniel: yeah.
+
+Participant 25: privacy in engineering. Does that make sense?
+
+Daniel: that totally makes sense. And actually, that's very useful distinction. So I appreciate that. So let's let's roll with this for a moment. Could you define the term privacy as you would use it in the context of both of those kinds of roles, and does it? Is it different? Or would you say the privacy in privacy? Engineering is kind of the same for both, and how would you define it?
+
+Participant 25: hmm!
+
+Participant 25: II think it's the same, because the issue there is
+
+Participant 25: addressing
+
+Participant 25: the use of
+
+Participant 25: data data from data subjects to make sure that that usage
+
+Participant 25: conformed to legal and contractual requirements.
+
+Daniel: Great. Okay? Sounds like a solid definition to me. So now let let's zoom out even more for just a moment. How would you describe the roles in industry in general that are kind of related to privacy engineering. So just to
+
+Daniel: pre, you know, kind of put a little bit more of a qualifier on that, though. So you mentioned that in that you felt that the 2 different privacy engineering type roles that you'd personally been in, one of which was sort of further along, the sort of privacy engineering access than the other. But they were both still privacy engineering. So how far does that access go in in either direction, like, what would you describe those roles as?
+
+Participant 25:  okay. So the tool development
+
+Participant 25: is
+
+Participant 25: at least what I was doing at
+
+Participant 25: [COMPANY], which is where I did. This was
+
+Participant 25: supportive
+
+Participant 25: of
+
+Participant 25: implementing.
+
+Participant 25: you know, privacy, conformance.
+
+Participant 25: I would not
+
+Participant 25: in my mind classify it as privacy by design.
+
+Participant 25: Okay, because
+
+Participant 25: the of the way the tools were being used and the way they were intended to be used. 
+
+Daniel: Well, so let me probe on that just a little bit, though. So it's it seems like, what you're suggesting is that one of the key features of being in a privacy engineering role is that you're doing privacy by design work in some capacity. Is that is that correct?
+
+Participant 25: Well.
+
+Participant 25: my personal philosophy is, it should be. I don't think most organizations do that, but that's fair enough. That's fair enough. So I think we'll we'll touch on that. 
+
+Daniel: But that's a really key factor. So
+
+Daniel: you know statement that you just made about privacy by design, though so would you then say that any of the roles in industry that are related to privacy engineering really just our roles that are related to implementing or otherwise waxing poetic about privacy by design.
+
+Participant 25: I,
+
+Participant 25: the the tools that I've seen, the commercially available tools because, you know
+
+Participant 25: it, matter. Everything was rolling around, because, you know, they have the money to go build it themselves. They got their own compiler group. So
+
+Daniel: yeah.
+
+Participant 25: the so whether you look at that or you look at commercially available to. They're all after the fact.
+
+Participant 25: The you know your. It's always
+
+Participant 25: we've done the coding
+
+Participant 25: which implies. If you have a design that's also been done.
+
+Participant 25: Now let's figure out what the privacy implications are, and address them, and whether or not you have.
+
+Participant 25: you know some of the tools. Of course, you know you look at tools
+
+Participant 25: from like Big Id and some of the big companies. They don't even attempt to address address, design. These are all just reporting tools and things like that, and which have their place. But they're not design tools in any way, shape or form. You get other tools from companies like, you know whether it's Privado or Zakuvi, or stuff like that.
+
+Participant 25: Also good tools. And I'm not denigrating these tools, but they're still after the fact. They are the codes out there. Let's reverse engineer it to figure out what the design should have been. And then is that okay?
+
+Participant 25: Right? Still, not a privacy by design better necessary. Because even if you had a design, you got to make sure what you ended up with actually conforms to it.
+
+Participant 25: So I've gotten.
+
+Participant 25: I don't know. Maybe I've derailed the question. 
+
+Daniel: No, no, you're not. You're not. I think you've I think you've hit on the key point here. Right? So let me let me play this back and see if it makes sense. So you're saying that
+
+Daniel: the sort of key roles in industry that are related to privacy, engineering, and sort of what qualifies someone to be in privacy engineering, whether your title is engineer or something else is that you need to participate in the actual design of systems. You need to do privacy by design, because if you're not, then you might be working, you know, on the same product or the same system, or whatever in some capacity. But you're not really doing privacy engineering.
+
+Daniel: because the design has already been decided on. And so you're really just doing other functions possibly related to compliance, or, you know, other kind of, you know, evaluation like V and V kind of stuff
+
+Daniel: after like post talk. Is that right?
+
+Participant 25: Yes, that's that's my perspective.
+
+Daniel: That's completely valid. Remember, there's no right or wrong answers. That's a great perspective. So then, I'm just gonna probe on this one just one little inch further, which is then so how would you define an actual privacy engineer.
+
+Participant 25: a privacy engineer
+
+Participant 25: should primarily, in my
+
+Participant 25: opinion, be focused on
+
+Participant 25: being involved in the design process to make sure that privacy issues are addressed at design time.
+
+Daniel: Okay?
+
+Participant 25: And that's there. That's the key function. Like, if you're going to be a privacy engineer, that's what you do. Right? That's yes. I believe that should be your key function.
+
+Daniel: Okay, that's that's that's awesome. So II promised earlier on that we would go a little bit more into your career journey. So now is the point of the interview where we're gonna start to do that a bit more. Okay? So what I'd like to know is, how did you become interested in privacy, engineering sort of as a career, or even just as a function of your career, like what sparked the interest for you. 
+
+Participant 25: I've always been a very private person. I did not have a social media account.
+
+Participant 25: I did not have a [REDACTED], I don't use it anymore.
+
+Participant 25: So II mentioned going to law school, even though my focus was intellectual property at the time. There really wasn't
+
+Participant 25: stuff that was focused on privacy. I've always I
+
+Participant 25: I went to law school, not because I ever intended to practice law, but because I feel like knowing the law is an important weapon. Okay? And
+
+Participant 25: I didn't want to get jerked around. I, you know. And so I figure find a law that's less likely to happen And and so
+
+Participant 25: I did that. Actually, I actually did. By the way, I mean.
+
+Participant 25: I worked in intellectual property for [several] years I ran [COMPANY]'s intellectual property program for [several] years, which was a lot of fun. But
+
+Participant 25: I ended up. I was recruited by [COMPANY]. They called me actually.
+
+Participant 25: And I just told him. I said, Look.
+
+Participant 25: I am not going to come work for your company unless it's in this function unless it's in privacy.
+
+Participant 25: Because
+
+Participant 25: at the time my opinion was, if you're gonna deal with the devil, you know, deal, you know, you're gonna effect more change from the inside than the outside. Okay.
+
+Participant 25: don't get me wrong. Having worked for having worked for [COMPANY], given what they're attempting to do.
+
+Participant 25: I have, you know whether or not I like their product. They have a lot of respect for [REDACTED], because he's got an impossible job. Okay?
+
+Participant 25: But
+
+Daniel: okay, well, okay, so this is really helpful. So so let me just play this back a little bit. So it sounds to me like your primary interest in privacy. Engineering was really that, you know, you had an interest in privacy as a right, not just for yourself, but you know by writ per law like that kind of thing. And then, in terms of your actual career journey, you you started, not by sort of directly going the privacy route, but really the intellectual property and the legal route, and then from there you pivoted, as
+
+Daniel: sort of, you know, [REDACTED] then reached out to you. By the way.
+
+Daniel: salary. Okay, okay? So so it was also lucrative right? And so and so for that reason, you then took a pivot from intellectual property work into actual privacy engineering work. Okay? Great. So so then, let me ask,
+
+Daniel: what motivates you to continue pursuing privacy engineering in in some capacity as part of your profession? 
+
+Participant 25: Okay? So while I'm not working at [COMPANY] anymore, that's the reason the reason I'm continuing in privacy is because it became very clear to me
+
+Participant 25: while there, and and keep in mind.
+
+Participant 25: That was one, you know. Working on the tool side was only one of the 2 privacy functions. I did, but it became very clear through that whole experience, and subsequently
+
+Participant 25: with my involvement with, you know, [STANDARDS ORGANIZATION] and and a lot of these other things.
+
+Participant 25: Nobody is actually solving the real problem. Okay. Now, there II found, II look through
+
+Participant 25: the 2022 IAPP
+
+Participant 25: a vendor list. I looked at over 400 companies.
+
+Participant 25: Of those I found 2
+
+Participant 25: that even acknowledge
+
+Participant 25: give vague ideas that they're going to attempt to address it. But it is clear. I looked at one of them.
+
+Participant 25: One of them I looked. They have some stuff that's open source. I looked at it as clear from looking at their open source stuff that their approach would not work, and the other one the other one has been in, I think, like Private Beta, for at the time it was over a year, and it not it was a finish. Company didn't look like it was. I don't know if it's
+
+Participant 25: gonna get out of private pay to error. So right? 
+
+Daniel: Okay, so so it sounds to me like, really, one of the main motivators is that you know, privacy engineering is just simply a thing that
+
+Daniel: you know, for whatever reason is just not so deeply ingrained in companies and in the way that they do their business and develop their products. That they're actually solving the privacy problems that privacy engineers are supposed to solve right?
+
+Participant 25: And there's there's a couple of reasons for that. What you know. I spent [many] years at [COMPANY]. Okay.
+
+Participant 25: far too long, but particularly for the pay. But
+
+Participant 25: but
+
+Participant 25: one of the things that you see in, you know, in [REGULATED INDUSTRY], there's actual engineering.
+
+Participant 25: You go to companies like [COMPANY], or most of what
+
+Participant 25: you see, that gets popular press
+
+Participant 25: engineering as a concept doesn't even exist. I mean, you people don't know what they don't even know what the word means. Okay. it's just throw it up against the wall. And you know. So there's there's that problem. If people don't know how to actually design systems properly.
+
+Daniel: Well, let me let me sort of pivot just a little bit here, cause I think what you're saying I actually completely agree with. But I want to focus just a little bit more on you. Okay, so we we have talked a little bit about what your motivation is. But do you have any like personal goals, you know, in in your privacy work at all? 
+
+Participant 25: Oh, yes, I mean because and this all ties together, because for me this is less about money. It's like a mission.
+
+Daniel: I see. 
+
+Participant 25: I feel like that. I'm in this.
+
+Participant 25: When I was at [COMPANY], the intersection of people who could do software development and people who knew the law was me. Okay.
+
+Participant 25: I and in my experience, I think, is is
+
+Participant 25: borne this out in that. I'm
+
+Participant 25: I'm in this weird place where I believe I believe that I'm uniquely qualified to address this problem because
+
+Participant 25: I understand the law. I understand what engineering is. I've done tool development for the vast majority of my of my software career.
+
+Participant 25: And
+
+Participant 25: that combination, as far as I can tell.
+
+Participant 25: just does not exist out there anywhere else. And it you have to have all those in order to actually. engineering is hard. Privacy is hard. Putting them together, is
+
+Participant 25: it's the the whole is harder than the sum of its parts.
+
+Daniel: Well, so what what you've just described sounds like a value proposition for a company that might use your skills right. But then what value do you get from? You know what you do with privacy and privacy engineering?
+
+Daniel: You you mentioned. It was like a personal mission, right? So I get that I get that. But, like, what's the value to you? What's the value proposition? What do you enjoy about it?
+
+Participant 25: My goal in life is to do good in the world.
+
+Daniel: Yeah. 
+
+Participant 25: So you see, this is like an altruistic thing to help people do things right? Right? Because I mean, yeah, I could go volunteer at the local soup kitchen. So can anybody else?
+
+Daniel: Sure.
+
+Participant 25: Nobody else can do this.
+
+Daniel: Yeah, right? So so this next question is a little bit tricky because you've already mentioned that you do you no longer work in at at [COMPANY], but I presume that you still work doing privacy engineering right? So a year from now.
+
+Daniel: do you kinda see yourself in the same role doing privacy engineering work, or, like, more specifically, just kind of doing what it is that you currently do? Or do you see things evolving or changing for you or for the world? Such that that won't be the case.
+
+Participant 25: If I continue to work at all, it will be in the same area. Okay?
+
+Participant 25: Because, like I said for me, it's a mission now
+
+Participant 25: it's
+
+Participant 25: one of the things. I wanna, I wanna kind of make a comment about.
+
+Participant 25: It's it's somewhat unique about large company work.
+
+Participant 25: And and
+
+Participant 25: or I can make many, many comments about large company work, and that's kind of where my head was at before this started. So
+
+Participant 25: the
+
+Participant 25: in a large organization being a cog
+
+Participant 25: in the organization, II don't mind. 
+
+Daniel: Okay. 
+
+Participant 25: I mean, I, some people have egos. Some people like power. I don't care about that kind of stuff. 
+
+Daniel: Okay.
+
+Participant 25: However.
+
+Participant 25: I do care very much about doing
+
+Participant 25: things right. and
+
+Participant 25: I well, I care about both efficiency and effectiveness, which I define. As
+
+Participant 25: you know, effectiveness is doing. You know, efficiency is doing things right. Effectiveness is doing the right things.
+
+Daniel: Right. Okay, so...
+
+Participant 25: I, the
+
+Participant 25: the I care about those kinds of things. And one of the problems in a large organization is that
+
+Participant 25: it can be very hard to change the direction of the battleship.
+
+Daniel: So so,
+
+Daniel: that makes a really good segue into the next set of questions about I'm about to ask. So so hold that thought for just a moment, though, because before before we get there, I just wanted to talk a little bit more about like this sort of day to day. Alright, I think we're gonna touch on what you were just mentioning, though. So.
+
+Daniel: But but let's let's start with this. So give me an idea of what like a typical sort of day at work.
+
+Daniel: Kind of looks like for you as a privacy engineer at [COMPANY].
+
+Participant 25: Yeah, when I was doing the tool development.
+
+Participant 25: For the most part.
+
+Participant 25: it was just heads down coding. Okay? The you know, somebody said, here's the tool we want, and I go off. I just build the tool. And you know we have. Reg. You know
+
+Participant 25: what regular meetings once or twice a week and do Demos and you get, you know, you get bug requests. And it's all standard software development stuff.
+
+Participant 25: for the
+
+Participant 25: implementing privacy in the design part that was largely an issue of tracking down
+
+Participant 25: who the subject matter experts were in a particular area. Because I would, it would be, you know, somebody developing a product
+
+Participant 25: a particular thing that's on [REDACTED], or what have you and I would have to identify who the relevant parties were who knew about what data was being used and why it was being used, and
+
+Participant 25: and making sure that they went through the process. We had a particular process that
+
+Participant 25: people had to go through. and
+
+Participant 25: that process was partially defined outside the group I was in and partially defined by the tooling. My group was developing right? Right?
+
+Participant 25: to verify. Okay, here's the data you're using, and we track all that. And it's been vetted that yes, you can use this for that purpose and whatnot.
+
+Daniel: So so let me let me play this back a bit to you, just to make sure I'm I'm getting this right? So
+
+Daniel: you kind of had 2 sets of day to day responsibilities. Right? One of them was, you know, standard software development stuff, you know, doing the things software developers. Do you know, sprint planning? And you know that kind of thing right? And then and then the other one was a sort of very different.
+
+Daniel: It sounds like
+
+Daniel: it, you know. Someone could make the mistake of thinking that it was a non technical skill set, but it actually was where you had to identify the sort of you know.
+
+Daniel: Knowledge, Gurus, I'll just call them right. You called them subject matter experts, but you know they they may cover a number of different subjects. For a particular feature, and therefore that also entailed for you kind of having to think through like what that type of expertise might be. So you could like reasonably find these people amongst the sea of employees at this very large company, right? And then, once you'd found them.
+
+Daniel: You had to make sure that they were following certain prescribed processes right? Or if there wasn't necessarily a prescribed process like helping walk them through. You know what needed to be done in order to get their feature at the door while obviously protecting, you know, user privacy and so on. Is that about right. Did I miss something?
+
+Participant 25: Well, no, that's correct. The only thing I would add on this on the second one, is it also? And you have to just have enough technical savvy? You don't necessarily have to be at the le level, someone who codes day to day. But you had to
+
+Participant 25: have enough technical savvy to know if someone's bsing you. But you also have to have pretty good cat hurting skills because these people don't want to do this is not on their priority list. And so, you know, it's kind of like you have to say, well, you know, Weird, this feature will not actually ever be released if you don't do this. Okay? So that that makes a lot of sense. So I'm gonna put a slight twist on the question, though, right? So
+
+Daniel: so you know you didn't necessarily specify what of those different responsibilities were things that your employer like specifically expected you to take on in the job
+
+Daniel: versus those that you kind of just figured out were the things that you would ultimately need to do in order to be successful at your job. So was there a subset, or even different, you know, sort of responsibilities altogether that your employer kind of expected you to take on. Well, you know.
+
+Participant 25: at [COMPANY] it was pretty much. Here's a whole list of different challenges we have volunteer for the ones you want. And so
+
+Participant 25: actually, both things is both this tool development side and the cat herding side. And you know the are things that
+
+Participant 25: they came up as issues that had to. You know things that had to be addressed. And I said, Sure, I'll do it, and I've very much been the kind of person that
+
+Participant 25: I recognize
+
+Participant 25: the value of jobs that nobody else wants to do.
+
+Daniel: Well, so there's a really interesting point that I think you've made here, though, right? So there's a there's a really big similarity between kind of your employers expectations and the reality of what you actually did, because it seemed like the goals and the kind of the work that [COMPANY] had in mind for you was already set out, and you just ended up picking the things of that list of goals, and that were, you know, well aligned with your skills and interest.
+
+and so on. And so that kind of just led to this kind of natural alignment of of priorities and responsibilities. Is that right?
+
+Daniel: Yeah. Oh, okay.
+
+Daniel: that's really cool. That's that's very interesting. Actually. So so keep in mind is a lot of this happened. This was all during the pandemic. And so [COMPANY] doubled in size.
+
+Participant 25: I was [COMPANY] had this thing that
+
+Participant 25: you could look at your
+
+Participant 25: employee profile. It would tell you you've been here longer than some percentage of whatever. Okay.
+
+Participant 25: in the [several] years I was at [COMPANY].
+
+Participant 25: By the time I left I had been there longer than like 2 thirds of the company in [several] years. Okay.
+
+Participant 25: so
+
+Daniel: so you figure that must have had something to do with the overlap and the expectations. And the reality is you. You were there probably because you were doing what was actually expected of you.
+
+Daniel: Interesting? Okay? So in this next question. I'm I'm trying to differentiate a little bit between the kinds of things that you actually did for work and things that were maybe expected of you outside of work. All right. So what I'm looking for is, if there was any sort of additional responsibilities that you felt that you were kind of expected to take on. Given your role as like a, you know, privacy engineer. You know, for example.
+
+Daniel: expectations to society, or, you know, expectations to others in the organization that you served, or even to yourself. Was was there anything like that?
+
+Participant 25:  I don't think I really noticed anything like I mean well, beyond not something that was specific to privacy. I mean.
+
+Participant 25: you know, [COMPANY].
+
+Participant 25: during that period that they've scaled back some now. But during that period they were still a huge Dei thing which is
+
+Participant 25: related. Yeah. And
+
+and so
+
+Participant 25: it there was that
+
+Daniel: sure.
+
+Daniel: Well, what about things like, you know? Did you felt the kind of expectation that you needed to sort of serve the broader community of privacy professionals, or like mentor people, or like volunteer your time for anything or or not so much.
+
+Participant 25:  the one thing I did notice that came up is, there were a couple of people
+
+Participant 25: that had problems with their [COMPANY] accounts that just knew that I worked for [COMPANY]. That should help me. And that's quite funny. And and it, it's so common. Okay, there's a there's a predefined process for how to deal with.
+
+Daniel: But okay.
+
+Daniel: that that's fair enough. That's fair enough. So II think I've I think I've got the gist of it. But that that isn't kind of an interesting thing. So I wanted to pivot a little bit more and talk more about kind of the skill set right? So when you started.
+
+Daniel: what do you figure with the skills that were demanded of you?
+
+Daniel: Was there any? I mean, it sounds like you were main mainly kind of doing software development work right. But was there anything else that was more specific to the role that they made it clear, like, we need you to do this? Okay, well, I came in as an
+
+Participant 25: was sort of a team lead kind of level. And so.
+
+Participant 25: you know, I was working with some people who'd been there longer than I had and try to get them. So there was things about, okay.
+
+Participant 25: you know, training junior engineers and managerial stuff and training. Yeah, technical lead. And you know, helping them understand process and that kind of stuff.
+
+Participant 25: The. So
+
+Participant 25: [COMPANY] has this very only time I've ever seen it. They have a a training program. When you first start, it's a minimum of 5 weeks and can be up to 2 months
+
+Participant 25: where you're learning about all the different things going on in [COMPANY], and and they have their own programming language, which is a direct they derived it from Php. It's just kid continue to be a further and further away from it.
+
+Participant 25:  so you you learn that. And you learn how add tech works. And there's a whole bunch of stuff. And and and during this time you're also being, you know, basically different teams that need people are trying to sell you on. Come work for our team. I got you. I got you. So so it seems as though the skills that we're demanded of you. We're actually
+
+Daniel: probably quite generic, apart from like the maybe slightly more specialized skills that were necessary. Given the level as like sort of a team lead type role but then, later, like the skills that you actually used in your job. Once? Presumably you finish that match making process right? W. What were those skills like? Were they any different? Or was there more different things? Well, I mean it. It was just in terms of this, the
+
+Participant 25: initially, it was just software development. So it was the specific tools that were being used there. So like this internal language called [LANGUAGE]. And then everything's based on web bases, you know. [LANGUAGE]. And Jav, you know Javascript. And
+
+Participant 25: you know those kinds of things.
+
+Participant 25: the in terms of software tools. And then again, all of the just
+
+Participant 25: functional things of How do you do a decent code review. And
+
+Participant 25: you know, how do you
+
+Participant 25: keep? You know.
+
+Participant 25: teams focused on things and had. And then and then there was also this issue that [COMPANY] is growing very, very fast. And so there was a certain amount of constant chaos just trying to figure out who's doing what? And there's so many internal teams. And
+
+Participant 25: there were like 13 different ontology groups.
+
+Participant 25: Inside the company are different groups that used ontologies.
+
+Participant 25: Most companies don't have one. Okay? So
+
+Daniel: II think I'm seeing a trend here, though it seems like in general, there seems to be a pretty reasonable similarity between the skills that you were kind of expected to demonstrate during the interview process, and so on, and like what you are actually required to do in the role. But then, just you know what really differed over time, or at least from you know your immediate start was that the complexity of things seem to be increasing, and the chaos is increasing. And you know that kind of thing is that is that about right?
+
+Participant 25: Yeah, I mean, are you? Your awareness of it increases. Just become more and more aware of how many different moving parts there are, and trying to coordinate things. And you know, as as your knowledge and and kind of
+
+Participant 25: contact network expands.
+
+Participant 25: They don't.
+
+Daniel: Do. You reckon you might characterize that kind of awareness as a skill in its own right?
+
+Participant 25: Yes, because,
+
+it, it goes very much to your ability to
+
+Participant 25: connect things that matter
+
+Participant 25: to find out, you know. Okay. oh, this other thing is going on. So I need to adjust what I'm doing to address that
+
+Participant 25: makes sense. It's yeah, it. It's it's really important. One of the challenges that you that I ran into was. And this goes back to the it's very hard to steer a battleship.
+
+Daniel: All of these different groups are going in different directions because there's rapid growth. There's no
+
+Participant 25: you know.
+
+Participant 25: you sometimes hear that the the statement disagree and commit whenever okay, you've got different technical directions at some point you just disagree and commit in a really large organization, you can disagree and commit and find out 3 months later there's 6 other groups in the company somewhere that all disagree and committed in a different direction. It's like.
+
+Daniel: yeah. Well, so the this next set of questions would probably shed a little bit of light onto that. So what? What this next set of questions about is reporting and deliverables so
+
+Daniel: like in either of your roles. Who did you report to?
+
+Participant 25: You don't need to say them by name, but just like well, no, I had. I had a
+
+Participant 25: the. The organization that I was in grew rapidly. The the first organization that I was in grew rapidly from about 20 people when I started to about 118 months. Good to know. And
+
+Daniel: so your reporting chain changed, I imagine. A fair bit. It actually didn't. I reported to the same manager the entire time. It's just that her organization went from.
+
+Participant 25: you know, just a few people
+
+Participant 25: where she became went from manager to like a senior manager where she had phone managers reporting to her. And but just because of the level I was at. Even though I was working on projects for one of her managers, I still reported directly to her any of that or no official ones.
+
+Daniel: But unofficially, sometimes you would have people that you'd have to. Yeah, because if you know, if I was working on a project with with other people.
+
+Participant 25: it. There it was, you know. it was more a matter of if this is the technical direction we're going. Who's doing what part of it
+
+Daniel: totally makes sense. So so then, in terms of like the kind of typical reporting structures, if you can call it that, it sounds like things
+
+Daniel: kind of started out relatively flat. But then they went through such a massive explosive growth period that things ended up becoming quite hierarchical. Does that does that sound right?
+
+Participant 25: Yes.
+
+Daniel: and then do do you think that this is like a typical reporting structure that you'd see in the profession as like privacy engineer or not so much?
+
+Participant 25: Well, you know, [COMPANY]'s unusual. And it's so large. I mean, I think, at least, you know, they had several 100 people working on privacy. I don't think you're gonna see that very many other places, most you know, most organizations. You're talking about
+
+Participant 25: a handful of people.
+
+Daniel: Sure. Yeah. Well, so so given this amount of people involved. Presumably there'd be a lot of like coordination and communication kind of stuff. Wh, what methods would you typically use to report to others like, are we talking like face to face meetings like emails project management platforms, you know, leading posted notes on each other's office stores like, what? How would you? Kinda
+
+Participant 25: I was in [COMPANY] offices 4 times during the entire time I worked there so clearly, not face to face meetings, not face. Well, certainly not. You know physically at 3 of those times. By the way, we're just had nothing. They were all for we're gonna meet at the building. And then we're gonna go do some offsite activity, just as a social thing. Okay? More like emails and things like that, then, or video conferences, emails, you know, slack chat. Well.
+
+Daniel: it wasn't slack, but it'd be cool some, some kind of instant messaging tool. Yeah. Okay, was there any others?
+
+Daniel:  like Jira, or anything like that, like any of these canva anything of note we did. I mean we had
+
+Participant 25:  you know. sprint meetings, and there was tracking, remember, did we? I don't do we have a formal
+
+Daniel: spreadsheet? I think a lot of that was just in a spreadsheet. Our, you know, the project manager who did it.
+
+Daniel: He just kept his huge spreadsheet. Which fair enough? Okay, I think I encourage them to get something more better than that. But
+
+Daniel: so it goes right. but
+
+Daniel: okay, so. So that's how you coordinated. But then, in terms of the actual deliverables. So what would the actual deliverables be that were kind of expected of you? So let let me see if I can guess. But then maybe you can help me fill in the gaps. So obviously, you'd have to develop code.
+
+Daniel: right? So code is a clear deliverable. You probably also had to do some code reviews so like that kind of evaluation. And, you know, approving merge requests and things like that. Okay? And then, what about other stuff like privacy by design advice? Did you have to like write up docs or presentations for people like explaining to them why they should do A instead of B, or like, what kind of other things did you have to deliver
+
+Daniel: when I was doing tool development. It was primarily code code reviews, right? And the tool itself is like, yeah, yeah, right? The tool itself.
+
+Participant 25: When I was doing the cat herding part.
+
+Participant 25: That was.
+
+Participant 25: you know, very much, you know. You you could look just you could look down for each
+
+Participant 25: product team.
+
+Participant 25: There was a whole list of issues. There was a standard process, and it was just a matter of working them through that process, getting them
+
+Participant 25: to go through and address those various issues I see, and and so, and and all that we we kept track of, and again in spreadsheets. So the tracking itself was kind of deliverable. But then, ultimately the the main deliverable in that context was more like showing that the team was actually like doing the stuff that they were supposed to do right. And there was also something in terms of, you know. There was also coordinating between teams, like.
+
+Participant 25: for example, one of the tools that I worked on
+
+Participant 25: interface with another tool being developed internally by a different group. And so we had to coordinate those that kind of stuff.
+
+Daniel: So again, this might seem like a kind of obvious question. But I'm gonna ask it, anyway. Why were these deliverables important, you know, for you being a privacy engineer?
+
+Participant 25: Well, you know, with any luck, with any company, you know. They
+
+Participant 25: you you gotta you. They have to have a way to measure whether or not you're doing what you're being paid for.
+
+Daniel: That's totally fair. So do you think that the deliverables that you, you know, had to deliver were typical or more atypical for someone in the privacy, engineering profession more generally.
+
+Daniel: and I know I'm asking you to speculate, but you know any speculation's welcome.
+
+Participant 25:  I
+
+Participant 25: certainly on the tooling side. I think that's the case, you know whether it's internally developed tooling or it's commercially available tooling.
+
+Participant 25: That's typical. You have. You have something, you know, that's supposed to have certain functionality. You guys deliver it so people can use it. You know, that's pretty standard software development
+
+Participant 25: on the other side. I think I think that was this. But it was also typical. I mean, the process might have been, you know, probably differs between different organizations.
+
+Participant 25: But you know, it's the kind of thing right? You gotta go through this existing stuff for the stuff. It's already been designed and say, Okay, does it pass all of our checks?
+
+Participant 25: Again? It's it's more of a project management kind of function. It has to be done.
+
+Participant 25: And so you know.
+
+Daniel: yeah, I mean, it's it's it's just one of those things. It's just yeah. So you figure it's typical as well pretty much across the board, like people gotta have to do it. It's just maybe the way they do. It differs
+
+Participant 25: right? Okay, that's fair enough. So I mean, and and keep in mind. I mean the specifics in terms of
+
+Participant 25: I it it one sense, it's it's it's typical whether it's privacy related or not. I mean the fact that it's privacy related. Yeah, I still think that
+
+Participant 25: it would also be typical there. But it's also just generic software development or generic project management. It's just you got to get the stuff done.
+
+Daniel: That's completely fair. So you mentioned this a little bit, or at least touched on this a moment ago. But how do you? How do you figure that these deliverables would then end up getting evaluated by your manager.
+
+Daniel: So you got your code, you know, and your code reviews, and like, presumably, there's certain ways that that gets evaluated. And then there's your capacity to kind of keep things moving along in that sort of, as you called it, project management function, the cat herding sort of function, right? But how? How would they know whether you're doing a good job or not?
+
+Participant 25: Well, a lot of that is that.
+
+Participant 25: you know.
+
+Participant 25: at the beginning of a time, period half a quarter, whatever you say. Okay, this is, you know, here's the goals, and then you evaluate at the end how? How well you do! There might be some adjustment in the middle. If there's some thing that comes up, where
+
+Participant 25: is there stuff that's out of your control, or goals change, or whatever. But you know, it's it's
+
+Participant 25: pretty much that, you know. Did you meet the expectation that you? You said you could do this? Did you do it?
+
+Daniel: Yeah, yeah, that's logical, that's logical. So so the main kind of evaluation criteria is really just like
+
+Daniel: you set out to do a bunch of things. And then, barring some unforeseen consequences. Did you do them? And it's kind of like a binary proposition. Is that about right? Okay, that's fair. That's fair. So I'm gonna dive just a little bit deeper into kind of the methodological component here. Right? So, specifically, were there any tools or techniques or standards that came into play that really created challenges for you in either of those roles.
+
+Daniel: And we can, we can talk about literally like any kind of tools, any kind of teach techniques any kind of standards right? Cause. I know there's a huge variety of those that would be involved in either of those roles. But do any of them kind of stand out in your mind, as you know, like, wow! That really made my life more difficult. You know anything like that.
+
+Participant 25: Hmm!
+
+Participant 25: I want to make. I want to make sure. II understand the the scope of the question. Here, sure. Are, are you talking about
+
+Participant 25: externally defined
+
+Daniel: tools, or standards, or even things that are defined internal to a particular company
+
+Daniel: like. So so let me give you, you know, some some kind of clarifying examples. Right? You could say, like, Wow, you know, the Gdpr was just a huge pain, you know, like, Okay, sure, you could also say things like, Oh, wow! You know this policy that you know the CEO. I'm obviously not gonna reference. My name, you know, instituted on such and such a date like really became a pain for us because of blah, blah, blah.
+
+Daniel: or even something simpler. Like, yeah, our video conferencing software that we use sucked. And we we are always losing calls like, literally any any of those are acceptable.
+
+Participant 25:  they're
+
+Participant 25: the the short answer is, yes. The example that I'm going to give you is the following.
+
+I developed a prototype.
+
+Daniel: Okay, to
+
+Participant 25: actually do privacy by desire.
+
+Daniel: Okay, as opposed to what they were doing. Sure.
+
+Participant 25: And I presented that to my manager
+
+Participant 25: and
+
+Participant 25: the
+
+Participant 25: and and and not just her, but someone else there at the company. and the response that I got back was
+
+Participant 25: their concern was not about
+
+Participant 25: what the tool did.
+
+Participant 25: But the fact that the tool was written in Java, which is not their preferred programming language. And it's like I just went, why does this matter. Okay? So so I think I get it right? So so one of the major problems that you seem to face was, in fact, probably a standard right? But like
+
+Daniel: like overly prescriptive standards around what programming languages and like things like that, that like ultimately didn't really make that much of a difference in the grand scheme of things kind of hampered. Your ability to innovate in certain areas. Is that right?
+
+Participant 25: I would go further than that. It's not just that they didn't
+
+Participant 25: matter. It's that
+
+Participant 25: this
+
+Participant 25: don't. You're wrong. I like my manager.
+
+Participant 25: She's she did a great job. She was very open.
+
+Participant 25: but I think
+
+Participant 25: she was also facing a situation where she had only been at [COMPANY]
+
+Participant 25: 4 months longer than I had, and she did not really know what her footing was, and and so
+
+Participant 25: she was being conservative.
+
+Daniel: It's fair.
+
+Participant 25: But the problem that I ran into was that this mismatch between
+
+Daniel: ends and means right.
+
+Participant 25: That meant that in order to actually solve the problem
+
+Participant 25: rather than use this tooling, which would basically enable us to S to do things 3 or 4 times faster.
+
+Participant 25: We're going to stick with this. What I know is okay. and we may never get there.
+
+Daniel: Yeah, I see what you mean. So there's this sort of entrenched
+
+Daniel: inertia, if you wanna call it that and and you know again, like, you might say that standards are the cost potentially, although it maybe even is far deeper rooted than that inertia sort of was a big barrier for you. Okay, so that's fair enough. So I mean, would you say that that kind of barrier was one of the most common challenges that you encountered, or was there any that were even more common than that? Let's put it this way. It was so significant. I switched teams.
+
+Daniel: I see. So that was a really big challenge, really common challenge. Well, right? Because it just, you know, after 18 months of that I just went. You know, I
+
+Daniel: II gotta do something different, because nobody is listening to what I'm saying. That's fair, that's fair. So do you think that this kind of challenge is is typical or atypical for someone in the profession? More broadly speaking.
+
+Participant 25: I think it's atypical. I and I think it's a typical for a couple of reasons. One is.
+
+Participant 25: I'm kind of on the hyper creative side.
+
+Participant 25: And and so I think other people won't have the personality that would
+
+Daniel: go down this path to begin with. Okay.
+
+Participant 25: Secondly, I think that
+
+Participant 25: you know [COMPANY] was in a unique situation, and that
+
+Participant 25: there's a lot of internal tool development. And there's this huge scale up in the size of the company. So there's all this chaos going on. Okay.
+
+Participant 25: If if the company was growing slower. or.
+
+you know.
+
+Participant 25: if the people. the particular management managers I was dealing with were had had been there longer, as so that they were more confident in their position, knew where they had flexibility and didn't.
+
+Participant 25: The outcome could have been different?
+
+Daniel: Okay, I mean, that's that's fair enough.
+
+Daniel: So
+
+Daniel: it sounds like there were some challenges related to the organizational and kind of reporting structure that you faced. You really just mentioned it right there, though, right? It's like you. You obviously had to rely on your reporting chain, your manager right to be able to kind of go to bat for you on. You know big innovations that you wanted to put forward. But again, the organizational inertia, and maybe the kind of shaky footing that your manager might have had due to their like relative. Lack of, you know, tenure
+
+Daniel: right made that difficult. Is is that right? Right? I mean, I was even working with my director, her boss, I mean, and she had no problem with that.
+
+Participant 25: and my my director was very supportive. But
+
+Participant 25: the problem I ran into there is that
+
+Participant 25: I was over his head. It was too complicated for him to to really grasp what I was aiming at so, and he had, I mean well, cause he he didn't have enough time to devote more than a couple of hours.
+
+Participant 25: you know, maybe an hour a week to it. So I
+
+Participant 25: that's not surprising.
+
+Daniel: Yeah, well, okay, so I mean, do you think that that kind of challenge like, specifically, you know where you kind of have these? You know, managerial types that can't necessarily be as supportive as they need to be, but purely by the result of their role. Do you think that that kind of challenge is typical in the profession more broadly for privacy engineers.
+
+Participant 25: Well, in a very general sense, probably, although it's
+
+Daniel: probably for different reasons. I
+
+Participant 25: you know, I this had to do with tool development. But I think when you look at things on the
+
+Participant 25: cat herding product side, things like that, you've got managers who have
+
+Participant 25: varying priorities.
+
+Participant 25: and and
+
+Participant 25: you know what
+
+Participant 25: privacy in particular is a cross-functional issue. And because it's cross-functional
+
+Participant 25: you have to get buy in from so a huge number of people to accomplish anything, any, if all of them you have to. It has to be unanimous to make progress.
+
+Participant 25: Any person who.
+
+Participant 25: and not maliciously, but any person, can veto this for any number of reasons, just because they don't have time to focus on it. It's not their highest priority. They, you know, they think it's going to jeopardize their schedule, whatever. And and you know, it's
+
+Participant 25: that's human nature, I get it. That's the way. But that's the way it is. And so it's this, really, it's a really challenging environment to be in.
+
+Daniel: Well, so how do you overcome that challenge? What? What was your sort of typical strategy?
+
+Participant 25: Well, what ended up happening in in the cat. Herding side of things is just that.
+
+Participant 25: Eventually word came down from on high. Okay.
+
+Participant 25: if you don't do this, your product will not go live.
+
+Daniel: Okay. So let let me clarify that, though, right? So basically
+
+Daniel: the strategy wasn't necessarily one that you yourself employed, but rather the sort of grander leadership strategy came down and and sort of acted in your favor where you know from the top down, they said, look you better do these things, or else otherwise, you know your product isn't launching, or whatever is that? Is that right? But but that was, you know. But there were these layers in between? It took the the voice from on high to kinda
+
+Participant 25: pressure the the in between managers into
+
+Participant 25: prioritizing. Did did you have anything to do with that like, did you go to say Vps or whatever, and say, Hey, look like, here's the problem. I didn't personally, but okay.
+
+Daniel: but you have to have someone go to bat for you like maybe your well, I mean, in my, in my particular case, you know, [COMPANY] was at that point [SIGNIFICANT HISTORICAL EVENT]. So I mean, the people at the top already had right? So so in and of itself, that kind of seems almost like a strategy that you could employ, though, like knowing just the state of things having regulators come in and kind of issue directives that then force the hand of the leadership to. Then
+
+Daniel: you know things the right way, which is what you're advocating for all along like, is it? At least in your case. Seems like a way to get things done. Is that right?
+
+Participant 25: Sure, I mean. And you know I didn't have to do this. But you know.
+
+Participant 25: I guess you wanted the strategy you could do that is, you could kind of
+
+Participant 25: poke people like Max shrimps or something. Say, Hey, come, look at my company. But yeah, file a complaint against my company. I'll get my management to do something. Well, I mean, sure, sure, although I mean hypothetically, that might work out. But yeah, were there any other strategies that you employed? Or was really this one the only effective one is just literally waiting until the directive was issued from on high to
+
+Daniel: do the right thing.
+
+Participant 25: Well, in my particular case there was so much going on that you know I was not ever in a situation where I was. log jammed, making no progress anywhere, because there was always something.
+
+Participant 25: cause you know, I like when I was doing the cat herding stuff. I might have like 8 or 9 different projects. I'm working in parallel. And so, you know, one of them gets stuck. I got another one to work with and whatnot. And
+
+Daniel: so it sounds like, you might say, actually, one of the most effective strategies for you. In addition to you know again. That kind of passive strategy waiting for the directive on from on high was to just have lots of things to do, because then you don't. You don't really worry so much about getting blocked in any single one of them. I mean, that's completely fair.
+
+Daniel: so why don't we talk then a little bit more about the impact of of all of this right kind of, broadly speaking, so so
+
+Daniel: what would you say?
+
+Daniel: Was the way that you defined success in the work that you did.
+
+Participant 25: Well.
+
+Participant 25:  on the software development side. It just mat, you know, success was defined by whether or not my users were happy, you know they were they able to do use the tools I made on the on the cabin side? It was a thing of
+
+Participant 25: am I getting through the process
+
+Participant 25: and and not just the box ticking thing. I mean. yeah, a lot of people that's sufficient for them, I mean for me. It was also, as it. you know.
+
+Participant 25: yeah, are the actual issues that this is supposed to be surfacing being addressed
+
+Daniel: fair enough. So so what did you think that the overarching goal was then
+
+Participant 25:  well, on on the cat herding side. I mean the goal there was
+
+Participant 25: for each product.
+
+Participant 25: Are they use, you know? Can you use this data for that purpose? There's
+
+Participant 25: on those on each of those products there would be. Here's all the data that's being ingested.
+
+Participant 25: Here's what we're using it for. And then it would be an issue of, okay.
+
+Participant 25: do you? You know, you know what you know? What is the actual data? What is, it's what is the role the data is playing. Do you actually need this data?
+
+Participant 25: You know, is it? If there's a consent involved? Are you getting it those kinds of things.
+
+Daniel: So it sounds like the the overarching goal in a nutshell really was just making sure that people were doing the things that they said that they were doing, and that the things that they said they were doing were the things they were supposed to do.
+
+Daniel: Was that about right? Okay, fair, fair, fair enough.
+
+Daniel: I mean, it sounds so simple. But in practice it's really not right. But
+
+Daniel: How do you think that others have then evaluated the impact of your work.
+
+Daniel: Now, again, it may be obvious in the tool development side, right? Like, you know, it's it's but but what about
+
+Daniel: you know on on both sides.
+
+Participant 25: Well, I mean the the
+
+Daniel: review process
+
+Participant 25: at [COMPANY]. You know, you get
+
+Participant 25: feedback from the various people you work with
+
+Daniel: either people within your organization or other organizations. And they say, Okay, yes, you know.
+
+Participant 25: you can. You go identify 5 or 6 people. And and
+
+Participant 25: it's this whole month long process.
+
+Participant 25: and they're going to give you feedback of you did this? Well, you know you, this could have been better, that kind of thing, and then you're all that stuff rolls up to your manager. And so, you know, they evaluate.
+
+Participant 25: you know.
+
+Participant 25: Whether you know. Did you get this stuff, you know.
+
+Participant 25: for the part they were involved in. Did you get stuff done? Were you effective that kind of thing? So so it seems to me that the way that others actually evaluate the impact of your work was reasonably transparent. There wasn't really anything necessarily, specifically, privacy focused. It was just you got evaluated on what you did, and that that was it right? I mean, it wasn't. It wasn't a privacy specific thing. It's just it's fairly formalized, right
+
+Daniel: with it. Being a fairly formalized evaluation process. Probably there was some metrics associated with the evaluation criteria. Right? Can you name some of those?
+
+Participant 25: Boy?
+
+Daniel: We don't need to go into any major specifics. But if there's anything that kind of comes to mind.
+
+Participant 25: I haven't thought about it in a while, so I just III don't remember the details. I do remember that there were like
+
+Participant 25: 8 or 9 categories, and for each category there was a rubric depending on, you know, for IC. 3, 4, 5, 6, you know. Here's what the expectation is, and you know. And then there was
+
+Participant 25: like
+
+Participant 25: meets expectations. It's you know, you can say
+
+Participant 25: meets it's it's like
+
+Participant 25: meets. Expectations is kind of the
+
+Participant 25: basic standard. If you didn't quite get there it'd be meets most.
+
+Daniel: They had say several levels on both sides of that meets thing. And but let me let me kind of probe a little bit deeper, right? Because I think I think I understand where you're where you're going with this. But
+
+Daniel: Those sound a bit more like qualitative metrics, right?
+
+Daniel: Sort of like, you know, like or or was it. Was it more specific than than I'm letting on right? Was it like to to meet expectations? You had to, you know, deliver like 80% of your, you know, promised goals, for you know this quarter, or whatever for the year like. Was it like that, or was it a little different?
+
+Participant 25: Well, they I don't remember it being, you know, having hard numbers involved. But I do. I do remember. I do think that they tried to make it as objective as possible.
+
+Daniel: Okay? And and and I think that would be typical for a large company, because otherwise you just set yourself up for queues. Accusations of bias. Oh, sure, sure, custom criterion correct. It was not, it was not custom. It was just this is the generic rubric for an employee. Yeah, okay, that's fair enough.
+
+Daniel: That was extremely helpful. Actually. So we're we're starting to kinda get to the end part of the interview. So as we close, I just wanted to ask you whether there was anything else that like. We haven't had a chance to cover if there's anything else you wanted to share anything else, you think I should know, or if if not, if if you've got any questions for us, that you wanna field on the recording, we can do that if not, we can also stop the recording. But just
+
+Daniel: do you got any thoughts? Anything you want to share?
+
+Participant 25:  I
+
+Participant 25: III want one of the things. II don't know if I how much I said on this or how, but well, I communicated. But
+
+Participant 25: [COMPANY] was unusual, and it was unusual, because it's
+
+Participant 25: that the amount of resources devoted to privacy.
+
+Participant 25: it was also unusual because of the rate of growth, and
+
+Participant 25: also in one sense, it's unusual, just because of the amount of internal development.
+
+Participant 25: Aside from privacy, like I said, [COMPANY] has its own compiler group.
+
+Participant 25: And and so
+
+Participant 25: you know, one of the
+
+Participant 25: challenges that there's this whole challenge of
+
+Participant 25: trying to figure out who's doing what and who's you know? What's gotten momentum and what doesn't. And you know, who do I need to pitch to? And who's who do I team with? And you know.
+
+Participant 25: where do I? You know, compromise what I want? Because this other person's got more influence. And
+
+Participant 25: you know, in in smaller organizations, particularly on privacy. I mean, you know, none of that stuff is going to show up because you've got.
+
+Participant 25: You're gonna be dealing with external tools, and you may go through a tool evaluation.
+
+Participant 25: But it's going to typically be a very small group. If you. If you get any kind of tools, you're going to just get them and start using them.
+
+Participant 25: There's, you know, there's still the challenges on the cab hurting side. That does. That doesn't change.
+
+Participant 25: But
+
+Participant 25: it's a
+
+Daniel: yeah. It's okay. I just thought that one slide. No, that that's very valuable. That's that's very insightful. I really appreciate that. And it sounds like you know, from your perspective, this is something that's really unique to that particular company. You don't think that other large companies would face it to that same degree. Or do you think that maybe it's sort of
+
+Participant 25: you know.
+
+Participant 25: it depends on the company? Google? Yes, I'm sure Google has exactly the same problem because they do a lot of the similar things. Apple. Probably, you know, there's maybe you know
+
+Participant 25: Amazon.
+
+Participant 25: Almost certainly there's maybe 5 or 6 companies that are large enough to have this same kind of an environment. But
+
+Participant 25: it's probably only 5 or 6
+
+Daniel: fair enough.
+
+Daniel: Okay? I mean, that's that's very insightful. I appreciate it. Did you have any questions for us?
+
+Daniel: Not off hand, I mean, has this been useful? I mean? Yeah, no, no, it it definitely has. So so I will say that. I
+
+Daniel: we have seen some of some similar patterns, just like the ones that you speculated might exist at other companies. Right? So II can't really go into the details of, you know the other interview subjects and things like that obviously. But you know, I think I will definitely say that. This is another useful interview, where, like the insights and some of the quotes that you know you gave us are definitely gonna influence our analysis. And and we really appreciate that. Yeah.
+
+Daniel: So I'm happy to help. I awesome. Well, let me. I'm gonna signal Liam that to end the recording, and then we can have a little conversation off the record.
