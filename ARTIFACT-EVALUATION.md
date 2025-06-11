@@ -22,4 +22,4 @@ Each transcript was manually analyzed and de-identified by multiple researchers 
 Each transcript is stored as a .txt file, which can be easily open by any text editing or word processing application. The overall size of the dataset is about 1.5 MB. 
 
 ### Accessibility (All badges)
-You can access the dataset by using the following persistent GitHub link: 
+You can access the dataset by using the following persistent GitHub link: [https://github.com/blues-lab/priv-eng-dataset/tree/63b7215c386c1ad7c11b3e057c369083a49b8004/interviews](https://github.com/blues-lab/priv-eng-dataset/tree/63b7215c386c1ad7c11b3e057c369083a49b8004/interviews).
