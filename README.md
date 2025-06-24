@@ -8,7 +8,7 @@ Rapid technological advancements, evolving legal frameworks, and increasingly he
 Please cite this work as follows:
 
 ```bibtex
-@inproceedings{samarin2025behavr,
+@inproceedings{samarin2025defining,
   title     = {Defining Privacy Engineering as a Profession},
   author    = {Samarin, Nikita and Narla, Nandita Rao and Webster, Liam and Smullen, Daniel},
   booktitle = {Proceedings on Privacy Enhancing Technologies (PoPETs)},
